@@ -1,0 +1,745 @@
+qs_rank,lon,lat,qs_key,ti_rank,ti_key,sh_rank,sh_key,name,country
+1,-71.09416,42.360091,1,5,5,4,4,Massachusetts Institute of Technology (MIT),United States
+2,-122.169719,37.4274745,2,3,4,2,2,Stanford University,United States
+3,-71.11666009999999,42.3770029,3,6,6,1,1,Harvard University,United States
+4,-118.125269,34.1376576,4,3,3,9,9,California Institute of Technology (Caltech),United States
+5,0.1149085,52.2042666,5,2,2,3,3,University of Cambridge,United Kingdom
+6,-1.2543668,51.7548164,6,1,1,7,7,University of Oxford,United Kingdom
+7,-0.1340401,51.52455920000001,7,16,16,16,16,UCL (University College London),United Kingdom
+8,-0.1748772,51.49879970000001,8,8,8,27,27,Imperial College London,United Kingdom
+9,-87.5987133,41.7886079,9,9,9,10,10,University of Chicago,United States
+10,8.547669899999999,47.376313,10,10,10,19,19,ETH Zurich - Swiss Federal Institute of Technology,Switzerland
+11,103.6831347,1.3483099,11,52,52,125.5,115,"Nanyang Technological University, Singapore (NTU)",Singapore
+12,6.5667576,46.5190557,12,38,38,76,76,Ecole Polytechnique Fédérale de Lausanne (EPFL),Switzerland
+13,-74.6514481,40.3439888,13,7,7,6,6,Princeton University,United States
+14,-76.4735027,42.4534492,14,19,19,14,14,Cornell University,United States
+15,103.7763939,1.2966426,15,22,22,91,91,National University of Singapore (NUS),Singapore
+16,-72.92234309999999,41.3163244,16,12,12,11,11,Yale University,United States
+17,-76.6205177,39.3299013,17,13,13,18,18,Johns Hopkins University,United States
+18,-73.9625727,40.8075355,18,14,14,8,8,Columbia University,United States
+19,-75.1932137,39.9522188,19,10,11,17,17,University of Pennsylvania,United States
+20,149.118527,-35.2776999,20,48,48,97,97,The Australian National University,Australia
+21,-78.9382286,36.0014258,21,17,17,26,26,Duke University,United States
+21,-83.7382241,42.2780436,22,21,21,24,25,University of Michigan,United States
+23,-0.115997,51.5114864,23,36,36,46,46,King's College London,United Kingdom
+23,-3.1892413,55.9445158,24,27,27,32,32,The University of Edinburgh,United Kingdom
+25,116.3264439,39.9996674,25,30,30,48,49,Tsinghua University,China
+25,116.3264439,39.9996674,25,30,30,350.5,337,Tsinghua University,China
+26,114.1370848,22.2829989,26,40,40,NA,NA,The University of Hong Kong,Hong Kong
+27,-122.2593784,37.8714997,27,NA,NA,NA,NA,"University of California, Berkeley (UCB)",United States
+28,-87.67526699999999,42.0564594,28,20,20,22,22,Northwestern University,United States
+28,139.761989,35.7126775,29,46,46,24,24,The University of Tokyo,Japan
+30,114.2654655,22.3363998,30,44,44,250.5,249,The Hong Kong University of Science and Technology,Hong Kong
+31,-79.39565640000001,43.6628917,31,22,23,23,23,University of Toronto,Canada
+32,-73.5771511,45.50478469999999,32,42,42,67,67,McGill University,Canada
+33,-118.4451811,34.068921,33,15,15,12,12,"University of California, Los Angeles (UCLA)",United States
+34,-2.2338837,53.4668498,34,54,55,38,38,The University of Manchester,United Kingdom
+35,-0.1173766,51.5144077,35,25,25,175.5,156,London School of Economics and Political Science (LSE),United Kingdom
+36,135.7808218,35.0262444,36,74,74,35,35,Kyoto University,Japan
+36,126.9519053,37.459882,37,74,75,125.5,119,Seoul National University,South Korea
+38,116.3058739,39.986913,38,27,29,71,72,Peking University,China
+38,-117.2340135,32.8800604,39,31,31,15,15,"University of California, San Diego (UCSD)",United States
+40,121.5036178,31.2974197,40,116,116,125.5,108,Fudan University,China
+41,127.3640249,36.3693921,41,95,96,250.5,221,KAIST - Korea Advanced Institute of Science & Technology,South Korea
+41,144.9611738,-37.7963689,42,32,32,39,39,The University of Melbourne,Australia
+43,2.3451689,48.8422058,43,NA,NA,69,69,"Ecole normale supérieure, Paris",France
+44,-2.6029792,51.4584172,44,76,76,61,61,University of Bristol,United Kingdom
+45,151.2312675,-33.917347,45,85,85,125.5,126,The University of New South Wales (UNSW Sydney),Australia
+46,114.2109318,22.4162632,46,58,58,125.5,125,The Chinese University of Hong Kong (CUHK),Hong Kong
+46,114.2109318,22.4162632,46,58,58,175.5,166,The Chinese University of Hong Kong (CUHK),Hong Kong
+47,-79.94301279999999,40.4428081,47,24,24,80,81,Carnegie Mellon University,United States
+47,153.0120301,-27.4954306,48,65,65,55,55,The University of Queensland,Australia
+49,114.172793,22.3371397,49,119,120,250.5,205,City University of Hong Kong,Hong Kong
+50,151.1873473,-33.888584,50,61,61,83,83,The University of Sydney,Australia
+51,-123.2459938,49.26060520000001,51,34,34,31,31,University of British Columbia,Canada
+52,-73.9964609,40.72951339999999,52,27,28,NA,NA,New York University (NYU),United States
+53,-71.4025482,41.8267718,53,50,50,125.5,104,Brown University,United States
+54,4.3758659,51.99625589999999,54,63,63,175.5,153,Delft University of Technology,Netherlands
+55,-89.4124875,43.076592,55,43,43,28,28,University of Wisconsin-Madison,United States
+56,139.6835302,35.6051229,56,NA,294,175.5,168,Tokyo Institute of Technology,Japan
+57,-1.5614704,52.3792525,57,91,91,125.5,146,The University of Warwick,United Kingdom
+58,4.955726299999999,52.35581819999999,58,59,59,125.5,131,University of Amsterdam,Netherlands
+59,2.2112917,48.7142971,59,115,115,450.5,416,Ecole Polytechnique,France
+60,145.1362182,-37.9105238,60,80,81,78,78,Monash University,Australia
+61,-122.3035199,47.65533509999999,61,25,26,13,13,University of Washington,United States
+62,121.432841,31.201001,62,188,189,125.5,120,Shanghai Jiao Tong University,China
+63,135.5244676,34.8220139,63,NA,227,125.5,117,Osaka University,Japan
+64,11.5678602,48.14966,64,41,41,50,50,Technical University of Munich,Germany
+64,11.5678602,48.14966,64,41,41,57,57,Technical University of Munich,Germany
+65,-4.288200499999999,55.87212109999999,65,80,80,125.5,124,University of Glasgow,United Kingdom
+66,11.58043,48.150806,66,34,35,NA,NA,Ludwig-Maximilians-Universität München,Germany
+67,-97.7340567,30.2849185,67,49,49,51,51,University of Texas at Austin,United States
+68,8.670249199999999,49.4191402,68,45,45,42,42,Ruprecht-Karls-Universität Heidelberg,Germany
+69,-88.2271615,40.1019523,69,37,37,37,37,University of Illinois at Urbana-Champaign,United States
+70,-84.39628499999999,33.7756178,70,33,33,85,85,Georgia Institute of Technology,United States
+71,4.7002953,50.87795449999999,71,47,47,90,90,KU Leuven,Belgium
+71,129.3231836,36.0138857,72,137,137,350.5,342,Pohang University of Science And Technology (POSTECH),South Korea
+73,12.5724096,55.6802303,73,109,110,30,30,University of Copenhagen,Denmark
+73,8.550981199999999,47.3743221,74,136,136,58,58,University of Zurich,Switzerland
+75,-58.37306949999999,-34.5998875,75,NA,NA,250.5,265,Universidad de Buenos Aires (UBA),Argentina
+76,121.5397518,25.0173405,76,198,200,175.5,158,National Taiwan University (NTU),Taiwan
+76,140.874074,38.253834,77,NA,246,125.5,129,Tohoku University,Japan
+78,-1.5782029,54.7649859,78,97,97,250.5,211,Durham University,United Kingdom
+78,13.203493,55.7119483,79,93,93,125.5,113,Lund University,Sweden
+80,-79.0469134,35.9049122,80,56,57,33,33,"University of North Carolina, Chapel Hill",United States
+81,-71.1053991,42.3504997,81,70,70,80,80,Boston University,United States
+82,174.7691073,-36.8523378,82,192,192,250.5,250,The University of Auckland,New Zealand
+82,-1.4879469,53.3809409,83,104,104,125.5,127,The University of Sheffield,United Kingdom
+84,-1.1951582,52.938636,84,147,148,125.5,139,University of Nottingham,United Kingdom
+84,-1.9305135,52.4508168,85,141,141,NA,NA,University of Birmingham,United Kingdom
+86,-83.03091429999999,40.0141905,86,70,71,80,82,The Ohio State University,United States
+87,120.123279,30.263944,87,177,178,125.5,150,Zhejiang University,China
+88,-6.254571599999999,53.3437935,88,117,118,175.5,169,"Trinity College Dublin, The University of Dublin",Ireland
+89,-95.40183119999999,29.7173941,89,86,86,74,74,Rice University,United States
+90,127.0277773,37.590799,90,NA,225,250.5,222,Korea University,South Korea
+90,-113.5263186,53.5232189,91,119,119,125.5,130,University of Alberta,Canada
+92,-2.7927522,56.3416934,92,143,144,350.5,385,University of St Andrews,United Kingdom
+93,-77.8599084,40.7982133,93,77,77,85,86,Pennsylvania State University,United States
+93,115.8199096,-31.981179,94,111,112,91,92,The University of Western Australia,Australia
+95,37.5286696,55.70393490000001,95,194,194,93,93,Lomonosov Moscow State University,Russia
+95,114.1784191,22.3028474,96,182,183,250.5,248,The Hong Kong Polytechnic University,Hong Kong
+97,117.28059,31.821994,97,132,132,125.5,141,University of Science and Technology of China,China
+98,18.0706646,59.34980649999999,98,173,173,250.5,223,KTH Royal Institute of Technology,Sweden
+98,6.1451157,46.199444,99,130,131,60,60,University of Geneva,Switzerland
+100,-90.31079620000001,38.6487895,100,50,51,20,20,Washington University in St. Louis,United States
+101,-1.5550328,53.8066815,101,139,139,125.5,137,University of Leeds,United Kingdom
+102,24.9510419,60.1726348,102,90,90,56,56,University of Helsinki,Finland
+102,-1.3966381,50.935742,103,126,128,NA,NA,University of Southampton,United Kingdom
+104,5.4907148,51.44860980000001,104,141,142,350.5,316,Eindhoven University of Technology,Netherlands
+105,-86.92119459999999,40.4237054,105,60,60,77,77,Purdue University,United States
+106,126.938572,37.565784,106,NA,253,250.5,300,Yonsei University,South Korea
+107,8.4170303,49.0119199,107,133,133,250.5,219,"KIT, Karlsruhe Institute of Technology",Germany
+108,126.993606,37.588227,108,111,111,250.5,246,Sungkyunkwan University (SKKU),South Korea
+109,4.485209,52.1571485,109,67,67,88,88,Leiden University,Netherlands
+109,138.6062277,-34.920603,110,134,134,125.5,123,The University of Adelaide,Australia
+109,5.1226018,52.0901527,111,68,68,47,47,Utrecht University,Netherlands
+112,17.6300093,59.85090049999999,112,86,87,63,63,Uppsala University,Sweden
+113,6.562987199999999,53.2192634,113,83,83,59,59,University of Groningen,Netherlands
+114,118.7789602,32.0568391,114,169,169,250.5,230,Nanjing University,China
+114,101.6543903,3.1201114,115,NA,380,450.5,478,Universiti Malaya (UM),Malaysia
+116,136.967573,35.153491,116,NA,329,84,84,Nagoya University,Japan
+116,12.521381,55.7855742,117,153,153,175.5,164,Technical University of Denmark,Denmark
+118,-121.7617125,38.5382322,118,54,54,85,87,"University of California, Davis",United States
+119,10.2030118,56.1681384,119,109,109,65,65,Aarhus University,Denmark
+120,13.3936551,52.517883,120,62,62,NA,NA,Humboldt-Universität zu Berlin,Germany
+121,-46.7153584,-23.562496,121,NA,NA,NA,NA,Universidade de São Paulo,Brazil
+122,141.340013,43.0779575,122,NA,427,175.5,155,Hokkaido University,Japan
+122,-99.18657739999999,19.3228313,123,NA,NA,NA,NA,Universidad Nacional Autónoma de México  (UNAM),Mexico
+124,5.6657696,51.9845558,124,64,64,125.5,145,Wageningen University,Netherlands
+125,13.2896787,52.452526400000004,125,88,88,NA,NA,Freie Universitaet Berlin,Germany
+125,3.727918099999999,51.0465619,126,107,107,69,70,Ghent University,Belgium
+127,-0.0403745,51.5240671,127,121,121,175.5,160,Queen Mary University of London,United Kingdom
+128,130.4250445,33.6266584,128,NA,375,250.5,224,Kyushu University,Japan
+129,-76.9425543,38.9869183,129,69,69,53,53,"University of Maryland, College Park",United States
+130,-73.61375919999999,45.5056156,130,108,108,175.5,190,Université de Montréal,Canada
+131,2.357499,48.8471036,131,123,124,40,40,Université Pierre et Marie Curie (UPMC),France
+132,-118.285117,34.0223519,132,66,66,54,54,University of Southern California,United States
+133,11.9781232,57.6888144,133,NA,208,250.5,203,Chalmers University of Technology,Sweden
+134,-119.848947,34.4139629,134,53,53,45,45,"University of California, Santa Barbara (UCSB)",United States
+135,-2.7877294,54.0103942,135,150,150,350.5,329,Lancaster University,United Kingdom
+135,-1.0561667,53.9455334,136,137,138,250.5,293,University of York,United Kingdom
+137,24.827682,60.1866693,137,190,190,450.5,401,Aalto University,Finland
+137,-3.1788641,51.48662710000001,138,162,163,99,99,Cardiff University,United Kingdom
+137,-70.6407933,-33.4411279,139,NA,NA,450.5,410,Pontificia Universidad Católica de Chile (UC),Chile
+140,-79.9192254,43.260879,140,78,78,66,66,McMaster University,Canada
+141,6.065686899999999,50.7800778,141,79,79,250.5,241,RWTH Aachen University,Germany
+142,10.7217496,59.9399586,142,146,146,62,62,University of Oslo,Norway
+142,-79.960835,40.4443533,143,100,102,68,68,University of Pittsburgh,United States
+144,13.3269446,52.5125322,144,92,92,450.5,455,Technische Universität Berlin (TU Berlin),Germany
+145,35.2414009,31.7945578,145,NA,218,125.5,122,The Hebrew University of Jerusalem,Israel
+146,6.5801606,46.5210895,146,152,152,175.5,184,University of Lausanne,Switzerland
+147,-84.32399889999999,33.7925195,147,98,98,125.5,107,Emory University,United States
+147,4.525585,51.91752,148,72,72,73,73,Erasmus University Rotterdam,Netherlands
+149,-84.4821719,42.701848,149,83,84,125.5,114,Michigan State University,United States
+149,7.5826,47.56025349999999,150,95,95,95,95,University of Basel,Switzerland
+151,170.5144227,-45.8646835,151,NA,228,350.5,377,University of Otago,New Zealand
+152,-80.5448576,43.4722854,152,NA,251,250.5,291,University of Waterloo,Canada
+153,4.6155909,50.66968749999999,153,129,129,125.5,106,Université catholique de Louvain (UCL),Belgium
+154,16.3600504,48.21318549999999,154,165,165,175.5,198,University of Vienna,Austria
+155,127.0453219,37.5572321,155,NA,369,250.5,216,Hanyang University,South Korea
+156,2.16402,41.386608,156,NA,203,250.5,260,Universitat de Barcelona,Spain
+157,4.8285332,45.7298448,157,182,182,250.5,212,École Normale Supérieure de Lyon,France
+158,-2.1015257,57.16475999999999,158,185,185,250.5,257,University of Aberdeen,United Kingdom
+158,-3.5351475,50.7371369,159,130,130,175.5,178,The University of Exeter,United Kingdom
+160,-2.3272635,51.3781162,160,NA,255,NA,NA,University of Bath,United Kingdom
+161,120.9932316,24.7947253,161,NA,330,NA,NA,National Tsing Hua University,Taiwan
+161,-1.6146608,54.9791871,162,175,176,250.5,232,Newcastle University,United Kingdom
+163,-93.2277285,44.97399,163,56,56,34,34,University of Minnesota,United States
+164,9.043773999999999,48.5294782,164,94,94,175.5,197,Eberhard Karls Universität Tübingen,Germany
+164,5.3217549,60.3878586,165,NA,204,250.5,262,University of Bergen,Norway
+164,-117.8442962,33.6404952,166,99,99,64,64,"University of California, Irvine",United States
+167,7.438119,46.9504896,167,105,105,125.5,132,University of Bern,Switzerland
+168,-6.2236395,53.3082648,168,NA,248,350.5,357,University College Dublin,Ireland
+169,-72.2886935,43.7044406,169,89,89,250.5,208,Dartmouth College,United States
+170,9.2297627,45.4786455,170,NA,334,250.5,237,Politecnico di Milano,Italy
+171,7.845949599999999,47.9935441,171,82,82,125.5,136,Albert-Ludwigs-Universitaet Freiburg,Germany
+172,77.19262839999999,28.5449756,172,NA,NA,NA,NA,Indian Institute of Technology Delhi (IITD),India
+173,50.14594229999999,26.3071046,173,NA,NA,450.5,430,King Fahd University of Petroleum & Minerals,Saudi Arabia
+173,-2.9655722,53.405936,174,177,177,125.5,138,University of Liverpool,United Kingdom
+173,-78.5079772,38.0335529,175,113,114,175.5,199,University of Virginia,United States
+176,151.2004942,-33.8832376,176,NA,243,350.5,389,University of Technology Sydney,Australia
+177,2.1639495,48.7088206,177,NA,412,NA,NA,CentraleSupélec,France
+178,-82.3549302,29.6436325,178,143,143,88,89,University of Florida,United States
+179,72.9132679,19.1334302,179,NA,372,NA,NA,Indian Institute of Technology Bombay (IITB),India
+179,6.850870899999999,52.2393971,180,179,180,350.5,392,University of Twente,Netherlands
+181,9.9374005,51.5408116,181,113,113,95,96,University of Göttingen,Germany
+182,16.3684626,48.1986546,182,NA,347,450.5,496,Vienna University of Technology,Austria
+182,-47.0647206,-22.8184393,183,NA,486,450.5,467,Universidade Estadual de Campinas (Unicamp),Brazil
+182,-105.2659417,40.00758099999999,184,100,101,43,43,University of Colorado Boulder,United States
+182,4.394886,50.821658,185,NA,349,250.5,295,Vrije Universiteit Brussel (VUB),Belgium
+186,-77.6260033,43.1305531,186,153,154,125.5,140,University of Rochester,United States
+187,-3.6943619,40.5466983,187,NA,354,350.5,302,Universidad Autónoma de Madrid,Spain
+188,11.354157,44.4962318,188,NA,205,250.5,264,Alma Mater Studiorum - University of Bologna,Italy
+188,-0.9418157,51.4414205,189,NA,235,250.5,253,University of Reading,United Kingdom
+190,77.5671423,13.0218597,190,NA,270,350.5,323,Indian Institute of Science,India
+191,18.4611991,-33.957652,191,171,171,350.5,358,University of Cape Town,South Africa
+192,139.7429376,35.6489643,192,NA,NA,350.5,327,Keio University,Japan
+192,10.40033,43.719601,193,184,184,NA,NA,Scuola Normale Superiore di Pisa,Italy
+192,10.4027859,43.7209661,194,155,155,NA,NA,Scuola Superiore Sant'Anna Pisa di Studi Universitari e di Perfezionamento,Italy
+195,18.057831,59.3621737,195,NA,NA,NA,NA,Stockholm University,Sweden
+195,13.7289964,51.02927340000001,196,155,156,175.5,170,Technische Universität Dresden,Germany
+195,-96.33649899999999,30.618531,197,159,160,125.5,121,Texas A&M University,United States
+195,2.1048538,41.5019255,198,147,147,350.5,301,Universitat Autònoma de Barcelona,Spain
+199,-100.28954,25.6515649,199,NA,NA,NA,NA,Instituto Tecnológico y de Estudios Superiores de Monterrey,Mexico
+200,5.6867065,50.8471373,200,103,103,250.5,227,Maastricht University,Netherlands
+201,-70.6527553,-33.42103590000001,201,NA,NA,NA,NA,Universidad de Chile,Chile
+202,-5.9340493,54.5844087,202,NA,233,350.5,343,Queen's University Belfast,United Kingdom
+203,139.7196485,35.7087334,203,NA,NA,NA,NA,Waseda University,Japan
+204,5.8568877,51.8193148,204,122,122,125.5,118,Radboud University,Netherlands
+205,34.8043877,32.1133141,205,NA,244,175.5,165,Tel Aviv University,Israel
+205,4.3822222,50.8132068,206,175,175,175.5,173,Universite libre de Bruxelles,Belgium
+207,120.999263,24.789067,207,NA,452,350.5,336,National Chiao Tung University,Taiwan
+207,-87.65097469999999,41.8706448,208,NA,NA,250.5,270,"University of Illinois, Chicago (UIC)",United States
+209,-111.9280527,33.4242399,209,126,126,NA,NA,Arizona State University,United States
+210,4.4102318,51.2228097,210,NA,202,250.5,259,University of Antwerp,Belgium
+210,-81.2737336,43.0095971,211,NA,252,250.5,296,The University of Western Ontario,Canada
+212,-86.8026551,36.1447034,212,105,106,52,52,Vanderbilt University,United States
+213,-81.6083838,41.5043413,213,158,158,125.5,105,Case Western Reserve University,United States
+214,172.5839233,-43.5235375,214,NA,357,450.5,468,University of Canterbury,New Zealand
+215,12.5144384,41.9037626,215,NA,337,175.5,161,Sapienza University of Rome,Italy
+216,-86.2353388,41.7055716,216,150,151,250.5,280,University of Notre Dame,United States
+217,-114.1358007,51.0781599,217,NA,207,175.5,167,University of Calgary,Canada
+218,4.8657199,52.3337568,218,165,166,125.5,148,Vrije Universiteit Amsterdam,Netherlands
+219,174.7686615,-41.2904017,219,NA,498,350.5,397,Victoria University of Wellington,New Zealand
+220,2.3283745,48.8540917,220,NA,480,NA,NA,Sciences Po,France
+221,46.61910779999999,24.716241,221,NA,NA,125.5,112,King Saud University,Saudi Arabia
+222,120.217172,22.9988083,222,NA,NA,350.5,335,National Cheng Kung University (NCKU),Taiwan
+223,9.984619499999999,53.5665641,223,NA,216,175.5,180,Universität Hamburg,Germany
+224,-76.49514119999999,44.2252795,224,NA,284,250.5,239,Queen's University at Kingston,Canada
+224,35.0231271,32.7767783,225,NA,342,93,94,Technion - Israel Institute of Technology,Israel
+224,151.7041775,-32.8927718,226,NA,278,350.5,351,"The University of Newcastle, Australia (UON)",Australia
+227,-77.07225849999999,38.9076089,227,123,123,250.5,215,Georgetown University,United States
+228,-0.08791399999999999,50.86708950000001,228,147,149,250.5,284,University of Sussex,United Kingdom
+229,101.71629,2.991686,229,NA,NA,NA,NA,Universiti Putra Malaysia (UPM),Malaysia
+230,101.7774225,2.929997,230,NA,NA,NA,NA,Universiti Kebangsaan Malaysia (UKM),Malaysia
+230,-110.9501094,32.2318851,231,161,161,99,100,The University of Arizona,United States
+232,150.87843,-34.4054039,232,NA,300,250.5,292,University of Wollongong,Australia
+233,-3.728587199999999,40.4478246,233,NA,NA,350.5,312,Complutense University of Madrid,Spain
+234,-1.224632,52.769227,234,NA,326,NA,NA,Loughborough University,United Kingdom
+235,35.480744,33.9008359,235,NA,NA,NA,NA,American University of Beirut (AUB),Lebanon
+236,76.92191869999999,43.2252358,236,NA,NA,NA,NA,Al-Farabi Kazakh National University,Kazakhstan
+236,5.7672724,45.1914198,237,NA,NA,175.5,172,Université Grenoble-Alpes,France
+238,-1.1246325,52.6211393,238,159,159,350.5,371,University of Leicester,United Kingdom
+239,7.0865227,50.7267715,239,100,100,125.5,134,Rheinische Friedrich-Wilhelms-Universität Bonn,Germany
+240,151.1126498,-33.77382370000001,240,NA,274,175.5,157,Macquarie University,Australia
+240,30.2989199,59.941894,241,NA,477,350.5,345,Saint Petersburg State University,Russia
+242,2.1764839,48.6976847,242,181,181,41,41,Université Paris-Sud,France
+243,-9.0614864,53.2770243,243,NA,226,350.5,338,National University of Ireland Galway,Ireland
+243,-71.1190232,42.4074843,244,169,170,175.5,171,Tufts University,United States
+245,100.5276142,13.7390072,245,NA,NA,450.5,412,Chulalongkorn University,Thailand
+245,-122.9198833,49.2780937,246,NA,286,450.5,450,Simon Fraser University,Canada
+247,153.028415,-27.477357,247,NA,234,250.5,240,Queensland University of Technology (QUT),Australia
+247,144.9642263,-37.8079933,248,NA,470,450.5,448,RMIT University,Australia
+249,-72.5267121,42.3911569,249,191,191,175.5,187,University of Massachusetts Amherst,United States
+250,83.0943884,54.8477462,250,NA,459,450.5,443,Novosibirsk State University,Russia
+250,140.103652,36.10882369999999,251,NA,492,250.5,288,University of Tsukuba,Japan
+252,-80.2771253,25.7191685,252,186,186,175.5,189,University of Miami,United States
+253,103.6381827,1.55849,253,NA,NA,NA,NA,Universiti Teknologi Malaysia,Malaysia
+254,-74.08404639999999,4.6381938,254,NA,NA,NA,NA,Universidad Nacional de Colombia,Colombia
+254,8.6677635,50.1270675,255,NA,266,125.5,135,Universität Frankfurt am Main,Germany
+256,116.3662615,39.9619537,256,NA,NA,250.5,202,Beijing Normal University,China
+256,127.052544,37.5961951,257,NA,436,450.5,432,Kyung Hee University,South Korea
+256,-74.06644570000002,4.6014855,258,NA,NA,NA,NA,Universidad de los Andes,Colombia
+259,10.4020771,63.41949899999999,259,NA,280,125.5,116,Norwegian University of Science And Technology,Norway
+259,-0.5630625,51.425673,260,197,197,NA,NA,Royal Holloway University of London,United Kingdom
+259,9.1724985,48.78164719999999,261,NA,240,350.5,386,Universität Stuttgart,Germany
+262,115.8944182,-32.0061951,262,NA,362,175.5,152,Curtin University,Australia
+263,-78.6820946,35.7846633,263,NA,279,250.5,233,North Carolina State University,United States
+264,80.24200119999999,13.0052137,264,NA,NA,NA,NA,Indian Institute of Technology Madras (IITM),India
+264,121.5406792,25.0136906,265,NA,454,NA,NA,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan
+264,100.3025177,5.3559337,266,NA,NA,450.5,490,Universiti Sains Malaysia (USM),Malaysia
+264,-0.5905421,51.2421839,267,NA,290,350.5,387,University of Surrey,United Kingdom
+267,39.2575481,21.5016038,268,NA,223,125.5,111,King Abdulaziz University (KAU),Saudi Arabia
+267,-2.9821428,56.45824469999999,269,187,187,250.5,251,University of Dundee,United Kingdom
+269,2.344468,48.8469373,270,NA,NA,NA,NA,Université Paris 1 Panthéon-Sorbonne,France
+270,2.587983,48.841069,271,NA,264,NA,NA,Ecole des Ponts ParisTech,France
+270,-1.6597295,42.8014859,272,NA,331,NA,NA,University of Navarra,Spain
+272,8.656139999999999,49.874778,273,NA,242,450.5,454,Technische Universität Darmstadt,Germany
+274,1.2391761,52.6219215,274,188,188,350.5,365,University of East Anglia (UEA),United Kingdom
+275,2.1132804,41.388004,275,NA,465,NA,NA,Universitat Politècnica de Catalunya,Spain
+276,22.2851138,60.4562974,276,NA,396,450.5,493,University of Turku,Finland
+277,106.8270482,-6.3627638,277,NA,NA,NA,NA,Universitas Indonesia,Indonesia
+277,-4.2428535,55.8628285,278,NA,487,NA,NA,University of Strathclyde,United Kingdom
+279,-63.59165549999999,44.63658119999999,279,NA,263,350.5,313,Dalhousie University,Canada
+279,138.6066669,-34.9201652,280,NA,238,NA,NA,University of South Australia,Australia
+281,-3.7270795,40.316966,281,NA,NA,NA,NA,Universidad Carlos III de Madrid (UC3M),Spain
+282,114.3643219,30.5360485,282,NA,501,250.5,297,Wuhan University,China
+283,-74.44739910000001,40.5008186,283,172,172,79,79,Rutgers University - New Brunswick,United States
+283,-8.493273700000001,51.89210989999999,284,NA,397,NA,NA,University College Cork,Ireland
+283,11.971878,57.6981719,285,198,199,175.5,179,University of Gothenburg,Sweden
+286,11.3838006,47.26335419999999,286,NA,271,175.5,181,Universität Innsbruck,Austria
+287,15.5760072,58.3978364,287,NA,378,250.5,225,Linköping University,Sweden
+287,11.0045507,49.5978804,288,162,164,175.5,177,Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany
+289,121.5275321,25.0260598,289,NA,NA,NA,NA,National Taiwan Normal University,Taiwan
+289,-75.68313289999999,45.42310639999999,290,NA,229,175.5,193,University of Ottawa,Canada
+291,37.6855946,55.7659244,291,NA,NA,NA,NA,Bauman Moscow State Technical University,Russia
+292,175.3184579,-37.7868611,292,NA,400,NA,NA,University of Waikato,New Zealand
+293,144.3596982,-38.1435006,293,NA,312,250.5,209,Deakin University,Australia
+293,80.2329,26.5123388,294,NA,NA,NA,NA,Indian Institute of Technology Kanpur (IITK),India
+293,2.3432774,48.8484556,295,196,196,NA,NA,Université Paris-Sorbonne (Paris IV),France
+296,-0.129259,51.52235,296,NA,484,NA,NA,SOAS University of London,United Kingdom
+296,11.8774462,45.406766,297,NA,383,175.5,194,Università di Padova,Italy
+296,2.179794100000001,41.3789689,298,140,140,250.5,238,Universitat Pompeu Fabra,Spain
+299,126.9468294,37.5618577,299,NA,NA,450.5,417,Ewha Womans University,South Korea
+299,114.1818597,22.3380838,300,NA,428,NA,NA,Hong Kong Baptist University,Hong Kong
+301,-122.0582972,36.9914738,301,162,162,98,98,"University of California, Santa Cruz",United States
+301,-8.6156998,41.1465479,302,NA,NA,350.5,379,University of Porto,Portugal
+303,7.766454499999999,48.5790692,303,NA,391,125.5,143,Université de Strasbourg,France
+304,-86.5129458,39.1745704,304,117,117,125.5,110,Indiana University Bloomington,United States
+305,2.3817936,48.82931869999999,305,NA,230,125.5,147,Université Diderot  Paris 7,France
+305,-9.158244999999999,38.7526578,306,NA,NA,175.5,186,University of Lisbon,Portugal
+307,7.662203,45.0624921,307,NA,466,NA,NA,Politecnico di Torino,Italy
+308,-0.130462,51.521975,308,NA,306,NA,NA,"Birkbeck, University of London",United Kingdom
+308,87.31053109999999,22.3149274,309,NA,NA,NA,NA,Indian Institute of Technology Kharagpur (IIT-KGP),India
+308,7.6131826,51.9635705,310,173,174,175.5,191,Westfälische Wilhelms-Universität Münster,Germany
+311,-43.1753638,-22.9541412,311,NA,NA,350.5,318,Universidade Federal do Rio de Janeiro,Brazil
+312,-3.3203494,55.9096602,312,NA,370,450.5,424,Heriot-Watt University,United Kingdom
+313,147.3247697,-42.9041217,313,NA,340,250.5,285,University of Tasmania,Australia
+314,14.4234889,50.0871106,314,NA,413,250.5,204,Charles University,Czech Republic
+314,26.7198659,58.3810843,315,NA,339,350.5,388,University of Tartu,Estonia
+316,174.7027411,-36.7323894,316,NA,443,NA,NA,Massey University,New Zealand
+316,121.212046,31.282196,317,NA,NA,NA,NA,Tongji University,China
+318,-78.7889697,43.0008093,318,NA,259,250.5,256,University at Buffalo SUNY,United States
+319,172.4677741,-43.6436854,319,NA,NA,NA,NA,Lincoln University,New Zealand
+319,113.298883,23.0965384,320,NA,392,175.5,163,Sun Yat-sen University,China
+319,5.559063999999999,50.5830803,321,NA,325,350.5,372,Université de Liège,Belgium
+322,132.714908,34.403123,322,NA,NA,350.5,321,Hiroshima University,Japan
+323,84.9478675,56.4694917,323,NA,NA,NA,NA,Tomsk State University,Russia
+323,-117.3280644,33.9737055,324,198,198,175.5,175,"University of California, Riverside",United States
+325,153.0532585,-27.5550897,325,NA,267,350.5,319,Griffith University,Australia
+325,126.6334306,45.7470436,326,NA,NA,175.5,154,Harbin Institute of Technology,China
+325,9.194584299999999,45.4601435,327,NA,328,250.5,277,University of Milan,Italy
+325,-73.9288728,40.8503116,328,NA,NA,250.5,299,The Katz School at Yeshiva University,United States
+329,121.513702,25.123002,329,NA,NA,NA,NA,National Yang Ming University,Taiwan
+330,2.3272147,48.78871909999999,330,NA,NA,NA,NA,Ecole Normale Supérieure de Cachan,France
+331,107.6106591,-6.89148,331,NA,NA,NA,NA,Bandung Institute of Technology (ITB),Indonesia
+331,-58.859075,-34.455733,332,NA,NA,NA,NA,Universidad Austral,Argentina
+331,6.9288192,50.9281625,333,145,145,250.5,273,University of Cologne,Germany
+334,27.5460609,53.8938988,334,NA,NA,NA,NA,Belarusian State University,Belarus
+334,100.3234171,13.7945775,335,NA,NA,NA,NA,Mahidol University,Thailand
+336,71.4648566,51.160307,336,NA,NA,NA,NA,L.N. Gumilyov Eurasian National University (ENU),Kazakhstan
+337,-58.443664,-34.564198,337,NA,NA,NA,NA,Universidad de Belgrano,Argentina
+338,20.3036711,63.82054839999999,338,NA,296,350.5,355,Umea University,Sweden
+339,-71.16646089999999,42.3351179,339,NA,308,NA,NA,Boston College,United States
+339,126.8407202,35.22726919999999,340,NA,368,NA,NA,Gwangju Institute of Science and Technology (GIST),South Korea
+341,11.5898195,50.9295513,341,NA,NA,250.5,271,Universität Jena,Germany
+341,-157.8171118,21.296939,342,NA,217,250.5,268,University of Hawai'i at Mañoa,United States
+343,-0.1025445,51.5278249,343,NA,358,NA,NA,"City, University of London",United Kingdom
+344,117.1742232,39.10394429999999,344,NA,NA,350.5,333,Nankai University,China
+344,108.983693,34.250803,345,NA,NA,250.5,298,Xi’an Jiaotong University,China
+346,-0.4692108,51.53315809999999,346,NA,355,450.5,408,Brunel University London,United Kingdom
+346,-71.0891717,42.3398067,347,193,193,250.5,234,Northeastern University,United States
+346,-123.3116935,48.4634067,348,NA,345,350.5,394,University of Victoria,Canada
+347,0.9472069000000001,51.87772589999999,349,NA,265,NA,NA,University of Essex,United Kingdom
+349,51.4876252,25.376743,350,NA,467,NA,NA,Qatar University,Qatar
+349,114.89397,4.972665,351,NA,NA,NA,NA,Universiti Brunei Darussalam (UBD),Brunei
+351,135.2353953,34.7256185,352,NA,NA,450.5,431,Kobe University,Japan
+352,34.801461,31.262218,353,NA,NA,450.5,406,Ben Gurion University of The Negev,Israel
+352,-77.0485992,38.8997145,354,NA,215,350.5,349,George Washington University,United States
+355,37.5199434,55.9297243,355,NA,277,NA,NA,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),Russia
+355,2.273451,48.870029,356,NA,NA,350.5,341,"Université Paris-Dauphine, PSL Research University",France
+357,5.0419736,51.5631406,357,195,195,NA,NA,Tilburg University,Netherlands
+357,9.955582,48.4222305,358,155,157,250.5,290,University Ulm,Germany
+357,25.7316336,62.23653170000001,359,NA,432,NA,NA,University of Jyväskylä,Finland
+360,145.048414,-37.7206671,360,NA,376,350.5,328,La Trobe University,Australia
+361,-1.224225,51.755011,361,NA,462,NA,NA,Oxford Brookes University,United Kingdom
+361,18.864447,-33.9328078,362,NA,390,450.5,452,Stellenbosch University,South Africa
+361,-9.160333,38.733682,363,NA,NA,NA,NA,Universidade Nova de Lisboa,Portugal
+364,-60.671446,-32.951255,364,NA,NA,NA,NA,Pontificia Universidad Católica Argentina,Argentina
+364,-73.67880300000002,42.730172,365,NA,335,NA,NA,Rensselaer Polytechnic Institute,United States
+364,28.0302973,-26.190508,366,NA,299,250.5,287,University of Witwatersrand,South Africa
+367,146.7572865,-19.326378,367,NA,221,350.5,325,James Cook University,Australia
+367,139.764451,35.7012897,368,NA,490,NA,NA,Tokyo Medical and Dental University (TMDU),Japan
+367,121.0107556,14.5979292,369,NA,NA,NA,NA,University of the Philippines,Philippines
+367,18.9710079,69.679788,370,NA,495,NA,NA,University of Tromsø The Arctic University of Norway,Norway
+367,-80.42341669999999,37.22838429999999,371,NA,348,350.5,398,Virginia Polytechnic Institute and State University,United States
+372,9.3755673,47.4321575,372,NA,475,NA,NA,University of St.Gallen (HSG),Switzerland
+373,-1.8882174,52.4868584,373,NA,353,NA,NA,Aston University,United Kingdom
+373,37.4846619,55.6728244,374,NA,NA,NA,NA,Moscow State Institute of International Relations (MGIMO University),Russia
+373,37.6638742,55.649567,375,NA,453,NA,NA,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia
+373,-0.3409521,39.4808377,376,NA,NA,450.5,447,Universitat Politècnica de València,Spain
+373,1.0682493,51.2968974,377,NA,322,NA,NA,University of Kent,United Kingdom
+378,-71.2747424,46.78174629999999,378,NA,273,350.5,331,Laval University,Canada
+379,9.9818527,57.0145665,379,NA,201,250.5,201,Aalborg University,Denmark
+380,23.8586408,61.4497952,380,NA,NA,NA,NA,Tampere University of Technology,Finland
+381,3.8720638,43.6156599,381,NA,NA,NA,NA,Université de Montpellier,France
+382,37.4099802,55.80343019999999,382,NA,NA,NA,NA,National Research University Higher School of Economics (HSE University),Russia
+382,-73.1233889,40.9123761,383,NA,289,250.5,245,"Stony Brook University, State University of New York",United States
+384,10.4282364,55.3689827,384,NA,287,350.5,384,University of Southern Denmark,Denmark
+385,9.1868777,47.689426,385,NA,224,450.5,475,Universität Konstanz,Germany
+386,84.94968229999999,56.46524849999999,386,NA,344,NA,NA,National Research Tomsk Polytechnic University,Russia
+386,-95.2557961,38.9543439,387,NA,374,250.5,272,University of Kansas,United States
+388,120.265843,22.6264249,388,NA,NA,NA,NA,National Sun Yat-sen University,Taiwan
+388,8.4622333,49.48371059999999,389,125,125,NA,NA,Universität Mannheim,Germany
+390,55.67603399999999,24.200588,390,NA,NA,NA,NA,United Arab Emirates University,United Arab Emirates
+391,-6.2567865,53.385062,391,NA,417,NA,NA,Dublin City University,Ireland
+391,121.1925163,24.9694808,392,NA,NA,NA,NA,National Central University,Taiwan
+391,-111.8421021,40.7649368,393,NA,249,125.5,144,University of Utah,United States
+394,-105.0023325,39.7463895,394,NA,261,350.5,362,"University of Colorado, Denver",United States
+395,31.499674,30.018923,395,NA,NA,NA,NA,The American University in Cairo,Egypt
+395,-87.6270059,41.8348731,396,NA,NA,NA,NA,Illinois Institute of Technology,United States
+397,127.057843,37.597319,397,NA,NA,NA,NA,HUFS - Hankuk (Korea) University of Foreign Studies,South Korea
+398,-0.035408,51.47427099999999,398,NA,318,NA,NA,"Goldsmiths, University of London",United Kingdom
+398,8.241555199999999,49.9926403,399,NA,272,250.5,275,Johannes Gutenberg Universität Mainz,Germany
+398,121.561618,25.025354,400,NA,NA,NA,NA,Taipei Medical University,Taiwan
+405.5,9.7196989,52.3829641,401,NA,377,450.5,472,Leibniz Universität Hannover,Germany
+405.5,23.7318586,37.9877159,402,NA,NA,450.5,439,National Technical University of Athens,Greece
+405.5,30.3729168,60.00729829999999,403,NA,NA,NA,NA,Peter the Great Saint-Petersburg Polytechnic University,Russia
+405.5,7.261609300000001,51.44566589999999,404,NA,237,250.5,263,Ruhr-Universität Bochum,Germany
+405.5,-74.0685881,4.595356199999999,405,NA,NA,NA,NA,Universidad Externado de Colombia,Colombia
+405.5,110.3774998,-7.7713847,406,NA,NA,NA,NA,Gadjah Mada University,Indonesia
+405.5,-8.424150899999999,40.2089072,407,NA,NA,450.5,469,University of Coimbra,Portugal
+405.5,36.228139,50.004537,408,NA,NA,NA,NA,V. N. Karazin Kharkiv National University,Ukraine
+405.5,25.2876469,54.6825757,409,NA,NA,NA,NA,Vilnius University,Lithuania
+405.5,-117.1542121,46.7319225,410,NA,350,450.5,498,Washington State University,United States
+405.5,-3.918879,56.1459171,411,NA,338,NA,NA,University of Stirling,United Kingdom
+415.5,55.4927023,25.3120502,412,NA,NA,NA,NA,American University of Sharjah,United Arab Emirates
+415.5,50.571076,26.215736,413,NA,NA,NA,NA,Arabian Gulf University,Bahrain
+415.5,-71.258663,42.364989,414,NA,206,350.5,305,Brandeis University,United States
+415.5,76.9297115,43.23644549999999,415,NA,NA,NA,NA,Kazakh National Research Technical University after K.I.Satpayev,Kazakhstan
+415.5,30.5104023,50.4420868,416,NA,NA,NA,NA,Taras Shevchenko National University of Kyiv,Ukraine
+415.5,-84.0510292,9.936995099999999,417,NA,NA,NA,NA,Universidad de Costa Rica,Costa Rica
+415.5,5.358066,43.29362099999999,418,NA,254,125.5,101,Aix-Marseille University,France
+415.5,25.4662935,65.0593177,419,NA,283,450.5,485,University of Oulu,Finland
+415.5,21.0186012,52.2403463,420,NA,NA,350.5,395,University of Warsaw,Poland
+415.5,-80.2763425,36.1352495,421,NA,297,NA,NA,Wake Forest University,United States
+425.5,32.7475962,39.8746147,422,NA,407,NA,NA,Bilkent University,Turkey
+425.5,139.4454577,35.6944035,423,NA,NA,NA,NA,Hitotsubashi University,Japan
+425.5,121.494038,31.306594,424,NA,NA,NA,NA,Shanghai University,China
+425.5,145.0389546,-37.8221504,425,NA,488,350.5,347,Swinburne University of Technology,Australia
+425.5,-83.3773221,33.9480053,426,NA,366,250.5,252,The University of Georgia,United States
+425.5,10.3988593,43.7167235,427,NA,385,250.5,282,University of Pisa,Italy
+425.5,-72.2539805,41.8077414,428,NA,311,350.5,363,University of Connecticut,United States
+425.5,-75.7506114,39.6779504,429,NA,211,175.5,176,University of Delaware,United States
+425.5,-91.5548998,41.6626963,430,NA,220,175.5,182,University of Iowa,United States
+425.5,-96.7500993,32.9857619,431,NA,245,250.5,254,University of Texas Dallas,United States
+435.5,153.4166377,-28.0730934,432,NA,NA,NA,NA,Bond University,Australia
+435.5,10.1147022,54.3460549,433,NA,222,175.5,183,Christian-Albrechts-University zu Kiel,Germany
+435.5,-73.5790227,45.4972657,434,NA,NA,450.5,414,Concordia University,Canada
+435.5,-84.2984889,30.4418778,435,NA,213,250.5,213,Florida State University,United States
+435.5,77.89657869999999,29.8648599,436,NA,NA,NA,NA,Indian Institute of Technology Roorkee (IITR),India
+435.5,29.06738349999999,41.19779640000001,437,NA,324,NA,NA,Koc University,Turkey
+435.5,72.99047399999999,33.642537,438,NA,NA,NA,NA,National University of Sciences And Technology (NUST) Islamabad,Pakistan
+435.5,-77.078437,-12.0690764,439,NA,NA,NA,NA,Pontificia Universidad Católica del Perú,Peru
+435.5,-3.9763939,51.6106075,440,NA,291,NA,NA,Swansea University,United Kingdom
+435.5,-58.4159956,-34.5972377,441,NA,NA,NA,NA,Universidad de Palermo (UP),Argentina
+435.5,118.097855,24.4373484,442,NA,502,350.5,400,Xiamen University,China
+445.5,174.7673188,-36.8532194,443,NA,403,NA,NA,Auckland University of Technology (AUT),New Zealand
+445.5,-4.1299873,53.2295205,444,NA,305,450.5,404,Bangor University,United Kingdom
+445.5,49.1214349,55.790447,445,NA,434,NA,NA,Kazan (Volga region) Federal University,Russia
+445.5,-123.2794443,44.5637806,446,NA,333,175.5,159,Oregon State University,United States
+445.5,103.8501578,1.2962727,447,NA,NA,NA,NA,Singapore Management University,Singapore
+445.5,126.9407529,37.5513365,448,NA,NA,NA,NA,Sogang University,South Korea
+445.5,11.1231165,46.0667967,449,NA,295,NA,NA,University of Trento,Italy
+445.5,2.340761,48.851251,450,NA,NA,175.5,195,Université Paris Descartes,France
+445.5,-79.50186839999999,43.7734535,451,NA,402,NA,NA,York University,Canada
+455.5,116.3115442,39.9571098,452,NA,NA,NA,NA,Beijing Institute of Technology,China
+455.5,4.878273,45.782938,453,NA,NA,NA,NA,Institut National des Sciences Appliquées de Lyon (INSA),France
+455.5,54.3949236,24.4473236,454,NA,323,NA,NA,Khalifa University,United Arab Emirates
+455.5,58.17303219999999,23.5909657,455,NA,NA,NA,NA,Sultan Qaboos University,Oman
+455.5,-90.12072789999999,29.9403477,456,NA,395,NA,NA,Tulane University,United States
+455.5,-70.6804257,-33.4496529,457,NA,NA,NA,NA,Universidad de Santiago de Chile (USACH),Chile
+455.5,29.744203,62.60359800000001,458,NA,314,350.5,366,University of Eastern Finland,Finland
+455.5,-106.6313582,52.1334003,459,NA,479,350.5,382,University of Saskatchewan,Canada
+455.5,-83.92945639999999,35.9544013,460,NA,343,250.5,286,"The University of Tennessee, Knoxville",United States
+465.5,19.9341074,50.0609623,461,NA,NA,450.5,427,Jagiellonian University,Poland
+465.5,11.9695315,51.4861319,462,NA,NA,350.5,369,Martin-Luther-Universität Halle-Wittenberg,Germany
+465.5,-74.06490769999999,4.6284578,463,NA,NA,NA,NA,Pontificia Universidad Javeriana,Colombia
+465.5,29.3764651,40.8918026,464,NA,387,NA,NA,Sabanci University,Turkey
+465.5,-0.9015065,41.6420639,465,NA,NA,NA,NA,Universidad de Zaragoza,Spain
+465.5,11.259765,43.7776426,466,NA,418,350.5,367,University of Florence,Italy
+465.5,12.6297159,41.8515149,467,NA,471,350.5,380,"University of Rome ""Tor Vergata""",Italy
+465.5,13.0993911,52.4074312,468,NA,NA,NA,NA,Universität Potsdam,Germany
+465.5,-106.6197812,35.0843187,469,NA,NA,350.5,350,University of New Mexico,United States
+465.5,-83.06654619999999,42.3591388,470,NA,401,350.5,399,Wayne State University,United States
+475.5,-77.0873929,38.9392688,471,NA,352,NA,NA,American University,United States
+475.5,127.0007751,37.5575367,472,NA,NA,NA,NA,Dongguk University,South Korea
+475.5,114.406972,30.510616,473,NA,429,250.5,217,Huazhong University of Science and Technology,China
+475.5,-93.6464654,42.0266187,474,NA,321,250.5,218,Iowa State University,United States
+475.5,14.3209597,48.3358372,475,NA,NA,NA,NA,Johannes Kepler University Linz,Austria
+475.5,15.4499126,47.0777872,476,NA,421,NA,NA,Karl-Franzens-Universitaet Graz,Austria
+475.5,42.5595393,18.2488367,477,NA,NA,NA,NA,King Khalid University,Saudi Arabia
+475.5,32.7780027,39.8910203,478,NA,NA,NA,NA,Middle East Technical University,Turkey
+475.5,51.351593,35.7036366,479,NA,NA,NA,NA,Sharif University of Technology,"Iran, Islamic Republic of"
+475.5,117.1672366,39.1101484,480,NA,NA,350.5,353,Tianjin University,China
+485.5,-4.065691999999999,52.418073,481,NA,301,NA,NA,Aberystwyth University,United Kingdom
+485.5,31.2097971,30.0274734,482,NA,NA,450.5,409,Cairo University,Egypt
+485.5,121.3874856,25.0334479,483,NA,NA,NA,NA,Chang Gung University,Taiwan
+485.5,-105.0865473,40.573436,484,NA,359,250.5,207,Colorado State University,United States
+485.5,9.9708462,49.7830083,485,165,167,175.5,200,Julius-Maximilians-Universität Würzburg,Germany
+485.5,116.3188145,39.9696062,486,NA,NA,NA,NA,Renmin (People's) University of China,China
+485.5,9.177178500000002,45.4621325,487,NA,NA,NA,NA,Università Cattolica del Sacro Cuore,Italy
+485.5,14.2578058,40.845492,488,NA,451,350.5,375,University of Naples - Federico II,Italy
+485.5,8.852039999999999,53.10675800000001,489,NA,258,450.5,466,Universität Bremen,Germany
+485.5,77.1638282,28.5842523,490,NA,NA,NA,NA,University of Delhi,India
+485.5,-76.7109751,39.2556129,491,NA,442,NA,NA,"University of Maryland, Baltimore County",United States
+495.5,29.0510399,41.0847571,492,NA,409,NA,NA,Bogaziçi Üniversitesi,Turkey
+495.5,14.3912841,50.1030364,493,NA,NA,NA,NA,Czech Technical University in Prague,Czech Republic
+495.5,125.309796,43.87036,494,NA,NA,350.5,326,Jilin University,China
+495.5,76.95518299999999,43.256325,495,NA,NA,NA,NA,Abai Kazakh National Pedagogical University,Kazakhstan
+495.5,-3.7192798,40.4486372,496,NA,NA,NA,NA,Universidad Politécnica de Madrid,Spain
+495.5,129.0797747,35.2338855,497,NA,NA,NA,NA,Pusan National University,South Korea
+495.5,-51.3969599,-22.1297666,498,NA,NA,350.5,356,UNESP,Brazil
+495.5,35.5143022,33.8804164,499,NA,NA,NA,NA,Saint Joseph University of Beirut (USJ),Lebanon
+495.5,-80.2268613,43.5320995,500,NA,NA,350.5,368,University of Guelph,Canada
+495.5,60.6161195,56.8404249,501,NA,NA,NA,NA,Ural Federal University,Russia
+NA,-122.2585399,37.8718992,NA,18,18,5,5,"University of California, Berkeley",United States
+NA,18.0236579,59.34814839999999,NA,38,39,44,44,Karolinska Institute,Sweden
+NA,2.3378212,48.8546601,NA,72,73,NA,NA,Paris Sciences & Lettres – PSL University,France
+NA,13.3766245,52.5264618,NA,126,127,NA,NA,Charité - Universitätsmedizin Berlin,Germany
+NA,18.060776,59.363154,NA,134,135,74,75,Stockholm University,Sweden
+NA,-86.8064447,33.5021227,NA,168,168,125.5,133,University of Alabama at Birmingham,United States
+NA,-86.8064447,33.5021227,NA,168,168,250.5,258,University of Alabama at Birmingham,United States
+NA,5.948386,49.504254,NA,179,179,NA,NA,University of Luxembourg,Luxembourg
+NA,-84.51495039999999,39.1329219,NA,NA,209,350.5,361,University of Cincinnati,United States
+NA,12.529679,55.681611,NA,NA,210,NA,NA,Copenhagen Business School,Denmark
+NA,6.801007999999999,51.4277172,NA,NA,212,NA,NA,University of Duisburg-Essen,Germany
+NA,7.152006,46.806357,NA,NA,214,450.5,471,University of Fribourg,Switzerland
+NA,-21.9518896,64.1396203,NA,NA,219,450.5,473,University of Iceland,Iceland
+NA,13.4517835,48.5670466,NA,NA,231,NA,NA,University of Passau,Germany
+NA,13.0119098,52.4010314,NA,NA,232,450.5,487,University of Potsdam,Germany
+NA,-6.261985999999999,53.338985,NA,NA,236,NA,NA,Royal College of Surgeons in Ireland,Ireland
+NA,-0.1745034,51.4271937,NA,NA,239,450.5,451,"St George’s, University of London",United Kingdom
+NA,23.7788528,61.4936494,NA,NA,241,NA,NA,University of Tampere,Finland
+NA,129.1909438,35.5738299,NA,NA,247,450.5,461,Ulsan National Institute of Science and Technology,South Korea
+NA,9.26735,45.50686700000001,NA,NA,250,450.5,497,Vita-Salute San Raffaele University,Italy
+NA,11.585831,49.9288196,NA,NA,256,450.5,465,University of Bayreuth,Germany
+NA,8.4947571,52.0378003,NA,NA,257,450.5,407,Bielefeld University,Germany
+NA,-71.8246703,42.2523452,NA,NA,260,NA,NA,Clark University,United States
+NA,-105.2225705,39.7510136,NA,NA,262,NA,NA,Colorado School of Mines,United States
+NA,9.2119425,48.7109551,NA,NA,268,NA,NA,University of Hohenheim,Germany
+NA,-87.6581066,41.8749598,NA,NA,269,NA,NA,University of Illinois at Chicago,United States
+NA,8.7741641,50.8106859,NA,NA,275,450.5,479,University of Marburg,Germany
+NA,16.3515709,48.2203449,NA,NA,276,250.5,229,Medical University of Vienna,Austria
+NA,-123.0726055,44.0448302,NA,NA,281,250.5,281,University of Oregon,United States
+NA,-122.6887678,45.4972497,NA,NA,282,NA,NA,Oregon Health and Science University,United States
+NA,-46.6490459,-23.5916604,NA,NA,285,175.5,196,University of São Paulo,Brazil
+NA,-82.41385389999999,28.0587031,NA,NA,288,250.5,283,University of South Florida,United States
+NA,17.6628688,59.814947,NA,NA,292,250.5,247,Swedish University of Agricultural Sciences,Sweden
+NA,-76.1351158,43.039153399999996,NA,NA,293,NA,NA,Syracuse University,United States
+NA,-76.71337799999999,37.271674,NA,NA,298,NA,NA,William & Mary,United States
+NA,-147.8335418,64.85575659999999,NA,NA,302,NA,NA,University of Alaska Fairbanks,United States
+NA,0.1345112,52.2032672,NA,NA,303,NA,NA,Anglia Ruskin University,United Kingdom
+NA,52.6805769,36.5611415,NA,NA,304,NA,NA,Babol Noshirvani University of Technology,Iran
+NA,-0.5935827,44.8086048,NA,NA,307,175.5,174,University of Bordeaux,France
+NA,-0.0857006,50.8641901,NA,NA,309,NA,NA,Brighton and Sussex Medical School,United Kingdom
+NA,130.8689199,-12.3717852,NA,NA,310,NA,NA,Charles Darwin University,Australia
+NA,-104.9618965,39.6766174,NA,NA,313,NA,NA,University of Denver,United States
+NA,138.5713281,-35.0244952,NA,NA,315,450.5,420,Flinders University,Australia
+NA,11.6534297,46.7151241,NA,NA,316,NA,NA,Free University of Bozen-Bolzano,Italy
+NA,-77.3119442,38.8314875,NA,NA,317,250.5,214,George Mason University,United States
+NA,5.7749356,45.1906157,NA,NA,319,NA,NA,Grenoble Alpes University,France
+NA,-95.3422334,29.7199489,NA,NA,320,250.5,269,University of Houston,United States
+NA,15.467423,47.0796111,NA,NA,327,NA,NA,Medical University of Graz,Austria
+NA,-96.70047629999999,40.8201966,NA,NA,332,175.5,192,University of Nebraska-Lincoln,United States
+NA,-87.66928209999999,41.874661,NA,NA,336,450.5,449,Rush University,United States
+NA,7.412838600000001,51.4926981,NA,NA,341,NA,NA,TU Dortmund University,Germany
+NA,144.898734,-37.793693,NA,NA,346,NA,NA,Victoria University,Australia
+NA,-87.5391418,33.2140233,NA,NA,351,NA,NA,University of Alabama,United States
+NA,149.0824668,-35.2384588,NA,NA,356,NA,NA,University of Canberra,Australia
+NA,7.266587400000001,43.7169034,NA,NA,360,450.5,483,University of Côte d’Azur,France
+NA,25.0826527,35.3073146,NA,NA,361,NA,NA,University of Crete,Greece
+NA,33.044167,34.675141000000004,NA,NA,363,NA,NA,Cyprus University of Technology,Cyprus
+NA,-75.18994409999999,39.9566127,NA,NA,364,250.5,210,Drexel University,United States
+NA,1.4506494,43.5943757,NA,NA,365,NA,NA,Federal University of Toulouse Midi-Pyrénées,France
+NA,-84.38528190000001,33.753068,NA,NA,367,NA,NA,Georgia State University,United States
+NA,37.6328107,55.7608384,NA,NA,371,NA,NA,Higher School of Economics,Russian Federation
+NA,8.6780201,50.58052,NA,NA,373,NA,NA,Justus Liebig University Giessen,Germany
+NA,113.5575513,22.1634112,NA,NA,379,NA,NA,University of Macau,Macao
+NA,3.8634485,43.6316206,NA,NA,381,250.5,279,Montpellier University,France
+NA,15.24923,59.254276,NA,NA,382,NA,NA,Örebro University,Sweden
+NA,9.1561041,45.1867156,NA,NA,384,350.5,378,University of Pavia,Italy
+NA,-0.1339696,51.5366976,NA,NA,386,NA,NA,Royal Veterinary College,United Kingdom
+NA,14.7920179,40.7687118,NA,NA,388,NA,NA,University of Salerno,Italy
+NA,-81.0274276,33.996112,NA,NA,389,350.5,383,University of South Carolina,United States
+NA,-75.1553512,39.9811935,NA,NA,393,350.5,348,Temple University,United States
+NA,13.7934477,45.658667,NA,NA,394,450.5,492,University of Trieste,Italy
+NA,-73.1964637,44.4778528,NA,NA,398,350.5,393,University of Vermont,United States
+NA,2.1415644,48.799627,NA,NA,399,NA,NA,Université de Versailles Saint-Quentin-en-Yvelines,France
+NA,16.8684745,41.1205546,NA,NA,404,NA,NA,University of Bari Aldo Moro,Italy
+NA,34.8430876,32.0691989,NA,NA,405,450.5,405,Bar-Ilan University,Israel
+NA,9.660490399999999,45.7044335,NA,NA,406,NA,NA,University of Bergamo,Italy
+NA,-75.9697049,42.0893553,NA,NA,408,NA,NA,"Binghamton University, State University of New York",United States
+NA,10.217297,45.537837,NA,NA,410,NA,NA,University of Brescia,Italy
+NA,16.2257177,39.3650216,NA,NA,411,NA,NA,University of Calabria,Italy
+NA,126.956954,37.504147,NA,NA,414,NA,NA,Chung-Ang University,South Korea
+NA,4.8679611,45.7788727,NA,NA,415,250.5,206,Claude Bernard University Lyon 1,France
+NA,33.37701750000001,35.1600014,NA,NA,416,NA,NA,University of Cyprus,Cyprus
+NA,-80.373949,25.756576,NA,NA,419,450.5,421,Florida International University,United States
+NA,8.926743000000002,44.4149029,NA,NA,420,NA,NA,University of Genoa,Italy
+NA,15.4503154,47.0691371,NA,NA,422,NA,NA,Graz University of Technology,Austria
+NA,13.3746059,54.095094,NA,NA,423,NA,NA,University of Greifswald,Germany
+NA,9.969593999999999,53.4635352,NA,NA,424,NA,NA,Hamburg University of Technology,Germany
+NA,5.342293,50.9335322,NA,NA,425,NA,NA,Hasselt University,Belgium
+NA,-73.5994041,40.716792,NA,NA,426,NA,NA,Hofstra University,United States
+NA,-0.3680781,53.7737034,NA,NA,430,NA,NA,University of Hull,United Kingdom
+NA,35.9912257,32.4950392,NA,NA,431,NA,NA,Jordan University of Science and Technology,Jordan
+NA,7.755549599999999,49.4253774,NA,NA,433,NA,NA,University of Kaiserslautern,Germany
+NA,30.9807272,-29.8674219,NA,NA,435,450.5,476,University of KwaZulu-Natal,South Africa
+NA,3.0739621,50.6283462,NA,NA,437,NA,NA,University of Lille,France
+NA,-92.41433669999999,31.178112,NA,NA,438,NA,NA,Louisiana State University,United States
+NA,32.5709881,0.329183,NA,NA,439,NA,NA,Makerere University,Uganda
+NA,-97.1366259,49.8075008,NA,NA,440,350.5,373,University of Manitoba,Canada
+NA,13.5127759,43.6171442,NA,NA,441,NA,NA,Marche Polytechnic University,Italy
+NA,-6.5967864999999994,53.3798527,NA,NA,444,NA,NA,Maynooth University,Ireland
+NA,-0.2293647,51.5898748,NA,NA,445,NA,NA,Middlesex University,United Kingdom
+NA,9.213452,45.518383,NA,NA,446,350.5,374,University of Milan-Bicocca,Italy
+NA,-92.32773750000001,38.9403808,NA,NA,447,250.5,278,University of Missouri,United States
+NA,10.9279268,44.6451046,NA,NA,448,NA,NA,University of Modena and Reggio Emilia,Italy
+NA,-113.9852081,46.8600672,NA,NA,449,450.5,481,University of Montana,United States
+NA,115.8338628,-32.0692218,NA,NA,450,NA,NA,Murdoch University,Australia
+NA,-95.9756821,41.2548019,NA,NA,455,NA,NA,University of Nebraska Medical Center,United States
+NA,6.9387031,46.9938549,NA,NA,456,NA,NA,University of Neuchâtel,Switzerland
+NA,-111.6547075,35.1851895,NA,NA,457,NA,NA,Northern Arizona University,United States
+NA,10.7678837,59.66626549999999,NA,NA,458,NA,NA,Norwegian University of Life Sciences,Norway
+NA,-97.5358282,35.5822671,NA,NA,460,NA,NA,University of Oklahoma,United States
+NA,-0.7084034,52.0250351,NA,NA,461,NA,NA,The Open University,United Kingdom
+NA,10.3255713,44.8012317,NA,NA,463,NA,NA,University of Parma,Italy
+NA,-4.1395777,50.37590609999999,NA,NA,464,NA,NA,Plymouth University,United Kingdom
+NA,73.13812100000001,33.747648,NA,NA,468,NA,NA,Quaid-i-azam University,Pakistan
+NA,-21.9268961,64.123722,NA,NA,469,NA,NA,Reykjavík University,Iceland
+NA,12.479095,41.862585,NA,NA,472,NA,NA,University of Rome III,Italy
+NA,12.1407801,55.65320699999999,NA,NA,473,NA,NA,Roskilde University,Denmark
+NA,1.260497,41.11966090000001,NA,NA,474,NA,NA,University of Rovira i Virgili,Spain
+NA,-90.23382319999999,38.6354598,NA,NA,476,350.5,344,Saint Louis University,United States
+NA,-117.0718893,32.77572170000001,NA,NA,478,NA,NA,San Diego State University,United States
+NA,19.0674834,47.4872816,NA,NA,481,NA,NA,Semmelweis University,Hungary
+NA,8.0254525,50.9112595,NA,NA,482,NA,NA,University of Siegen,Germany
+NA,11.3329627,43.3191797,NA,NA,483,NA,NA,University of Siena,Italy
+NA,153.29781500000001,-28.817990000000002,NA,NA,485,NA,NA,Southern Cross University,Australia
+NA,-98.6196556,29.5830446,NA,NA,489,NA,NA,University of Texas at San Antonio,United States
+NA,121.5074,31.2853,NA,NA,491,350.5,354,Tongji University,China
+NA,-95.946,36.1519879,NA,NA,493,NA,NA,University of Tulsa,United States
+NA,7.6889006,45.06942799999999,NA,NA,494,250.5,289,University of Turin,Italy
+NA,12.6367849,43.72430689999999,NA,NA,496,NA,NA,University of Urbino Carlo Bo,Italy
+NA,11.003376,45.43739799999999,NA,NA,497,NA,NA,Verona University,Italy
+NA,151.0251472,-33.8118321,NA,NA,499,350.5,396,Western Sydney University,Australia
+NA,-87.8819686,43.078263,NA,NA,500,NA,NA,University of Wisconsin-Milwaukee,United States
+NA,-122.4401619,37.7854785,NA,NA,NA,21,21,"University of California, San Francisco",USA
+NA,-74.0043514,40.7259683,NA,NA,NA,29,29,New York University,USA
+NA,-73.9556889,40.7625706,NA,NA,NA,36,36,Rockefeller University,USA
+NA,-96.8439894,32.8156603,NA,NA,NA,48,48,The University of Texas Southwestern Medical Center at Dallas,USA
+NA,-92.46684739999999,44.0224073,NA,NA,NA,71,71,Mayo Medical School,USA
+NA,-112.1598496,33.6075228,NA,NA,NA,125.5,102,Arizona State University,USA
+NA,-95.39624099999999,29.71052899999999,NA,NA,NA,125.5,103,Baylor College of Medicine,USA
+NA,-73.9533616,40.78986949999999,NA,NA,NA,125.5,109,Icahn School of Medicine at Mount Sinai,USA
+NA,-95.3966904,29.7071962,NA,NA,NA,125.5,128,The University of Texas M. D. Anderson Cancer Center,USA
+NA,-1.3980274,50.9362861,NA,NA,NA,125.5,142,University of Southampton,UK
+NA,34.8083407,31.9045055,NA,NA,NA,125.5,149,Weizmann Institute of Science,Israel
+NA,120.6801328,24.1562767,NA,NA,NA,175.5,151,China Medical University (Taichung),China tw
+NA,104.070295,30.63785,NA,NA,NA,175.5,162,Sichuan University,China
+NA,12.3784615,51.3385738,NA,NA,NA,175.5,185,University of Leipzig,Germany
+NA,-71.76107139999999,42.2772479,NA,NA,NA,175.5,188,University of Massachusetts Medical School - Worcester,USA
+NA,39.104697,22.309465,NA,NA,NA,250.5,220,King Abdullah University of Science and Technology,Saudi Arabia
+NA,-0.1302803,51.5209007,NA,NA,NA,250.5,226,London School of Hygiene & Tropical Medicine,UK
+NA,-79.946747,32.7844632,NA,NA,NA,250.5,228,Medical University of South Carolina,USA
+NA,-99.1843676,19.3188895,NA,NA,NA,250.5,231,National Autonomous University of Mexico,Mexico
+NA,-122.6858606,45.4989098,NA,NA,NA,250.5,235,Oregon Health and Science University,USA
+NA,1.4700537,43.5619687,NA,NA,NA,250.5,236,Paul Sabatier University (Toulouse 3),France
+NA,120.651928,31.303257,NA,NA,NA,250.5,242,Soochow University (China),China
+NA,113.344683,23.151326,NA,NA,NA,250.5,243,South China University of Technology,China
+NA,118.79421,32.055981,NA,NA,NA,250.5,244,Southeast University,China
+NA,-98.57535209999999,29.5074654,NA,NA,NA,250.5,255,The University of Texas Health Science Center at San Antonio,USA
+NA,20.4575676,44.8184339,NA,NA,NA,250.5,261,University of Belgrade,Serbia
+NA,104.098784,30.67263,NA,NA,NA,250.5,266,University of Electronic Science and Technology of China,China
+NA,-3.6006329,37.1846223,NA,NA,NA,250.5,267,University of Granada,Spain
+NA,6.1764664,48.6962743,NA,NA,NA,250.5,274,University of Lorraine,France
+NA,-76.6249759,39.2892131,NA,NA,NA,250.5,276,"University of Maryland, Baltimore",USA
+NA,-77.4527272,37.5488396,NA,NA,NA,250.5,294,Virginia Commonwealth University,USA
+NA,116.3411331,39.9828034,NA,NA,NA,350.5,303,Beihang University,China
+NA,-71.16849450000001,42.3355488,NA,NA,NA,350.5,304,Boston College,USA
+NA,-111.6493156,40.2518435,NA,NA,NA,350.5,306,Brigham Young University,USA
+NA,116.352916,39.865177,NA,NA,NA,350.5,307,Capital Medical University,China
+NA,112.93251,28.16437,NA,NA,NA,350.5,308,Central South University,China
+NA,121.3901211,25.0309866,NA,NA,NA,350.5,309,Chang Gung University,China tw
+NA,140.1033682,35.6277374,NA,NA,NA,350.5,310,Chiba University,Japan
+NA,114.401673,30.518151,NA,NA,NA,350.5,311,China University of Geosciences (Wuhan),China
+NA,121.529021,38.880381,NA,NA,NA,350.5,314,Dalian University of Technology,China
+NA,121.425248,31.140897,NA,NA,NA,350.5,315,East China University of Science and Technology,China
+NA,2.347206,48.841427,NA,NA,NA,350.5,317,ESPCI ParisTech,France
+NA,9.805952999999999,52.38405299999999,NA,NA,NA,350.5,320,Hannover Medical School,Germany
+NA,112.94395,28.178915,NA,NA,NA,350.5,322,Hunan University,China
+NA,-86.1763393,39.7738832,NA,NA,NA,350.5,324,Indiana University-Purdue University at Indianapolis,USA
+NA,103.8585624,36.0477699,NA,NA,NA,350.5,330,Lanzhou University,China
+NA,-91.1800023,30.4132579,NA,NA,NA,350.5,332,Louisiana State University - Baton Rouge,USA
+NA,23.7786871,37.968196,NA,NA,NA,350.5,334,National and Kapodistrian University of Athens,Greece
+NA,120.335301,36.061255,NA,NA,NA,350.5,339,Ocean University of China,China
+NA,133.9222225,34.6873868,NA,NA,NA,350.5,340,Okayama University,Japan
+NA,117.029014,36.64893,NA,NA,NA,350.5,346,Shandong University,China
+NA,-95.4030452,29.7034179,NA,NA,NA,350.5,352,The University of Texas Health Science Center at Houston,USA
+NA,-81.2000599,28.6024274,NA,NA,NA,350.5,359,University of Central Florida,USA
+NA,-70.6509277,-33.4445204,NA,NA,NA,350.5,360,University of Chile,Chile
+NA,6.794503,51.1888113,NA,NA,NA,350.5,364,University of Duesseldorf,Germany
+NA,-84.5039697,38.0306511,NA,NA,NA,350.5,370,University of Kentucky,USA
+NA,-97.1525862,33.207488,NA,NA,NA,350.5,376,University of North Texas,USA
+NA,-8.5449726,42.8885225,NA,NA,NA,350.5,381,University of Santiago Compostela,Spain
+NA,51.39573069999999,35.7022192,NA,NA,NA,350.5,390,University of Tehran,Iran
+NA,1.4371122,43.6067724,NA,NA,NA,350.5,391,University of Toulouse 1,France
+NA,51.40916929999999,35.7040861,NA,NA,NA,450.5,402,Amirkabir University of Technology,Iran
+NA,22.9592224,40.6308283,NA,NA,NA,450.5,403,Aristotle University of Thessaloniki,Greece
+NA,116.352988,40.004202,NA,NA,NA,450.5,411,China Agricultural University,China
+NA,-73.99526709999999,40.7583561,NA,NA,NA,450.5,413,City University of New York City College,USA
+NA,121.406829,31.227667,NA,NA,NA,450.5,415,East China Normal University,China
+NA,-43.9663841,-19.8690878,NA,NA,NA,450.5,418,Federal University of Minas Gerais,Brazil
+NA,-51.21882799999999,-30.0338248,NA,NA,NA,450.5,419,Federal University of Rio Grande do Sul,Brazil
+NA,128.098095,35.15404,NA,NA,NA,450.5,422,Gyeongsang National University,South Korea
+NA,126.677952,45.776174,NA,NA,NA,450.5,423,Harbin Engineering University,China
+NA,114.353035,30.475126,NA,NA,NA,450.5,425,Huazhong Agricultural University,China
+NA,28.961838,41.0126037,NA,NA,NA,450.5,426,Istanbul University,Turkey
+NA,120.3097772,22.6473733,NA,NA,NA,450.5,428,Kaohsiung Medical University,China tw
+NA,-81.34146489999999,41.1490629,NA,NA,NA,450.5,429,Kent State University,USA
+NA,128.6113282,35.8900521,NA,NA,NA,450.5,433,Kyungpook National University,South Korea
+NA,2.339632,48.845585,NA,NA,NA,450.5,434,MINES ParisTech,France
+NA,118.842577,32.03341,NA,NA,NA,450.5,435,Nanjing Agricultural University,China
+NA,118.774763,32.043846,NA,NA,NA,450.5,436,Nanjing Medical University,China
+NA,118.8180754,32.0341244,NA,NA,NA,450.5,437,Nanjing University of Aeronautics and Astronautics,China
+NA,118.855317,32.035225,NA,NA,NA,450.5,438,Nanjing University of Science and Technology,China
+NA,-106.7479059,32.2787745,NA,NA,NA,450.5,440,New Mexico State University,USA
+NA,123.4145076,41.7674641,NA,NA,NA,450.5,441,Northeastern University (Shenyang),China
+NA,-122.1924837,47.6576921,NA,NA,NA,450.5,442,Northwest University,China
+NA,-97.07372219999999,36.1270236,NA,NA,NA,450.5,444,Oklahoma State University,USA
+NA,135.5050308,34.5905808,NA,NA,NA,450.5,445,Osaka City University,Japan
+NA,116.41481,39.911431,NA,NA,NA,450.5,446,Peking Union Medical College,China
+NA,18.0567906,59.34161820000001,NA,NA,NA,450.5,453,Stockholm School of Economics,Sweden
+NA,-97.1140116,32.7298718,NA,NA,NA,450.5,456,The University of Texas at Arlington,USA
+NA,-94.7777698,29.3110199,NA,NA,NA,450.5,457,The University of Texas Medical Branch at Galveston,USA
+NA,134.559832,34.070001,NA,NA,NA,450.5,458,The University of Tokushima,Japan
+NA,-75.1922881,40.0187208,NA,NA,NA,450.5,459,Thomas Jefferson University,USA
+NA,139.741398,35.699399,NA,NA,NA,450.5,460,Tokyo University of Science,Japan
+NA,-0.0689003,39.9945711,NA,NA,NA,450.5,462,Universitat Jaume I,Spain
+NA,-73.82258519999999,42.6779775,NA,NA,NA,450.5,463,University at Albany (State University of New York),USA
+NA,-8.657506,40.6303024,NA,NA,NA,450.5,464,University of Aveiro,Portugal
+NA,11.6262692,44.8334299,NA,NA,NA,450.5,470,University of Ferrara,Italy
+NA,28.0171001,-26.1875311,NA,NA,NA,450.5,474,University of Johannesburg,South Africa
+NA,14.5041552,46.0491938,NA,NA,NA,450.5,477,University of Ljubljana,Slovenia
+NA,-8.3962883,41.5609263,NA,NA,NA,450.5,480,University of Minho,Portugal
+NA,-70.9370252,43.138948,NA,NA,NA,450.5,482,University of New Hampshire - Durham,USA
+NA,-97.4457137,35.2058936,NA,NA,NA,450.5,484,University of Oklahoma - Norman,USA
+NA,13.369838,38.11779,NA,NA,NA,450.5,486,University of Palermo,Italy
+NA,12.0951719,48.99808119999999,NA,NA,NA,450.5,488,University of Regensburg,Germany
+NA,12.1035044,54.0755448,NA,NA,NA,450.5,489,University of Rostock,Germany
+NA,-2.9678921,43.3309433,NA,NA,NA,450.5,491,University of the Basque Country,Spain
+NA,-0.3593863,39.4793254,NA,NA,NA,450.5,494,University of Valencia,Spain
+NA,-104.1843942,42.0624646,NA,NA,NA,450.5,495,University of Wyoming,USA
+NA,-79.95593579999999,39.6361396,NA,NA,NA,450.5,499,West Virginia University,USA
+NA,114.3424844,30.5986568,NA,NA,NA,450.5,500,Wuhan University of Technology,China

@@ -1,0 +1,450 @@
+---
+title: "University ranking"
+author: "Duc-Quang Nguyen | swissinfo.ch"
+date: " 2018"
+output: 
+  html_document:
+    code_folding: show
+    echo: TRUE
+    warning: FALSE
+    message: FALSE
+    toc: yes
+    toc_depth: 3
+    theme: simplex
+---
+
+## Data
+
+### QS
+* Seems impoosible to scrape without phantomjs
+* I used a quick way though, after displaying the whole table in the browser:
+  * show Ranking indicators tab
+  * show all (instead of 25)
+  * save the whole page locally. Then use rvest
+
+
+## Open Refine
+* After putting all the university names in one csv ( name, country, ranking source), use Open Refine [reconciliation service](https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation)
+* This reconciliation service has to be added manually [Wikidata Reconciliation for OpenRefine](http://musingsaboutlibrarianship.blogspot.ch/2017/03/openrefine-reconciliation-services.html)
+
+
+```{r setup, include=FALSE}
+scrapeData <- F
+openRefineExport <- F
+geocodeData <- F
+
+qsLocalUrl <- 'data/QS World University Rankings 2018 _ Top Universities.htm'
+qsLocalUrlCountry <- 'data/QS World University Rankings 2018 _ Top Universities_ranking.htm'
+timesUrl <- 'https://www.timeshighereducation.com/world-university-rankings/2018/world-ranking#!/page/0/length/-1/sort_by/rank/sort_order/asc/cols/stats'
+shangaiUrl1 <- 'http://www.shanghairanking.com/ARWU2017.html'
+shangaiUrl2 <- 'http://www.shanghairanking.com/ARWU2017Candidates.html'
+
+cleanOutput <- F
+
+require(lintr)
+library(tidyverse)
+library(magrittr)
+library(stringr)
+library(knitr)
+library(countrycode)
+library(swiMap)
+library(swiTheme)
+
+### Getting data in packages
+library(rvest)
+library(skimr)
+```
+
+
+```{r scrape university rankings}
+# helper: write out a script phantomjs can process
+renderJS_page <- function(url, file = "scrape.js") {
+  writeLines(sprintf("var page = require('webpage').create();
+  page.open('%s', function () {
+    console.log(page.content); //page source
+    phantom.exit();
+});", url), con = file)  
+}
+
+
+if(scrapeData) {
+  ## 1. get QS indicators
+  qs_table <- read_html(qsLocalUrl) %>%
+    html_nodes("table#qs-rankings-indicators") %>% 
+    html_table()
+  # some ranking are NA, remove them
+  qs_table <- qs_table[[1]] %>%
+    rename(qs_rank = `# RANK20182017201620152018`) %>%
+    filter(qs_rank != 'N/A')
+  
+  countries <- read_html(qsLocalUrlCountry) %>%
+    html_nodes("table#qs-rankings") %>% 
+    html_nodes(".country div img") %>%
+    html_attr("data-original-title")
+  
+  unis <- read_html(qsLocalUrlCountry) %>%
+    html_nodes("table#qs-rankings") %>% 
+    html_nodes(".uni div") %>%
+    html_nodes(".title") %>% 
+    html_text()
+  
+  stopifnot(nrow(qs_table) == length(countries))
+  qs_table$country <- countries[match(qs_table$UNIVERSITY, unis)]
+ # qs_table$uni <- unis[match(qs_table$UNIVERSITY, unis)]
+  qs_table %<>% select(qs_rank, UNIVERSITY, country, everything())
+# qs_table %<>% select(qs_rank, UNIVERSITY, country, uni, everything())
+  
+  
+  tmp <- read_html(qsLocalUrlCountry) %>%
+    html_nodes("table#qs-rankings") %>% html_table()
+  
+  
+  ## 2 Times
+  # render the javacript page and save it
+  renderJS_page(timesUrl, "scrape_times.js")
+  system("~/swissinfo/phantomjs-2.1.1-macosx/bin/phantomjs scrape_times.js > scrape_times.html")
+  
+  ## note: run html_text on the table node, will result in a mess of text (unveristy name and country appended)
+  ti_table <- read_html("scrape_times.html") %>% 
+    html_node("table") %>% 
+    html_nodes ("tr") #%>%  html_children()
+  
+  #ti_table %>% html_children()
+  ti_rank <- ti_table %>%
+    html_nodes(".rank.sorting_1.sorting_2") %>% 
+    html_text()
+  
+  ti_name <- ti_table %>%
+    html_nodes(".name.namesearch a") %>%
+    html_text()
+  # get rid of the apply caught
+  ti_name <- ti_name[which(!grepl("Apply", ti_name))]
+  ti_name <- matrix(ti_name, ncol = 3, byrow = T)[,1:2] %>% 
+    as.tibble() %>%
+    rename(name = V1, country = V2)
+  ti_table <- cbind(ti_rank, ti_name) %>% as.tibble()
+  
+  
+  ## 3 Shangai
+  scrapeShangaiRanking <- function(url) {
+   sh_tmp <- read_html(url) %>%
+     html_nodes("table") %>% 
+     html_table(fill = T) %>% 
+     .[[1]]
+   colnames(sh_tmp) <- c(
+     'sh_rank', 'name', 'V3', 'nationalRank', 'score',
+     'alumni', 'award', 'HiCi', 'N&S', 'PUB', 'PCP')
+   
+    sh_table <- sh_tmp %>% 
+      as.tibble() %>%
+      select(-V3)
+  
+    # retrieve the country back
+    countries <-read_html(url) %>%
+      html_nodes("table tr") %>% 
+      html_nodes("td a") %>% 
+      html_attr("href")
+    idx <- str_detect(countries, pattern = "^World\\-University\\-Rankings\\-2017\\/")
+    countries <- str_replace(countries[idx], "^World\\-University\\-Rankings\\-2017\\/", "")
+    countries <- str_replace(countries, "\\-", " ") %>%
+      str_replace("\\.html", "")
+    stopifnot(nrow(sh_table) == length(countries))
+    sh_table$country = countries    
+    sh_table
+  }
+  sh_table <- scrapeShangaiRanking(shangaiUrl1)
+  
+  save(qs_table, ti_table, sh_table, file = "data/3rankingScraped.RData")  
+} else {
+  load("data/3rankingScraped.RData")
+}
+
+if(openRefineExport) {
+  # Prepare a data.frame of university names for open Refine
+  threeMessRankings <- bind_rows(list(
+    qs_table %>% 
+      select(UNIVERSITY, country) %>% 
+      rename(name = UNIVERSITY) %>% 
+      mutate(key = 1:n(), source = "QS"),
+    
+    ti_table %>% 
+      select(name, country) %>% 
+      mutate(key = 1:n(), source = "times"),
+    
+    sh_table %>% 
+      select(name, country) %>% 
+      mutate(key = 1:n(), source = "Shangai")
+  ))
+  
+  
+  write_csv(threeMessRankings, "data/threeMessRankings2OpenRefine_pre.csv")  
+} else {
+  or_rankings <- read_csv("data/threeMessRankings2OpenRefine_post.csv")
+}
+
+## Relabel university names based on Open Refine
+qs_table$UNIVERSITY <- or_rankings %>% 
+  filter(source == "QS") %>% 
+  arrange(key) %>% 
+  .$name
+
+ti_table$name <- or_rankings %>% 
+  filter(source == "times") %>% 
+  arrange(key) %>% 
+  .$name
+
+sh_table$name <- or_rankings %>% 
+  filter(source == "Shangai") %>% 
+  arrange(key) %>% 
+  .$name
+
+```
+
+
+
+
+
+
+
+
+```{r reconcile/merge datasets based geolocation}
+## 1. Take only the top 500 for the 3 rankings!
+if(geocodeData) {
+  library(ggmap)
+  qst <- qs_table %>% 
+    filter(!qs_rank %in% 
+             c('501-550', '551-600', '601-650', '651-700', 
+               '701-750', '751-800', '801-1000')) %>%
+    # remove the abbrevation from the unversity names
+    mutate(UNIVERSITY = str_replace_all(UNIVERSITY, " \\(.*\\)$", ""))
+    
+  nrow(qst)
+  ti_table %<>%
+    mutate(ti_rank = str_replace_all(ti_rank, "=", ""))
+  tit <- ti_table %>% filter(!ti_rank %in% c("501–600", "601–800", "801–1000", "1001+"))
+  #tit$ti_rank
+  nrow(tit)
+  
+  #sh_table$sh_rank
+  nrow(sh_table)
+  
+  ## 2. geocode
+  # https://stackoverflow.com/questions/36175529/getting-over-query-limit-after-one-request-with-geocode?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+  # -- need to install the devtools version of ggmap 2.7 and register API key, otherwise full of query limit errors!!! 
+  register_google(key = "AIzaSyBGsMcsB0QKM2Mjxh-JvPPrn-5wm0KRr3o")
+  
+  # a. QS init
+  qst$lon <- NA
+  qst$lat <- NA
+  i <- 1:nrow(qst) 
+  geocodeQueryCheck()
+  res <- geocode(str_c(qst$UNIVERSITY[i], ", ", qst$country[i]), output = "latlon", source = "google", messaging = T)
+  
+  qst[i,"lon"] <- res$lon
+  qst[i,"lat"] <- res$lat
+  
+  # b TI init
+  tit$lon <- NA
+  tit$lat <- NA
+  
+  i <- 1:nrow(tit) 
+  geocodeQueryCheck()
+  res <- geocode(str_c(tit$name[i], ", ", tit$country[i]), output = "latlon", source = "google", messaging = T)
+  
+  tit[i,"lon"] <- res$lon
+  tit[i,"lat"] <- res$lat
+  
+  # c Shangai
+  sh_table$lon <- NA
+  sh_table$lat <- NA
+  
+  i <- 1:nrow(sh_table) 
+  geocodeQueryCheck()
+  res <- geocode(str_c(sh_table$name[i], ", ", sh_table$country[i]), output = "latlon", source = "google", messaging = T)
+  
+  sh_table[i,"lon"] <- res$lon
+  sh_table[i,"lat"] <- res$lat
+  
+  if(any(is.na(sh_table$lon))) {
+    i <- which(is.na(sh_table$lon))
+    res <- geocode(str_c(sh_table$name[i], ", ", str_replace(sh_table$country[i], " tw", "")), output = "latlon", source = "google", messaging = T)
+    sh_table[i,"lon"] <- res$lon
+    sh_table[i,"lat"] <- res$lat
+  }
+  
+  save(qst, tit, sh_table, file = "input/3top500RankingRefinedGeocoded.RData")    
+} else {
+  load("input/3top500RankingRefinedGeocoded.RData")
+}
+
+## 2. R
+c(qst$lon, tit$lon, sh_table$lon)
+c(qst$lon, tit$lon, sh_table$lon) %>% unique() %>% length()
+
+c(qst$lat, tit$lat, sh_table$lat)  %>% length()
+c(qst$lat, tit$lat, sh_table$lat) %>% unique() %>% length()
+
+
+qtmp <- qst %>%
+  select(qs_rank, UNIVERSITY, country, lon, lat) %>% 
+  rename(qs_name = UNIVERSITY, qs_country = country) %>%
+  mutate(
+    qs_rank = str_replace_all(qs_rank, "^=", ""),
+    qs_key = 1:n()
+  )
+stopifnot(all(!duplicated(qtmp$lon)))
+
+
+ttmp <- tit %>% 
+  rename(ti_name = name, ti_country = country) %>% 
+  mutate(
+    ti_key = 1:n()
+  ) %>% 
+  as.data.frame()
+# remove the duplicated entries, the 3 ones at the end
+ttmp %<>% filter(!duplicated(lon))
+stopifnot(all(!duplicated(ttmp$lon)))
+
+stmp <- sh_table %>%
+  select(sh_rank, name, country, lon, lat) %>% 
+  rename(sh_name = name, sh_country = country) %>%
+  mutate(
+    sh_key = 1:n()
+  ) %>% 
+    as.data.frame()
+# remove the duplicated entries,
+stmp %<>% filter(!duplicated(lon))
+stopifnot(all(!duplicated(stmp$lon)))
+
+rank2int <- function(ranks) {
+  idxInt <- which(str_detect(ranks, "^\\d+$"))
+  if(length(idxInt) > 0) {
+    ranks[idxInt] <- as.integer(ranks[idxInt])
+  }
+  
+  # get the index of integer intervals
+  idxItl <- which(str_detect(ranks, "^\\d+\\-\\d+$"))
+  if(length(idxItl) > 0) {
+    rrange <- tibble(
+      rangeStart = str_extract(ranks[idxItl], "^\\d+") %>% as.integer(),
+      rangeEnd = str_extract(ranks[idxItl], "\\d+$") %>% as.integer()
+    )
+    ranks[idxItl] <- rowMeans(rrange)
+  }
+  as.numeric(ranks)
+}
+
+threeR <- full_join(
+  full_join(qtmp, ttmp),
+  left_join(stmp, ttmp) 
+)  %>% 
+  mutate(
+    qs_rank = rank2int(qs_rank),
+    ti_rank = rank2int(ti_rank),
+    sh_rank = rank2int(sh_rank)
+  ) 
+
+threeR$name <- ifelse(!is.na(threeR$qs_name), threeR$qs_name, 
+                      ifelse(!is.na(threeR$ti_name), threeR$ti_name, threeR$sh_name))
+
+stopifnot(all(!is.na(threeR$name)))
+
+threeR$country <- ifelse(!is.na(threeR$qs_country), threeR$qs_country, 
+                      ifelse(!is.na(threeR$ti_country), threeR$ti_country, threeR$sh_country))
+stopifnot(all(!is.na(threeR$country)))
+threeR %<>% 
+  select(-qs_name, -qs_country, -ti_name, -ti_country, -sh_name, -sh_country) %>% 
+  select(name, country, everything())
+
+
+threeRtop <- threeR %>% 
+  select(name, country, qs_rank, ti_rank, sh_rank, everything()) %>% 
+  mutate(
+    sum3R = ifelse(is.na(qs_rank), 0, qs_rank)  + ifelse(is.na(ti_rank), 0, ti_rank)  + ifelse(is.na(sh_rank), 0, sh_rank),
+    nonNA3R = is.na(qs_rank) + is.na(ti_rank) + is.na(sh_rank),
+    rank = sum3R / (3-nonNA3R)
+    ) %>% 
+  arrange(rank) 
+
+threeRtop %>% write_csv("data/threeRanking_merged_pre.csv")
+## edit that file by hand in libre office!
+threeRtop %>% filter(nonNA3R > 0) %>% head(20)
+
+```
+
+```{r explore merged data}
+threeRtop <- read_csv("data/threeRanking_merged_post.csv") %>% 
+   mutate(
+    sum3R = ifelse(is.na(qs_rank), 0, qs_rank)  + ifelse(is.na(ti_rank), 0, ti_rank)  + ifelse(is.na(sh_rank), 0, sh_rank),
+    nonNA3R = is.na(qs_rank) + is.na(ti_rank) + is.na(sh_rank),
+    rank = sum3R / (3-nonNA3R)
+    ) %>% 
+  arrange(rank) 
+
+# reformat country name, label geo location (region)
+threeRtop %<>% 
+  mutate(
+    iso2 = countrycode(country, "country.name", "iso2c"),
+    country = countrycode(iso2, "iso2c", "country.name.en"),
+    region = countrycode(iso2, "iso2c", "region"),
+    continent = countrycode(iso2, "iso2c", "continent"),
+    invRank = 1/ rank,
+    intRank = round(rank),
+    rankGroup = cut(rank, breaks = c(0, 50, 100, 200, 300, 400, 500), 
+                    labels = c(' 0-50', ' 50-100', '100-200', '200-300', '300-400', '400-500'))
+  ) %>% 
+  select(-sum3R, -nonNA3R, -qs_key, -ti_key, -sh_key)
+  
+
+threeRtop %>% 
+  head(500) %>% 
+  mutate(keylocation = str_c("loc_", 1:n())) %>% 
+  select(-lon, -lat) %>% 
+  write_csv("input/threeRtop500.csv", na ='')
+
+# make it long
+threeRtop %>% 
+  filter(!is.na(qs_rank), !is.na(ti_rank), !is.na(sh_rank)) %>% 
+  head(50) %>% 
+  select(-lon, -lat, -iso2, -region, invRank, -rankGroup) %>% 
+  rename(`average rank` = rank) %>% 
+  gather(key = ranking, value = rank, -name, -country, -`average rank`, -continent, -invRank, -intRank) %>% 
+  mutate(
+    ranking = case_when(
+      ranking == "qs_rank" ~ "QS ranking 2018",
+      ranking == "ti_rank" ~ "Times Higher Education 2018",
+      ranking == "sh_rank" ~ "Shangai ranking 2017",
+  )) %>% 
+  write_csv("input/threeRtop50_long.csv", na ='')
+
+
+threeRtop %>% 
+  head(500) %>% 
+  mutate(keylocation = str_c("loc_", 1:n())) %>% 
+  select(lon, lat, keylocation, country, region, name) %>% 
+  write_csv("input/threeRtop500_lonLat.csv")
+```
+
+
+```{r move production graphics}
+if (cleanOutput) {
+  files <- c("basename_.*html", "js")
+
+  if (!dir.exists("output/bak")) {
+    dir.create("output/bak")
+  } else {
+    list.files("output/bak/", full.names = T, recursive = T) %>% file.remove()
+  }
+  ori.files <- list.files("output", full.names = T)[list.files("output") != "bak"]
+  file.copy(ori.files, to = "output/bak/", recursive = T)
+  unlink(ori.files, recursive = T)
+
+  files_tomove <- lapply(files, function(x) list.files(pattern = x)) %>% unlist()
+  file.copy(files_tomove, "output", recursive = T)
+  unlink(files_tomove, recursive = T)
+}
+```
+
+```{r linting}
+lintr::lint(knitr::current_input())
+```

@@ -1,0 +1,1 @@
+document.write('<script src="//www.googletagservices.com/tag/js/gpt.js">\r\n\r\n   googletag.pubads().definePassback(\'/8070/Topuni-Web/passback\', [300, 600]).display();\r\n\r\n<\/script>');

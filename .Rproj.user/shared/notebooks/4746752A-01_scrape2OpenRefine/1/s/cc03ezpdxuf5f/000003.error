@@ -1,0 +1,1 @@
+{"frames":[{"character_number":0,"end_character_number":0,"end_line_number":0,"file":"","func":"stopifnot(nrow(qs_table == length(countries)))","line_number":0},{"character_number":0,"end_character_number":0,"end_line_number":0,"file":"","func":"stop(msg, call. = FALSE, domain = NA)","line_number":0}],"message":"Error: nrow(qs_table == length(countries)) is not TRUE\n"}

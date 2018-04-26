@@ -1,0 +1,151 @@
+name,country,average rank,continent,invRank,intRank,ranking,rank
+Stanford University,United States of America,2.3333333333333335,Americas,0.42857142857142855,2,QS ranking 2018,2
+Massachusetts Institute of Technology,United States of America,3.3333333333333335,Americas,0.3,3,QS ranking 2018,1
+Harvard University,United States of America,3.3333333333333335,Americas,0.3,3,QS ranking 2018,3
+University of Cambridge,United Kingdom of Great Britain and Northern Ireland,3.3333333333333335,Europe,0.3,3,QS ranking 2018,5
+University of Oxford,United Kingdom of Great Britain and Northern Ireland,4.666666666666667,Europe,0.21428571428571427,5,QS ranking 2018,6
+California Institute of Technology,United States of America,5.333333333333333,Americas,0.1875,5,QS ranking 2018,4
+Princeton University,United States of America,8.666666666666666,Americas,0.11538461538461539,9,QS ranking 2018,13
+University of Chicago,United States of America,9.333333333333334,Americas,0.10714285714285714,9,QS ranking 2018,9
+ETH Zurich,Switzerland,13,Europe,0.07692307692307693,13,QS ranking 2018,10
+Yale University,United States of America,13,Americas,0.07692307692307693,13,QS ranking 2018,16
+Columbia University,United States of America,13.333333333333334,Americas,0.075,13,QS ranking 2018,18
+Imperial College London,United Kingdom of Great Britain and Northern Ireland,14.333333333333334,Europe,0.06976744186046512,14,QS ranking 2018,8
+University of Pennsylvania,United States of America,15.333333333333334,Americas,0.06521739130434782,15,QS ranking 2018,19
+Cornell University,United States of America,15.666666666666666,Americas,0.06382978723404256,16,QS ranking 2018,14
+Johns Hopkins University,United States of America,16,Americas,0.0625,16,QS ranking 2018,17
+"University of California, Berkeley",United States of America,16.666666666666668,Americas,0.06,17,QS ranking 2018,27
+"University of California, Los Angeles",United States of America,20,Americas,0.05,20,QS ranking 2018,33
+Duke University,United States of America,21.333333333333332,Americas,0.046875,21,QS ranking 2018,21
+University of Michigan,United States of America,22,Americas,0.045454545454545456,22,QS ranking 2018,21
+Northwestern University,United States of America,23.333333333333332,Americas,0.04285714285714286,23,QS ranking 2018,28
+University of Toronto,Canada,25.333333333333332,Americas,0.03947368421052632,25,QS ranking 2018,31
+University of Edinburgh,United Kingdom of Great Britain and Northern Ireland,27.333333333333332,Europe,0.03658536585365854,27,QS ranking 2018,23
+"University of California, San Diego",United States of America,28,Americas,0.03571428571428571,28,QS ranking 2018,38
+University of Tokyo,Japan,32.666666666666664,Asia,0.030612244897959186,33,QS ranking 2018,28
+University of Washington,United States of America,33,Americas,0.030303030303030304,33,QS ranking 2018,61
+Tsinghua University,China,34.333333333333336,Asia,0.029126213592233007,34,QS ranking 2018,25
+King's College London,United Kingdom of Great Britain and Northern Ireland,35,Europe,0.02857142857142857,35,QS ranking 2018,23
+New York University,United States of America,36,Americas,0.027777777777777776,36,QS ranking 2018,52
+University of Melbourne,Australia,37.333333333333336,Oceania,0.026785714285714284,37,QS ranking 2018,41
+University of British Columbia,Canada,38.666666666666664,Americas,0.025862068965517244,39,QS ranking 2018,51
+École polytechnique fédérale de Lausanne,Switzerland,42,Europe,0.023809523809523808,42,QS ranking 2018,12
+University of Manchester,United Kingdom of Great Britain and Northern Ireland,42,Europe,0.023809523809523808,42,QS ranking 2018,34
+University of Wisconsin–Madison,United States of America,42,Americas,0.023809523809523808,42,QS ranking 2018,55
+National University of Singapore,Singapore,42.666666666666664,Asia,0.0234375,43,QS ranking 2018,15
+Peking University,China,45.333333333333336,Asia,0.022058823529411763,45,QS ranking 2018,38
+McGill University,Canada,47,Americas,0.02127659574468085,47,QS ranking 2018,32
+University of Illinois at Urbana–Champaign,United States of America,47.666666666666664,Americas,0.02097902097902098,48,QS ranking 2018,69
+Kyoto University,Japan,48.333333333333336,Asia,0.020689655172413793,48,QS ranking 2018,36
+Carnegie Mellon University,United States of America,50.333333333333336,Americas,0.01986754966887417,50,QS ranking 2018,47
+Technical University of Munich,Germany,51.666666666666664,Europe,0.01935483870967742,52,QS ranking 2018,64
+Heidelberg University,Germany,51.666666666666664,Europe,0.01935483870967742,52,QS ranking 2018,68
+Ludwig Maximilian University of Munich,Germany,52.333333333333336,Europe,0.01910828025477707,52,QS ranking 2018,66
+Australian National University,Australia,55,Oceania,0.01818181818181818,55,QS ranking 2018,20
+University of Queensland,Australia,55.666666666666664,Oceania,0.017964071856287425,56,QS ranking 2018,47
+University of Texas at Austin,United States of America,55.666666666666664,Americas,0.017964071856287425,56,QS ranking 2018,67
+University of North Carolina at Chapel Hill,United States of America,56.333333333333336,Americas,0.01775147928994083,56,QS ranking 2018,80
+Washington University in St. Louis,United States of America,56.666666666666664,Americas,0.01764705882352941,57,QS ranking 2018,100
+University of Bristol,United Kingdom of Great Britain and Northern Ireland,60.333333333333336,Europe,0.016574585635359115,60,QS ranking 2018,44
+Georgia Institute of Technology,United States of America,62.666666666666664,Americas,0.01595744680851064,63,QS ranking 2018,70
+Nanyang Technological University,Singapore,62.833333333333336,Asia,0.015915119363395226,63,QS ranking 2018,11
+Stanford University,United States of America,2.3333333333333335,Americas,0.42857142857142855,2,Times Higher Education 2018,3
+Massachusetts Institute of Technology,United States of America,3.3333333333333335,Americas,0.3,3,Times Higher Education 2018,5
+Harvard University,United States of America,3.3333333333333335,Americas,0.3,3,Times Higher Education 2018,6
+University of Cambridge,United Kingdom of Great Britain and Northern Ireland,3.3333333333333335,Europe,0.3,3,Times Higher Education 2018,2
+University of Oxford,United Kingdom of Great Britain and Northern Ireland,4.666666666666667,Europe,0.21428571428571427,5,Times Higher Education 2018,1
+California Institute of Technology,United States of America,5.333333333333333,Americas,0.1875,5,Times Higher Education 2018,3
+Princeton University,United States of America,8.666666666666666,Americas,0.11538461538461539,9,Times Higher Education 2018,7
+University of Chicago,United States of America,9.333333333333334,Americas,0.10714285714285714,9,Times Higher Education 2018,9
+ETH Zurich,Switzerland,13,Europe,0.07692307692307693,13,Times Higher Education 2018,10
+Yale University,United States of America,13,Americas,0.07692307692307693,13,Times Higher Education 2018,12
+Columbia University,United States of America,13.333333333333334,Americas,0.075,13,Times Higher Education 2018,14
+Imperial College London,United Kingdom of Great Britain and Northern Ireland,14.333333333333334,Europe,0.06976744186046512,14,Times Higher Education 2018,8
+University of Pennsylvania,United States of America,15.333333333333334,Americas,0.06521739130434782,15,Times Higher Education 2018,10
+Cornell University,United States of America,15.666666666666666,Americas,0.06382978723404256,16,Times Higher Education 2018,19
+Johns Hopkins University,United States of America,16,Americas,0.0625,16,Times Higher Education 2018,13
+"University of California, Berkeley",United States of America,16.666666666666668,Americas,0.06,17,Times Higher Education 2018,18
+"University of California, Los Angeles",United States of America,20,Americas,0.05,20,Times Higher Education 2018,15
+Duke University,United States of America,21.333333333333332,Americas,0.046875,21,Times Higher Education 2018,17
+University of Michigan,United States of America,22,Americas,0.045454545454545456,22,Times Higher Education 2018,21
+Northwestern University,United States of America,23.333333333333332,Americas,0.04285714285714286,23,Times Higher Education 2018,20
+University of Toronto,Canada,25.333333333333332,Americas,0.03947368421052632,25,Times Higher Education 2018,22
+University of Edinburgh,United Kingdom of Great Britain and Northern Ireland,27.333333333333332,Europe,0.03658536585365854,27,Times Higher Education 2018,27
+"University of California, San Diego",United States of America,28,Americas,0.03571428571428571,28,Times Higher Education 2018,31
+University of Tokyo,Japan,32.666666666666664,Asia,0.030612244897959186,33,Times Higher Education 2018,46
+University of Washington,United States of America,33,Americas,0.030303030303030304,33,Times Higher Education 2018,25
+Tsinghua University,China,34.333333333333336,Asia,0.029126213592233007,34,Times Higher Education 2018,30
+King's College London,United Kingdom of Great Britain and Northern Ireland,35,Europe,0.02857142857142857,35,Times Higher Education 2018,36
+New York University,United States of America,36,Americas,0.027777777777777776,36,Times Higher Education 2018,27
+University of Melbourne,Australia,37.333333333333336,Oceania,0.026785714285714284,37,Times Higher Education 2018,32
+University of British Columbia,Canada,38.666666666666664,Americas,0.025862068965517244,39,Times Higher Education 2018,34
+École polytechnique fédérale de Lausanne,Switzerland,42,Europe,0.023809523809523808,42,Times Higher Education 2018,38
+University of Manchester,United Kingdom of Great Britain and Northern Ireland,42,Europe,0.023809523809523808,42,Times Higher Education 2018,54
+University of Wisconsin–Madison,United States of America,42,Americas,0.023809523809523808,42,Times Higher Education 2018,43
+National University of Singapore,Singapore,42.666666666666664,Asia,0.0234375,43,Times Higher Education 2018,22
+Peking University,China,45.333333333333336,Asia,0.022058823529411763,45,Times Higher Education 2018,27
+McGill University,Canada,47,Americas,0.02127659574468085,47,Times Higher Education 2018,42
+University of Illinois at Urbana–Champaign,United States of America,47.666666666666664,Americas,0.02097902097902098,48,Times Higher Education 2018,37
+Kyoto University,Japan,48.333333333333336,Asia,0.020689655172413793,48,Times Higher Education 2018,74
+Carnegie Mellon University,United States of America,50.333333333333336,Americas,0.01986754966887417,50,Times Higher Education 2018,24
+Technical University of Munich,Germany,51.666666666666664,Europe,0.01935483870967742,52,Times Higher Education 2018,41
+Heidelberg University,Germany,51.666666666666664,Europe,0.01935483870967742,52,Times Higher Education 2018,45
+Ludwig Maximilian University of Munich,Germany,52.333333333333336,Europe,0.01910828025477707,52,Times Higher Education 2018,34
+Australian National University,Australia,55,Oceania,0.01818181818181818,55,Times Higher Education 2018,48
+University of Queensland,Australia,55.666666666666664,Oceania,0.017964071856287425,56,Times Higher Education 2018,65
+University of Texas at Austin,United States of America,55.666666666666664,Americas,0.017964071856287425,56,Times Higher Education 2018,49
+University of North Carolina at Chapel Hill,United States of America,56.333333333333336,Americas,0.01775147928994083,56,Times Higher Education 2018,56
+Washington University in St. Louis,United States of America,56.666666666666664,Americas,0.01764705882352941,57,Times Higher Education 2018,50
+University of Bristol,United Kingdom of Great Britain and Northern Ireland,60.333333333333336,Europe,0.016574585635359115,60,Times Higher Education 2018,76
+Georgia Institute of Technology,United States of America,62.666666666666664,Americas,0.01595744680851064,63,Times Higher Education 2018,33
+Nanyang Technological University,Singapore,62.833333333333336,Asia,0.015915119363395226,63,Times Higher Education 2018,52
+Stanford University,United States of America,2.3333333333333335,Americas,0.42857142857142855,2,Shangai ranking 2017,2
+Massachusetts Institute of Technology,United States of America,3.3333333333333335,Americas,0.3,3,Shangai ranking 2017,4
+Harvard University,United States of America,3.3333333333333335,Americas,0.3,3,Shangai ranking 2017,1
+University of Cambridge,United Kingdom of Great Britain and Northern Ireland,3.3333333333333335,Europe,0.3,3,Shangai ranking 2017,3
+University of Oxford,United Kingdom of Great Britain and Northern Ireland,4.666666666666667,Europe,0.21428571428571427,5,Shangai ranking 2017,7
+California Institute of Technology,United States of America,5.333333333333333,Americas,0.1875,5,Shangai ranking 2017,9
+Princeton University,United States of America,8.666666666666666,Americas,0.11538461538461539,9,Shangai ranking 2017,6
+University of Chicago,United States of America,9.333333333333334,Americas,0.10714285714285714,9,Shangai ranking 2017,10
+ETH Zurich,Switzerland,13,Europe,0.07692307692307693,13,Shangai ranking 2017,19
+Yale University,United States of America,13,Americas,0.07692307692307693,13,Shangai ranking 2017,11
+Columbia University,United States of America,13.333333333333334,Americas,0.075,13,Shangai ranking 2017,8
+Imperial College London,United Kingdom of Great Britain and Northern Ireland,14.333333333333334,Europe,0.06976744186046512,14,Shangai ranking 2017,27
+University of Pennsylvania,United States of America,15.333333333333334,Americas,0.06521739130434782,15,Shangai ranking 2017,17
+Cornell University,United States of America,15.666666666666666,Americas,0.06382978723404256,16,Shangai ranking 2017,14
+Johns Hopkins University,United States of America,16,Americas,0.0625,16,Shangai ranking 2017,18
+"University of California, Berkeley",United States of America,16.666666666666668,Americas,0.06,17,Shangai ranking 2017,5
+"University of California, Los Angeles",United States of America,20,Americas,0.05,20,Shangai ranking 2017,12
+Duke University,United States of America,21.333333333333332,Americas,0.046875,21,Shangai ranking 2017,26
+University of Michigan,United States of America,22,Americas,0.045454545454545456,22,Shangai ranking 2017,24
+Northwestern University,United States of America,23.333333333333332,Americas,0.04285714285714286,23,Shangai ranking 2017,22
+University of Toronto,Canada,25.333333333333332,Americas,0.03947368421052632,25,Shangai ranking 2017,23
+University of Edinburgh,United Kingdom of Great Britain and Northern Ireland,27.333333333333332,Europe,0.03658536585365854,27,Shangai ranking 2017,32
+"University of California, San Diego",United States of America,28,Americas,0.03571428571428571,28,Shangai ranking 2017,15
+University of Tokyo,Japan,32.666666666666664,Asia,0.030612244897959186,33,Shangai ranking 2017,24
+University of Washington,United States of America,33,Americas,0.030303030303030304,33,Shangai ranking 2017,13
+Tsinghua University,China,34.333333333333336,Asia,0.029126213592233007,34,Shangai ranking 2017,48
+King's College London,United Kingdom of Great Britain and Northern Ireland,35,Europe,0.02857142857142857,35,Shangai ranking 2017,46
+New York University,United States of America,36,Americas,0.027777777777777776,36,Shangai ranking 2017,29
+University of Melbourne,Australia,37.333333333333336,Oceania,0.026785714285714284,37,Shangai ranking 2017,39
+University of British Columbia,Canada,38.666666666666664,Americas,0.025862068965517244,39,Shangai ranking 2017,31
+École polytechnique fédérale de Lausanne,Switzerland,42,Europe,0.023809523809523808,42,Shangai ranking 2017,76
+University of Manchester,United Kingdom of Great Britain and Northern Ireland,42,Europe,0.023809523809523808,42,Shangai ranking 2017,38
+University of Wisconsin–Madison,United States of America,42,Americas,0.023809523809523808,42,Shangai ranking 2017,28
+National University of Singapore,Singapore,42.666666666666664,Asia,0.0234375,43,Shangai ranking 2017,91
+Peking University,China,45.333333333333336,Asia,0.022058823529411763,45,Shangai ranking 2017,71
+McGill University,Canada,47,Americas,0.02127659574468085,47,Shangai ranking 2017,67
+University of Illinois at Urbana–Champaign,United States of America,47.666666666666664,Americas,0.02097902097902098,48,Shangai ranking 2017,37
+Kyoto University,Japan,48.333333333333336,Asia,0.020689655172413793,48,Shangai ranking 2017,35
+Carnegie Mellon University,United States of America,50.333333333333336,Americas,0.01986754966887417,50,Shangai ranking 2017,80
+Technical University of Munich,Germany,51.666666666666664,Europe,0.01935483870967742,52,Shangai ranking 2017,50
+Heidelberg University,Germany,51.666666666666664,Europe,0.01935483870967742,52,Shangai ranking 2017,42
+Ludwig Maximilian University of Munich,Germany,52.333333333333336,Europe,0.01910828025477707,52,Shangai ranking 2017,57
+Australian National University,Australia,55,Oceania,0.01818181818181818,55,Shangai ranking 2017,97
+University of Queensland,Australia,55.666666666666664,Oceania,0.017964071856287425,56,Shangai ranking 2017,55
+University of Texas at Austin,United States of America,55.666666666666664,Americas,0.017964071856287425,56,Shangai ranking 2017,51
+University of North Carolina at Chapel Hill,United States of America,56.333333333333336,Americas,0.01775147928994083,56,Shangai ranking 2017,33
+Washington University in St. Louis,United States of America,56.666666666666664,Americas,0.01764705882352941,57,Shangai ranking 2017,20
+University of Bristol,United Kingdom of Great Britain and Northern Ireland,60.333333333333336,Europe,0.016574585635359115,60,Shangai ranking 2017,61
+Georgia Institute of Technology,United States of America,62.666666666666664,Americas,0.01595744680851064,63,Shangai ranking 2017,85
+Nanyang Technological University,Singapore,62.833333333333336,Asia,0.015915119363395226,63,Shangai ranking 2017,125.5

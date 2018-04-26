@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524212876461.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2887435174",
+    "id" : "4F459288",
+    "lastKnownWriteTime" : 1524464268,
+    "last_content_update" : 1524464268775,
+    "path" : "~/swissinfo/2018_04_17_universityRanking/01_scrape2OpenRefine.Rmd",
+    "project_path" : "01_scrape2OpenRefine.Rmd",
+    "properties" : {
+        "cursorPosition" : "149,47",
+        "last_setup_crc32" : "622CF218556d677e",
+        "scrollLine" : "139"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

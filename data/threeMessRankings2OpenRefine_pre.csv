@@ -1,0 +1,2563 @@
+name,country,key,source
+Massachusetts Institute of Technology (MIT),United States,1,QS
+Stanford University,United States,2,QS
+Harvard University,United States,3,QS
+California Institute of Technology (Caltech),United States,4,QS
+University of Cambridge,United Kingdom,5,QS
+University of Oxford,United Kingdom,6,QS
+UCL (University College London),United Kingdom,7,QS
+Imperial College London,United Kingdom,8,QS
+University of Chicago,United States,9,QS
+ETH Zurich - Swiss Federal Institute of Technology,Switzerland,10,QS
+"Nanyang Technological University, Singapore (NTU)",Singapore,11,QS
+Ecole Polytechnique Fédérale de Lausanne (EPFL),Switzerland,12,QS
+Princeton University,United States,13,QS
+Cornell University,United States,14,QS
+National University of Singapore (NUS),Singapore,15,QS
+Yale University,United States,16,QS
+Johns Hopkins University,United States,17,QS
+Columbia University,United States,18,QS
+University of Pennsylvania,United States,19,QS
+The Australian National University,Australia,20,QS
+Duke University,United States,21,QS
+University of Michigan,United States,22,QS
+King's College London,United Kingdom,23,QS
+The University of Edinburgh,United Kingdom,24,QS
+Tsinghua University,China,25,QS
+The University of Hong Kong,Hong Kong,26,QS
+"University of California, Berkeley (UCB)",United States,27,QS
+Northwestern University,United States,28,QS
+The University of Tokyo,Japan,29,QS
+The Hong Kong University of Science and Technology,Hong Kong,30,QS
+University of Toronto,Canada,31,QS
+McGill University,Canada,32,QS
+"University of California, Los Angeles (UCLA)",United States,33,QS
+The University of Manchester,United Kingdom,34,QS
+London School of Economics and Political Science (LSE),United Kingdom,35,QS
+Kyoto University,Japan,36,QS
+Seoul National University,South Korea,37,QS
+Peking University,China,38,QS
+"University of California, San Diego (UCSD)",United States,39,QS
+Fudan University,China,40,QS
+KAIST - Korea Advanced Institute of Science & Technology,South Korea,41,QS
+The University of Melbourne,Australia,42,QS
+"Ecole normale supérieure, Paris",France,43,QS
+University of Bristol,United Kingdom,44,QS
+The University of New South Wales (UNSW Sydney),Australia,45,QS
+The Chinese University of Hong Kong (CUHK),Hong Kong,46,QS
+Carnegie Mellon University,United States,47,QS
+The University of Queensland,Australia,48,QS
+City University of Hong Kong,Hong Kong,49,QS
+The University of Sydney,Australia,50,QS
+University of British Columbia,Canada,51,QS
+New York University (NYU),United States,52,QS
+Brown University,United States,53,QS
+Delft University of Technology,Netherlands,54,QS
+University of Wisconsin-Madison,United States,55,QS
+Tokyo Institute of Technology,Japan,56,QS
+The University of Warwick,United Kingdom,57,QS
+University of Amsterdam,Netherlands,58,QS
+Ecole Polytechnique,France,59,QS
+Monash University,Australia,60,QS
+University of Washington,United States,61,QS
+Shanghai Jiao Tong University,China,62,QS
+Osaka University,Japan,63,QS
+Technical University of Munich,Germany,64,QS
+University of Glasgow,United Kingdom,65,QS
+Ludwig-Maximilians-Universität München,Germany,66,QS
+University of Texas at Austin,United States,67,QS
+Ruprecht-Karls-Universität Heidelberg,Germany,68,QS
+University of Illinois at Urbana-Champaign,United States,69,QS
+Georgia Institute of Technology,United States,70,QS
+KU Leuven,Belgium,71,QS
+Pohang University of Science And Technology (POSTECH),South Korea,72,QS
+University of Copenhagen,Denmark,73,QS
+University of Zurich,Switzerland,74,QS
+Universidad de Buenos Aires (UBA),Argentina,75,QS
+National Taiwan University (NTU),Taiwan,76,QS
+Tohoku University,Japan,77,QS
+Durham University,United Kingdom,78,QS
+Lund University,Sweden,79,QS
+"University of North Carolina, Chapel Hill",United States,80,QS
+Boston University,United States,81,QS
+The University of Auckland,New Zealand,82,QS
+The University of Sheffield,United Kingdom,83,QS
+University of Nottingham,United Kingdom,84,QS
+University of Birmingham,United Kingdom,85,QS
+The Ohio State University,United States,86,QS
+Zhejiang University,China,87,QS
+"Trinity College Dublin, The University of Dublin",Ireland,88,QS
+Rice University,United States,89,QS
+Korea University,South Korea,90,QS
+University of Alberta,Canada,91,QS
+University of St Andrews,United Kingdom,92,QS
+Pennsylvania State University,United States,93,QS
+The University of Western Australia,Australia,94,QS
+Lomonosov Moscow State University,Russia,95,QS
+The Hong Kong Polytechnic University,Hong Kong,96,QS
+University of Science and Technology of China,China,97,QS
+KTH Royal Institute of Technology,Sweden,98,QS
+University of Geneva,Switzerland,99,QS
+Washington University in St. Louis,United States,100,QS
+University of Leeds,United Kingdom,101,QS
+University of Helsinki,Finland,102,QS
+University of Southampton,United Kingdom,103,QS
+Eindhoven University of Technology,Netherlands,104,QS
+Purdue University,United States,105,QS
+Yonsei University,South Korea,106,QS
+"KIT, Karlsruhe Institute of Technology",Germany,107,QS
+Sungkyunkwan University (SKKU),South Korea,108,QS
+Leiden University,Netherlands,109,QS
+The University of Adelaide,Australia,110,QS
+Utrecht University,Netherlands,111,QS
+Uppsala University,Sweden,112,QS
+University of Groningen,Netherlands,113,QS
+Nanjing University,China,114,QS
+Universiti Malaya (UM),Malaysia,115,QS
+Nagoya University,Japan,116,QS
+Technical University of Denmark,Denmark,117,QS
+"University of California, Davis",United States,118,QS
+Aarhus University,Denmark,119,QS
+Humboldt-Universität zu Berlin,Germany,120,QS
+Universidade de São Paulo,Brazil,121,QS
+Hokkaido University,Japan,122,QS
+Universidad Nacional Autónoma de México  (UNAM),Mexico,123,QS
+Wageningen University,Netherlands,124,QS
+Freie Universitaet Berlin,Germany,125,QS
+Ghent University,Belgium,126,QS
+Queen Mary University of London,United Kingdom,127,QS
+Kyushu University,Japan,128,QS
+"University of Maryland, College Park",United States,129,QS
+Université de Montréal,Canada,130,QS
+Université Pierre et Marie Curie (UPMC),France,131,QS
+University of Southern California,United States,132,QS
+Chalmers University of Technology,Sweden,133,QS
+"University of California, Santa Barbara (UCSB)",United States,134,QS
+Lancaster University,United Kingdom,135,QS
+University of York,United Kingdom,136,QS
+Aalto University,Finland,137,QS
+Cardiff University,United Kingdom,138,QS
+Pontificia Universidad Católica de Chile (UC),Chile,139,QS
+McMaster University,Canada,140,QS
+RWTH Aachen University,Germany,141,QS
+University of Oslo,Norway,142,QS
+University of Pittsburgh,United States,143,QS
+Technische Universität Berlin (TU Berlin),Germany,144,QS
+The Hebrew University of Jerusalem,Israel,145,QS
+University of Lausanne,Switzerland,146,QS
+Emory University,United States,147,QS
+Erasmus University Rotterdam,Netherlands,148,QS
+Michigan State University,United States,149,QS
+University of Basel,Switzerland,150,QS
+University of Otago,New Zealand,151,QS
+University of Waterloo,Canada,152,QS
+Université catholique de Louvain (UCL),Belgium,153,QS
+University of Vienna,Austria,154,QS
+Hanyang University,South Korea,155,QS
+Universitat de Barcelona,Spain,156,QS
+École Normale Supérieure de Lyon,France,157,QS
+University of Aberdeen,United Kingdom,158,QS
+The University of Exeter,United Kingdom,159,QS
+University of Bath,United Kingdom,160,QS
+National Tsing Hua University,Taiwan,161,QS
+Newcastle University,United Kingdom,162,QS
+University of Minnesota,United States,163,QS
+Eberhard Karls Universität Tübingen,Germany,164,QS
+University of Bergen,Norway,165,QS
+"University of California, Irvine",United States,166,QS
+University of Bern,Switzerland,167,QS
+University College Dublin,Ireland,168,QS
+Dartmouth College,United States,169,QS
+Politecnico di Milano,Italy,170,QS
+Albert-Ludwigs-Universitaet Freiburg,Germany,171,QS
+Indian Institute of Technology Delhi (IITD),India,172,QS
+King Fahd University of Petroleum & Minerals,Saudi Arabia,173,QS
+University of Liverpool,United Kingdom,174,QS
+University of Virginia,United States,175,QS
+University of Technology Sydney,Australia,176,QS
+CentraleSupélec,France,177,QS
+University of Florida,United States,178,QS
+Indian Institute of Technology Bombay (IITB),India,179,QS
+University of Twente,Netherlands,180,QS
+University of Göttingen,Germany,181,QS
+Vienna University of Technology,Austria,182,QS
+Universidade Estadual de Campinas (Unicamp),Brazil,183,QS
+University of Colorado Boulder,United States,184,QS
+Vrije Universiteit Brussel (VUB),Belgium,185,QS
+University of Rochester,United States,186,QS
+Universidad Autónoma de Madrid,Spain,187,QS
+Alma Mater Studiorum - University of Bologna,Italy,188,QS
+University of Reading,United Kingdom,189,QS
+Indian Institute of Science,India,190,QS
+University of Cape Town,South Africa,191,QS
+Keio University,Japan,192,QS
+Scuola Normale Superiore di Pisa,Italy,193,QS
+Scuola Superiore Sant'Anna Pisa di Studi Universitari e di Perfezionamento,Italy,194,QS
+Stockholm University,Sweden,195,QS
+Technische Universität Dresden,Germany,196,QS
+Texas A&M University,United States,197,QS
+Universitat Autònoma de Barcelona,Spain,198,QS
+Instituto Tecnológico y de Estudios Superiores de Monterrey,Mexico,199,QS
+Maastricht University,Netherlands,200,QS
+Universidad de Chile,Chile,201,QS
+Queen's University Belfast,United Kingdom,202,QS
+Waseda University,Japan,203,QS
+Radboud University,Netherlands,204,QS
+Tel Aviv University,Israel,205,QS
+Universite libre de Bruxelles,Belgium,206,QS
+National Chiao Tung University,Taiwan,207,QS
+"University of Illinois, Chicago (UIC)",United States,208,QS
+Arizona State University,United States,209,QS
+University of Antwerp,Belgium,210,QS
+The University of Western Ontario,Canada,211,QS
+Vanderbilt University,United States,212,QS
+Case Western Reserve University,United States,213,QS
+University of Canterbury,New Zealand,214,QS
+Sapienza University of Rome,Italy,215,QS
+University of Notre Dame,United States,216,QS
+University of Calgary,Canada,217,QS
+Vrije Universiteit Amsterdam,Netherlands,218,QS
+Victoria University of Wellington,New Zealand,219,QS
+Sciences Po,France,220,QS
+King Saud University,Saudi Arabia,221,QS
+National Cheng Kung University (NCKU),Taiwan,222,QS
+Universität Hamburg,Germany,223,QS
+Queen's University at Kingston,Canada,224,QS
+Technion - Israel Institute of Technology,Israel,225,QS
+"The University of Newcastle, Australia (UON)",Australia,226,QS
+Georgetown University,United States,227,QS
+University of Sussex,United Kingdom,228,QS
+Universiti Putra Malaysia (UPM),Malaysia,229,QS
+Universiti Kebangsaan Malaysia (UKM),Malaysia,230,QS
+The University of Arizona,United States,231,QS
+University of Wollongong,Australia,232,QS
+Complutense University of Madrid,Spain,233,QS
+Loughborough University,United Kingdom,234,QS
+American University of Beirut (AUB),Lebanon,235,QS
+Al-Farabi Kazakh National University,Kazakhstan,236,QS
+Université Grenoble-Alpes,France,237,QS
+University of Leicester,United Kingdom,238,QS
+Rheinische Friedrich-Wilhelms-Universität Bonn,Germany,239,QS
+Macquarie University,Australia,240,QS
+Saint Petersburg State University,Russia,241,QS
+Université Paris-Sud,France,242,QS
+National University of Ireland Galway,Ireland,243,QS
+Tufts University,United States,244,QS
+Chulalongkorn University,Thailand,245,QS
+Simon Fraser University,Canada,246,QS
+Queensland University of Technology (QUT),Australia,247,QS
+RMIT University,Australia,248,QS
+University of Massachusetts Amherst,United States,249,QS
+Novosibirsk State University,Russia,250,QS
+University of Tsukuba,Japan,251,QS
+University of Miami,United States,252,QS
+Universiti Teknologi Malaysia,Malaysia,253,QS
+Universidad Nacional de Colombia,Colombia,254,QS
+Universität Frankfurt am Main,Germany,255,QS
+Beijing Normal University,China,256,QS
+Kyung Hee University,South Korea,257,QS
+Universidad de los Andes,Colombia,258,QS
+Norwegian University of Science And Technology,Norway,259,QS
+Royal Holloway University of London,United Kingdom,260,QS
+Universität Stuttgart,Germany,261,QS
+Curtin University,Australia,262,QS
+North Carolina State University,United States,263,QS
+Indian Institute of Technology Madras (IITM),India,264,QS
+National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,265,QS
+Universiti Sains Malaysia (USM),Malaysia,266,QS
+University of Surrey,United Kingdom,267,QS
+King Abdulaziz University (KAU),Saudi Arabia,268,QS
+University of Dundee,United Kingdom,269,QS
+Université Paris 1 Panthéon-Sorbonne,France,270,QS
+Ecole des Ponts ParisTech,France,271,QS
+University of Navarra,Spain,272,QS
+Technische Universität Darmstadt,Germany,273,QS
+University of East Anglia (UEA),United Kingdom,274,QS
+Universitat Politècnica de Catalunya,Spain,275,QS
+University of Turku,Finland,276,QS
+Universitas Indonesia,Indonesia,277,QS
+University of Strathclyde,United Kingdom,278,QS
+Dalhousie University,Canada,279,QS
+University of South Australia,Australia,280,QS
+Universidad Carlos III de Madrid (UC3M),Spain,281,QS
+Wuhan University,China,282,QS
+Rutgers University - New Brunswick,United States,283,QS
+University College Cork,Ireland,284,QS
+University of Gothenburg,Sweden,285,QS
+Universität Innsbruck,Austria,286,QS
+Linköping University,Sweden,287,QS
+Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,288,QS
+National Taiwan Normal University,Taiwan,289,QS
+University of Ottawa,Canada,290,QS
+Bauman Moscow State Technical University,Russia,291,QS
+University of Waikato,New Zealand,292,QS
+Deakin University,Australia,293,QS
+Indian Institute of Technology Kanpur (IITK),India,294,QS
+Université Paris-Sorbonne (Paris IV),France,295,QS
+SOAS University of London,United Kingdom,296,QS
+Università di Padova,Italy,297,QS
+Universitat Pompeu Fabra,Spain,298,QS
+Ewha Womans University,South Korea,299,QS
+Hong Kong Baptist University,Hong Kong,300,QS
+"University of California, Santa Cruz",United States,301,QS
+University of Porto,Portugal,302,QS
+Université de Strasbourg,France,303,QS
+Indiana University Bloomington,United States,304,QS
+Université Diderot  Paris 7,France,305,QS
+University of Lisbon,Portugal,306,QS
+Politecnico di Torino,Italy,307,QS
+"Birkbeck, University of London",United Kingdom,308,QS
+Indian Institute of Technology Kharagpur (IIT-KGP),India,309,QS
+Westfälische Wilhelms-Universität Münster,Germany,310,QS
+Universidade Federal do Rio de Janeiro,Brazil,311,QS
+Heriot-Watt University,United Kingdom,312,QS
+University of Tasmania,Australia,313,QS
+Charles University,Czech Republic,314,QS
+University of Tartu,Estonia,315,QS
+Massey University,New Zealand,316,QS
+Tongji University,China,317,QS
+University at Buffalo SUNY,United States,318,QS
+Lincoln University,New Zealand,319,QS
+Sun Yat-sen University,China,320,QS
+Université de Liège,Belgium,321,QS
+Hiroshima University,Japan,322,QS
+Tomsk State University,Russia,323,QS
+"University of California, Riverside",United States,324,QS
+Griffith University,Australia,325,QS
+Harbin Institute of Technology,China,326,QS
+University of Milan,Italy,327,QS
+The Katz School at Yeshiva University,United States,328,QS
+National Yang Ming University,Taiwan,329,QS
+Ecole Normale Supérieure de Cachan,France,330,QS
+Bandung Institute of Technology (ITB),Indonesia,331,QS
+Universidad Austral,Argentina,332,QS
+University of Cologne,Germany,333,QS
+Belarusian State University,Belarus,334,QS
+Mahidol University,Thailand,335,QS
+L.N. Gumilyov Eurasian National University (ENU),Kazakhstan,336,QS
+Universidad de Belgrano,Argentina,337,QS
+Umea University,Sweden,338,QS
+Boston College,United States,339,QS
+Gwangju Institute of Science and Technology (GIST),South Korea,340,QS
+Universität Jena,Germany,341,QS
+University of Hawai'i at Mañoa,United States,342,QS
+"City, University of London",United Kingdom,343,QS
+Nankai University,China,344,QS
+Xi’an Jiaotong University,China,345,QS
+Brunel University London,United Kingdom,346,QS
+Northeastern University,United States,347,QS
+University of Victoria,Canada,348,QS
+University of Essex,United Kingdom,349,QS
+Qatar University,Qatar,350,QS
+Universiti Brunei Darussalam (UBD),Brunei,351,QS
+Kobe University,Japan,352,QS
+Ben Gurion University of The Negev,Israel,353,QS
+George Washington University,United States,354,QS
+Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),Russia,355,QS
+"Université Paris-Dauphine, PSL Research University",France,356,QS
+Tilburg University,Netherlands,357,QS
+University Ulm,Germany,358,QS
+University of Jyväskylä,Finland,359,QS
+La Trobe University,Australia,360,QS
+Oxford Brookes University,United Kingdom,361,QS
+Stellenbosch University,South Africa,362,QS
+Universidade Nova de Lisboa,Portugal,363,QS
+Pontificia Universidad Católica Argentina,Argentina,364,QS
+Rensselaer Polytechnic Institute,United States,365,QS
+University of Witwatersrand,South Africa,366,QS
+James Cook University,Australia,367,QS
+Tokyo Medical and Dental University (TMDU),Japan,368,QS
+University of the Philippines,Philippines,369,QS
+University of Tromsø The Arctic University of Norway,Norway,370,QS
+Virginia Polytechnic Institute and State University,United States,371,QS
+University of St.Gallen (HSG),Switzerland,372,QS
+Aston University,United Kingdom,373,QS
+Moscow State Institute of International Relations (MGIMO University),Russia,374,QS
+National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,375,QS
+Universitat Politècnica de València,Spain,376,QS
+University of Kent,United Kingdom,377,QS
+Laval University,Canada,378,QS
+Aalborg University,Denmark,379,QS
+Tampere University of Technology,Finland,380,QS
+Université de Montpellier,France,381,QS
+National Research University Higher School of Economics (HSE University),Russia,382,QS
+"Stony Brook University, State University of New York",United States,383,QS
+University of Southern Denmark,Denmark,384,QS
+Universität Konstanz,Germany,385,QS
+National Research Tomsk Polytechnic University,Russia,386,QS
+University of Kansas,United States,387,QS
+National Sun Yat-sen University,Taiwan,388,QS
+Universität Mannheim,Germany,389,QS
+United Arab Emirates University,United Arab Emirates,390,QS
+Dublin City University,Ireland,391,QS
+National Central University,Taiwan,392,QS
+University of Utah,United States,393,QS
+"University of Colorado, Denver",United States,394,QS
+The American University in Cairo,Egypt,395,QS
+Illinois Institute of Technology,United States,396,QS
+HUFS - Hankuk (Korea) University of Foreign Studies,South Korea,397,QS
+"Goldsmiths, University of London",United Kingdom,398,QS
+Johannes Gutenberg Universität Mainz,Germany,399,QS
+Taipei Medical University,Taiwan,400,QS
+Leibniz Universität Hannover,Germany,401,QS
+National Technical University of Athens,Greece,402,QS
+Peter the Great Saint-Petersburg Polytechnic University,Russia,403,QS
+Ruhr-Universität Bochum,Germany,404,QS
+Universidad Externado de Colombia,Colombia,405,QS
+Gadjah Mada University,Indonesia,406,QS
+University of Coimbra,Portugal,407,QS
+V. N. Karazin Kharkiv National University,Ukraine,408,QS
+Vilnius University,Lithuania,409,QS
+Washington State University,United States,410,QS
+University of Stirling,United Kingdom,411,QS
+American University of Sharjah,United Arab Emirates,412,QS
+Arabian Gulf University,Bahrain,413,QS
+Brandeis University,United States,414,QS
+Kazakh National Research Technical University after K.I.Satpayev,Kazakhstan,415,QS
+Taras Shevchenko National University of Kyiv,Ukraine,416,QS
+Universidad de Costa Rica,Costa Rica,417,QS
+Aix-Marseille University,France,418,QS
+University of Oulu,Finland,419,QS
+University of Warsaw,Poland,420,QS
+Wake Forest University,United States,421,QS
+Bilkent University,Turkey,422,QS
+Hitotsubashi University,Japan,423,QS
+Shanghai University,China,424,QS
+Swinburne University of Technology,Australia,425,QS
+The University of Georgia,United States,426,QS
+University of Pisa,Italy,427,QS
+University of Connecticut,United States,428,QS
+University of Delaware,United States,429,QS
+University of Iowa,United States,430,QS
+University of Texas Dallas,United States,431,QS
+Bond University,Australia,432,QS
+Christian-Albrechts-University zu Kiel,Germany,433,QS
+Concordia University,Canada,434,QS
+Florida State University,United States,435,QS
+Indian Institute of Technology Roorkee (IITR),India,436,QS
+Koc University,Turkey,437,QS
+National University of Sciences And Technology (NUST) Islamabad,Pakistan,438,QS
+Pontificia Universidad Católica del Perú,Peru,439,QS
+Swansea University,United Kingdom,440,QS
+Universidad de Palermo (UP),Argentina,441,QS
+Xiamen University,China,442,QS
+Auckland University of Technology (AUT),New Zealand,443,QS
+Bangor University,United Kingdom,444,QS
+Kazan (Volga region) Federal University,Russia,445,QS
+Oregon State University,United States,446,QS
+Singapore Management University,Singapore,447,QS
+Sogang University,South Korea,448,QS
+University of Trento,Italy,449,QS
+Université Paris Descartes,France,450,QS
+York University,Canada,451,QS
+Beijing Institute of Technology,China,452,QS
+Institut National des Sciences Appliquées de Lyon (INSA),France,453,QS
+Khalifa University,United Arab Emirates,454,QS
+Sultan Qaboos University,Oman,455,QS
+Tulane University,United States,456,QS
+Universidad de Santiago de Chile (USACH),Chile,457,QS
+University of Eastern Finland,Finland,458,QS
+University of Saskatchewan,Canada,459,QS
+"The University of Tennessee, Knoxville",United States,460,QS
+Jagiellonian University,Poland,461,QS
+Martin-Luther-Universität Halle-Wittenberg,Germany,462,QS
+Pontificia Universidad Javeriana,Colombia,463,QS
+Sabanci University,Turkey,464,QS
+Universidad de Zaragoza,Spain,465,QS
+University of Florence,Italy,466,QS
+"University of Rome ""Tor Vergata""",Italy,467,QS
+Universität Potsdam,Germany,468,QS
+University of New Mexico,United States,469,QS
+Wayne State University,United States,470,QS
+American University,United States,471,QS
+Dongguk University,South Korea,472,QS
+Huazhong University of Science and Technology,China,473,QS
+Iowa State University,United States,474,QS
+Johannes Kepler University Linz,Austria,475,QS
+Karl-Franzens-Universitaet Graz,Austria,476,QS
+King Khalid University,Saudi Arabia,477,QS
+Middle East Technical University,Turkey,478,QS
+Sharif University of Technology,"Iran, Islamic Republic of",479,QS
+Tianjin University,China,480,QS
+Aberystwyth University,United Kingdom,481,QS
+Cairo University,Egypt,482,QS
+Chang Gung University,Taiwan,483,QS
+Colorado State University,United States,484,QS
+Julius-Maximilians-Universität Würzburg,Germany,485,QS
+Renmin (People's) University of China,China,486,QS
+Università Cattolica del Sacro Cuore,Italy,487,QS
+University of Naples - Federico II,Italy,488,QS
+Universität Bremen,Germany,489,QS
+University of Delhi,India,490,QS
+"University of Maryland, Baltimore County",United States,491,QS
+Bogaziçi Üniversitesi,Turkey,492,QS
+Czech Technical University in Prague,Czech Republic,493,QS
+Jilin University,China,494,QS
+Abai Kazakh National Pedagogical University,Kazakhstan,495,QS
+Universidad Politécnica de Madrid,Spain,496,QS
+Pusan National University,South Korea,497,QS
+UNESP,Brazil,498,QS
+Saint Joseph University of Beirut (USJ),Lebanon,499,QS
+University of Guelph,Canada,500,QS
+Ural Federal University,Russia,501,QS
+Amirkabir University of Technology,"Iran, Islamic Republic of",502,QS
+Aristotle University of Thessaloniki,Greece,503,QS
+Chiba University,Japan,504,QS
+Chonbuk National University,South Korea,505,QS
+City University of New York,United States,506,QS
+Clark University,United States,507,QS
+Drexel University,United States,508,QS
+East China Normal University,China,509,QS
+Indian Institute of Technology Guwahati (IITG),India,510,QS
+"Kingston University, London",United Kingdom,511,QS
+Lappeenranta University of Technology,Finland,512,QS
+Lehigh University,United States,513,QS
+Auezov South Kazakhstan State University (SKSU),Kazakhstan,514,QS
+Murdoch University,Australia,515,QS
+"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",Ukraine,516,QS
+The National University of Science and Technology MISIS,Russia,517,QS
+Okayama University,Japan,518,QS
+RUDN University,Russia,519,QS
+Pontifícia Universidade Católica de São Paulo,Brazil,520,QS
+Pontifícia Universidade Católica do Rio de Janeiro,Brazil,521,QS
+Southeast University,China,522,QS
+Syracuse University,United States,523,QS
+Technische Universität Braunschweig,Germany,524,QS
+Graz University of Technology,Austria,525,QS
+The Catholic University of Korea,South Korea,526,QS
+University of Granada,Spain,527,QS
+Universidad de Montevideo (UM),Uruguay,528,QS
+Universidade Federal de São Paulo,Brazil,529,QS
+Universidade Federal do Rio Grande Do Sul,Brazil,530,QS
+Universität des Saarlandes,Germany,531,QS
+University of Hohenheim,Germany,532,QS
+Universität  Leipzig,Germany,533,QS
+Universität Regensburg,Germany,534,QS
+Université Claude Bernard Lyon 1,France,535,QS
+University of Bordeaux,France,536,QS
+Université de Fribourg,Switzerland,537,QS
+Université du Québec,Canada,538,QS
+Université Paul Sabatier Toulouse III,France,539,QS
+University of Aveiro,Portugal,540,QS
+University of Baghdad,Iraq,541,QS
+University of Cincinnati,United States,542,QS
+University of Limerick,Ireland,543,QS
+University of Macau,"Macao S.A.R., China",544,QS
+University of Nebraska-Lincoln,United States,545,QS
+University of Oklahoma,United States,546,QS
+University of Pretoria,South Africa,547,QS
+University of South Florida,United States,548,QS
+University of Szeged,Hungary,549,QS
+Yokohama City University,Japan,550,QS
+Abo Akademi University,Finland,551,QS
+Ateneo de Manila University,Philippines,552,QS
+Bar-Ilan University,Israel,553,QS
+Beihang University (former BUAA),China,554,QS
+Chiang Mai University,Thailand,555,QS
+College of William & Mary,United States,556,QS
+Coventry University,United Kingdom,557,QS
+Dalian University of Technology,China,558,QS
+East China University of Science and Technology,China,559,QS
+Flinders University,Australia,560,QS
+Howard University,United States,561,QS
+Instituto Tecnológico de Buenos Aires (ITBA),Argentina,562,QS
+Iran University of Science and Technology,"Iran, Islamic Republic of",563,QS
+Justus-Liebig-University Giessen,Germany,564,QS
+Kanazawa University,Japan,565,QS
+Kumamoto University,Japan,566,QS
+"Lingnan University, Hong Kong",Hong Kong,567,QS
+Masaryk University,Czech Republic,568,QS
+Michigan Technological University,United States,569,QS
+Nagasaki University,Japan,570,QS
+National Research Saratov State University,Russia,571,QS
+Osaka City University,Japan,572,QS
+Philipps-Universität Marburg,Germany,573,QS
+Sejong University,South Korea,574,QS
+Shandong University,China,575,QS
+Sichuan University,China,576,QS
+South China University of Technology,China,577,QS
+Southern Federal University,Russia,578,QS
+Tokyo University of Agriculture and Technology,Japan,579,QS
+Umm Al-Qura University,Saudi Arabia,580,QS
+Universidad de Alcalá,Spain,581,QS
+Universidad Nacional de La Plata (UNLP),Argentina,582,QS
+Universidade Federal de Minas Gerais,Brazil,583,QS
+Università degli Studi di Pavia,Italy,584,QS
+University of Turin,Italy,585,QS
+University of Bayreuth,Germany,586,QS
+Universitat de Valencia,Spain,587,QS
+"Université Lille 1, Sciences et Technologies",France,588,QS
+Université Panthéon-Assas (Paris 2),France,589,QS
+University of Canberra,Australia,590,QS
+University of Jordan,Jordan,591,QS
+University of Kentucky,United States,592,QS
+University of Manitoba,Canada,593,QS
+University of Mons,Belgium,594,QS
+University of Oregon,United States,595,QS
+University of Science and Technology Beijing,China,596,QS
+University of Tampere,Finland,597,QS
+University of Ulsan,South Korea,598,QS
+University of Vermont,United States,599,QS
+University of Westminster,United Kingdom,600,QS
+Vilnius Gediminas Technical University,Lithuania,601,QS
+Western Sydney University,Australia,602,QS
+American University in Dubai,United Arab Emirates,603,QS
+Brno University of Technology,Czech Republic,604,QS
+Central Queensland University,Australia,605,QS
+Chonnam National University,South Korea,606,QS
+Far Eastern Federal University,Russia,607,QS
+Indiana University–Purdue University Indianapolis,United States,608,QS
+Inha University,South Korea,609,QS
+Istanbul Technical University,Turkey,610,QS
+ITMO University,Russia,611,QS
+Jadavpur University,India,612,QS
+Jordan University of Science & Technology,Jordan,613,QS
+Keele University,United Kingdom,614,QS
+Lanzhou University,China,615,QS
+Lebanese American University,Lebanon,616,QS
+National Chengchi University,Taiwan,617,QS
+National Chung Hsing University,Taiwan,618,QS
+National Taipei University of Technology,Taiwan,619,QS
+The New School,United States,620,QS
+Tallinn University of Technology,Estonia,621,QS
+TU Dortmund University,Germany,622,QS
+Thammasat University,Thailand,623,QS
+Universidad Anahuac,Mexico,624,QS
+Universidad de Antioquia,Colombia,625,QS
+Universidad de la Habana,Cuba,626,QS
+University of Salamanca,Spain,627,QS
+Universidad de San Andrés - UdeSA,Argentina,628,QS
+Universidad de Sevilla,Spain,629,QS
+Universidad Iberoamericana IBERO,Mexico,630,QS
+Universidade de Santiago de Compostela,Spain,631,QS
+Universität Duisburg-Essen,Germany,632,QS
+Université de Sherbrooke,Canada,633,QS
+Université Nice Sophia Antipolis,France,634,QS
+Universiti Teknologi Petronas (Petronas),Malaysia,635,QS
+University of Bradford,United Kingdom,636,QS
+University of Haifa,Israel,637,QS
+University of Houston,United States,638,QS
+University of Hull,United Kingdom,639,QS
+University of Hyderabad,India,640,QS
+University of Johannesburg,South Africa,641,QS
+University of Kufa,Iraq,642,QS
+University of Massachusetts - Boston,United States,643,QS
+"University of Missouri, Columbia",United States,644,QS
+University of Portsmouth,United Kingdom,645,QS
+University of South Carolina,United States,646,QS
+University of Tehran,"Iran, Islamic Republic of",647,QS
+Ulster University,United Kingdom,648,QS
+University of Zagreb,Croatia,649,QS
+Warsaw University of Technology,Poland,650,QS
+Ajou University,South Korea,651,QS
+Anna University,India,652,QS
+Beijing Foreign Studies University,China,653,QS
+Carleton University,Canada,654,QS
+Charles Darwin University,Australia,655,QS
+Clarkson University,United States,656,QS
+Dublin Institute of Technology,Ireland,657,QS
+Karaganda State University named after academician E.A.Buketov,Kazakhstan,658,QS
+Eötvös Lorànd University,Hungary,659,QS
+Gifu University,Japan,660,QS
+Hallym University,South Korea,661,QS
+Instituto Politécnico Nacional (IPN),Mexico,662,QS
+Instituto Tecnológico Autónomo de México (ITAM),Mexico,663,QS
+Kagoshima University,Japan,664,QS
+Kazakh-British Technical University,Kazakhstan,665,QS
+Konkuk University,South Korea,666,QS
+Kuwait University,Kuwait,667,QS
+Louisiana State University,United States,668,QS
+Missouri University of Science and Technology,United States,669,QS
+National and Kapodistrian University of Athens,Greece,670,QS
+Quaid-i-Azam University,Pakistan,671,QS
+Riga Technical University,Latvia,672,QS
+"Rutgers - The State University of New Jersey, Newark",United States,673,QS
+Shanghai International Studies University,China,674,QS
+Stevens Institute of Technology,United States,675,QS
+Temple University,United States,676,QS
+Tokyo Metropolitan University,Japan,677,QS
+Universidad Adolfo Ibàñez,Chile,678,QS
+Universidad Católica Andres Bello,Venezuela,679,QS
+Universidad Central de Venezuela,Venezuela,680,QS
+Universidad de Concepción,Chile,681,QS
+Universidad del Pais Vasco,Spain,682,QS
+Universidad Torcuato Di Tella,Argentina,683,QS
+Universidade Católica Portuguesa - UCP,Portugal,684,QS
+Universidade de Brasília,Brazil,685,QS
+Universidade Federal de São Carlos (UFSCAR),Brazil,686,QS
+Bielefeld University,Germany,687,QS
+University Duesseldorf,Germany,688,QS
+Université de Rennes 1,France,689,QS
+University at Albany SUNY,United States,690,QS
+University of Alabama,United States,691,QS
+University of Crete,Greece,692,QS
+University of Debrecen,Hungary,693,QS
+University of Ljubljana,Slovenia,694,QS
+University of Milano-Bicocca,Italy,695,QS
+University of Minho,Portugal,696,QS
+University of Seoul,South Korea,697,QS
+University of Windsor,Canada,698,QS
+Virginia Commonwealth University,United States,699,QS
+Worcester Polytechnic Institute,United States,700,QS
+Ain Shams University,Egypt,701,QS
+Airlangga University,Indonesia,702,QS
+Beijing Jiaotong University,China,703,QS
+Beijing University of Technology,China,704,QS
+Bournemouth University,United Kingdom,705,QS
+China Agricultural University,China,706,QS
+Clemson University,United States,707,QS
+Comenius University in Bratislava,Slovakia,708,QS
+Dankook University,South Korea,709,QS
+De La Salle University,Philippines,710,QS
+Hunan University,China,711,QS
+International Islamic University Malaysia (IIUM),Malaysia,712,QS
+Kaunas University of Technology,Lithuania,713,QS
+Khazar University,Azerbaijan,714,QS
+Kyungpook National University,South Korea,715,QS
+Lahore University of Management Sciences (LUMS),Pakistan,716,QS
+Lobachevsky University,Russia,717,QS
+London Metropolitan University,United Kingdom,718,QS
+Manipal Academy of Higher Education,India,719,QS
+Maynooth University,Ireland,720,QS
+Memorial University of Newfoundland,Canada,721,QS
+Middlesex University,United Kingdom,722,QS
+"National Technical University  ""Kharkiv Polytechnic Institute""",Ukraine,723,QS
+Niigata University,Japan,724,QS
+Osaka Prefecture University,Japan,725,QS
+Palacký University in Olomouc,Czech Republic,726,QS
+Pontificia Universidad Católica de Valparaíso,Chile,727,QS
+Rhodes University,South Africa,728,QS
+Smith College,United States,729,QS
+"Sofia University ""St. Kliment Ohridski""",Bulgaria,730,QS
+Sophia University,Japan,731,QS
+Southern Methodist University,United States,732,QS
+Texas Tech University,United States,733,QS
+Tokyo University of Science,Japan,734,QS
+Universidad de la República (UdelaR),Uruguay,735,QS
+Universidad San Francisco de Quito (USFQ),Ecuador,736,QS
+Universidad Nacional de Córdoba - UNC,Argentina,737,QS
+Ca' Foscari University of Venice,Italy,738,QS
+University of Genoa,Italy,739,QS
+University of Modena and Reggio Emilia,Italy,740,QS
+University of Trieste,Italy,741,QS
+Universiti Utara Malaysia (UUM),Malaysia,742,QS
+University of Brighton,United Kingdom,743,QS
+University of Bucharest,Romania,744,QS
+University of Central Florida,United States,745,QS
+University of Denver,United States,746,QS
+University of Dhaka,Bangladesh,747,QS
+University of Kwazulu-Natal,South Africa,748,QS
+University of Latvia,Latvia,749,QS
+University of Patras,Greece,750,QS
+Plymouth University,United Kingdom,751,QS
+University of Sharjah,United Arab Emirates,752,QS
+University of Wyoming,United States,753,QS
+Victoria University,Australia,754,QS
+Abu Dhabi University,United Arab Emirates,755,QS
+Alexandria University,Egypt,756,QS
+Al-Imam Mohammad Ibn Saud Islamic University,Saudi Arabia,757,QS
+Alpen-Adria-Universitaet Klagenfurt,Austria,758,QS
+Belarusian National Technical University (BNTU),Belarus,759,QS
+Bogor Agricultural University,Indonesia,760,QS
+Brigham Young University,United States,761,QS
+Budapest University of Technology and Economics,Hungary,762,QS
+Edith Cowan University,Australia,763,QS
+Florida International University,United States,764,QS
+Georgia State University,United States,765,QS
+Gunma University,Japan,766,QS
+Hacettepe University,Turkey,767,QS
+Kansas State University,United States,768,QS
+Kasetsart University,Thailand,769,QS
+King Faisal University,Saudi Arabia,770,QS
+Loyola University Chicago,United States,771,QS
+Nagoya Institute of Technology (NIT),Japan,772,QS
+Northumbria University at Newcastle,United Kingdom,773,QS
+Paris Lodron University of Salzburg,Austria,774,QS
+Universidad Autónoma Metropolitana (UAM),Mexico,775,QS
+Universidad de La Sabana,Colombia,776,QS
+Universidad Diego Portales (UDP),Chile,777,QS
+Universidad Simón Bolívar (USB),Venezuela,778,QS
+Universidade Federal de Santa Catarina,Brazil,779,QS
+Universita' degli Studi di Ferrara,Italy,780,QS
+Università degli Studi di Perugia,Italy,781,QS
+Università degli studi Roma Tre,Italy,782,QS
+University of  Lorraine,France,783,QS
+Université de Nantes,France,784,QS
+Université Lumière Lyon 2,France,785,QS
+Université Toulouse 1 Capitole,France,786,QS
+Universiti Teknologi MARA - UiTM,Malaysia,787,QS
+University of Brescia,Italy,788,QS
+University of Calcutta,India,789,QS
+University of Colombo,Sri Lanka,790,QS
+University of Hertfordshire,United Kingdom,791,QS
+University of Huddersfield,United Kingdom,792,QS
+University of New Hampshire,United States,793,QS
+University of Pécs,Hungary,794,QS
+University of Salford,United Kingdom,795,QS
+University of Southern Queensland,Australia,796,QS
+University of Tulsa,United States,797,QS
+Yamaguchi University,Japan,798,QS
+Yeungnam University,South Korea,799,QS
+Yokohama National University,Japan,800,QS
+"Adam Mickiewicz University, Poznań",Poland,801,QS
+AGH University of Science and Technology,Poland,802,QS
+Al Azhar University,Egypt,803,QS
+Alexandru Ioan Cuza University,Romania,804,QS
+"Aligarh Muslim University (AMU), Aligarh",India,805,QS
+Ankara Üniversitesi,Turkey,806,QS
+Aoyama Gakuin University,Japan,807,QS
+Athens University of Economics and Business,Greece,808,QS
+Auburn University,United States,809,QS
+Australian Catholic University,Australia,810,QS
+Babes-Bolyai University,Romania,811,QS
+Baku State University,Azerbaijan,812,QS
+Banaras Hindu University,India,813,QS
+Baylor University,United States,814,QS
+Benemérita Universidad Autónoma de Puebla,Mexico,815,QS
+Binghamton University SUNY,United States,816,QS
+"Birla Institute of Technology and Science, Pilani",India,817,QS
+Birzeit university,"Palestinian Territory, Occupied",818,QS
+Central South University,China,819,QS
+Charles Sturt University,Australia,820,QS
+Chongqing University,China,821,QS
+Chungnam National University,South Korea,822,QS
+Corvinus University of Budapest,Hungary,823,QS
+Cukurova University,Turkey,824,QS
+Diponegoro University,Indonesia,825,QS
+Vasyl` Stus Donetsk National University,Ukraine,826,QS
+Doshisha University,Japan,827,QS
+Edinburgh Napier University,United Kingdom,828,QS
+Feng Chia University,Taiwan,829,QS
+Fordham University,United States,830,QS
+Fu Jen Catholic University,Taiwan,831,QS
+Gazi Üniversitesi,Turkey,832,QS
+George Mason University,United States,833,QS
+Istanbul University,Turkey,834,QS
+Kazakh Ablai Khan University of International Relations and World Languages,Kazakhstan,835,QS
+Kent State University,United States,836,QS
+Khon Kaen University,Thailand,837,QS
+King Mongkut's University of Technology Thonburi,Thailand,838,QS
+Kyushu Institute of Technology,Japan,839,QS
+University of Lodz,Poland,840,QS
+London South Bank University,United Kingdom,841,QS
+Makerere University,Uganda,842,QS
+Manchester Metropolitan University,United Kingdom,843,QS
+Marquette University,United States,844,QS
+Meiji University,Japan,845,QS
+Miami University,United States,846,QS
+New Jersey Institute of Technology (NJIT),United States,847,QS
+Nicolaus Copernicus University,Poland,848,QS
+North-West University,South Africa,849,QS
+Nottingham Trent University,United Kingdom,850,QS
+Novosibirsk State Technical University,Russia,851,QS
+Ochanomizu University,Japan,852,QS
+Ohio University,United States,853,QS
+Oklahoma State University,United States,854,QS
+Panjab University,India,855,QS
+Plekhanov Russian University of Economics,Russia,856,QS
+Pontificia Universidad Católica del Ecuador (PUCE),Ecuador,857,QS
+Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS),Brazil,858,QS
+Prince of Songkla University,Thailand,859,QS
+Ritsumeikan University,Japan,860,QS
+Ryerson University,Canada,861,QS
+Saitama University,Japan,862,QS
+Samara National Research University (Samara University),Russia,863,QS
+San Diego State University,United States,864,QS
+Seoul National University of Science and Technology,South Korea,865,QS
+Institute of Technology Sepuluh Nopember,Indonesia,866,QS
+Shahid Beheshti University (SBU),"Iran, Islamic Republic of",867,QS
+Shinshu University,Japan,868,QS
+Southern Cross University,Australia,869,QS
+Sumy State University,Ukraine,870,QS
+Robert Gordon University,United Kingdom,871,QS
+Tokai University,Japan,872,QS
+Universidad Austral de Chile,Chile,873,QS
+Universidad Autónoma de Nuevo León,Mexico,874,QS
+Universidad Autónoma del Estado de México (UAEMex),Mexico,875,QS
+Universidad de Castilla-La Mancha,Spain,876,QS
+Universidad de Guadalajara (UDG),Mexico,877,QS
+Universidad de las Américas Puebla (UDLAP),Mexico,878,QS
+Universidad de los Andes - (ULA) Mérida,Venezuela,879,QS
+Universidad de Monterrey (UDEM),Mexico,880,QS
+University of Murcia,Spain,881,QS
+Universidad de Oviedo,Spain,882,QS
+Universidad de Puerto Rico,Puerto Rico,883,QS
+Universidad de Talca,Chile,884,QS
+Universidad de Valparaíso (UV),Chile,885,QS
+Universidad del Norte,Colombia,886,QS
+Universidad del Rosario,Colombia,887,QS
+Universidad del Valle,Colombia,888,QS
+Universidad Industrial de Santander - UIS,Colombia,889,QS
+Universidad Metropolitana,Venezuela,890,QS
+Universidad Nacional Costa Rica,Costa Rica,891,QS
+Universidad Nacional de Cuyo,Argentina,892,QS
+Universidad Nacional de Mar del Plata,Argentina,893,QS
+Universidad Nacional de Rosario (UNR),Argentina,894,QS
+Universidad Nacional de Tucumà¡n,Argentina,895,QS
+Universidad Nacional del Sur,Argentina,896,QS
+Universidad Nacional Mayor de San Marcos,Peru,897,QS
+Universidad Panamericana (UP),Mexico,898,QS
+Universidad Peruana Cayetano Heredia (UPCH),Peru,899,QS
+Universidad Rey Juan Carlos,Spain,900,QS
+Universidad Técnica Federico Santa María (USM),Chile,901,QS
+Universidad Tecnológica Nacional (UTN),Argentina,902,QS
+Universidade da Coruña,Spain,903,QS
+Universidade do Estado do Rio de Janeiro (UERJ),Brazil,904,QS
+Universidade Estadual de Londrina,Brazil,905,QS
+Universidade Federal da Bahia,Brazil,906,QS
+Universidade Federal de Santa Maria,Brazil,907,QS
+Universidade Federal de Viçosa (UFV),Brazil,908,QS
+Universidade Federal do Ceará (UFC),Brazil,909,QS
+Universidade Federal do Paraná - UFPR,Brazil,910,QS
+Universidade Federal de Pernambuco (UFPE),Brazil,911,QS
+Universidade Federal Fluminense,Brazil,912,QS
+Catania University,Italy,913,QS
+University of Siena,Italy,914,QS
+University of Palermo,Italy,915,QS
+Universitas Muhammadiyah Surakarta,Indonesia,916,QS
+Universität Rostock,Germany,917,QS
+Université Charles-de-Gaulle Lille 3,France,918,QS
+Université de Caen Basse-Normandie,France,919,QS
+Université de Cergy-Pontoise,France,920,QS
+Université de Poitiers,France,921,QS
+Université Jean Moulin Lyon 3,France,922,QS
+Université Lille 2 Droit et Santé,France,923,QS
+Université Mohammed V de Rabat,Morocco,924,QS
+Université Paris Ouest Nanterre La Défense,France,925,QS
+Universit Paul-Valery Montpellier 3,France,926,QS
+University of Arkansas,United States,927,QS
+University of Bahrain,Bahrain,928,QS
+University of Bari,Italy,929,QS
+University of Belgrade,Serbia,930,QS
+University of Brawijaya,Indonesia,931,QS
+University of Central Lancashire,United Kingdom,932,QS
+University of East London,United Kingdom,933,QS
+University of Engineering & Technology (UET) Lahore,Pakistan,934,QS
+University of Ghana,Ghana,935,QS
+University of Greenwich,United Kingdom,936,QS
+University of Karachi,Pakistan,937,QS
+The University of Lahore,Pakistan,938,QS
+University of Maribor,Slovenia,939,QS
+University of Mississippi,United States,940,QS
+University of Montana Missoula,United States,941,QS
+University of Mumbai,India,942,QS
+University of Nairobi,Kenya,943,QS
+University of New England Australia,Australia,944,QS
+Savitribai Phule Pune University,India,945,QS
+University of San Diego,United States,946,QS
+University of San Francisco,United States,947,QS
+University of Santo Tomas,Philippines,948,QS
+University of the Pacific,United States,949,QS
+University of the Sunshine Coast,Australia,950,QS
+University of the Western Cape,South Africa,951,QS
+University of Wroclaw,Poland,952,QS
+Université de Toulouse II-Le Mirail,France,953,QS
+Utah State University,United States,954,QS
+Verona University,Italy,955,QS
+Voronezh State University,Russia,956,QS
+Vytautas Magnus University,Lithuania,957,QS
+Universitatea de Vest din Timisoara /  West University of Timisoara,Romania,958,QS
+Wroclaw University of Technology,Poland,959,QS
+University of Oxford,United Kingdom,1,times
+University of Cambridge,United Kingdom,2,times
+California Institute of Technology,United States,3,times
+Stanford University,United States,4,times
+Massachusetts Institute of Technology,United States,5,times
+Harvard University,United States,6,times
+Princeton University,United States,7,times
+Imperial College London,United Kingdom,8,times
+University of Chicago,United States,9,times
+ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,10,times
+University of Pennsylvania,United States,11,times
+Yale University,United States,12,times
+Johns Hopkins University,United States,13,times
+Columbia University,United States,14,times
+"University of California, Los Angeles",United States,15,times
+UCL,United Kingdom,16,times
+Duke University,United States,17,times
+"University of California, Berkeley",United States,18,times
+Cornell University,United States,19,times
+Northwestern University,United States,20,times
+University of Michigan,United States,21,times
+National University of Singapore,Singapore,22,times
+University of Toronto,Canada,23,times
+Carnegie Mellon University,United States,24,times
+London School of Economics and Political Science,United Kingdom,25,times
+University of Washington,United States,26,times
+University of Edinburgh,United Kingdom,27,times
+New York University,United States,28,times
+Peking University,China,29,times
+Tsinghua University,China,30,times
+"University of California, San Diego",United States,31,times
+University of Melbourne,Australia,32,times
+Georgia Institute of Technology,United States,33,times
+University of British Columbia,Canada,34,times
+LMU Munich,Germany,35,times
+King’s College London,United Kingdom,36,times
+University of Illinois at Urbana-Champaign,United States,37,times
+École Polytechnique Fédérale de Lausanne,Switzerland,38,times
+Karolinska Institute,Sweden,39,times
+University of Hong Kong,Hong Kong,40,times
+Technical University of Munich,Germany,41,times
+McGill University,Canada,42,times
+University of Wisconsin-Madison,United States,43,times
+Hong Kong University of Science and Technology,Hong Kong,44,times
+Heidelberg University,Germany,45,times
+The University of Tokyo,Japan,46,times
+KU Leuven,Belgium,47,times
+Australian National University,Australia,48,times
+University of Texas at Austin,United States,49,times
+Brown University,United States,50,times
+Washington University in St Louis,United States,51,times
+"Nanyang Technological University, Singapore",Singapore,52,times
+"University of California, Santa Barbara",United States,53,times
+"University of California, Davis",United States,54,times
+University of Manchester,United Kingdom,55,times
+University of Minnesota,United States,56,times
+University of North Carolina at Chapel Hill,United States,57,times
+Chinese University of Hong Kong,Hong Kong,58,times
+University of Amsterdam,Netherlands,59,times
+Purdue University,United States,60,times
+University of Sydney,Australia,61,times
+Humboldt University of Berlin,Germany,62,times
+Delft University of Technology,Netherlands,63,times
+Wageningen University & Research,Netherlands,64,times
+University of Queensland,Australia,65,times
+University of Southern California,United States,66,times
+Leiden University,Netherlands,67,times
+Utrecht University,Netherlands,68,times
+"University of Maryland, College Park",United States,69,times
+Boston University,United States,70,times
+Ohio State University,United States,71,times
+Erasmus University Rotterdam,Netherlands,72,times
+Paris Sciences & Lettres – PSL University,France,73,times
+Kyoto University,Japan,74,times
+Seoul National University,South Korea,75,times
+University of Bristol,United Kingdom,76,times
+Pennsylvania State University,United States,77,times
+McMaster University,Canada,78,times
+RWTH Aachen University,Germany,79,times
+University of Glasgow,United Kingdom,80,times
+Monash University,Australia,81,times
+University of Freiburg,Germany,82,times
+University of Groningen,Netherlands,83,times
+Michigan State University,United States,84,times
+University of New South Wales,Australia,85,times
+Rice University,United States,86,times
+Uppsala University,Sweden,87,times
+Free University of Berlin,Germany,88,times
+Dartmouth College,United States,89,times
+University of Helsinki,Finland,90,times
+University of Warwick,United Kingdom,91,times
+Technical University of Berlin,Germany,92,times
+Lund University,Sweden,93,times
+University of Tübingen,Germany,94,times
+University of Basel,Switzerland,95,times
+Korea Advanced Institute of Science and Technology (KAIST),South Korea,96,times
+Durham University,United Kingdom,97,times
+Emory University,United States,98,times
+"University of California, Irvine",United States,99,times
+University of Bonn,Germany,100,times
+University of Colorado Boulder,United States,101,times
+University of Pittsburgh,United States,102,times
+Maastricht University,Netherlands,103,times
+University of Sheffield,United Kingdom,104,times
+University of Bern,Switzerland,105,times
+Vanderbilt University,United States,106,times
+Ghent University,Belgium,107,times
+University of Montreal,Canada,108,times
+Aarhus University,Denmark,109,times
+University of Copenhagen,Denmark,110,times
+Sungkyunkwan University (SKKU),South Korea,111,times
+University of Western Australia,Australia,112,times
+University of Göttingen,Germany,113,times
+University of Virginia,United States,114,times
+École Polytechnique,France,115,times
+Fudan University,China,116,times
+Indiana University,United States,117,times
+Trinity College Dublin,Ireland,118,times
+University of Alberta,Canada,119,times
+City University of Hong Kong,Hong Kong,120,times
+Queen Mary University of London,United Kingdom,121,times
+Radboud University Nijmegen,Netherlands,122,times
+Georgetown University,United States,123,times
+Pierre and Marie Curie University,France,124,times
+University of Mannheim,Germany,125,times
+Arizona State University,United States,126,times
+Charité - Universitätsmedizin Berlin,Germany,127,times
+University of Southampton,United Kingdom,128,times
+Université Catholique de Louvain,Belgium,129,times
+University of Exeter,United Kingdom,130,times
+University of Geneva,Switzerland,131,times
+University of Science and Technology of China,China,132,times
+Karlsruhe Institute of Technology,Germany,133,times
+University of Adelaide,Australia,134,times
+Stockholm University,Sweden,135,times
+University of Zurich,Switzerland,136,times
+Pohang University of Science and Technology,South Korea,137,times
+University of York,United Kingdom,138,times
+University of Leeds,United Kingdom,139,times
+Pompeu Fabra University,Spain,140,times
+University of Birmingham,United Kingdom,141,times
+Eindhoven University of Technology,Netherlands,142,times
+University of Florida,United States,143,times
+University of St Andrews,United Kingdom,144,times
+University of Cologne,Germany,145,times
+University of Oslo,Norway,146,times
+Autonomous University of Barcelona,Spain,147,times
+University of Nottingham,United Kingdom,148,times
+University of Sussex,United Kingdom,149,times
+Lancaster University,United Kingdom,150,times
+University of Notre Dame,United States,151,times
+University of Lausanne,Switzerland,152,times
+Technical University of Denmark,Denmark,153,times
+University of Rochester,United States,154,times
+Scuola Superiore Sant’Anna,Italy,155,times
+TU Dresden,Germany,156,times
+Ulm University,Germany,157,times
+Case Western Reserve University,United States,158,times
+University of Leicester,United Kingdom,159,times
+Texas A&M University,United States,160,times
+University of Arizona,United States,161,times
+"University of California, Santa Cruz",United States,162,times
+Cardiff University,United Kingdom,163,times
+University of Erlangen-Nuremberg,Germany,164,times
+University of Vienna,Austria,165,times
+Vrije Universiteit Amsterdam,Netherlands,166,times
+University of Würzburg,Germany,167,times
+University of Alabama at Birmingham,United States,168,times
+Nanjing University,China,169,times
+Tufts University,United States,170,times
+University of Cape Town,South Africa,171,times
+"Rutgers, the State University of New Jersey",United States,172,times
+KTH Royal Institute of Technology,Sweden,173,times
+University of Münster,Germany,174,times
+Université Libre de Bruxelles,Belgium,175,times
+Newcastle University,United Kingdom,176,times
+University of Liverpool,United Kingdom,177,times
+Zhejiang University,China,178,times
+University of Luxembourg,Luxembourg,179,times
+University of Twente,Netherlands,180,times
+Paris-Sud University,France,181,times
+École Normale Supérieure de Lyon,France,182,times
+Hong Kong Polytechnic University,Hong Kong,183,times
+Scuola Normale Superiore di Pisa,Italy,184,times
+University of Aberdeen,United Kingdom,185,times
+University of Miami,United States,186,times
+University of Dundee,United Kingdom,187,times
+University of East Anglia,United Kingdom,188,times
+Shanghai Jiao Tong University,China,189,times
+Aalto University,Finland,190,times
+University of Massachusetts,United States,191,times
+University of Auckland,New Zealand,192,times
+Northeastern University,United States,193,times
+Lomonosov Moscow State University,Russian Federation,194,times
+Tilburg University,Netherlands,195,times
+Paris-Sorbonne University – Paris 4,France,196,times
+"Royal Holloway, University of London",United Kingdom,197,times
+"University of California, Riverside",United States,198,times
+University of Gothenburg,Sweden,199,times
+National Taiwan University,Taiwan,200,times
+Aalborg University,Denmark,201,times
+University of Antwerp,Belgium,202,times
+University of Barcelona,Spain,203,times
+University of Bergen,Norway,204,times
+University of Bologna,Italy,205,times
+Brandeis University,United States,206,times
+University of Calgary,Canada,207,times
+Chalmers University of Technology,Sweden,208,times
+University of Cincinnati,United States,209,times
+Copenhagen Business School,Denmark,210,times
+University of Delaware,United States,211,times
+University of Duisburg-Essen,Germany,212,times
+Florida State University,United States,213,times
+University of Fribourg,Switzerland,214,times
+George Washington University,United States,215,times
+University of Hamburg,Germany,216,times
+University of Hawai’i at Mānoa,United States,217,times
+Hebrew University of Jerusalem,Israel,218,times
+University of Iceland,Iceland,219,times
+University of Iowa,United States,220,times
+James Cook University,Australia,221,times
+University of Kiel,Germany,222,times
+King Abdulaziz University,Saudi Arabia,223,times
+University of Konstanz,Germany,224,times
+Korea University,South Korea,225,times
+"National University of Ireland, Galway",Ireland,226,times
+Osaka University,Japan,227,times
+University of Otago,New Zealand,228,times
+University of Ottawa,Canada,229,times
+Paris Diderot University – Paris 7,France,230,times
+University of Passau,Germany,231,times
+University of Potsdam,Germany,232,times
+Queen’s University Belfast,United Kingdom,233,times
+Queensland University of Technology,Australia,234,times
+University of Reading,United Kingdom,235,times
+Royal College of Surgeons in Ireland,Ireland,236,times
+Ruhr University Bochum,Germany,237,times
+University of South Australia,Australia,238,times
+"St George’s, University of London",United Kingdom,239,times
+University of Stuttgart,Germany,240,times
+University of Tampere,Finland,241,times
+Technical University of Darmstadt,Germany,242,times
+"University of Technology, Sydney",Australia,243,times
+Tel Aviv University,Israel,244,times
+University of Texas at Dallas,United States,245,times
+Tohoku University,Japan,246,times
+Ulsan National Institute of Science and Technology,South Korea,247,times
+University College Dublin,Ireland,248,times
+University of Utah,United States,249,times
+Vita-Salute San Raffaele University,Italy,250,times
+University of Waterloo,Canada,251,times
+Western University,Canada,252,times
+Yonsei University (Seoul campus),South Korea,253,times
+Aix-Marseille University,France,254,times
+University of Bath,United Kingdom,255,times
+University of Bayreuth,Germany,256,times
+Bielefeld University,Germany,257,times
+University of Bremen,Germany,258,times
+University at Buffalo,United States,259,times
+Clark University,United States,260,times
+University of Colorado Denver,United States,261,times
+Colorado School of Mines,United States,262,times
+Dalhousie University,Canada,263,times
+École des Ponts ParisTech,France,264,times
+University of Essex,United Kingdom,265,times
+Goethe University Frankfurt,Germany,266,times
+Griffith University,Australia,267,times
+University of Hohenheim,Germany,268,times
+University of Illinois at Chicago,United States,269,times
+Indian Institute of Science,India,270,times
+University of Innsbruck,Austria,271,times
+Johannes Gutenberg University of Mainz,Germany,272,times
+Laval University,Canada,273,times
+Macquarie University,Australia,274,times
+University of Marburg,Germany,275,times
+Medical University of Vienna,Austria,276,times
+Moscow Institute of Physics and Technology,Russian Federation,277,times
+University of Newcastle,Australia,278,times
+North Carolina State University,United States,279,times
+Norwegian University of Science and Technology,Norway,280,times
+University of Oregon,United States,281,times
+Oregon Health and Science University,United States,282,times
+University of Oulu,Finland,283,times
+Queen’s University,Canada,284,times
+University of São Paulo,Brazil,285,times
+Simon Fraser University,Canada,286,times
+University of Southern Denmark,Denmark,287,times
+University of South Florida,United States,288,times
+Stony Brook University,United States,289,times
+University of Surrey,United Kingdom,290,times
+Swansea University,United Kingdom,291,times
+Swedish University of Agricultural Sciences,Sweden,292,times
+Syracuse University,United States,293,times
+Tokyo Institute of Technology,Japan,294,times
+University of Trento,Italy,295,times
+Umeå University,Sweden,296,times
+Wake Forest University,United States,297,times
+William & Mary,United States,298,times
+University of the Witwatersrand,South Africa,299,times
+University of Wollongong,Australia,300,times
+Aberystwyth University,United Kingdom,301,times
+University of Alaska Fairbanks,United States,302,times
+Anglia Ruskin University,United Kingdom,303,times
+Babol Noshirvani University of Technology,Iran,304,times
+Bangor University,United Kingdom,305,times
+"Birkbeck, University of London",United Kingdom,306,times
+University of Bordeaux,France,307,times
+Boston College,United States,308,times
+Brighton and Sussex Medical School,United Kingdom,309,times
+Charles Darwin University,Australia,310,times
+University of Connecticut,United States,311,times
+Deakin University,Australia,312,times
+University of Denver,United States,313,times
+University of Eastern Finland,Finland,314,times
+Flinders University,Australia,315,times
+Free University of Bozen-Bolzano,Italy,316,times
+George Mason University,United States,317,times
+"Goldsmiths, University of London",United Kingdom,318,times
+Grenoble Alpes University,France,319,times
+University of Houston,United States,320,times
+Iowa State University,United States,321,times
+University of Kent,United Kingdom,322,times
+Khalifa University of Science and Technology,United Arab Emirates,323,times
+Koç University,Turkey,324,times
+University of Liège,Belgium,325,times
+Loughborough University,United Kingdom,326,times
+Medical University of Graz,Austria,327,times
+University of Milan,Italy,328,times
+Nagoya University,Japan,329,times
+National Tsing Hua University,Taiwan,330,times
+University of Navarra,Spain,331,times
+University of Nebraska-Lincoln,United States,332,times
+Oregon State University,United States,333,times
+Polytechnic University of Milan,Italy,334,times
+Rensselaer Polytechnic Institute,United States,335,times
+Rush University,United States,336,times
+Sapienza University of Rome,Italy,337,times
+University of Stirling,United Kingdom,338,times
+University of Tartu,Estonia,339,times
+University of Tasmania,Australia,340,times
+TU Dortmund University,Germany,341,times
+Technion Israel Institute of Technology,Israel,342,times
+"University of Tennessee, Knoxville",United States,343,times
+Tomsk Polytechnic University,Russian Federation,344,times
+University of Victoria,Canada,345,times
+Victoria University,Australia,346,times
+Vienna University of Technology,Austria,347,times
+Virginia Polytechnic Institute and State University,United States,348,times
+Vrije Universiteit Brussel,Belgium,349,times
+Washington State University,United States,350,times
+University of Alabama,United States,351,times
+American University,United States,352,times
+Aston University,United Kingdom,353,times
+Autonomous University of Madrid,Spain,354,times
+Brunel University London,United Kingdom,355,times
+University of Canberra,Australia,356,times
+University of Canterbury,New Zealand,357,times
+"City, University of London",United Kingdom,358,times
+Colorado State University,United States,359,times
+University of Côte d’Azur,France,360,times
+University of Crete,Greece,361,times
+Curtin University,Australia,362,times
+Cyprus University of Technology,Cyprus,363,times
+Drexel University,United States,364,times
+Federal University of Toulouse Midi-Pyrénées,France,365,times
+University of Georgia,United States,366,times
+Georgia State University,United States,367,times
+Gwangju Institute of Science and Technology,South Korea,368,times
+Hanyang University,South Korea,369,times
+Heriot-Watt University,United Kingdom,370,times
+Higher School of Economics,Russian Federation,371,times
+Indian Institute of Technology Bombay,India,372,times
+Justus Liebig University Giessen,Germany,373,times
+University of Kansas,United States,374,times
+Kyushu University,Japan,375,times
+La Trobe University,Australia,376,times
+Leibniz University of Hanover,Germany,377,times
+Linköping University,Sweden,378,times
+University of Macau,Macao,379,times
+University of Malaya,Malaysia,380,times
+Montpellier University,France,381,times
+Örebro University,Sweden,382,times
+University of Padua,Italy,383,times
+University of Pavia,Italy,384,times
+University of Pisa,Italy,385,times
+Royal Veterinary College,United Kingdom,386,times
+Sabancı University,Turkey,387,times
+University of Salerno,Italy,388,times
+University of South Carolina,United States,389,times
+Stellenbosch University,South Africa,390,times
+University of Strasbourg,France,391,times
+Sun Yat-sen University,China,392,times
+Temple University,United States,393,times
+University of Trieste,Italy,394,times
+Tulane University,United States,395,times
+University of Turku,Finland,396,times
+University College Cork,Ireland,397,times
+University of Vermont,United States,398,times
+Université de Versailles Saint-Quentin-en-Yvelines,France,399,times
+University of Waikato,New Zealand,400,times
+Wayne State University,United States,401,times
+York University,Canada,402,times
+Auckland University of Technology,New Zealand,403,times
+University of Bari Aldo Moro,Italy,404,times
+Bar-Ilan University,Israel,405,times
+University of Bergamo,Italy,406,times
+Bilkent University,Turkey,407,times
+"Binghamton University, State University of New York",United States,408,times
+Boğaziçi University,Turkey,409,times
+University of Brescia,Italy,410,times
+University of Calabria,Italy,411,times
+CentraleSupélec,France,412,times
+Charles University in Prague,Czech Republic,413,times
+Chung-Ang University,South Korea,414,times
+Claude Bernard University Lyon 1,France,415,times
+University of Cyprus,Cyprus,416,times
+Dublin City University,Ireland,417,times
+University of Florence,Italy,418,times
+Florida International University,United States,419,times
+University of Genoa,Italy,420,times
+University of Graz,Austria,421,times
+Graz University of Technology,Austria,422,times
+University of Greifswald,Germany,423,times
+Hamburg University of Technology,Germany,424,times
+Hasselt University,Belgium,425,times
+Hofstra University,United States,426,times
+Hokkaido University,Japan,427,times
+Hong Kong Baptist University,Hong Kong,428,times
+Huazhong University of Science and Technology,China,429,times
+University of Hull,United Kingdom,430,times
+Jordan University of Science and Technology,Jordan,431,times
+University of Jyväskylä,Finland,432,times
+University of Kaiserslautern,Germany,433,times
+Kazan Federal University,Russian Federation,434,times
+University of KwaZulu-Natal,South Africa,435,times
+Kyung Hee University,South Korea,436,times
+University of Lille,France,437,times
+Louisiana State University,United States,438,times
+Makerere University,Uganda,439,times
+University of Manitoba,Canada,440,times
+Marche Polytechnic University,Italy,441,times
+"University of Maryland, Baltimore County",United States,442,times
+Massey University,New Zealand,443,times
+Maynooth University,Ireland,444,times
+Middlesex University,United Kingdom,445,times
+University of Milan-Bicocca,Italy,446,times
+University of Missouri,United States,447,times
+University of Modena and Reggio Emilia,Italy,448,times
+University of Montana,United States,449,times
+Murdoch University,Australia,450,times
+University of Naples Federico II,Italy,451,times
+National Chiao Tung University,Taiwan,452,times
+National Research Nuclear University MEPhI,Russian Federation,453,times
+National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,454,times
+University of Nebraska Medical Center,United States,455,times
+University of Neuchâtel,Switzerland,456,times
+Northern Arizona University,United States,457,times
+Norwegian University of Life Sciences,Norway,458,times
+Novosibirsk State University,Russian Federation,459,times
+University of Oklahoma,United States,460,times
+The Open University,United Kingdom,461,times
+Oxford Brookes University,United Kingdom,462,times
+University of Parma,Italy,463,times
+Plymouth University,United Kingdom,464,times
+Polytechnic University of Catalonia,Spain,465,times
+Polytechnic University of Turin,Italy,466,times
+Qatar University,Qatar,467,times
+Quaid-i-azam University,Pakistan,468,times
+Reykjavík University,Iceland,469,times
+RMIT University,Australia,470,times
+University of Rome II – Tor Vergata,Italy,471,times
+University of Rome III,Italy,472,times
+Roskilde University,Denmark,473,times
+University of Rovira i Virgili,Spain,474,times
+University of St Gallen,Switzerland,475,times
+Saint Louis University,United States,476,times
+Saint Petersburg State University,Russian Federation,477,times
+San Diego State University,United States,478,times
+University of Saskatchewan,Canada,479,times
+Sciences Po,France,480,times
+Semmelweis University,Hungary,481,times
+University of Siegen,Germany,482,times
+University of Siena,Italy,483,times
+"Soas, University of London",United Kingdom,484,times
+Southern Cross University,Australia,485,times
+State University of Campinas,Brazil,486,times
+University of Strathclyde,United Kingdom,487,times
+Swinburne University of Technology,Australia,488,times
+University of Texas at San Antonio,United States,489,times
+Tokyo Medical and Dental University (TMDU),Japan,490,times
+Tongji University,China,491,times
+University of Tsukuba,Japan,492,times
+University of Tulsa,United States,493,times
+University of Turin,Italy,494,times
+UiT The Arctic University of Norway,Norway,495,times
+University of Urbino Carlo Bo,Italy,496,times
+Verona University,Italy,497,times
+Victoria University of Wellington,New Zealand,498,times
+Western Sydney University,Australia,499,times
+University of Wisconsin-Milwaukee,United States,500,times
+Wuhan University,China,501,times
+Xiamen University,China,502,times
+Alfaisal University,Saudi Arabia,503,times
+American University of Beirut,Lebanon,504,times
+Aristotle University of Thessaloniki,Greece,505,times
+University of Arkansas,United States,506,times
+Athens University of Economics and Business,Greece,507,times
+Australian Catholic University,Australia,508,times
+University of Aveiro,Portugal,509,times
+Blaise Pascal University,France,510,times
+Bond University,Australia,511,times
+Université Bourgogne Franche-Comté (UBFC),France,512,times
+Ca’ Foscari University of Venice,Italy,513,times
+Carleton University,Canada,514,times
+University of Catania,Italy,515,times
+Catholic University of the Sacred Heart,Italy,516,times
+Central China Normal University,China,517,times
+Central Queensland University,Australia,518,times
+"China Medical University, Taiwan",Taiwan,519,times
+University of Coimbra,Portugal,520,times
+Complutense University of Madrid,Spain,521,times
+Concordia University,Canada,522,times
+Creighton University,United States,523,times
+Diego Portales University,Chile,524,times
+East China Normal University,China,525,times
+Edith Cowan University,Australia,526,times
+Ewha Womans University,South Korea,527,times
+Federal University of São Paulo (UNIFESP),Brazil,528,times
+Federico Santa María Technical University,Chile,529,times
+University of Ferrara,Italy,530,times
+Fujita Health University,Japan,531,times
+University of Granada,Spain,532,times
+Harbin Institute of Technology,China,533,times
+University of Hertfordshire,United Kingdom,534,times
+Indian Institute of Technology Delhi,India,535,times
+Indian Institute of Technology Kanpur,India,536,times
+Indian Institute of Technology Kharagpur,India,537,times
+Indian Institute of Technology Roorkee,India,538,times
+University of Ioannina,Greece,539,times
+ITMO University,Russian Federation,540,times
+Johannes Kepler University of Linz,Austria,541,times
+Keele University,United Kingdom,542,times
+Kent State University,United States,543,times
+King Fahd University of Petroleum and Minerals,Saudi Arabia,544,times
+King Saud University,Saudi Arabia,545,times
+Konkuk University,South Korea,546,times
+Lappeenranta University of Technology,Finland,547,times
+Lehigh University,United States,548,times
+University of Limerick,Ireland,549,times
+Lincoln University,New Zealand,550,times
+University of Lisbon,Portugal,551,times
+Liverpool John Moores University,United Kingdom,552,times
+University of Lorraine,France,553,times
+Mahidol University,Thailand,554,times
+Masaryk University,Czech Republic,555,times
+Memorial University of Newfoundland,Canada,556,times
+Missouri University of Science and Technology,United States,557,times
+Montana State University,United States,558,times
+University of Nantes,France,559,times
+National and Kapodistrian University of Athens,Greece,560,times
+National Cheng Kung University (NCKU),Taiwan,561,times
+National Taiwan Normal University,Taiwan,562,times
+New Jersey Institute of Technology,United States,563,times
+Northumbria University,United Kingdom,564,times
+NOVA University of Lisbon,Portugal,565,times
+Oklahoma State University,United States,566,times
+University of Palermo,Italy,567,times
+Panthéon-Sorbonne University – Paris 1,France,568,times
+Polytechnic University of Valencia,Spain,569,times
+Pontifical Catholic University of Chile,Chile,570,times
+Pontifical Javeriana University,Colombia,571,times
+University of Porto,Portugal,572,times
+University of Portsmouth,United Kingdom,573,times
+Université du Québec,Canada,574,times
+Renmin University of China,China,575,times
+University of Salento,Italy,576,times
+University of Sassari,Italy,577,times
+Sejong University,South Korea,578,times
+Shandong University,China,579,times
+Université de Sherbrooke,Canada,580,times
+Soochow University,China,581,times
+South China University of Technology,China,582,times
+University of South Dakota,United States,583,times
+Southeast University,China,584,times
+University of Split,Croatia,585,times
+Stevens Institute of Technology,United States,586,times
+University of the Sunshine Coast,Australia,587,times
+Tampere University of Technology,Finland,588,times
+University of Texas at Arlington,United States,589,times
+Texas Tech University,United States,590,times
+Tianjin University,China,591,times
+Tokyo Metropolitan University,Japan,592,times
+University of Toledo,United States,593,times
+Tomsk State University,Russian Federation,594,times
+Universiti Tunku Abdul Rahman (UTAR),Malaysia,595,times
+University of Ulsan,South Korea,596,times
+Ulster University,United Kingdom,597,times
+United Arab Emirates University,United Arab Emirates,598,times
+University of Valencia,Spain,599,times
+University of Warsaw,Poland,600,times
+University of the West of Scotland,United Kingdom,601,times
+Xi’an Jiaotong University,China,602,times
+University of the Aegean,Greece,603,times
+AGH University of Science and Technology,Poland,604,times
+The University of Aizu,Japan,605,times
+University of Alcalá,Spain,606,times
+University of Algarve,Portugal,607,times
+Aligarh Muslim University,India,608,times
+American University in Cairo,Egypt,609,times
+American University of Sharjah,United Arab Emirates,610,times
+Amirkabir University of Technology,Iran,611,times
+"University of the Andes, Colombia",Colombia,612,times
+Atılım University,Turkey,613,times
+Auburn University,United States,614,times
+Babeş-Bolyai University,Romania,615,times
+Banaras Hindu University,India,616,times
+University of the Basque Country,Spain,617,times
+贝勒大学,United States,618,times
+University of Bedfordshire,United Kingdom,619,times
+Beihang University,China,620,times
+Beijing Institute of Technology,China,621,times
+University of Beira Interior,Portugal,622,times
+Ben-Gurion University of the Negev,Israel,623,times
+Beni-Suef University,Egypt,624,times
+Bournemouth University,United Kingdom,625,times
+University of Bradford,United Kingdom,626,times
+University of Brighton,United Kingdom,627,times
+University of Cagliari,Italy,628,times
+Capital Medical University,China,629,times
+Carlos III University of Madrid,Spain,630,times
+University of Central Lancashire,United Kingdom,631,times
+Central South University,China,632,times
+Chang Gung University,Taiwan,633,times
+"University of Chemistry and Technology, Prague",Czech Republic,634,times
+Chiba University,Japan,635,times
+University of Chile,Chile,636,times
+China Agricultural University,China,637,times
+"China University of Geosciences, Beijing",China,638,times
+"China University of Geosciences, Wuhan",China,639,times
+Chonbuk National University,South Korea,640,times
+Chonnam National University,South Korea,641,times
+Chulalongkorn University,Thailand,642,times
+Comenius University in Bratislava,Slovakia,643,times
+COMSATS Institute of Information Technology,Pakistan,644,times
+Coventry University,United Kingdom,645,times
+Czech Technical University in Prague,Czech Republic,646,times
+Dalian University of Technology,China,647,times
+University of Dayton,United States,648,times
+University of Delhi,India,649,times
+De Montfort University,United Kingdom,650,times
+Dublin Institute of Technology,Ireland,651,times
+East China University of Science and Technology,China,652,times
+Eastern Mediterranean University,Northern Cyprus,653,times
+University of East London,United Kingdom,654,times
+École Centrale de Lyon,France,655,times
+École Normale Supérieure de Cachan,France,656,times
+Edinburgh Napier University,United Kingdom,657,times
+Embry-Riddle Aeronautical University,United States,658,times
+Eötvös Loránd University,Hungary,659,times
+Federal University of ABC (UFABC),Brazil,660,times
+Federal University of Itajubá,Brazil,661,times
+Federal University of Minas Gerais,Brazil,662,times
+Federal University of Rio de Janeiro,Brazil,663,times
+Federal University of Rio Grande do Sul,Brazil,664,times
+Florida Atlantic University,United States,665,times
+Florida Institute of Technology,United States,666,times
+Fuzhou University,China,667,times
+Gebze Technical University,Turkey,668,times
+Glasgow Caledonian University,United Kingdom,669,times
+University of Greenwich,United Kingdom,670,times
+Hacettepe University,Turkey,671,times
+University of Haifa,Israel,672,times
+Hiroshima University,Japan,673,times
+Huazhong Agricultural University,China,674,times
+University of Huddersfield,United Kingdom,675,times
+Hunan University,China,676,times
+Indian Institute of Technology Guwahati,India,677,times
+Indian Institute of Technology Madras,India,678,times
+Indian Institute of  Technology (Indian School of Mines) Dhanbad,India,679,times
+Inha University,South Korea,680,times
+Iran University of Science and Technology,Iran,681,times
+ISCTE-University Institute of Lisbon,Portugal,682,times
+Isfahan University of Technology,Iran,683,times
+Istanbul Technical University,Turkey,684,times
+Jadavpur University,India,685,times
+University of Jaén,Spain,686,times
+Jagiellonian University,Poland,687,times
+University of Johannesburg,South Africa,688,times
+Juntendo University,Japan,689,times
+Kagawa University,Japan,690,times
+Kanazawa University,Japan,691,times
+Kansas State University,United States,692,times
+Kaohsiung Medical University,Taiwan,693,times
+Universiti Kebangsaan Malaysia,Malaysia,694,times
+Keio University,Japan,695,times
+King Juan Carlos University,Spain,696,times
+King Mongkut’s University of Technology Thonburi,Thailand,697,times
+Kingston University,United Kingdom,698,times
+K.N. Toosi University of Technology,Iran,699,times
+Kobe University,Japan,700,times
+Kochi University,Japan,701,times
+Kumamoto University,Japan,702,times
+Kuwait University,Kuwait,703,times
+Kyungpook National University,South Korea,704,times
+University of La Laguna,Spain,705,times
+Leeds Beckett University,United Kingdom,706,times
+University of Lincoln,United Kingdom,707,times
+University of Ljubljana,Slovenia,708,times
+Manchester Metropolitan University,United Kingdom,709,times
+University of Maribor,Slovenia,710,times
+Marquette University,United States,711,times
+Middle East Technical University,Turkey,712,times
+University of Minho,Portugal,713,times
+Mississippi State University,United States,714,times
+Monterrey Institute of Technology and Higher Education,Mexico,715,times
+University of Murcia,Spain,716,times
+Nagoya City University,Japan,717,times
+Nanjing Agricultural University,China,718,times
+Nanjing Medical University,China,719,times
+Nanjing Normal University,China,720,times
+Nanjing Tech University,China,721,times
+National Autonomous University of Mexico,Mexico,722,times
+National Central University,Taiwan,723,times
+National Chengchi University,Taiwan,724,times
+National Institute of Applied Sciences of Lyon (INSA Lyon),France,725,times
+National Institute of Technology Rourkela,India,726,times
+National University of Science and Technology (MISiS),Russian Federation,727,times
+National University of Sciences and Technology,Pakistan,728,times
+National Sun Yat-Sen University,Taiwan,729,times
+National Yang-Ming University,Taiwan,730,times
+New Mexico State University,United States,731,times
+University of North Carolina at Greensboro,United States,732,times
+Northeast Normal University,China,733,times
+University of Northern British Columbia (UNBC),Canada,734,times
+Northwestern Polytechnical University,China,735,times
+Nottingham Trent University,United Kingdom,736,times
+Okayama University,Japan,737,times
+Old Dominion University,United States,738,times
+Osaka City University,Japan,739,times
+Otto von Guericke University of Magdeburg,Germany,740,times
+University of Oviedo,Spain,741,times
+Palacký University Olomouc,Czech Republic,742,times
+Panjab University,India,743,times
+University of Patras,Greece,744,times
+University of Pécs,Hungary,745,times
+Peter the Great St Petersburg Polytechnic University,Russian Federation,746,times
+University of the Philippines,Philippines,747,times
+Pontifical Catholic University of Peru,Peru,748,times
+Pontifical Catholic University of Rio de Janeiro (PUC-Rio),Brazil,749,times
+Portland State University,United States,750,times
+University of Pretoria,South Africa,751,times
+Pusan National University,South Korea,752,times
+Universiti Putra Malaysia,Malaysia,753,times
+University of Regina,Canada,754,times
+Rochester Institute of Technology,United States,755,times
+University of Roehampton,United Kingdom,756,times
+Universiti Sains Malaysia,Malaysia,757,times
+University of Salamanca,Spain,758,times
+University of Salford,United Kingdom,759,times
+Samara State Aerospace University,Russian Federation,760,times
+University of Santiago de Compostela,Spain,761,times
+São Paulo State University (UNESP),Brazil,762,times
+Savitribai Phule Pune University,India,763,times
+University of Science and Technology Beijing,China,764,times
+University of Seoul,South Korea,765,times
+University of Seville,Spain,766,times
+Shanghai University,China,767,times
+Shantou University,China,768,times
+Sharif University of Technology,Iran,769,times
+Sichuan University,China,770,times
+Sogang University,South Korea,771,times
+University of Southern Queensland,Australia,772,times
+University of South Wales,United Kingdom,773,times
+Suranaree University of Technology,Thailand,774,times
+University of Szeged,Hungary,775,times
+University of Tabriz,Iran,776,times
+Taipei Medical University,Taiwan,777,times
+Tallinn University of Technology,Estonia,778,times
+Technical University of Madrid,Spain,779,times
+University of Technology of Compiègne,France,780,times
+Teesside University,United Kingdom,781,times
+University of Tehran,Iran,782,times
+Tehran University of Medical Sciences,Iran,783,times
+Universiti Teknologi Malaysia,Malaysia,784,times
+Universiti Teknologi Petronas,Malaysia,785,times
+University of Texas at El Paso,United States,786,times
+Tezpur University,India,787,times
+Tokyo University of Agriculture and Technology,Japan,788,times
+Tokyo University of Science,Japan,789,times
+University of Vigo,Spain,790,times
+Vilnius University,Lithuania,791,times
+Warsaw University of Technology,Poland,792,times
+Waseda University,Japan,793,times
+University of the West of England,United Kingdom,794,times
+University of the Western Cape,South Africa,795,times
+University of Westminster,United Kingdom,796,times
+University of Windsor,Canada,797,times
+Yeungnam University,South Korea,798,times
+Yokohama City University,Japan,799,times
+University of Zaragoza,Spain,800,times
+University of A Coruña,Spain,801,times
+Adam Mickiewicz University,Poland,802,times
+"University of Agriculture, Faisalabad",Pakistan,803,times
+Ain Shams University,Egypt,804,times
+Ajou University,South Korea,805,times
+Akdeniz University,Turkey,806,times
+Alexandria University,Egypt,807,times
+Alexandru Ioan Cuza University,Romania,808,times
+University of Alicante,Spain,809,times
+University of Almería,Spain,810,times
+Amrita Vishwa Vidyapeetham,India,811,times
+Andhra University,India,812,times
+Andrés Bello University (UNAB),Chile,813,times
+Annamalai University,India,814,times
+University of Antioquia,Colombia,815,times
+"Asia University, Taiwan",Taiwan,816,times
+Assiut University,Egypt,817,times
+Austral University of Chile,Chile,818,times
+Bandung Institute of Technology (ITB),Indonesia,819,times
+Bauman Moscow State Technical University,Russian Federation,820,times
+Beijing Jiaotong University,China,821,times
+Belarusian State University,Belarus,822,times
+"Birla Institute of Technology and Science, Pilani",India,823,times
+University of Brasília,Brazil,824,times
+Brno University of Technology,Czech Republic,825,times
+University of Bucharest,Romania,826,times
+Budapest University of Technology and Economics,Hungary,827,times
+Cairo University,Egypt,828,times
+University of Calcutta,India,829,times
+"California Polytechnic State University, San Luis Obispo",United States,830,times
+University of Castilla-La Mancha,Spain,831,times
+Catholic University of the North,Chile,832,times
+Central University of Venezuela,Venezuela,833,times
+University of Cergy-Pontoise,France,834,times
+Chiang Mai University,Thailand,835,times
+China University of Mining and Technology,China,836,times
+"China University of Petroleum, Beijing",China,837,times
+Chongqing University,China,838,times
+Chungnam National University,South Korea,839,times
+Chung Yuan Christian University,Taiwan,840,times
+Chuo University,Japan,841,times
+Cochin University of Science and Technology,India,842,times
+University of Colombo,Sri Lanka,843,times
+University of Concepción,Chile,844,times
+Corvinus University of Budapest,Hungary,845,times
+University of Costa Rica,Costa Rica,846,times
+Czech University of Life Sciences Prague (CULS),Czech Republic,847,times
+University of Debrecen,Hungary,848,times
+Del Rosario University,Colombia,849,times
+University of Derby,United Kingdom,850,times
+Ehime University,Japan,851,times
+The University of Electro-Communications,Japan,852,times
+University of Electronic Science and Technology of China,China,853,times
+Erciyes University,Turkey,854,times
+Federal University of Ceará (UFC),Brazil,855,times
+Federal University of Pelotas,Brazil,856,times
+Federal University of Pernambuco,Brazil,857,times
+Federal University of Rio Grande do Norte (UFRN),Brazil,858,times
+Federal University of Santa Catarina,Brazil,859,times
+Federal University of São Carlos,Brazil,860,times
+Feng Chia University,Taiwan,861,times
+Ferdowsi University of Mashhad,Iran,862,times
+University of La Frontera,Chile,863,times
+Fu Jen Catholic University,Taiwan,864,times
+Universitas Gadjah Mada,Indonesia,865,times
+Gdańsk University of Technology,Poland,866,times
+University of Ghana,Ghana,867,times
+Gifu University,Japan,868,times
+Grigore T. Popa University of Medicine and Pharmacy,Romania,869,times
+University of Guilan,Iran,870,times
+Hallym University,South Korea,871,times
+Hamamatsu University School of Medicine,Japan,872,times
+Hosei University,Japan,873,times
+Huaqiao University,China,874,times
+University of Ibadan,Nigeria,875,times
+Imam Abdulrahman Bin Faisal University,Saudi Arabia,876,times
+University of Indonesia,Indonesia,877,times
+University of Isfahan,Iran,878,times
+I-Shou University,Taiwan,879,times
+Istanbul University,Turkey,880,times
+Iwate University,Japan,881,times
+Izmir Institute of Technology,Turkey,882,times
+Jamia Millia Islamia,India,883,times
+Jiangsu University,China,884,times
+Jikei University School of Medicine,Japan,885,times
+Jinan University,China,886,times
+University of Jordan,Jordan,887,times
+Kagoshima University,Japan,888,times
+Kansai Medical University,Japan,889,times
+Kasetsart University,Thailand,890,times
+University of Kerala,India,891,times
+Khon Kaen University,Thailand,892,times
+Kindai University,Japan,893,times
+King Mongkut’s Institute of Technology Ladkrabang,Thailand,894,times
+Kitasato University,Japan,895,times
+Kyoto Institute of Technology,Japan,896,times
+Kyushu Institute of Technology (Kyutech),Japan,897,times
+University of Latvia,Latvia,898,times
+Lobachevsky State University of Nizhni Novgorod,Russian Federation,899,times
+London South Bank University,United Kingdom,900,times
+Mansoura University,Egypt,901,times
+Marmara University,Turkey,902,times
+University of Marrakech Cadi Ayyad,Morocco,903,times
+Meiji University,Japan,904,times
+Metropolitan Autonomous University,Mexico,905,times
+Mie University,Japan,906,times
+University of Miyazaki,Japan,907,times
+Mohammed V University of Rabat,Morocco,908,times
+Nagaoka University of Technology,Japan,909,times
+Nagasaki University,Japan,910,times
+Nagoya Institute of Technology,Japan,911,times
+University of Nairobi,Kenya,912,times
+Nara Medical University,Japan,913,times
+National Chung Cheng University,Taiwan,914,times
+National University of Colombia,Colombia,915,times
+National University of Córdoba,Argentina,916,times
+National Dong Hwa University,Taiwan,917,times
+National Research Saratov State University,Russian Federation,918,times
+National University of Tainan,Taiwan,919,times
+National Taipei University,Taiwan,920,times
+National Taipei University of Technology,Taiwan,921,times
+National Taiwan Ocean University,Taiwan,922,times
+Nicolaus Copernicus University in Toruń,Poland,923,times
+Niigata University,Japan,924,times
+Northeastern University,China,925,times
+Northwest University,China,926,times
+NorthWest A&F University,China,927,times
+Novosibirsk State Technical University,Russian Federation,928,times
+Oakland University,United States,929,times
+Ocean University of China,China,930,times
+Osaka Prefecture University,Japan,931,times
+Osmania University,India,932,times
+University of Ostrava,Czech Republic,933,times
+University of Pardubice,Czech Republic,934,times
+Paris Nanterre University,France,935,times
+Pondicherry University,India,936,times
+Pontifical Catholic University of Paraná,Brazil,937,times
+Pontifical Catholic University of Rio Grande do Sul (PUCRS),Brazil,938,times
+Pontifical Catholic University of Valparaíso,Chile,939,times
+Prince of Songkla University,Thailand,940,times
+Riga Technical University,Latvia,941,times
+Rio de Janeiro State University (UERJ),Brazil,942,times
+Ritsumeikan University,Japan,943,times
+Robert Gordon University,United Kingdom,944,times
+Saga University,Japan,945,times
+Saitama University,Japan,946,times
+Saitama Medical University,Japan,947,times
+"University of Santiago, Chile (USACH)",Chile,948,times
+Seoul National University of Science and Technology (SeoulTech),South Korea,949,times
+Shaanxi Normal University,China,950,times
+Shahid Beheshti University,Iran,951,times
+University of Sharjah,United Arab Emirates,952,times
+Sheffield Hallam University,United Kingdom,953,times
+Shiga University of Medical Science,Japan,954,times
+Shimane University,Japan,955,times
+Shinshu University,Japan,956,times
+Shiraz University,Iran,957,times
+Shizuoka University,Japan,958,times
+Showa University,Japan,959,times
+University of Silesia in Katowice,Poland,960,times
+Simón Bolívar University,Venezuela,961,times
+Slovak University of Technology in Bratislava,Slovakia,962,times
+Sophia University,Japan,963,times
+University of South Africa,South Africa,964,times
+Southern Federal University,Russian Federation,965,times
+University of Southern Mississippi,United States,966,times
+South Valley University,Egypt,967,times
+Sri Venkateswara University,India,968,times
+State University of Ponta Grossa,Brazil,969,times
+Suez Canal University,Egypt,970,times
+Sultan Qaboos University,Oman,971,times
+University of Talca,Chile,972,times
+Taras Shevchenko National University of Kyiv,Ukraine,973,times
+Technical University of Košice,Slovakia,974,times
+Universiti Tenaga Nasional (UNITEN),Malaysia,975,times
+Texas State University,United States,976,times
+Thapar University,India,977,times
+University of Tlemcen,Algeria,978,times
+TOBB University of Economics and Technology,Turkey,979,times
+Tokai University,Japan,980,times
+Tokushima University,Japan,981,times
+Tokyo University of Marine Science and Technology,Japan,982,times
+Tomas Bata University in Zlín,Czech Republic,983,times
+University of Toyama,Japan,984,times
+Toyohashi University of Technology (TUT),Japan,985,times
+University of Valparaíso,Chile,986,times
+VIT University,India,987,times
+VŠB - Technical University of Ostrava,Czech Republic,988,times
+University of West Bohemia,Czech Republic,989,times
+West University of Timişoara,Romania,990,times
+University of Wrocław,Poland,991,times
+Wuhan University of Technology,China,992,times
+Xiangtan University,China,993,times
+Xidian University,China,994,times
+Yamagata University,Japan,995,times
+Yamaguchi University,Japan,996,times
+University of Yamanashi,Japan,997,times
+Yıldız Technical University,Turkey,998,times
+Yokohama National University,Japan,999,times
+Yuan Ze University,Taiwan,1000,times
+University of Zagreb,Croatia,1001,times
+Akita University,Japan,1002,times
+Alzahra University,Iran,1003,times
+Amity University,India,1004,times
+Anadolu University,Turkey,1005,times
+"University of the Andes, Venezuela",Venezuela,1006,times
+Ankara University,Turkey,1007,times
+Autonomous University of Baja California,Mexico,1008,times
+Autonomous University of Hidalgo State (UAEH),Mexico,1009,times
+Autonomous University of Nuevo León,Mexico,1010,times
+Autonomous University of Puebla,Mexico,1011,times
+Autonomous University of the State of Mexico,Mexico,1012,times
+Autonomous University of Yucatán,Mexico,1013,times
+Bahauddin Zakariya University,Pakistan,1014,times
+University of Birjand,Iran,1015,times
+Bogor Agricultural University,Indonesia,1016,times
+Chaoyang University of Technology,Taiwan,1017,times
+Chiba Institute of Technology,Japan,1018,times
+University of Dhaka,Bangladesh,1019,times
+Dokuz Eylül University,Turkey,1020,times
+Doshisha University,Japan,1021,times
+Far Eastern Federal University,Russian Federation,1022,times
+Federal University of Goiás,Brazil,1023,times
+Federal University of Lavras,Brazil,1024,times
+Federal University of Ouro Preto,Brazil,1025,times
+Federal University of Paraná (UFPR),Brazil,1026,times
+Federal University of Santa Maria,Brazil,1027,times
+Federal University of Viçosa,Brazil,1028,times
+Fluminense Federal University,Brazil,1029,times
+University of Fukui,Japan,1030,times
+Gazi University,Turkey,1031,times
+"G.B. Pant University of Agriculture & Technology, Pantnagar",India,1032,times
+University of Gdańsk,Poland,1033,times
+GITAM University,India,1034,times
+Government College University Lahore,Pakistan,1035,times
+University of Guadalajara,Mexico,1036,times
+Guangxi University,China,1037,times
+Hashemite University,Jordan,1038,times
+University of Hyogo,Japan,1039,times
+Ibaraki University,Japan,1040,times
+Ivane Javakhishvili Tbilisi State University,Georgia,1041,times
+Ivan Franko National University of Lviv,Ukraine,1042,times
+Jawaharlal Nehru Technological University Anantapur (JNTUA),India,1043,times
+Kanagawa University,Japan,1044,times
+Kansai University,Japan,1045,times
+Kaunas University of Technology,Lithuania,1046,times
+King Mongkut's University of Technology North Bangkok,Thailand,1047,times
+Kogakuin University,Japan,1048,times
+Kwansei Gakuin University,Japan,1049,times
+University of Lahore,Pakistan,1050,times
+University of Łódź,Poland,1051,times
+Łodz University of Technology,Poland,1052,times
+Londrina State University,Brazil,1053,times
+Lviv Polytechnic National University,Ukraine,1054,times
+Maharaja Sayajirao University of Baroda,India,1055,times
+Manipal University,India,1056,times
+Meijo University,Japan,1057,times
+Ming Chuan University,Taiwan,1058,times
+University of Monastir,Tunisia,1059,times
+University of Mysore,India,1060,times
+National Chiayi University,Taiwan,1061,times
+National University of Kaohsiung,Taiwan,1062,times
+National Polytechnic University (IPN),Mexico,1063,times
+National Research University of Electronic Technology (MIET),Russian Federation,1064,times
+National Technical University of Ukraine – Kyiv Polytechnic Institute,Ukraine,1065,times
+Oita University,Japan,1066,times
+Ondokuz Mayis University,Turkey,1067,times
+Perm State University,Russian Federation,1068,times
+University of Peshawar,Pakistan,1069,times
+PMAS Arid Agriculture University Rawalpindi,Pakistan,1070,times
+PSG College of Technology,India,1071,times
+RUDN University,Russian Federation,1072,times
+SASTRA University,India,1073,times
+Sathyabama University,India,1074,times
+Sechenov University,Russian Federation,1075,times
+Shanghai Maritime University,China,1076,times
+Shibaura Institute of Technology Tokyo,Japan,1077,times
+Siberian Federal University,Russian Federation,1078,times
+Sidi Mohamed Ben Abdellah University,Morocco,1079,times
+University of the Sinos Valley,Brazil,1080,times
+Sofia University,Bulgaria,1081,times
+Southwest Jiaotong University,China,1082,times
+SRM University,India,1083,times
+State University of Maringá,Brazil,1084,times
+State University of Western Paraná (Unioeste),Brazil,1085,times
+Tamil Nadu Agricultural University,India,1086,times
+Tamkang University,Taiwan,1087,times
+Technical University of Liberec,Czech Republic,1088,times
+Tokyo City University,Japan,1089,times
+Tokyo Denki University,Japan,1090,times
+Tottori University,Japan,1091,times
+Toyo University,Japan,1092,times
+University of Tunis El Manar,Tunisia,1093,times
+Ural Federal University,Russian Federation,1094,times
+Universiti Utara Malaysia,Malaysia,1095,times
+Utsunomiya University,Japan,1096,times
+"University of Veterinary and Animal Sciences, Lahore",Pakistan,1097,times
+V.N. Karazin Kharkiv National University,Ukraine,1098,times
+Volgograd State Technical University,Russian Federation,1099,times
+Voronezh State University,Russian Federation,1100,times
+Yazd University,Iran,1101,times
+Yeditepe University,Turkey,1102,times
+University of Zanjan,Iran,1103,times
+Harvard University,USA,1,Shangai
+Stanford University,USA,2,Shangai
+University of Cambridge,UK,3,Shangai
+Massachusetts Institute of Technology (MIT),USA,4,Shangai
+"University of California, Berkeley",USA,5,Shangai
+Princeton University,USA,6,Shangai
+University of Oxford,UK,7,Shangai
+Columbia University,USA,8,Shangai
+California Institute of Technology,USA,9,Shangai
+University of Chicago,USA,10,Shangai
+Yale University,USA,11,Shangai
+"University of California, Los Angeles",USA,12,Shangai
+University of Washington,USA,13,Shangai
+Cornell University,USA,14,Shangai
+"University of California, San Diego",USA,15,Shangai
+University College London,UK,16,Shangai
+University of Pennsylvania,USA,17,Shangai
+Johns Hopkins University,USA,18,Shangai
+Swiss Federal Institute of Technology Zurich,Switzerland,19,Shangai
+Washington University in St. Louis,USA,20,Shangai
+"University of California, San Francisco",USA,21,Shangai
+Northwestern University,USA,22,Shangai
+University of Toronto,Canada,23,Shangai
+The University of Tokyo,Japan,24,Shangai
+University of Michigan-Ann Arbor,USA,25,Shangai
+Duke University,USA,26,Shangai
+Imperial College London,UK,27,Shangai
+University of Wisconsin - Madison,USA,28,Shangai
+New York University,USA,29,Shangai
+University of Copenhagen,Denmark,30,Shangai
+University of British Columbia,Canada,31,Shangai
+The University of Edinburgh,UK,32,Shangai
+University of North Carolina at Chapel Hill,USA,33,Shangai
+"University of Minnesota, Twin Cities",USA,34,Shangai
+Kyoto University,Japan,35,Shangai
+Rockefeller University,USA,36,Shangai
+University of Illinois at Urbana-Champaign,USA,37,Shangai
+The University of Manchester,UK,38,Shangai
+The University of Melbourne,Australia,39,Shangai
+Pierre and Marie  Curie University - Paris 6,France,40,Shangai
+University of Paris-Sud (Paris 11),France,41,Shangai
+Heidelberg University,Germany,42,Shangai
+University of Colorado at Boulder,USA,43,Shangai
+Karolinska Institute,Sweden,44,Shangai
+"University of California, Santa Barbara",USA,45,Shangai
+King's College London,UK,46,Shangai
+Utrecht University,Netherlands,47,Shangai
+The University of Texas Southwestern Medical Center at Dallas,USA,48,Shangai
+Tsinghua University,China,49,Shangai
+Technical University Munich,Germany,50,Shangai
+The University of Texas at Austin,USA,51,Shangai
+Vanderbilt University,USA,52,Shangai
+"University of Maryland, College Park",USA,53,Shangai
+University of Southern California,USA,54,Shangai
+The University of Queensland,Australia,55,Shangai
+University of Helsinki,Finland,56,Shangai
+University of Munich,Germany,57,Shangai
+University of Zurich,Switzerland,58,Shangai
+University of Groningen,Netherlands,59,Shangai
+University of Geneva,Switzerland,60,Shangai
+University of Bristol,UK,61,Shangai
+University of Oslo,Norway,62,Shangai
+Uppsala University,Sweden,63,Shangai
+"University of California, Irvine",USA,64,Shangai
+Aarhus University,Denmark,65,Shangai
+McMaster University,Canada,66,Shangai
+McGill University,Canada,67,Shangai
+"University of Pittsburgh, Pittsburgh Campus",USA,68,Shangai
+Ecole Normale Superieure - Paris,France,69,Shangai
+Ghent University,Belgium,70,Shangai
+Mayo Medical School,USA,71,Shangai
+Peking University,China,72,Shangai
+Erasmus University Rotterdam,Netherlands,73,Shangai
+Rice University,USA,74,Shangai
+Stockholm University,Sweden,75,Shangai
+Swiss Federal Institute of Technology Lausanne,Switzerland,76,Shangai
+Purdue University - West Lafayette,USA,77,Shangai
+Monash University,Australia,78,Shangai
+"Rutgers, The State University of New Jersey - New Brunswick",USA,79,Shangai
+Boston University,USA,80,Shangai
+Carnegie Mellon University,USA,81,Shangai
+The Ohio State University - Columbus,USA,82,Shangai
+University of Sydney,Australia,83,Shangai
+Nagoya University,Japan,84,Shangai
+Georgia Institute of Technology,USA,85,Shangai
+Pennsylvania State University - University Park,USA,86,Shangai
+"University of California, Davis",USA,87,Shangai
+Leiden University,Netherlands,88,Shangai
+University of Florida,USA,89,Shangai
+KU Leuven,Belgium,90,Shangai
+National University of Singapore,Singapore,91,Shangai
+The University of Western Australia,Australia,92,Shangai
+Moscow State University,Russia,93,Shangai
+Technion-Israel Institute of Technology,Israel,94,Shangai
+University of Basel,Switzerland,95,Shangai
+University of Goettingen,Germany,96,Shangai
+The Australian National University,Australia,97,Shangai
+"University of California, Santa Cruz",USA,98,Shangai
+Cardiff University,UK,99,Shangai
+University of Arizona,USA,100,Shangai
+Aix Marseille University,France,101,Shangai
+Arizona State University,USA,102,Shangai
+Baylor College of Medicine,USA,103,Shangai
+Brown University,USA,104,Shangai
+Case Western Reserve University,USA,105,Shangai
+Catholic University of Louvain,Belgium,106,Shangai
+Emory University,USA,107,Shangai
+Fudan University,China,108,Shangai
+Icahn School of Medicine at Mount Sinai,USA,109,Shangai
+Indiana University Bloomington,USA,110,Shangai
+King Abdulaziz University,Saudi Arabia,111,Shangai
+King Saud University,Saudi Arabia,112,Shangai
+Lund University,Sweden,113,Shangai
+Michigan State University,USA,114,Shangai
+Nanyang Technological University,Singapore,115,Shangai
+Norwegian University of Science and Technology - NTNU,Norway,116,Shangai
+Osaka University,Japan,117,Shangai
+Radboud University Nijmegen,Netherlands,118,Shangai
+Seoul National University,South Korea,119,Shangai
+Shanghai Jiao Tong University,China,120,Shangai
+Texas A&M University,USA,121,Shangai
+The Hebrew University of Jerusalem,Israel,122,Shangai
+The University of Adelaide,Australia,123,Shangai
+The University of Glasgow,UK,124,Shangai
+The University of Hong Kong,China hk,125,Shangai
+The University of New South Wales,Australia,126,Shangai
+The University of Sheffield,UK,127,Shangai
+The University of Texas M. D. Anderson Cancer Center,USA,128,Shangai
+Tohoku University,Japan,129,Shangai
+University of Alberta,Canada,130,Shangai
+University of Amsterdam,Netherlands,131,Shangai
+University of Bern,Switzerland,132,Shangai
+University of Birmingham,UK,133,Shangai
+University of Bonn,Germany,134,Shangai
+University of Frankfurt,Germany,135,Shangai
+University of Freiburg,Germany,136,Shangai
+University of Leeds,UK,137,Shangai
+University of Liverpool,UK,138,Shangai
+University of Nottingham,UK,139,Shangai
+University of Rochester,USA,140,Shangai
+University of Science and Technology of China,China,141,Shangai
+University of Southampton,UK,142,Shangai
+University of Strasbourg,France,143,Shangai
+University of Utah,USA,144,Shangai
+University of Wageningen,Netherlands,145,Shangai
+University of Warwick,UK,146,Shangai
+University Paris Diderot - Paris 7,France,147,Shangai
+VU University Amsterdam,Netherlands,148,Shangai
+Weizmann Institute of Science,Israel,149,Shangai
+Zhejiang University,China,150,Shangai
+China Medical University (Taichung),China tw,151,Shangai
+Curtin University,Australia,152,Shangai
+Delft University of Technology,Netherlands,153,Shangai
+Harbin Institute of Technology,China,154,Shangai
+Hokkaido University,Japan,155,Shangai
+London School of Economics and Political Science,UK,156,Shangai
+Macquarie University,Australia,157,Shangai
+National Taiwan University,China tw,158,Shangai
+Oregon State University,USA,159,Shangai
+Queen Mary University of London,UK,160,Shangai
+Sapienza University of Rome,Italy,161,Shangai
+Sichuan University,China,162,Shangai
+Sun Yat-sen University,China,163,Shangai
+Technical University of Denmark,Denmark,164,Shangai
+Tel Aviv University,Israel,165,Shangai
+The Chinese University of Hong Kong,China hk,166,Shangai
+The University of Calgary,Canada,167,Shangai
+Tokyo Institute of Technology,Japan,168,Shangai
+Trinity College Dublin,Ireland,169,Shangai
+TU Dresden,Germany,170,Shangai
+Tufts University,USA,171,Shangai
+Université Grenoble Alpes,France,172,Shangai
+Université libre de Bruxelles (ULB),Belgium,173,Shangai
+University of Bordeaux,France,174,Shangai
+"University of California, Riverside",USA,175,Shangai
+University of Delaware,USA,176,Shangai
+University of Erlangen-Nuremberg,Germany,177,Shangai
+University of Exeter,UK,178,Shangai
+University of Gothenburg,Sweden,179,Shangai
+University of Hamburg,Germany,180,Shangai
+University of Innsbruck,Austria,181,Shangai
+University of Iowa,USA,182,Shangai
+University of Kiel,Germany,183,Shangai
+University of Lausanne,Switzerland,184,Shangai
+University of Leipzig,Germany,185,Shangai
+University of Lisbon,Portugal,186,Shangai
+University of Massachusetts Amherst,USA,187,Shangai
+University of Massachusetts Medical School - Worcester,USA,188,Shangai
+University of Miami,USA,189,Shangai
+University of Montreal,Canada,190,Shangai
+University of Muenster,Germany,191,Shangai
+University of Nebraska - Lincoln,USA,192,Shangai
+University of Ottawa,Canada,193,Shangai
+University of Padua,Italy,194,Shangai
+University of Paris Descartes (Paris 5),France,195,Shangai
+University of Sao Paulo,Brazil,196,Shangai
+University of Tuebingen,Germany,197,Shangai
+University of Vienna,Austria,198,Shangai
+University of Virginia,USA,199,Shangai
+University of Wuerzburg,Germany,200,Shangai
+Aalborg University,Denmark,201,Shangai
+Beijing Normal University,China,202,Shangai
+Chalmers University of Technology,Sweden,203,Shangai
+Charles University in Prague,Czech,204,Shangai
+City University of Hong Kong,China hk,205,Shangai
+Claude Bernard University Lyon 1,France,206,Shangai
+Colorado State University,USA,207,Shangai
+Dartmouth College,USA,208,Shangai
+Deakin University,Australia,209,Shangai
+Drexel University,USA,210,Shangai
+Durham University,UK,211,Shangai
+Ecole Normale Superieure - Lyon,France,212,Shangai
+Florida State University,USA,213,Shangai
+George Mason University,USA,214,Shangai
+Georgetown University,USA,215,Shangai
+Hanyang University,South Korea,216,Shangai
+Huazhong University of Science and Technology,China,217,Shangai
+Iowa State University,USA,218,Shangai
+Karlsruhe Institute of Technology (KIT),Germany,219,Shangai
+King Abdullah University of Science and Technology,Saudi Arabia,220,Shangai
+Korea Advanced Institute of Science and Technology,South Korea,221,Shangai
+Korea University,South Korea,222,Shangai
+KTH Royal Institute of Technology,Sweden,223,Shangai
+Kyushu University,Japan,224,Shangai
+Linkoping University,Sweden,225,Shangai
+London School of Hygiene & Tropical Medicine,UK,226,Shangai
+Maastricht University,Netherlands,227,Shangai
+Medical University of South Carolina,USA,228,Shangai
+Medical University of Vienna,Austria,229,Shangai
+Nanjing University,China,230,Shangai
+National Autonomous University of Mexico,Mexico,231,Shangai
+Newcastle University,UK,232,Shangai
+North Carolina State University - Raleigh,USA,233,Shangai
+Northeastern University (Boston),USA,234,Shangai
+Oregon Health and Science University,USA,235,Shangai
+Paul Sabatier University (Toulouse 3),France,236,Shangai
+Polytechnic Institute of Milan,Italy,237,Shangai
+Pompeu Fabra University,Spain,238,Shangai
+Queen's University,Canada,239,Shangai
+Queensland University of Technology,Australia,240,Shangai
+RWTH Aachen University,Germany,241,Shangai
+Soochow University (China),China,242,Shangai
+South China University of Technology,China,243,Shangai
+Southeast University,China,244,Shangai
+Stony Brook University,USA,245,Shangai
+Sungkyunkwan University,South Korea,246,Shangai
+Swedish University of Agricultural Sciences,Sweden,247,Shangai
+The Hong Kong Polytechnic University,China hk,248,Shangai
+The Hong Kong University of Science and Technology,China hk,249,Shangai
+The University of Auckland,New Zealand,250,Shangai
+The University of Dundee,UK,251,Shangai
+The University of Georgia,USA,252,Shangai
+The University of Reading,UK,253,Shangai
+The University of Texas at Dallas,USA,254,Shangai
+The University of Texas Health Science Center at San Antonio,USA,255,Shangai
+"University at Buffalo, the State University of New York",USA,256,Shangai
+University of Aberdeen,UK,257,Shangai
+University of Alabama at Birmingham,USA,258,Shangai
+University of Antwerp,Belgium,259,Shangai
+University of Barcelona,Spain,260,Shangai
+University of Belgrade,Serbia,261,Shangai
+University of Bergen,Norway,262,Shangai
+University of Bochum,Germany,263,Shangai
+University of Bologna,Italy,264,Shangai
+University of Buenos Aires,Argentina,265,Shangai
+University of Electronic Science and Technology of China,China,266,Shangai
+University of Granada,Spain,267,Shangai
+University of Hawaii at Manoa,USA,268,Shangai
+University of Houston,USA,269,Shangai
+University of Illinois at Chicago,USA,270,Shangai
+University of Jena,Germany,271,Shangai
+University of Kansas,USA,272,Shangai
+University of Cologne,Germany,273,Shangai
+University of Lorraine,France,274,Shangai
+University of Mainz,Germany,275,Shangai
+"University of Maryland, Baltimore",USA,276,Shangai
+University of Milan,Italy,277,Shangai
+University of Missouri - Columbia,USA,278,Shangai
+University of Montpellier,France,279,Shangai
+University of Notre Dame,USA,280,Shangai
+University of Oregon,USA,281,Shangai
+University of Pisa,Italy,282,Shangai
+University of South Florida,USA,283,Shangai
+University of Sussex,UK,284,Shangai
+University of Tasmania,Australia,285,Shangai
+University of Tennessee - Knoxville,USA,286,Shangai
+University of the Witwatersrand,South Africa,287,Shangai
+University of Tsukuba,Japan,288,Shangai
+University of Turin,Italy,289,Shangai
+University of Ulm,Germany,290,Shangai
+University of Waterloo,Canada,291,Shangai
+University of Wollongong,Australia,292,Shangai
+University of York,UK,293,Shangai
+Virginia Commonwealth University,USA,294,Shangai
+Vrije Universiteit Brussel (VUB),Belgium,295,Shangai
+Western University,Canada,296,Shangai
+Wuhan University,China,297,Shangai
+Xian Jiao Tong University,China,298,Shangai
+Yeshiva University,USA,299,Shangai
+Yonsei University,South Korea,300,Shangai
+Autonomous University of Barcelona,Spain,301,Shangai
+Autonomous University of Madrid,Spain,302,Shangai
+Beihang University,China,303,Shangai
+Boston College,USA,304,Shangai
+Brandeis University,USA,305,Shangai
+Brigham Young University,USA,306,Shangai
+Capital Medical University,China,307,Shangai
+Central South University,China,308,Shangai
+Chang Gung University,China tw,309,Shangai
+Chiba University,Japan,310,Shangai
+China University of Geosciences (Wuhan),China,311,Shangai
+Complutense University of Madrid,Spain,312,Shangai
+Dalhousie University,Canada,313,Shangai
+Dalian University of Technology,China,314,Shangai
+East China University of Science and Technology,China,315,Shangai
+Eindhoven University of Technology,Netherlands,316,Shangai
+ESPCI ParisTech,France,317,Shangai
+Federal University of Rio de Janeiro,Brazil,318,Shangai
+Griffith University,Australia,319,Shangai
+Hannover Medical School,Germany,320,Shangai
+Hiroshima University,Japan,321,Shangai
+Hunan University,China,322,Shangai
+Indian Institute of Science,India,323,Shangai
+Indiana University-Purdue University at Indianapolis,USA,324,Shangai
+James Cook University,Australia,325,Shangai
+Jilin University,China,326,Shangai
+Keio University,Japan,327,Shangai
+La Trobe University,Australia,328,Shangai
+Lancaster University,UK,329,Shangai
+Lanzhou University,China,330,Shangai
+Laval University,Canada,331,Shangai
+Louisiana State University - Baton Rouge,USA,332,Shangai
+Nankai University,China,333,Shangai
+National and Kapodistrian University of Athens,Greece,334,Shangai
+National Cheng Kung University,China tw,335,Shangai
+National Chiao Tung University,China tw,336,Shangai
+National Tsing Hua University,China tw,337,Shangai
+"National University of Ireland, Galway",Ireland,338,Shangai
+Ocean University of China,China,339,Shangai
+Okayama University,Japan,340,Shangai
+Paris Dauphine University (Paris 9),France,341,Shangai
+Pohang University of Science and Technology,South Korea,342,Shangai
+Queen's University Belfast,UK,343,Shangai
+Saint Louis University,USA,344,Shangai
+Saint Petersburg State University,Russia,345,Shangai
+Shandong University,China,346,Shangai
+Swinburne University of Technology,Australia,347,Shangai
+Temple University,USA,348,Shangai
+The George Washington University,USA,349,Shangai
+The University of New Mexico - Albuquerque,USA,350,Shangai
+"The University of Newcastle, Australia",Australia,351,Shangai
+The University of Texas Health Science Center at Houston,USA,352,Shangai
+Tianjin University,China,353,Shangai
+Tongji University,China,354,Shangai
+Umea University,Sweden,355,Shangai
+UNESP,Brazil,356,Shangai
+University College Dublin,Ireland,357,Shangai
+University of Cape Town,South Africa,358,Shangai
+University of Central Florida,USA,359,Shangai
+University of Chile,Chile,360,Shangai
+University of Cincinnati,USA,361,Shangai
+University of Colorado at Denver,USA,362,Shangai
+University of Connecticut,USA,363,Shangai
+University of Duesseldorf,Germany,364,Shangai
+University of East Anglia,UK,365,Shangai
+University of Eastern Finland,Finland,366,Shangai
+University of Florence,Italy,367,Shangai
+University of Guelph,Canada,368,Shangai
+University of Halle-Wittenberg,Germany,369,Shangai
+University of Kentucky,USA,370,Shangai
+University of Leicester,UK,371,Shangai
+University of Liege,Belgium,372,Shangai
+University of Manitoba,Canada,373,Shangai
+University of Milan - Bicocca,Italy,374,Shangai
+University of Naples Federico II,Italy,375,Shangai
+University of North Texas,USA,376,Shangai
+University of Otago,New Zealand,377,Shangai
+University of Pavia,Italy,378,Shangai
+University of Porto,Portugal,379,Shangai
+University of Roma - Tor Vergata,Italy,380,Shangai
+University of Santiago Compostela,Spain,381,Shangai
+University of Saskatchewan,Canada,382,Shangai
+University of South Carolina - Columbia,USA,383,Shangai
+University of Southern Denmark,Denmark,384,Shangai
+University of St Andrews,UK,385,Shangai
+University of Stuttgart,Germany,386,Shangai
+University of Surrey,UK,387,Shangai
+University of Tartu,Estonia,388,Shangai
+University of Technology Sydney,Australia,389,Shangai
+University of Tehran,Iran,390,Shangai
+University of Toulouse 1,France,391,Shangai
+University of Twente,Netherlands,392,Shangai
+University of Vermont,USA,393,Shangai
+University of Victoria,Canada,394,Shangai
+University of Warsaw,Poland,395,Shangai
+University of Western Sydney,Australia,396,Shangai
+Victoria University of Wellington,New Zealand,397,Shangai
+Virginia Polytechnic Institute and State University,USA,398,Shangai
+Wayne State University,USA,399,Shangai
+Xiamen University,China,400,Shangai
+Aalto University,Finland,401,Shangai
+Amirkabir University of Technology,Iran,402,Shangai
+Aristotle University of Thessaloniki,Greece,403,Shangai
+Bangor University,UK,404,Shangai
+Bar-Ilan University,Israel,405,Shangai
+Ben-Gurion University of the Negev,Israel,406,Shangai
+Bielefeld University,Germany,407,Shangai
+Brunel University,UK,408,Shangai
+Cairo University,Egypt,409,Shangai
+Catholic University of Chile,Chile,410,Shangai
+China Agricultural University,China,411,Shangai
+Chulalongkorn University,Thailand,412,Shangai
+City University of New York City College,USA,413,Shangai
+Concordia University,Canada,414,Shangai
+East China Normal University,China,415,Shangai
+Ecole Polytechnique,France,416,Shangai
+Ewha Womans University,South Korea,417,Shangai
+Federal University of Minas Gerais,Brazil,418,Shangai
+Federal University of Rio Grande do Sul,Brazil,419,Shangai
+Flinders University,Australia,420,Shangai
+Florida International University,USA,421,Shangai
+Gyeongsang National University,South Korea,422,Shangai
+Harbin Engineering University,China,423,Shangai
+Heriot-Watt University,UK,424,Shangai
+Huazhong Agricultural University,China,425,Shangai
+Istanbul University,Turkey,426,Shangai
+Jagiellonian University,Poland,427,Shangai
+Kaohsiung Medical University,China tw,428,Shangai
+Kent State University,USA,429,Shangai
+King Fahd University of Petroleum & Minerals,Saudi Arabia,430,Shangai
+Kobe University,Japan,431,Shangai
+Kyung Hee University,South Korea,432,Shangai
+Kyungpook National University,South Korea,433,Shangai
+MINES ParisTech,France,434,Shangai
+Nanjing Agricultural University,China,435,Shangai
+Nanjing Medical University,China,436,Shangai
+Nanjing University of Aeronautics and Astronautics,China,437,Shangai
+Nanjing University of Science and Technology,China,438,Shangai
+National Technical University of Athens,Greece,439,Shangai
+New Mexico State University,USA,440,Shangai
+Northeastern University (Shenyang),China,441,Shangai
+Northwest University,China,442,Shangai
+Novosibirsk State University,Russia,443,Shangai
+Oklahoma State University,USA,444,Shangai
+Osaka City University,Japan,445,Shangai
+Peking Union Medical College,China,446,Shangai
+Polytechnic University of Valencia,Spain,447,Shangai
+RMIT University,Australia,448,Shangai
+Rush University,USA,449,Shangai
+Simon Fraser University,Canada,450,Shangai
+St George's Hospital Medical School,UK,451,Shangai
+Stellenbosch University,South Africa,452,Shangai
+Stockholm School of Economics,Sweden,453,Shangai
+Technical University Darmstadt,Germany,454,Shangai
+Technical University of Berlin,Germany,455,Shangai
+The University of Texas at Arlington,USA,456,Shangai
+The University of Texas Medical Branch at Galveston,USA,457,Shangai
+The University of Tokushima,Japan,458,Shangai
+Thomas Jefferson University,USA,459,Shangai
+Tokyo University of Science,Japan,460,Shangai
+Ulsan National Institute of Science and Technology,South Korea,461,Shangai
+Universitat Jaume I,Spain,462,Shangai
+University at Albany (State University of New York),USA,463,Shangai
+University of Aveiro,Portugal,464,Shangai
+University of Bayreuth,Germany,465,Shangai
+University of Bremen,Germany,466,Shangai
+University of Campinas,Brazil,467,Shangai
+University of Canterbury,New Zealand,468,Shangai
+University of Coimbra,Portugal,469,Shangai
+University of Ferrara,Italy,470,Shangai
+University of Fribourg,Switzerland,471,Shangai
+University of Hannover,Germany,472,Shangai
+University of Iceland,Iceland,473,Shangai
+University of Johannesburg,South Africa,474,Shangai
+University of Konstanz,Germany,475,Shangai
+University of KwaZulu-Natal,South Africa,476,Shangai
+University of Ljubljana,Slovenia,477,Shangai
+University of Malaya,Malaysia,478,Shangai
+University of Marburg,Germany,479,Shangai
+University of Minho,Portugal,480,Shangai
+University of Montana - Missoula,USA,481,Shangai
+University of New Hampshire - Durham,USA,482,Shangai
+University of Nice Sophia Antipolis,France,483,Shangai
+University of Oklahoma - Norman,USA,484,Shangai
+University of Oulu,Finland,485,Shangai
+University of Palermo,Italy,486,Shangai
+University of Potsdam,Germany,487,Shangai
+University of Regensburg,Germany,488,Shangai
+University of Rostock,Germany,489,Shangai
+"University of Science, Malaysia",Malaysia,490,Shangai
+University of the Basque Country,Spain,491,Shangai
+University of Trieste,Italy,492,Shangai
+University of Turku,Finland,493,Shangai
+University of Valencia,Spain,494,Shangai
+University of Wyoming,USA,495,Shangai
+Vienna University of Technology,Austria,496,Shangai
+Vita-Salute San Raffaele University,Italy,497,Shangai
+Washington State University,USA,498,Shangai
+West Virginia University,USA,499,Shangai
+Wuhan University of Technology,China,500,Shangai

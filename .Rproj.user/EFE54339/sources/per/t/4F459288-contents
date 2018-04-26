@@ -1,0 +1,187 @@
+---
+title: "University ranking"
+author: "Duc-Quang Nguyen | swissinfo.ch"
+date: " 2018"
+output: 
+  html_document:
+    code_folding: show
+    echo: TRUE
+    warning: FALSE
+    message: FALSE
+    toc: yes
+    toc_depth: 3
+    theme: simplex
+---
+
+## Data
+
+### QS
+* Seems impoosible to scrape without phantomjs
+* I used a quick way though, after displaying the whole table in the browser:
+  * show Ranking indicators tab
+  * show all (instead of 25)
+  * save the whole page locally. Then use rvest
+
+
+## Open Refine
+* After putting all the university names in one csv ( name, country, ranking source), use Open Refine [reconciliation service](https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation)
+* This reconciliation service has to be added manually [Wikidata Reconciliation for OpenRefine](http://musingsaboutlibrarianship.blogspot.ch/2017/03/openrefine-reconciliation-services.html)
+
+
+```{r setup, include=FALSE}
+scrapeData <- F
+qsLocalUrl <- 'data/QS World University Rankings 2018 _ Top Universities.htm'
+qsLocalUrlCountry <- 'data/QS World University Rankings 2018 _ Top Universities_ranking.htm'
+timesUrl <- 'https://www.timeshighereducation.com/world-university-rankings/2018/world-ranking#!/page/0/length/-1/sort_by/rank/sort_order/asc/cols/stats'
+shangaiUrl1 <- 'http://www.shanghairanking.com/ARWU2017.html'
+shangaiUrl2 <- 'http://www.shanghairanking.com/ARWU2017Candidates.html'
+
+cleanOutput <- F
+
+require(lintr)
+library(tidyverse)
+library(magrittr)
+library(stringr)
+library(knitr)
+library(countrycode)
+library(swiMap)
+library(swiTheme)
+
+### Getting data in packages
+library(rvest)
+library(skimr)
+```
+
+
+```{r scrape university rankings}
+# helper: write out a script phantomjs can process
+renderJS_page <- function(url, file = "scrape.js") {
+  writeLines(sprintf("var page = require('webpage').create();
+  page.open('%s', function () {
+    console.log(page.content); //page source
+    phantom.exit();
+});", url), con = file)  
+}
+
+
+if(scrapeData) {
+  ## 1. get QS indicators
+  qs_table <- read_html(qsLocalUrl) %>%
+    html_nodes("table#qs-rankings-indicators") %>% 
+    html_table()
+  # some ranking are NA, remove them
+  qs_table <- qs_table[[1]] %>%
+    rename(qs_rank = `# RANK20182017201620152018`) %>%
+    filter(qs_rank != 'N/A')
+  
+  countries <- read_html(qsLocalUrlCountry) %>%
+    html_nodes("table#qs-rankings") %>% 
+    html_nodes(".country div img") %>%
+    html_attr("data-original-title")
+  
+  stopifnot(nrow(qs_table) == length(countries))
+  qs_table$country <- countries
+  
+  ## 2 Times
+  # render the javacript page and save it
+  renderJS_page(timesUrl, "scrape_times.js")
+  system("~/swissinfo/phantomjs-2.1.1-macosx/bin/phantomjs scrape_times.js > scrape_times.html")
+  
+  ## note: run html_text on the table node, will result in a mess of text (unveristy name and country appended)
+  ti_table <- read_html("scrape_times.html") %>% 
+    html_node("table") %>% 
+    html_nodes ("tr") #%>%  html_children()
+  
+  #ti_table %>% html_children()
+  ti_rank <- ti_table %>%
+    html_nodes(".rank.sorting_1.sorting_2") %>% 
+    html_text()
+  
+  ti_name <- ti_table %>%
+    html_nodes(".name.namesearch a") %>%
+    html_text()
+  # get rid of the apply caught
+  ti_name <- ti_name[which(!grepl("Apply", ti_name))]
+  ti_name <- matrix(ti_name, ncol = 3, byrow = T)[,1:2] %>% 
+    as.tibble() %>%
+    rename(name = V1, country = V2)
+  ti_table <- cbind(ti_rank, ti_name) %>% as.tibble()
+  
+  
+  ## 3 Shangai
+  scrapeShangaiRanking <- function(url) {
+   sh_tmp <- read_html(url) %>%
+     html_nodes("table") %>% 
+     html_table(fill = T) %>% 
+     .[[1]]
+   colnames(sh_tmp) <- c(
+     'sh_rank', 'name', 'V3', 'nationalRank', 'score',
+     'alumni', 'award', 'HiCi', 'N&S', 'PUB', 'PCP')
+   
+    sh_table <- sh_tmp %>% 
+      as.tibble() %>%
+      select(-V3)
+  
+    # retrieve the country back
+    countries <-read_html(url) %>%
+      html_nodes("table tr") %>% 
+      html_nodes("td a") %>% 
+      html_attr("href")
+    idx <- str_detect(countries, pattern = "^World\\-University\\-Rankings\\-2017\\/")
+    countries <- str_replace(countries[idx], "^World\\-University\\-Rankings\\-2017\\/", "")
+    countries <- str_replace(countries, "\\-", " ") %>%
+      str_replace("\\.html", "")
+    stopifnot(nrow(sh_table) == length(countries))
+    sh_table$country = countries    
+    sh_table
+  }
+  sh_table <- scrapeShangaiRanking(shangaiUrl1)
+  
+  save(qs_table, ti_table, sh_table, file = "data/3rankingScraped.RData")  
+} else {
+  load("data/3rankingScraped.RData")
+}
+
+
+```
+
+
+```{r reconcile/merge datasets based geolocation}
+## 1. Take only the top 500 for the 3 rankings!
+
+qst <- qs_table %>% 
+  filter(!qs_rank %in% 
+           c('501-550', '551-600', '601-650', '651-700', 
+             '701-750', '751-800', '801-1000'))
+
+ti_table %<>%
+  mutate(ti_rank = str_replace_all(ti_rank, "=", ""))
+ti_table %>% filter(!ti_rank %in% c(
+  
+))
+
+```
+
+
+```{r move production graphics}
+if (cleanOutput) {
+  files <- c("basename_.*html", "js")
+
+  if (!dir.exists("output/bak")) {
+    dir.create("output/bak")
+  } else {
+    list.files("output/bak/", full.names = T, recursive = T) %>% file.remove()
+  }
+  ori.files <- list.files("output", full.names = T)[list.files("output") != "bak"]
+  file.copy(ori.files, to = "output/bak/", recursive = T)
+  unlink(ori.files, recursive = T)
+
+  files_tomove <- lapply(files, function(x) list.files(pattern = x)) %>% unlist()
+  file.copy(files_tomove, "output", recursive = T)
+  unlink(files_tomove, recursive = T)
+}
+```
+
+```{r linting}
+lintr::lint(knitr::current_input())
+```

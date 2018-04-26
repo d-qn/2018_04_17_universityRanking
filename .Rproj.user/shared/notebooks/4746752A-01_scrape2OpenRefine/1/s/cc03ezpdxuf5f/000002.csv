@@ -1,0 +1,17 @@
+"0","  qs_table <- read_html(qsLocalUrl) %>%
+    html_nodes(""table#qs-rankings-indicators"") %>% 
+    html_table()
+  # some ranking are NA, remove them
+  qs_table <- qs_table[[1]] %>%
+    rename(qs_rank = `# RANK20182017201620152018`) %>%
+    filter(qs_rank != 'N/A')
+  
+  countries <- read_html(qsLocalUrlCountry) %>%
+    html_nodes(""table#qs-rankings"") %>% 
+    html_nodes("".country div img"") %>%
+    html_attr(""data-original-title"")
+  
+  stopifnot(nrow(qs_table == length(countries)))
+"
+"2","Error: nrow(qs_table == length(countries)) is not TRUE
+"

@@ -1,0 +1,51 @@
+name,country,qs_rank,ti_rank,sh_rank,rank,continent,invRank,intRank
+Stanford University,United States of America,2,3,2,2.3333333333333335,Americas,0.42857142857142855,2
+Massachusetts Institute of Technology,United States of America,1,5,4,3.3333333333333335,Americas,0.3,3
+Harvard University,United States of America,3,6,1,3.3333333333333335,Americas,0.3,3
+University of Cambridge,United Kingdom of Great Britain and Northern Ireland,5,2,3,3.3333333333333335,Europe,0.3,3
+University of Oxford,United Kingdom of Great Britain and Northern Ireland,6,1,7,4.666666666666667,Europe,0.21428571428571427,5
+California Institute of Technology,United States of America,4,3,9,5.333333333333333,Americas,0.1875,5
+Princeton University,United States of America,13,7,6,8.666666666666666,Americas,0.11538461538461539,9
+University of Chicago,United States of America,9,9,10,9.333333333333334,Americas,0.10714285714285714,9
+ETH Zurich,Switzerland,10,10,19,13,Europe,0.07692307692307693,13
+Yale University,United States of America,16,12,11,13,Americas,0.07692307692307693,13
+Columbia University,United States of America,18,14,8,13.333333333333334,Americas,0.075,13
+Imperial College London,United Kingdom of Great Britain and Northern Ireland,8,8,27,14.333333333333334,Europe,0.06976744186046512,14
+University of Pennsylvania,United States of America,19,10,17,15.333333333333334,Americas,0.06521739130434782,15
+Cornell University,United States of America,14,19,14,15.666666666666666,Americas,0.06382978723404256,16
+Johns Hopkins University,United States of America,17,13,18,16,Americas,0.0625,16
+"University of California, Berkeley",United States of America,27,18,5,16.666666666666668,Americas,0.06,17
+"University of California, Los Angeles",United States of America,33,15,12,20,Americas,0.05,20
+Duke University,United States of America,21,17,26,21.333333333333332,Americas,0.046875,21
+University of Michigan,United States of America,21,21,24,22,Americas,0.045454545454545456,22
+Northwestern University,United States of America,28,20,22,23.333333333333332,Americas,0.04285714285714286,23
+University of Toronto,Canada,31,22,23,25.333333333333332,Americas,0.03947368421052632,25
+University of Edinburgh,United Kingdom of Great Britain and Northern Ireland,23,27,32,27.333333333333332,Europe,0.03658536585365854,27
+"University of California, San Diego",United States of America,38,31,15,28,Americas,0.03571428571428571,28
+University of Tokyo,Japan,28,46,24,32.666666666666664,Asia,0.030612244897959186,33
+University of Washington,United States of America,61,25,13,33,Americas,0.030303030303030304,33
+Tsinghua University,China,25,30,48,34.333333333333336,Asia,0.029126213592233007,34
+King's College London,United Kingdom of Great Britain and Northern Ireland,23,36,46,35,Europe,0.02857142857142857,35
+New York University,United States of America,52,27,29,36,Americas,0.027777777777777776,36
+University of Melbourne,Australia,41,32,39,37.333333333333336,Oceania,0.026785714285714284,37
+University of British Columbia,Canada,51,34,31,38.666666666666664,Americas,0.025862068965517244,39
+École polytechnique fédérale de Lausanne,Switzerland,12,38,76,42,Europe,0.023809523809523808,42
+University of Manchester,United Kingdom of Great Britain and Northern Ireland,34,54,38,42,Europe,0.023809523809523808,42
+University of Wisconsin–Madison,United States of America,55,43,28,42,Americas,0.023809523809523808,42
+National University of Singapore,Singapore,15,22,91,42.666666666666664,Asia,0.0234375,43
+Peking University,China,38,27,71,45.333333333333336,Asia,0.022058823529411763,45
+McGill University,Canada,32,42,67,47,Americas,0.02127659574468085,47
+University of Illinois at Urbana–Champaign,United States of America,69,37,37,47.666666666666664,Americas,0.02097902097902098,48
+Kyoto University,Japan,36,74,35,48.333333333333336,Asia,0.020689655172413793,48
+Carnegie Mellon University,United States of America,47,24,80,50.333333333333336,Americas,0.01986754966887417,50
+Technical University of Munich,Germany,64,41,50,51.666666666666664,Europe,0.01935483870967742,52
+Heidelberg University,Germany,68,45,42,51.666666666666664,Europe,0.01935483870967742,52
+Ludwig Maximilian University of Munich,Germany,66,34,57,52.333333333333336,Europe,0.01910828025477707,52
+Australian National University,Australia,20,48,97,55,Oceania,0.01818181818181818,55
+University of Queensland,Australia,47,65,55,55.666666666666664,Oceania,0.017964071856287425,56
+University of Texas at Austin,United States of America,67,49,51,55.666666666666664,Americas,0.017964071856287425,56
+University of North Carolina at Chapel Hill,United States of America,80,56,33,56.333333333333336,Americas,0.01775147928994083,56
+Washington University in St. Louis,United States of America,100,50,20,56.666666666666664,Americas,0.01764705882352941,57
+University of Bristol,United Kingdom of Great Britain and Northern Ireland,44,76,61,60.333333333333336,Europe,0.016574585635359115,60
+Georgia Institute of Technology,United States of America,70,33,85,62.666666666666664,Americas,0.01595744680851064,63
+Nanyang Technological University,Singapore,11,52,125.5,62.833333333333336,Asia,0.015915119363395226,63
