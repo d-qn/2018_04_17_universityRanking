@@ -413,7 +413,7 @@ threeRtop %>%
     ranking = case_when(
       ranking == "qs_rank" ~ "QS ranking 2018",
       ranking == "ti_rank" ~ "Times Higher Education 2018",
-      ranking == "sh_rank" ~ "Shangai ranking 2017",
+      ranking == "sh_rank" ~ "Shanghai ranking 2017",
   )) %>% 
   write_csv("input/threeRtop50_long.csv", na ='')
 

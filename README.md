@@ -1,4 +1,47 @@
+## How do they differ and criticism
 
+These three rankings rely largely on research indicators to rank universities. Academic papers' number of citations is used for instance to rate an University research. 
+
+Research indicators tend to favour "hard science", disadvantaging institutions focused on subjects such as social sciences and humanities. That's why Swis technical schools (ETH and EPFL) are always ranked higher than other Swiss universities. 
+
+Also, it places universities who do not use English as their primary language at a disadvantage. Because English has been adopted as the international language for most academic societies and journal.
+
+What is actually ranked? 
+
+Overall, it is not clear who the rankings are made for. A PhD student or a researcher might only care about the research quality. On the other hand, an undergraduate student would be most interested in teaching quality. Assessing teaching is both difficult and subjective, that is why it is typically not heavily weighted in rankings' methodology (the teacher/student ratios is often used as a proxy metric for teaching quality). 
+
+Also the price of the education has no effects on the ranking. That means that North America private universities compared to the European universities. Many European countries like France or Germany for example have a long tradition on offering free education. We address that point in the following graphic. 
+
+Last but not least, they might be large variations within an University depending of the subject, the degree type (BA, MA or MBA). Although most rankings provides sub categories by subject and/or cursus type. It still begs the question what an overall ranking of Universities as a league table is good for. general public and the media
+
+
+The general public, the media and the Universities themselves have embraced them. 
+
+
+Furthermore they might be large differences between different fields and cursus type (BA, MA or MBA). Most rankings provided sub ranking by category. But it is still questionable what an overall ranking is good for? Also, the yearly cycle of ranking update, changes in ranking can be important from one year to the next. That can have important effects for universities  
+
+
+
+
+
+
+
+
+
+
+
+* *Shanghai ranking* relies solely on research indicators*. Criticism biased towards the natural sciences. the quality of teaching or the quality of humanities is not considered. On the other hand, it uses transparent and non-subjective criteria.
+ 
+* QS: Academic Reputation (40%)
+Employer Reputation (10%)
+Faculty/Student Ratio (20%)
+Citations per faculty (20%)
+International faculty ratio/International student ratio (5% each)
+
+* 
+
+
+Estimates varies from 18K to 26K. Depending of a definition of an university. post-compulsory schooling
 
 
 
@@ -10,6 +53,8 @@
 
 
 ## Links
+
+* [tuition fee data in US database](https://www.chronicle.com/interactives/tuition-and-fees)
 
 * [wikipedia College and university rankings](https://en.wikipedia.org/wiki/College_and_university_rankings#Criticism)
 

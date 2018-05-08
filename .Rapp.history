@@ -1,0 +1,4 @@
+load("/Users/nguyendu/swissinfo/2018_04_17_universityRanking/needed_packages.RData")
+ls()
+nedded_packages
+nedded_packages()
