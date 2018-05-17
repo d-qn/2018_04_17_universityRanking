@@ -1,95 +1,95 @@
 name,country,qs_rank,ti_rank,sh_rank,rank,iso2,region,continent,invRank,intRank,rankGroup,keylocation
-Stanford University,United States of America,2,3,2,2.3333333333333335,US,Northern America,Americas,0.42857142857142855,2, 0-50,loc_1
-Massachusetts Institute of Technology,United States of America,1,5,4,3.3333333333333335,US,Northern America,Americas,0.3,3, 0-50,loc_2
-Harvard University,United States of America,3,6,1,3.3333333333333335,US,Northern America,Americas,0.3,3, 0-50,loc_3
-University of Cambridge,United Kingdom of Great Britain and Northern Ireland,5,2,3,3.3333333333333335,GB,Northern Europe,Europe,0.3,3, 0-50,loc_4
-University of Oxford,United Kingdom of Great Britain and Northern Ireland,6,1,7,4.666666666666667,GB,Northern Europe,Europe,0.21428571428571427,5, 0-50,loc_5
-California Institute of Technology,United States of America,4,3,9,5.333333333333333,US,Northern America,Americas,0.1875,5, 0-50,loc_6
-Princeton University,United States of America,13,7,6,8.666666666666666,US,Northern America,Americas,0.11538461538461539,9, 0-50,loc_7
-University of Chicago,United States of America,9,9,10,9.333333333333334,US,Northern America,Americas,0.10714285714285714,9, 0-50,loc_8
-UCL,United Kingdom of Great Britain and Northern Ireland,7,,16,11.5,GB,Northern Europe,Europe,0.08695652173913043,12, 0-50,loc_9
+Stanford University,USA,2,3,2,2.3333333333333335,US,North America,Americas,0.42857142857142855,2, 0-50,loc_1
+Massachusetts Institute of Technology,USA,1,5,4,3.3333333333333335,US,North America,Americas,0.3,3, 0-50,loc_2
+Harvard University,USA,3,6,1,3.3333333333333335,US,North America,Americas,0.3,3, 0-50,loc_3
+University of Cambridge,UK,5,2,3,3.3333333333333335,GB,Northern Europe,Europe,0.3,3, 0-50,loc_4
+University of Oxford,UK,6,1,7,4.666666666666667,GB,Northern Europe,Europe,0.21428571428571427,5, 0-50,loc_5
+California Institute of Technology,USA,4,3,9,5.333333333333333,US,North America,Americas,0.1875,5, 0-50,loc_6
+Princeton University,USA,13,7,6,8.666666666666666,US,North America,Americas,0.11538461538461539,9, 0-50,loc_7
+University of Chicago,USA,9,9,10,9.333333333333334,US,North America,Americas,0.10714285714285714,9, 0-50,loc_8
+UCL,UK,7,16,16,13,GB,Northern Europe,Europe,0.07692307692307693,13, 0-50,loc_9
 ETH Zurich,Switzerland,10,10,19,13,CH,Western Europe,Europe,0.07692307692307693,13, 0-50,loc_10
-Yale University,United States of America,16,12,11,13,US,Northern America,Americas,0.07692307692307693,13, 0-50,loc_11
-Columbia University,United States of America,18,14,8,13.333333333333334,US,Northern America,Americas,0.075,13, 0-50,loc_12
-Imperial College London,United Kingdom of Great Britain and Northern Ireland,8,8,27,14.333333333333334,GB,Northern Europe,Europe,0.06976744186046512,14, 0-50,loc_13
-University of Pennsylvania,United States of America,19,10,17,15.333333333333334,US,Northern America,Americas,0.06521739130434782,15, 0-50,loc_14
-Cornell University,United States of America,14,19,14,15.666666666666666,US,Northern America,Americas,0.06382978723404256,16, 0-50,loc_15
-Johns Hopkins University,United States of America,17,13,18,16,US,Northern America,Americas,0.0625,16, 0-50,loc_16
-"University of California, Berkeley",United States of America,27,18,5,16.666666666666668,US,Northern America,Americas,0.06,17, 0-50,loc_17
-"University of California, Los Angeles",United States of America,33,15,12,20,US,Northern America,Americas,0.05,20, 0-50,loc_18
-"University of California, San Francisco",United States of America,,,21,21,US,Northern America,Americas,0.047619047619047616,21, 0-50,loc_19
-Duke University,United States of America,21,17,26,21.333333333333332,US,Northern America,Americas,0.046875,21, 0-50,loc_20
-University of Michigan,United States of America,21,21,24,22,US,Northern America,Americas,0.045454545454545456,22, 0-50,loc_21
-Northwestern University,United States of America,28,20,22,23.333333333333332,US,Northern America,Americas,0.04285714285714286,23, 0-50,loc_22
-University of Toronto,Canada,31,22,23,25.333333333333332,CA,Northern America,Americas,0.03947368421052632,25, 0-50,loc_23
-University of Edinburgh,United Kingdom of Great Britain and Northern Ireland,23,27,32,27.333333333333332,GB,Northern Europe,Europe,0.03658536585365854,27, 0-50,loc_24
-"University of California, San Diego",United States of America,38,31,15,28,US,Northern America,Americas,0.03571428571428571,28, 0-50,loc_25
-University of Tokyo,Japan,28,46,24,32.666666666666664,JP,Eastern Asia,Asia,0.030612244897959186,33, 0-50,loc_26
-The University of Hong Kong,Hong Kong,26,40,,33,HK,Eastern Asia,Asia,0.030303030303030304,33, 0-50,loc_27
-University of Washington,United States of America,61,25,13,33,US,Northern America,Americas,0.030303030303030304,33, 0-50,loc_28
-Tsinghua University,China,25,30,48,34.333333333333336,CN,Eastern Asia,Asia,0.029126213592233007,34, 0-50,loc_29
-King's College London,United Kingdom of Great Britain and Northern Ireland,23,36,46,35,GB,Northern Europe,Europe,0.02857142857142857,35, 0-50,loc_30
-The Rockefeller University,United States of America,,,36,36,US,Northern America,Americas,0.027777777777777776,36, 0-50,loc_31
-New York University,United States of America,52,27,29,36,US,Northern America,Americas,0.027777777777777776,36, 0-50,loc_32
+Yale University,USA,16,12,11,13,US,North America,Americas,0.07692307692307693,13, 0-50,loc_11
+Columbia University,USA,18,14,8,13.333333333333334,US,North America,Americas,0.075,13, 0-50,loc_12
+Imperial College London,UK,8,8,27,14.333333333333334,GB,Northern Europe,Europe,0.06976744186046512,14, 0-50,loc_13
+University of Pennsylvania,USA,19,10,17,15.333333333333334,US,North America,Americas,0.06521739130434782,15, 0-50,loc_14
+Cornell University,USA,14,19,14,15.666666666666666,US,North America,Americas,0.06382978723404256,16, 0-50,loc_15
+Johns Hopkins University,USA,17,13,18,16,US,North America,Americas,0.0625,16, 0-50,loc_16
+"University of California, Berkeley",USA,27,18,5,16.666666666666668,US,North America,Americas,0.06,17, 0-50,loc_17
+"University of California, Los Angeles",USA,33,15,12,20,US,North America,Americas,0.05,20, 0-50,loc_18
+"University of California, San Francisco",USA,,,21,21,US,North America,Americas,0.047619047619047616,21, 0-50,loc_19
+Duke University,USA,21,17,26,21.333333333333332,US,North America,Americas,0.046875,21, 0-50,loc_20
+University of Michigan,USA,21,21,24,22,US,North America,Americas,0.045454545454545456,22, 0-50,loc_21
+Northwestern University,USA,28,20,22,23.333333333333332,US,North America,Americas,0.04285714285714286,23, 0-50,loc_22
+University of Toronto,Canada,31,22,23,25.333333333333332,CA,North America,Americas,0.03947368421052632,25, 0-50,loc_23
+University of Edinburgh,UK,23,27,32,27.333333333333332,GB,Northern Europe,Europe,0.03658536585365854,27, 0-50,loc_24
+"University of California, San Diego",USA,38,31,15,28,US,North America,Americas,0.03571428571428571,28, 0-50,loc_25
+University of Tokyo,Japan,28,46,24,32.666666666666664,JP,East Asia,Asia,0.030612244897959186,33, 0-50,loc_26
+The University of Hong Kong,Hong Kong,26,40,,33,HK,East Asia,Asia,0.030303030303030304,33, 0-50,loc_27
+University of Washington,USA,61,25,13,33,US,North America,Americas,0.030303030303030304,33, 0-50,loc_28
+Tsinghua University,China,25,30,48,34.333333333333336,CN,East Asia,Asia,0.029126213592233007,34, 0-50,loc_29
+King's College London,UK,23,36,46,35,GB,Northern Europe,Europe,0.02857142857142857,35, 0-50,loc_30
+The Rockefeller University,USA,,,36,36,US,North America,Americas,0.027777777777777776,36, 0-50,loc_31
+New York University,USA,52,27,29,36,US,North America,Americas,0.027777777777777776,36, 0-50,loc_32
 University of Melbourne,Australia,41,32,39,37.333333333333336,AU,Australia and New Zealand,Oceania,0.026785714285714284,37, 0-50,loc_33
-University of British Columbia,Canada,51,34,31,38.666666666666664,CA,Northern America,Americas,0.025862068965517244,39, 0-50,loc_34
+University of British Columbia,Canada,51,34,31,38.666666666666664,CA,North America,Americas,0.025862068965517244,39, 0-50,loc_34
 Karolinska Institutet,Sweden,,38,44,41,SE,Northern Europe,Europe,0.024390243902439025,41, 0-50,loc_35
 École polytechnique fédérale de Lausanne,Switzerland,12,38,76,42,CH,Western Europe,Europe,0.023809523809523808,42, 0-50,loc_36
-University of Manchester,United Kingdom of Great Britain and Northern Ireland,34,54,38,42,GB,Northern Europe,Europe,0.023809523809523808,42, 0-50,loc_37
-University of Wisconsin–Madison,United States of America,55,43,28,42,US,Northern America,Americas,0.023809523809523808,42, 0-50,loc_38
-National University of Singapore,Singapore,15,22,91,42.666666666666664,SG,South-Eastern Asia,Asia,0.0234375,43, 0-50,loc_39
-Peking University,China,38,27,71,45.333333333333336,CN,Eastern Asia,Asia,0.022058823529411763,45, 0-50,loc_40
-McGill University,Canada,32,42,67,47,CA,Northern America,Americas,0.02127659574468085,47, 0-50,loc_41
-University of Illinois at Urbana–Champaign,United States of America,69,37,37,47.666666666666664,US,Northern America,Americas,0.02097902097902098,48, 0-50,loc_42
-The University of Texas Southwestern Medical Center at Dallas,United States of America,,,48,48,US,Northern America,Americas,0.020833333333333332,48, 0-50,loc_43
-Kyoto University,Japan,36,74,35,48.333333333333336,JP,Eastern Asia,Asia,0.020689655172413793,48, 0-50,loc_44
-Carnegie Mellon University,United States of America,47,24,80,50.333333333333336,US,Northern America,Americas,0.01986754966887417,50, 50-100,loc_45
+University of Manchester,UK,34,54,38,42,GB,Northern Europe,Europe,0.023809523809523808,42, 0-50,loc_37
+University of Wisconsin–Madison,USA,55,43,28,42,US,North America,Americas,0.023809523809523808,42, 0-50,loc_38
+National University of Singapore,Singapore,15,22,91,42.666666666666664,SG,South East Asia,Asia,0.0234375,43, 0-50,loc_39
+Peking University,China,38,27,71,45.333333333333336,CN,East Asia,Asia,0.022058823529411763,45, 0-50,loc_40
+McGill University,Canada,32,42,67,47,CA,North America,Americas,0.02127659574468085,47, 0-50,loc_41
+University of Illinois at Urbana–Champaign,USA,69,37,37,47.666666666666664,US,North America,Americas,0.02097902097902098,48, 0-50,loc_42
+The University of Texas Southwestern Medical Center at Dallas,USA,,,48,48,US,North America,Americas,0.020833333333333332,48, 0-50,loc_43
+Kyoto University,Japan,36,74,35,48.333333333333336,JP,East Asia,Asia,0.020689655172413793,48, 0-50,loc_44
+Carnegie Mellon University,USA,47,24,80,50.333333333333336,US,North America,Americas,0.01986754966887417,50, 50-100,loc_45
 Technical University of Munich,Germany,64,41,50,51.666666666666664,DE,Western Europe,Europe,0.01935483870967742,52, 50-100,loc_46
 Heidelberg University,Germany,68,45,42,51.666666666666664,DE,Western Europe,Europe,0.01935483870967742,52, 50-100,loc_47
 Ludwig Maximilian University of Munich,Germany,66,34,57,52.333333333333336,DE,Western Europe,Europe,0.01910828025477707,52, 50-100,loc_48
 Australian National University,Australia,20,48,97,55,AU,Australia and New Zealand,Oceania,0.01818181818181818,55, 50-100,loc_49
 University of Queensland,Australia,47,65,55,55.666666666666664,AU,Australia and New Zealand,Oceania,0.017964071856287425,56, 50-100,loc_50
-University of Texas at Austin,United States of America,67,49,51,55.666666666666664,US,Northern America,Americas,0.017964071856287425,56, 50-100,loc_51
+University of Texas at Austin,USA,67,49,51,55.666666666666664,US,North America,Americas,0.017964071856287425,56, 50-100,loc_51
 "Ecole normale supérieure, Paris",France,43,,69,56,FR,Western Europe,Europe,0.017857142857142856,56, 50-100,loc_52
-University of North Carolina at Chapel Hill,United States of America,80,56,33,56.333333333333336,US,Northern America,Americas,0.01775147928994083,56, 50-100,loc_53
-Washington University in St. Louis,United States of America,100,50,20,56.666666666666664,US,Northern America,Americas,0.01764705882352941,57, 50-100,loc_54
-University of Bristol,United Kingdom of Great Britain and Northern Ireland,44,76,61,60.333333333333336,GB,Northern Europe,Europe,0.016574585635359115,60, 50-100,loc_55
-Georgia Institute of Technology,United States of America,70,33,85,62.666666666666664,US,Northern America,Americas,0.01595744680851064,63, 50-100,loc_56
-Nanyang Technological University,Singapore,11,52,125.5,62.833333333333336,SG,South-Eastern Asia,Asia,0.015915119363395226,63, 50-100,loc_57
+University of North Carolina at Chapel Hill,USA,80,56,33,56.333333333333336,US,North America,Americas,0.01775147928994083,56, 50-100,loc_53
+Washington University in St. Louis,USA,100,50,20,56.666666666666664,US,North America,Americas,0.01764705882352941,57, 50-100,loc_54
+University of Bristol,UK,44,76,61,60.333333333333336,GB,Northern Europe,Europe,0.016574585635359115,60, 50-100,loc_55
+Georgia Institute of Technology,USA,70,33,85,62.666666666666664,US,North America,Americas,0.01595744680851064,63, 50-100,loc_56
+Nanyang Technological University,Singapore,11,52,125.5,62.833333333333336,SG,South East Asia,Asia,0.015915119363395226,63, 50-100,loc_57
 University of Sydney,Australia,50,61,83,64.66666666666667,AU,Australia and New Zealand,Oceania,0.015463917525773195,65, 50-100,loc_58
 KU Leuven,Belgium,71,47,90,69.33333333333333,BE,Western Europe,Europe,0.014423076923076924,69, 50-100,loc_59
 University of Copenhagen,Denmark,73,109,30,70.66666666666667,DK,Northern Europe,Europe,0.014150943396226414,71, 50-100,loc_60
-Mayo Medical School,United States of America,,,71,71,US,Northern America,Americas,0.014084507042253521,71, 50-100,loc_61
+Mayo Medical School,USA,,,71,71,US,North America,Americas,0.014084507042253521,71, 50-100,loc_61
 Paris Sciences et Lettres,France,,72,,72,FR,Western Europe,Europe,0.013888888888888888,72, 50-100,loc_62
 Monash University,Australia,60,80,78,72.66666666666667,AU,Australia and New Zealand,Oceania,0.013761467889908256,73, 50-100,loc_63
 Utrecht University,Netherlands,109,68,47,74.66666666666667,NL,Western Europe,Europe,0.013392857142857142,75, 50-100,loc_64
-Brown University,United States of America,53,50,125.5,76.16666666666667,US,Northern America,Americas,0.01312910284463895,76, 50-100,loc_65
-The Chinese University of Hong Kong,Hong Kong,46,58,125.5,76.5,HK,Eastern Asia,Asia,0.013071895424836602,76, 50-100,loc_66
-Boston University,United States of America,81,70,80,77,US,Northern America,Americas,0.012987012987012988,77, 50-100,loc_67
-"University of California, Santa Barbara",United States of America,134,53,45,77.33333333333333,US,Northern America,Americas,0.012931034482758622,77, 50-100,loc_68
-London School of Economics,United Kingdom of Great Britain and Northern Ireland,35,25,175.5,78.5,GB,Northern Europe,Europe,0.012738853503184714,78, 50-100,loc_69
-Seoul National University,Republic of Korea,36,74,125.5,78.5,KR,Eastern Asia,Asia,0.012738853503184714,78, 50-100,loc_70
-Ohio State University,United States of America,86,70,80,78.66666666666667,US,Northern America,Americas,0.01271186440677966,79, 50-100,loc_71
-Purdue University,United States of America,105,60,77,80.66666666666667,US,Northern America,Americas,0.012396694214876032,81, 50-100,loc_72
+Brown University,USA,53,50,125.5,76.16666666666667,US,North America,Americas,0.01312910284463895,76, 50-100,loc_65
+The Chinese University of Hong Kong,Hong Kong,46,58,125.5,76.5,HK,East Asia,Asia,0.013071895424836602,76, 50-100,loc_66
+Boston University,USA,81,70,80,77,US,North America,Americas,0.012987012987012988,77, 50-100,loc_67
+"University of California, Santa Barbara",USA,134,53,45,77.33333333333333,US,North America,Americas,0.012931034482758622,77, 50-100,loc_68
+London School of Economics,UK,35,25,175.5,78.5,GB,Northern Europe,Europe,0.012738853503184714,78, 50-100,loc_69
+Seoul National University,Republic of Korea,36,74,125.5,78.5,KR,East Asia,Asia,0.012738853503184714,78, 50-100,loc_70
+Ohio State University,USA,86,70,80,78.66666666666667,US,North America,Americas,0.01271186440677966,79, 50-100,loc_71
+Purdue University,USA,105,60,77,80.66666666666667,US,North America,Americas,0.012396694214876032,81, 50-100,loc_72
 University of Amsterdam,Netherlands,58,59,125.5,80.83333333333333,NL,Western Europe,Europe,0.012371134020618558,81, 50-100,loc_73
 University of Helsinki,Finland,102,90,56,82.66666666666667,FI,Northern Europe,Europe,0.012096774193548387,83, 50-100,loc_74
-Rice University,United States of America,89,86,74,83,US,Northern America,Americas,0.012048192771084338,83, 50-100,loc_75
-"University of Maryland, College Park",United States of America,129,69,53,83.66666666666667,US,Northern America,Americas,0.01195219123505976,84, 50-100,loc_76
-University of Southern California,United States of America,132,66,54,84,US,Northern America,Americas,0.011904761904761904,84, 50-100,loc_77
-University of Minnesota,United States of America,163,56,34,84.33333333333333,US,Northern America,Americas,0.011857707509881424,84, 50-100,loc_78
-Pennsylvania State University,United States of America,93,77,85,85,US,Northern America,Americas,0.011764705882352941,85, 50-100,loc_79
+Rice University,USA,89,86,74,83,US,North America,Americas,0.012048192771084338,83, 50-100,loc_75
+"University of Maryland, College Park",USA,129,69,53,83.66666666666667,US,North America,Americas,0.01195219123505976,84, 50-100,loc_76
+University of Southern California,USA,132,66,54,84,US,North America,Americas,0.011904761904761904,84, 50-100,loc_77
+University of Minnesota,USA,163,56,34,84.33333333333333,US,North America,Americas,0.011857707509881424,84, 50-100,loc_78
+Pennsylvania State University,USA,93,77,85,85,US,North America,Americas,0.011764705882352941,85, 50-100,loc_79
 University of Groningen,Netherlands,113,83,59,85,NL,Western Europe,Europe,0.011764705882352941,85, 50-100,loc_80
 The University of New South Wales,Australia,45,85,125.5,85.16666666666667,AU,Australia and New Zealand,Oceania,0.011741682974559686,85, 50-100,loc_81
-"University of California, Davis",United States of America,118,54,85,85.66666666666667,US,Northern America,Americas,0.011673151750972763,86, 50-100,loc_82
+"University of California, Davis",USA,118,54,85,85.66666666666667,US,North America,Americas,0.011673151750972763,86, 50-100,loc_82
 Uppsala University,Sweden,112,86,63,87,SE,Northern Europe,Europe,0.011494252873563218,87, 50-100,loc_83
 Leiden University,Netherlands,109,67,88,88,NL,Western Europe,Europe,0.011363636363636364,88, 50-100,loc_84
 University of Zurich,Switzerland,73,136,58,89,CH,Western Europe,Europe,0.011235955056179775,89, 50-100,loc_85
-University of Glasgow,United Kingdom of Great Britain and Northern Ireland,65,80,125.5,90.16666666666667,GB,Northern Europe,Europe,0.011090573012939002,90, 50-100,loc_86
+University of Glasgow,UK,65,80,125.5,90.16666666666667,GB,Northern Europe,Europe,0.011090573012939002,90, 50-100,loc_86
 Humboldt University of Berlin,Germany,120,62,,91,DE,Western Europe,Europe,0.01098901098901099,91, 50-100,loc_87
-University of Warwick,United Kingdom of Great Britain and Northern Ireland,57,91,125.5,91.16666666666667,GB,Northern Europe,Europe,0.010968921389396709,91, 50-100,loc_88
-Fudan University,China,40,116,125.5,93.83333333333333,CN,Eastern Asia,Asia,0.010657193605683837,94, 50-100,loc_89
-Osaka University,Japan,63,,125.5,94.25,JP,Eastern Asia,Asia,0.010610079575596816,94, 50-100,loc_90
-McMaster University,Canada,140,78,66,94.66666666666667,CA,Northern America,Americas,0.01056338028169014,95, 50-100,loc_91
+University of Warwick,UK,57,91,125.5,91.16666666666667,GB,Northern Europe,Europe,0.010968921389396709,91, 50-100,loc_88
+Fudan University,China,40,116,125.5,93.83333333333333,CN,East Asia,Asia,0.010657193605683837,94, 50-100,loc_89
+Osaka University,Japan,63,,125.5,94.25,JP,East Asia,Asia,0.010610079575596816,94, 50-100,loc_90
+McMaster University,Canada,140,78,66,94.66666666666667,CA,North America,Americas,0.01056338028169014,95, 50-100,loc_91
 University of Geneva,Switzerland,98,130,60,96,CH,Western Europe,Europe,0.010416666666666666,96, 50-100,loc_92
 Erasmus University Rotterdam,Netherlands,147,72,73,97.33333333333333,NL,Western Europe,Europe,0.010273972602739727,97, 50-100,loc_93
 Delft University of Technology,Netherlands,54,63,175.5,97.5,NL,Western Europe,Europe,0.010256410256410256,98, 50-100,loc_94
@@ -97,143 +97,143 @@ Aarhus University,Denmark,119,109,65,97.66666666666667,DK,Northern Europe,Europe
 University of Paris VI: Pierre-and-Marie-Curie University,France,131,123,40,98,FR,Western Europe,Europe,0.01020408163265306,98, 50-100,loc_96
 The University of Western Australia,Australia,93,111,91,98.33333333333333,AU,Australia and New Zealand,Oceania,0.01016949152542373,98, 50-100,loc_97
 Lund University,Sweden,78,93,125.5,98.83333333333333,SE,Northern Europe,Europe,0.010118043844856662,99, 50-100,loc_98
-Nagoya University,Japan,116,,84,100,JP,Eastern Asia,Asia,0.01,100, 50-100,loc_99
+Nagoya University,Japan,116,,84,100,JP,East Asia,Asia,0.01,100, 50-100,loc_99
 Ghent University,Belgium,125,107,69,100.33333333333333,BE,Western Europe,Europe,0.009966777408637875,100,100-200,loc_100
-Tohoku University,Japan,76,,125.5,100.75,JP,Eastern Asia,Asia,0.009925558312655087,101,100-200,loc_101
-University of Pittsburgh,United States of America,142,100,68,103.33333333333333,US,Northern America,Americas,0.00967741935483871,103,100-200,loc_102
-University of Sheffield,United Kingdom of Great Britain and Northern Ireland,82,104,125.5,103.83333333333333,GB,Northern Europe,Europe,0.009630818619582666,104,100-200,loc_103
+Tohoku University,Japan,76,,125.5,100.75,JP,East Asia,Asia,0.009925558312655087,101,100-200,loc_101
+University of Pittsburgh,USA,142,100,68,103.33333333333333,US,North America,Americas,0.00967741935483871,103,100-200,loc_102
+University of Sheffield,UK,82,104,125.5,103.83333333333333,GB,Northern Europe,Europe,0.009630818619582666,104,100-200,loc_103
 Wageningen University & Research,Netherlands,124,64,125.5,104.5,NL,Western Europe,Europe,0.009569377990430622,104,100-200,loc_104
 Free University of Berlin,Germany,125,88,,106.5,DE,Western Europe,Europe,0.009389671361502348,106,100-200,loc_105
-The Hong Kong University of Science and Technology,Hong Kong,30,44,250.5,108.16666666666667,HK,Eastern Asia,Asia,0.009244992295839752,108,100-200,loc_106
-University of Colorado Boulder,United States of America,182,100,43,108.33333333333333,US,Northern America,Americas,0.009230769230769232,108,100-200,loc_107
-"University of California, Irvine",United States of America,164,99,64,109,US,Northern America,Americas,0.009174311926605505,109,100-200,loc_108
-University of Alberta,Canada,90,119,125.5,111.5,CA,Northern America,Americas,0.008968609865470852,112,100-200,loc_109
+The Hong Kong University of Science and Technology,Hong Kong,30,44,250.5,108.16666666666667,HK,East Asia,Asia,0.009244992295839752,108,100-200,loc_106
+University of Colorado Boulder,USA,182,100,43,108.33333333333333,US,North America,Americas,0.009230769230769232,108,100-200,loc_107
+"University of California, Irvine",USA,164,99,64,109,US,North America,Americas,0.009174311926605505,109,100-200,loc_108
+University of Alberta,Canada,90,119,125.5,111.5,CA,North America,Americas,0.008968609865470852,112,100-200,loc_109
 University of Basel,Switzerland,149,95,95,113,CH,Western Europe,Europe,0.008849557522123894,113,100-200,loc_110
-University of Southampton,United Kingdom of Great Britain and Northern Ireland,102,126,,114,GB,Northern Europe,Europe,0.008771929824561403,114,100-200,loc_111
-University of Malaya,Malaysia,114,,,114,MY,South-Eastern Asia,Asia,0.008771929824561403,114,100-200,loc_112
-Tokyo Institute of Technology,Japan,56,,175.5,115.75,JP,Eastern Asia,Asia,0.008639308855291577,116,100-200,loc_113
+University of Southampton,UK,102,126,,114,GB,Northern Europe,Europe,0.008771929824561403,114,100-200,loc_111
+University of Malaya,Malaysia,114,,,114,MY,South East Asia,Asia,0.008771929824561403,114,100-200,loc_112
+Tokyo Institute of Technology,Japan,56,,175.5,115.75,JP,East Asia,Asia,0.008639308855291577,116,100-200,loc_113
 University of Oslo,Norway,142,146,62,116.66666666666667,NO,Northern Europe,Europe,0.008571428571428572,117,100-200,loc_114
-University of Birmingham,United Kingdom of Great Britain and Northern Ireland,84,141,125.5,116.83333333333333,GB,Northern Europe,Europe,0.008559201141226819,117,100-200,loc_115
-University of Science and Technology of China,China,97,132,125.5,118.16666666666667,CN,Eastern Asia,Asia,0.008462623413258109,118,100-200,loc_116
-University of Nottingham,United Kingdom of Great Britain and Northern Ireland,84,147,125.5,118.83333333333333,GB,Northern Europe,Europe,0.008415147265077139,119,100-200,loc_117
-Michigan State University,United States of America,149,83,125.5,119.16666666666667,US,Northern America,Americas,0.008391608391608392,119,100-200,loc_118
-University of Leeds,United Kingdom of Great Britain and Northern Ireland,101,139,125.5,121.83333333333333,GB,Northern Europe,Europe,0.008207934336525308,122,100-200,loc_119
+University of Birmingham,UK,84,141,125.5,116.83333333333333,GB,Northern Europe,Europe,0.008559201141226819,117,100-200,loc_115
+University of Science and Technology of China,China,97,132,125.5,118.16666666666667,CN,East Asia,Asia,0.008462623413258109,118,100-200,loc_116
+University of Nottingham,UK,84,147,125.5,118.83333333333333,GB,Northern Europe,Europe,0.008415147265077139,119,100-200,loc_117
+Michigan State University,USA,149,83,125.5,119.16666666666667,US,North America,Americas,0.008391608391608392,119,100-200,loc_118
+University of Leeds,UK,101,139,125.5,121.83333333333333,GB,Northern Europe,Europe,0.008207934336525308,122,100-200,loc_119
 University of Adelaide,Australia,109,134,125.5,122.83333333333333,AU,Australia and New Zealand,Oceania,0.00814111261872456,123,100-200,loc_120
-Vanderbilt University,United States of America,212,105,52,123,US,Northern America,Americas,0.008130081300813009,123,100-200,loc_121
-Emory University,United States of America,147,98,125.5,123.5,US,Northern America,Americas,0.008097165991902834,124,100-200,loc_122
-Shanghai Jiao Tong University,China,62,188,125.5,125.16666666666667,CN,Eastern Asia,Asia,0.007989347536617843,125,100-200,loc_123
-Arizona State University,United States of America,,,125.5,125.5,US,Northern America,Americas,0.00796812749003984,126,100-200,loc_124
-Baylor College of Medicine,United States of America,,,125.5,125.5,US,Northern America,Americas,0.00796812749003984,126,100-200,loc_125
-Icahn School of Medicine at Mount Sinai,United States of America,,,125.5,125.5,US,Northern America,Americas,0.00796812749003984,126,100-200,loc_126
-The University of Texas M. D. Anderson Cancer Center,United States of America,,,125.5,125.5,US,Northern America,Americas,0.00796812749003984,126,100-200,loc_127
+Vanderbilt University,USA,212,105,52,123,US,North America,Americas,0.008130081300813009,123,100-200,loc_121
+Emory University,USA,147,98,125.5,123.5,US,North America,Americas,0.008097165991902834,124,100-200,loc_122
+Shanghai Jiao Tong University,China,62,188,125.5,125.16666666666667,CN,East Asia,Asia,0.007989347536617843,125,100-200,loc_123
+Arizona State University,USA,,,125.5,125.5,US,North America,Americas,0.00796812749003984,126,100-200,loc_124
+Baylor College of Medicine,USA,,,125.5,125.5,US,North America,Americas,0.00796812749003984,126,100-200,loc_125
+Icahn School of Medicine at Mount Sinai,USA,,,125.5,125.5,US,North America,Americas,0.00796812749003984,126,100-200,loc_126
+The University of Texas M. D. Anderson Cancer Center,USA,,,125.5,125.5,US,North America,Americas,0.00796812749003984,126,100-200,loc_127
 Viadrina European University,Germany,,,125.5,125.5,DE,Western Europe,Europe,0.00796812749003984,126,100-200,loc_128
-University of Southampton,United Kingdom of Great Britain and Northern Ireland,,,125.5,125.5,GB,Northern Europe,Europe,0.00796812749003984,126,100-200,loc_129
-Weizmann Institute of Science,Israel,,,125.5,125.5,IL,Western Asia,Asia,0.00796812749003984,126,100-200,loc_130
+University of Southampton,UK,,,125.5,125.5,GB,Northern Europe,Europe,0.00796812749003984,126,100-200,loc_129
+Weizmann Institute of Science,Israel,,,125.5,125.5,IL,Middle East,Asia,0.00796812749003984,126,100-200,loc_130
 Charité - Universitätsmedizin Berlin,Germany,,126,,126,DE,Western Europe,Europe,0.007936507936507936,126,100-200,loc_131
 University of Freiburg,Germany,171,82,125.5,126.16666666666667,DE,Western Europe,Europe,0.007926023778071334,126,100-200,loc_132
 Trinity College Dublin,Ireland,88,117,175.5,126.83333333333333,IE,Northern Europe,Europe,0.007884362680683312,127,100-200,loc_133
 Moscow State University,Russian Federation,95,194,93,127.33333333333333,RU,Eastern Europe,Europe,0.007853403141361256,127,100-200,loc_134
-KAIST,Republic of Korea,41,95,250.5,128.83333333333334,KR,Eastern Asia,Asia,0.0077619663648124185,129,100-200,loc_135
+KAIST,Republic of Korea,41,95,250.5,128.83333333333334,KR,East Asia,Asia,0.0077619663648124185,129,100-200,loc_135
 University of Göttingen,Germany,181,113,95,129.66666666666666,DE,Western Europe,Europe,0.007712082262210798,130,100-200,loc_136
-Zhejiang University,China,87,177,125.5,129.83333333333334,CN,Eastern Asia,Asia,0.007702182284980744,130,100-200,loc_137
+Zhejiang University,China,87,177,125.5,129.83333333333334,CN,East Asia,Asia,0.007702182284980744,130,100-200,loc_137
 University of Bern,Switzerland,167,105,125.5,132.5,CH,Western Europe,Europe,0.007547169811320755,132,100-200,loc_138
-Cardiff University,United Kingdom of Great Britain and Northern Ireland,137,162,99,132.66666666666666,GB,Northern Europe,Europe,0.007537688442211056,133,100-200,loc_139
+Cardiff University,UK,137,162,99,132.66666666666666,GB,Northern Europe,Europe,0.007537688442211056,133,100-200,loc_139
 Stockholm University,Sweden,195,134,74,134.33333333333334,SE,Northern Europe,Europe,0.007444168734491314,134,100-200,loc_140
-Hebrew University of Jerusalem,Israel,145,,125.5,135.25,IL,Western Asia,Asia,0.0073937153419593345,135,100-200,loc_141
+Hebrew University of Jerusalem,Israel,145,,125.5,135.25,IL,Middle East,Asia,0.0073937153419593345,135,100-200,loc_141
 Université catholique de Louvain,Belgium,153,129,125.5,135.83333333333334,BE,Western Europe,Europe,0.007361963190184048,136,100-200,loc_142
-University of Florida,United States of America,178,143,88,136.33333333333334,US,Northern America,Americas,0.007334963325183373,136,100-200,loc_143
-Université de Montréal,Canada,130,108,175.5,137.83333333333334,CA,Northern America,Americas,0.007255139056831922,138,100-200,loc_144
-City University of Hong Kong,Hong Kong,49,119,250.5,139.5,HK,Eastern Asia,Asia,0.007168458781362007,140,100-200,loc_145
-"Queen Mary, University of London",United Kingdom of Great Britain and Northern Ireland,127,121,175.5,141.16666666666666,GB,Northern Europe,Europe,0.0070838252656434475,141,100-200,loc_146
-University of Durham,United Kingdom of Great Britain and Northern Ireland,78,97,250.5,141.83333333333334,GB,Northern Europe,Europe,0.007050528789659224,142,100-200,loc_147
+University of Florida,USA,178,143,88,136.33333333333334,US,North America,Americas,0.007334963325183373,136,100-200,loc_143
+Université de Montréal,Canada,130,108,175.5,137.83333333333334,CA,North America,Americas,0.007255139056831922,138,100-200,loc_144
+City University of Hong Kong,Hong Kong,49,119,250.5,139.5,HK,East Asia,Asia,0.007168458781362007,140,100-200,loc_145
+"Queen Mary, University of London",UK,127,121,175.5,141.16666666666666,GB,Northern Europe,Europe,0.0070838252656434475,141,100-200,loc_146
+University of Durham,UK,78,97,250.5,141.83333333333334,GB,Northern Europe,Europe,0.007050528789659224,142,100-200,loc_147
 University of Tübingen,Germany,164,94,175.5,144.5,DE,Western Europe,Europe,0.006920415224913495,144,100-200,loc_148
 Technical University of Denmark,Denmark,116,153,175.5,148.16666666666666,DK,Northern Europe,Europe,0.006749156355455569,148,100-200,loc_149
 University of São Paulo,Brazil,121,,175.5,148.25,BR,South America,Americas,0.006745362563237774,148,100-200,loc_150
-Hokkaido University,Japan,122,,175.5,148.75,JP,Eastern Asia,Asia,0.0067226890756302525,149,100-200,loc_151
-National Taiwan University,"Taiwan, Province of China",76,198,175.5,149.83333333333334,TW,Eastern Asia,Asia,0.006674082313681868,150,100-200,loc_152
+Hokkaido University,Japan,122,,175.5,148.75,JP,East Asia,Asia,0.0067226890756302525,149,100-200,loc_151
+National Taiwan University,"Taiwan, Province of China",76,198,175.5,149.83333333333334,TW,East Asia,Asia,0.006674082313681868,150,100-200,loc_152
 Radboud University Nijmegen,Netherlands,204,122,125.5,150.5,NL,Western Europe,Europe,0.006644518272425249,150,100-200,loc_153
-University of Virginia,United States of America,173,113,175.5,153.83333333333334,US,Northern America,Americas,0.006500541711809317,154,100-200,loc_154
-University of Exeter,United Kingdom of Great Britain and Northern Ireland,158,130,175.5,154.5,GB,Northern Europe,Europe,0.006472491909385114,154,100-200,loc_155
+University of Virginia,USA,173,113,175.5,153.83333333333334,US,North America,Americas,0.006500541711809317,154,100-200,loc_154
+University of Exeter,UK,158,130,175.5,154.5,GB,Northern Europe,Europe,0.006472491909385114,154,100-200,loc_155
 University of Paris-Sud,France,242,181,41,154.66666666666666,FR,Western Europe,Europe,0.006465517241379311,155,100-200,loc_156
-University of Rochester,United States of America,186,153,125.5,154.83333333333334,US,Northern America,Americas,0.006458557588805166,155,100-200,loc_157
+University of Rochester,USA,186,153,125.5,154.83333333333334,US,North America,Americas,0.006458557588805166,155,100-200,loc_157
 University of Bonn,Germany,239,100,125.5,154.83333333333334,DE,Western Europe,Europe,0.006458557588805166,155,100-200,loc_158
-Sungkyunkwan University,Republic of Korea,108,111,250.5,156.5,KR,Eastern Asia,Asia,0.006389776357827476,156,100-200,loc_159
+Sungkyunkwan University,Republic of Korea,108,111,250.5,156.5,KR,East Asia,Asia,0.006389776357827476,156,100-200,loc_159
 RWTH Aachen University,Germany,141,79,250.5,156.83333333333334,DE,Western Europe,Europe,0.006376195536663124,157,100-200,loc_160
 University of Lausanne,Switzerland,146,152,175.5,157.83333333333334,CH,Western Europe,Europe,0.006335797254487856,158,100-200,loc_161
-University of Liverpool,United Kingdom of Great Britain and Northern Ireland,173,177,125.5,158.5,GB,Northern Europe,Europe,0.006309148264984227,158,100-200,loc_162
-Technion – Israel Institute of Technology,Israel,224,,93,158.5,IL,Western Asia,Asia,0.006309148264984227,158,100-200,loc_163
-Texas A&M University,United States of America,195,159,125.5,159.83333333333334,US,Northern America,Americas,0.006256517205422314,160,100-200,loc_164
-University of Bath,United Kingdom of Great Britain and Northern Ireland,160,,,160,GB,Northern Europe,Europe,0.00625,160,100-200,loc_165
-National Tsing Hua University,"Taiwan, Province of China",161,,,161,TW,Eastern Asia,Asia,0.006211180124223602,161,100-200,loc_166
+University of Liverpool,UK,173,177,125.5,158.5,GB,Northern Europe,Europe,0.006309148264984227,158,100-200,loc_162
+Technion – Israel Institute of Technology,Israel,224,,93,158.5,IL,Middle East,Asia,0.006309148264984227,158,100-200,loc_163
+Texas A&M University,USA,195,159,125.5,159.83333333333334,US,North America,Americas,0.006256517205422314,160,100-200,loc_164
+University of Bath,UK,160,,,160,GB,Northern Europe,Europe,0.00625,160,100-200,loc_165
+National Tsing Hua University,"Taiwan, Province of China",161,,,161,TW,East Asia,Asia,0.006211180124223602,161,100-200,loc_166
 University of Buenos Aires,Argentina,75,,250.5,162.75,AR,South America,Americas,0.006144393241167435,163,100-200,loc_167
-University of Arizona,United States of America,230,161,99,163.33333333333334,US,Northern America,Americas,0.006122448979591836,163,100-200,loc_168
+University of Arizona,USA,230,161,99,163.33333333333334,US,North America,Americas,0.006122448979591836,163,100-200,loc_168
 Karlsruhe Institute of Technology,Germany,107,133,250.5,163.5,DE,Western Europe,Europe,0.0061162079510703364,164,100-200,loc_169
 University of Vienna,Austria,154,165,175.5,164.83333333333334,AT,Western Europe,Europe,0.006066734074823053,165,100-200,loc_170
-Case Western Reserve University,United States of America,213,158,125.5,165.5,US,Northern America,Americas,0.006042296072507553,166,100-200,loc_171
-Arizona State University,United States of America,209,126,,167.5,US,Northern America,Americas,0.005970149253731343,168,100-200,loc_172
-Dartmouth College,United States of America,169,89,250.5,169.5,US,Northern America,Americas,0.0058997050147492625,170,100-200,loc_173
+Case Western Reserve University,USA,213,158,125.5,165.5,US,North America,Americas,0.006042296072507553,166,100-200,loc_171
+Arizona State University,USA,209,126,,167.5,US,North America,Americas,0.005970149253731343,168,100-200,loc_172
+Dartmouth College,USA,169,89,250.5,169.5,US,North America,Americas,0.0058997050147492625,170,100-200,loc_173
 Vrije Universiteit,Netherlands,218,165,125.5,169.5,NL,Western Europe,Europe,0.0058997050147492625,170,100-200,loc_174
-Korea University,Republic of Korea,90,,250.5,170.25,KR,Eastern Asia,Asia,0.005873715124816446,170,100-200,loc_175
-Indian Institute of Technology Delhi,India,172,,,172,IN,Southern Asia,Asia,0.005813953488372093,172,100-200,loc_176
-King Saud University,Saudi Arabia,221,,125.5,173.25,SA,Western Asia,Asia,0.005772005772005772,173,100-200,loc_177
+Korea University,Republic of Korea,90,,250.5,170.25,KR,East Asia,Asia,0.005873715124816446,170,100-200,loc_175
+Indian Institute of Technology Delhi,India,172,,,172,IN,South Asia,Asia,0.005813953488372093,172,100-200,loc_176
+King Saud University,Saudi Arabia,221,,125.5,173.25,SA,Middle East,Asia,0.005772005772005772,173,100-200,loc_177
 Scuola Superiore Sant'Anna Pisa di Studi Universitari e di Perfezionamento,Italy,192,155,,173.5,IT,Southern Europe,Europe,0.005763688760806916,174,100-200,loc_178
 Royal Institute of Technology,Sweden,98,173,250.5,173.83333333333334,SE,Northern Europe,Europe,0.005752636625119846,174,100-200,loc_179
-University of York,United Kingdom of Great Britain and Northern Ireland,135,137,250.5,174.16666666666666,GB,Northern Europe,Europe,0.005741626794258373,174,100-200,loc_180
+University of York,UK,135,137,250.5,174.16666666666666,GB,Northern Europe,Europe,0.005741626794258373,174,100-200,loc_180
 University of Auckland,New Zealand,82,192,250.5,174.83333333333334,NZ,Australia and New Zealand,Oceania,0.005719733079122974,175,100-200,loc_181
 TU Dresden,Germany,195,155,175.5,175.16666666666666,DE,Western Europe,Europe,0.005708848715509039,175,100-200,loc_182
 University of Bordeaux,France,,,175.5,175.5,FR,Western Europe,Europe,0.005698005698005698,176,100-200,loc_183
-University of Nebraska–Lincoln,United States of America,,,175.5,175.5,US,Northern America,Americas,0.005698005698005698,176,100-200,loc_184
-China Medical University (Taichung),China,,,175.5,175.5,CN,Eastern Asia,Asia,0.005698005698005698,176,100-200,loc_185
-Sichuan University,China,,,175.5,175.5,CN,Eastern Asia,Asia,0.005698005698005698,176,100-200,loc_186
+University of Nebraska–Lincoln,USA,,,175.5,175.5,US,North America,Americas,0.005698005698005698,176,100-200,loc_184
+China Medical University (Taichung),China,,,175.5,175.5,CN,East Asia,Asia,0.005698005698005698,176,100-200,loc_185
+Sichuan University,China,,,175.5,175.5,CN,East Asia,Asia,0.005698005698005698,176,100-200,loc_186
 Leipzig University,Germany,,,175.5,175.5,DE,Western Europe,Europe,0.005698005698005698,176,100-200,loc_187
-University of Massachusetts Medical School - Worcester,United States of America,,,175.5,175.5,US,Northern America,Americas,0.005698005698005698,176,100-200,loc_188
-Hong Kong Polytechnic University,Hong Kong,95,182,250.5,175.83333333333334,HK,Eastern Asia,Asia,0.005687203791469194,176,100-200,loc_189
+University of Massachusetts Medical School - Worcester,USA,,,175.5,175.5,US,North America,Americas,0.005698005698005698,176,100-200,loc_188
+Hong Kong Polytechnic University,Hong Kong,95,182,250.5,175.83333333333334,HK,East Asia,Asia,0.005687203791469194,176,100-200,loc_189
 CentraleSupélec,France,177,,,177,FR,Western Europe,Europe,0.005649717514124294,177,100-200,loc_190
-Nanjing University,China,114,169,250.5,177.83333333333334,CN,Eastern Asia,Asia,0.005623242736644799,178,100-200,loc_191
-Rutgers University - New Brunswick,United States of America,283,172,79,178,US,Northern America,Americas,0.0056179775280898875,178,100-200,loc_192
-Yonsei University,Republic of Korea,106,,250.5,178.25,KR,Eastern Asia,Asia,0.005610098176718092,178,100-200,loc_193
-Indian Institute of Technology Bombay,India,179,,,179,IN,Southern Asia,Asia,0.00558659217877095,179,100-200,loc_194
+Nanjing University,China,114,169,250.5,177.83333333333334,CN,East Asia,Asia,0.005623242736644799,178,100-200,loc_191
+Rutgers University - New Brunswick,USA,283,172,79,178,US,North America,Americas,0.0056179775280898875,178,100-200,loc_192
+Yonsei University,Republic of Korea,106,,250.5,178.25,KR,East Asia,Asia,0.005610098176718092,178,100-200,loc_193
+Indian Institute of Technology Bombay,India,179,,,179,IN,South Asia,Asia,0.00558659217877095,179,100-200,loc_194
 University of Luxembourg,Luxembourg,,179,,179,LU,Western Europe,Europe,0.00558659217877095,179,100-200,loc_195
-Indiana University Bloomington,United States of America,304,117,125.5,182.16666666666666,US,Northern America,Americas,0.0054894784995425435,182,100-200,loc_196
+Indiana University Bloomington,USA,304,117,125.5,182.16666666666666,US,North America,Americas,0.0054894784995425435,182,100-200,loc_196
 Maastricht University,Netherlands,200,103,250.5,184.5,NL,Western Europe,Europe,0.005420054200542005,184,100-200,loc_197
 Université libre de Bruxelles,Belgium,205,175,175.5,185.16666666666666,BE,Western Europe,Europe,0.0054005400540054005,185,100-200,loc_198
-Pohang University of Science and Technology,Republic of Korea,71,137,350.5,186.16666666666666,KR,Eastern Asia,Asia,0.005371530886302597,186,100-200,loc_199
+Pohang University of Science and Technology,Republic of Korea,71,137,350.5,186.16666666666666,KR,East Asia,Asia,0.005371530886302597,186,100-200,loc_199
 National Autonomous University of Mexico,Mexico,122,,250.5,186.25,MX,Central America,Americas,0.005369127516778523,186,100-200,loc_200
-"University of California, Santa Cruz",United States of America,301,162,98,187,US,Northern America,Americas,0.0053475935828877,187,100-200,loc_201
+"University of California, Santa Cruz",USA,301,162,98,187,US,North America,Americas,0.0053475935828877,187,100-200,loc_201
 Scuola Normale Superiore di Pisa,Italy,192,184,,188,IT,Southern Europe,Europe,0.005319148936170213,188,100-200,loc_202
-Kyushu University,Japan,128,,250.5,189.25,JP,Eastern Asia,Asia,0.005284015852047556,189,100-200,loc_203
-Tel Aviv University,Israel,205,,175.5,190.25,IL,Western Asia,Asia,0.005256241787122208,190,100-200,loc_204
-University of Massachusetts Lowell,United States of America,,191,,191,US,Northern America,Americas,0.005235602094240838,191,100-200,loc_205
+Kyushu University,Japan,128,,250.5,189.25,JP,East Asia,Asia,0.005284015852047556,189,100-200,loc_203
+Tel Aviv University,Israel,205,,175.5,190.25,IL,Middle East,Asia,0.005256241787122208,190,100-200,loc_204
+University of Massachusetts Lowell,USA,,191,,191,US,North America,Americas,0.005235602094240838,191,100-200,loc_205
 Chalmers University of Technology,Sweden,133,,250.5,191.75,SE,Northern Europe,Europe,0.005215123859191656,192,100-200,loc_206
 Norwegian University of Science and Technology,Norway,259,,125.5,192.25,NO,Northern Europe,Europe,0.005201560468140442,192,100-200,loc_207
-University of St Andrews,United Kingdom of Great Britain and Northern Ireland,92,143,350.5,195.16666666666666,GB,Northern Europe,Europe,0.005123825789923143,195,100-200,loc_208
+University of St Andrews,UK,92,143,350.5,195.16666666666666,GB,Northern Europe,Europe,0.005123825789923143,195,100-200,loc_208
 Sapienza University of Rome,Italy,215,,175.5,195.25,IT,Southern Europe,Europe,0.005121638924455826,195,100-200,loc_209
-University of Newcastle,United Kingdom of Great Britain and Northern Ireland,161,175,250.5,195.5,GB,Northern Europe,Europe,0.005115089514066497,196,100-200,loc_210
-Tufts University,United States of America,243,169,175.5,195.83333333333334,US,Northern America,Americas,0.005106382978723404,196,100-200,loc_211
-University of Calgary,Canada,217,,175.5,196.25,CA,Northern America,Americas,0.005095541401273885,196,100-200,loc_212
-King Abdulaziz University,Saudi Arabia,267,,125.5,196.25,SA,Western Asia,Asia,0.005095541401273885,196,100-200,loc_213
+University of Newcastle,UK,161,175,250.5,195.5,GB,Northern Europe,Europe,0.005115089514066497,196,100-200,loc_210
+Tufts University,USA,243,169,175.5,195.83333333333334,US,North America,Americas,0.005106382978723404,196,100-200,loc_211
+University of Calgary,Canada,217,,175.5,196.25,CA,North America,Americas,0.005095541401273885,196,100-200,loc_212
+King Abdulaziz University,Saudi Arabia,267,,125.5,196.25,SA,Middle East,Asia,0.005095541401273885,196,100-200,loc_213
 École Normale Supérieure de Lyon,France,157,182,250.5,196.5,FR,Western Europe,Europe,0.005089058524173028,196,100-200,loc_214
-University of Aberdeen,United Kingdom of Great Britain and Northern Ireland,158,185,250.5,197.83333333333334,GB,Northern Europe,Europe,0.005054759898904802,198,100-200,loc_215
+University of Aberdeen,UK,158,185,250.5,197.83333333333334,GB,Northern Europe,Europe,0.005054759898904802,198,100-200,loc_215
 Eindhoven University of Technology,Netherlands,104,141,350.5,198.5,NL,Western Europe,Europe,0.005037783375314861,198,100-200,loc_216
 Monterrey Institute of Technology and Higher Education,Mexico,199,,,199,MX,Central America,Americas,0.005025125628140704,199,100-200,loc_217
 University of Hamburg,Germany,223,,175.5,199.25,DE,Western Europe,Europe,0.005018820577164366,199,100-200,loc_218
-Georgetown University,United States of America,227,123,250.5,200.16666666666666,US,Northern America,Americas,0.004995836802664446,200,200-300,loc_219
-University of Waterloo,Canada,152,,250.5,201.25,CA,Northern America,Americas,0.004968944099378882,201,200-300,loc_220
-Hanyang University,Republic of Korea,155,,250.5,202.75,KR,Eastern Asia,Asia,0.004932182490752158,203,200-300,loc_221
-Waseda University,Japan,203,,,203,JP,Eastern Asia,Asia,0.0049261083743842365,203,200-300,loc_222
+Georgetown University,USA,227,123,250.5,200.16666666666666,US,North America,Americas,0.004995836802664446,200,200-300,loc_219
+University of Waterloo,Canada,152,,250.5,201.25,CA,North America,Americas,0.004968944099378882,201,200-300,loc_220
+Hanyang University,Republic of Korea,155,,250.5,202.75,KR,East Asia,Asia,0.004932182490752158,203,200-300,loc_221
+Waseda University,Japan,203,,,203,JP,East Asia,Asia,0.0049261083743842365,203,200-300,loc_222
 University of Barcelona,Spain,156,,250.5,203.25,ES,Southern Europe,Europe,0.004920049200492005,203,200-300,loc_223
-University of Miami,United States of America,252,186,175.5,204.5,US,Northern America,Americas,0.004889975550122249,204,200-300,loc_224
-University of Notre Dame,United States of America,216,150,250.5,205.5,US,Northern America,Americas,0.004866180048661801,206,200-300,loc_225
+University of Miami,USA,252,186,175.5,204.5,US,North America,Americas,0.004889975550122249,204,200-300,loc_224
+University of Notre Dame,USA,216,150,250.5,205.5,US,North America,Americas,0.004866180048661801,206,200-300,loc_225
 Grenoble Alpes University,France,236,,175.5,205.75,FR,Western Europe,Europe,0.004860267314702308,206,200-300,loc_226
-University of Illinois at Chicago,United States of America,207,,,207,US,Northern America,Americas,0.004830917874396135,207,200-300,loc_227
+University of Illinois at Chicago,USA,207,,,207,US,North America,Americas,0.004830917874396135,207,200-300,loc_227
 University of Bergen,Norway,164,,250.5,207.25,NO,Northern Europe,Europe,0.0048250904704463205,207,200-300,loc_228
 Macquarie University,Australia,240,,175.5,207.75,AU,Australia and New Zealand,Oceania,0.0048134777376654635,208,200-300,loc_229
 University of Erlangen-Nuremberg,Germany,287,162,175.5,208.16666666666666,DE,Western Europe,Europe,0.004803843074459568,208,200-300,loc_230
-University of Sussex,United Kingdom of Great Britain and Northern Ireland,228,147,250.5,208.5,GB,Northern Europe,Europe,0.004796163069544364,208,200-300,loc_231
-University of Alabama at Birmingham,United States of America,,168,250.5,209.25,US,Northern America,Americas,0.0047789725209080045,209,200-300,loc_232
+University of Sussex,UK,228,147,250.5,208.5,GB,Northern Europe,Europe,0.004796163069544364,208,200-300,loc_231
+University of Alabama at Birmingham,USA,,168,250.5,209.25,US,North America,Americas,0.0047789725209080045,209,200-300,loc_232
 Politecnico di Milano,Italy,170,,250.5,210.25,IT,Southern Europe,Europe,0.0047562425683709865,210,200-300,loc_233
-University of Lancaster,United Kingdom of Great Britain and Northern Ireland,135,150,350.5,211.83333333333334,GB,Northern Europe,Europe,0.004720692368214005,212,200-300,loc_234
-University of Massachusetts Amherst,United States of America,249,,175.5,212.25,US,Northern America,Americas,0.004711425206124852,212,200-300,loc_235
+University of Lancaster,UK,135,150,350.5,211.83333333333334,GB,Northern Europe,Europe,0.004720692368214005,212,200-300,loc_234
+University of Massachusetts Amherst,USA,249,,175.5,212.25,US,North America,Americas,0.004711425206124852,212,200-300,loc_235
 University of Strasbourg,France,303,,125.5,214.25,FR,Western Europe,Europe,0.004667444574095682,214,200-300,loc_236
 Paris Diderot University,France,305,,125.5,215.25,FR,Western Europe,Europe,0.004645760743321719,215,200-300,loc_237
 Vrije Universiteit Brussel,Belgium,182,,250.5,216.25,BE,Western Europe,Europe,0.004624277456647399,216,200-300,loc_238
@@ -241,25 +241,25 @@ Curtin University,Australia,262,,175.5,218.75,AU,Australia and New Zealand,Ocean
 University of Gothenburg,Sweden,283,198,175.5,218.83333333333334,SE,Northern Europe,Europe,0.004569687738004569,219,200-300,loc_240
 University of Münster,Germany,308,173,175.5,218.83333333333334,DE,Western Europe,Europe,0.004569687738004569,219,200-300,loc_241
 University of Bologna,Italy,188,,250.5,219.25,IT,Southern Europe,Europe,0.004561003420752566,219,200-300,loc_242
-University of Reading,United Kingdom of Great Britain and Northern Ireland,188,,250.5,219.25,GB,Northern Europe,Europe,0.004561003420752566,219,200-300,loc_243
+University of Reading,UK,188,,250.5,219.25,GB,Northern Europe,Europe,0.004561003420752566,219,200-300,loc_243
 Sciences Po,France,220,,,220,FR,Western Europe,Europe,0.004545454545454545,220,200-300,loc_244
-Queen's University,Canada,224,,,224,CA,Northern America,Americas,0.004464285714285714,224,200-300,loc_245
-National University of Sciences And Technology (NUST) Islamabad,Pakistan,435.5,16,,225.75,PK,Southern Asia,Asia,0.004429678848283499,226,200-300,loc_246
-Queen's University Belfast,United Kingdom of Great Britain and Northern Ireland,202,,250.5,226.25,GB,Northern Europe,Europe,0.004419889502762431,226,200-300,loc_247
-"Royal Holloway, University of London",United Kingdom of Great Britain and Northern Ireland,259,197,,228,GB,Northern Europe,Europe,0.0043859649122807015,228,200-300,loc_248
+Queen's University,Canada,224,,,224,CA,North America,Americas,0.004464285714285714,224,200-300,loc_245
+National University of Sciences And Technology (NUST) Islamabad,Pakistan,435.5,16,,225.75,PK,South Asia,Asia,0.004429678848283499,226,200-300,loc_246
+Queen's University Belfast,UK,202,,250.5,226.25,GB,Northern Europe,Europe,0.004419889502762431,226,200-300,loc_247
+"Royal Holloway, University of London",UK,259,197,,228,GB,Northern Europe,Europe,0.0043859649122807015,228,200-300,loc_248
 Technical University of Berlin,Germany,144,92,450.5,228.83333333333334,DE,Western Europe,Europe,0.004369992716678805,229,200-300,loc_249
 Pompeu Fabra University,Spain,296,140,250.5,228.83333333333334,ES,Southern Europe,Europe,0.004369992716678805,229,200-300,loc_250
-Universiti Putra Malaysia,Malaysia,229,,,229,MY,South-Eastern Asia,Asia,0.004366812227074236,229,200-300,loc_251
-National University of Malaysia,Malaysia,230,,,230,MY,South-Eastern Asia,Asia,0.004347826086956522,230,200-300,loc_252
+Universiti Putra Malaysia,Malaysia,229,,,229,MY,South East Asia,Asia,0.004366812227074236,229,200-300,loc_251
+National University of Malaysia,Malaysia,230,,,230,MY,South East Asia,Asia,0.004347826086956522,230,200-300,loc_252
 University of Antwerp,Belgium,210,,250.5,230.25,BE,Western Europe,Europe,0.0043431053203040176,230,200-300,loc_253
-University of Western Ontario,Canada,210,,250.5,230.25,CA,Northern America,Americas,0.0043431053203040176,230,200-300,loc_254
+University of Western Ontario,Canada,210,,250.5,230.25,CA,North America,Americas,0.0043431053203040176,230,200-300,loc_254
 University of Innsbruck,Austria,286,,175.5,230.75,AT,Western Europe,Europe,0.004333694474539545,231,200-300,loc_255
 Autonomous University of Barcelona,Spain,195,147,350.5,230.83333333333334,ES,Southern Europe,Europe,0.004332129963898917,231,200-300,loc_256
-"University of California, Riverside",United States of America,323,198,175.5,232.16666666666666,US,Northern America,Americas,0.004307250538406317,232,200-300,loc_257
-University of Ottawa,Canada,289,,175.5,232.25,CA,Northern America,Americas,0.004305705059203444,232,200-300,loc_258
-Loughborough University,United Kingdom of Great Britain and Northern Ireland,234,,,234,GB,Northern Europe,Europe,0.004273504273504274,234,200-300,loc_259
-University of Dundee,United Kingdom of Great Britain and Northern Ireland,267,187,250.5,234.83333333333334,GB,Northern Europe,Europe,0.0042583392476933995,235,200-300,loc_260
-American University of Beirut,Lebanon,235,,,235,LB,Western Asia,Asia,0.00425531914893617,235,200-300,loc_261
+"University of California, Riverside",USA,323,198,175.5,232.16666666666666,US,North America,Americas,0.004307250538406317,232,200-300,loc_257
+University of Ottawa,Canada,289,,175.5,232.25,CA,North America,Americas,0.004305705059203444,232,200-300,loc_258
+Loughborough University,UK,234,,,234,GB,Northern Europe,Europe,0.004273504273504274,234,200-300,loc_259
+University of Dundee,UK,267,187,250.5,234.83333333333334,GB,Northern Europe,Europe,0.0042583392476933995,235,200-300,loc_260
+American University of Beirut,Lebanon,235,,,235,LB,Middle East,Asia,0.00425531914893617,235,200-300,loc_261
 University of Padua,Italy,296,,175.5,235.75,IT,Southern Europe,Europe,0.0042417815482502655,236,200-300,loc_262
 Al-Farabi University,Kazakhstan,236,,,236,KZ,Central Asia,Asia,0.00423728813559322,236,200-300,loc_263
 University of Twente,Netherlands,179,179,350.5,236.16666666666666,NL,Western Europe,Europe,0.004234297812279464,236,200-300,loc_264
@@ -268,234 +268,234 @@ University of Lisbon,Portugal,305,,175.5,240.25,PT,Southern Europe,Europe,0.0041
 University of Wollongong,Australia,232,,250.5,241.25,AU,Australia and New Zealand,Oceania,0.004145077720207254,241,200-300,loc_267
 University of Cologne,Germany,331,145,250.5,242.16666666666666,DE,Western Europe,Europe,0.0041293874741913286,242,200-300,loc_268
 Paris-Sorbonne University,France,293,196,,244.5,FR,Western Europe,Europe,0.00408997955010225,244,200-300,loc_269
-Sun Yat-sen University,China,319,,175.5,247.25,CN,Eastern Asia,Asia,0.004044489383215369,247,200-300,loc_270
+Sun Yat-sen University,China,319,,175.5,247.25,CN,East Asia,Asia,0.004044489383215369,247,200-300,loc_270
 Queensland University of Technology,Australia,247,,250.5,248.75,AU,Australia and New Zealand,Oceania,0.004020100502512563,249,200-300,loc_271
-University of Leicester,United Kingdom of Great Britain and Northern Ireland,238,159,350.5,249.16666666666666,GB,Northern Europe,Europe,0.004013377926421405,249,200-300,loc_272
-University of Tsukuba,Japan,250,,250.5,250.25,JP,Eastern Asia,Asia,0.003996003996003996,250,200-300,loc_273
-Harbin Institute of Technology,China,325,,175.5,250.25,CN,Eastern Asia,Asia,0.003996003996003996,250,200-300,loc_274
+University of Leicester,UK,238,159,350.5,249.16666666666666,GB,Northern Europe,Europe,0.004013377926421405,249,200-300,loc_272
+University of Tsukuba,Japan,250,,250.5,250.25,JP,East Asia,Asia,0.003996003996003996,250,200-300,loc_273
+Harbin Institute of Technology,China,325,,175.5,250.25,CN,East Asia,Asia,0.003996003996003996,250,200-300,loc_274
 Medical University of Vienna,Austria,,,250.5,250.5,AT,Western Europe,Europe,0.003992015968063872,250,200-300,loc_275
-University of Oregon,United States of America,,,250.5,250.5,US,Northern America,Americas,0.003992015968063872,250,200-300,loc_276
-Oregon Health & Science University,United States of America,,,250.5,250.5,US,Northern America,Americas,0.003992015968063872,250,200-300,loc_277
-University of South Florida,United States of America,,,250.5,250.5,US,Northern America,Americas,0.003992015968063872,250,200-300,loc_278
+University of Oregon,USA,,,250.5,250.5,US,North America,Americas,0.003992015968063872,250,200-300,loc_276
+Oregon Health & Science University,USA,,,250.5,250.5,US,North America,Americas,0.003992015968063872,250,200-300,loc_277
+University of South Florida,USA,,,250.5,250.5,US,North America,Americas,0.003992015968063872,250,200-300,loc_278
 Swedish University of Agricultural Sciences,Sweden,,,250.5,250.5,SE,Northern Europe,Europe,0.003992015968063872,250,200-300,loc_279
-George Mason University,United States of America,,,250.5,250.5,US,Northern America,Americas,0.003992015968063872,250,200-300,loc_280
-University of Houston,United States of America,,,250.5,250.5,US,Northern America,Americas,0.003992015968063872,250,200-300,loc_281
-Drexel University,United States of America,,,250.5,250.5,US,Northern America,Americas,0.003992015968063872,250,200-300,loc_282
+George Mason University,USA,,,250.5,250.5,US,North America,Americas,0.003992015968063872,250,200-300,loc_280
+University of Houston,USA,,,250.5,250.5,US,North America,Americas,0.003992015968063872,250,200-300,loc_281
+Drexel University,USA,,,250.5,250.5,US,North America,Americas,0.003992015968063872,250,200-300,loc_282
 Claude Bernard University Lyon 1,France,,,250.5,250.5,FR,Western Europe,Europe,0.003992015968063872,250,200-300,loc_283
-University of Missouri,United States of America,,,250.5,250.5,US,Northern America,Americas,0.003992015968063872,250,200-300,loc_284
+University of Missouri,USA,,,250.5,250.5,US,North America,Americas,0.003992015968063872,250,200-300,loc_284
 University of Turin,Italy,,,250.5,250.5,IT,Southern Europe,Europe,0.003992015968063872,250,200-300,loc_285
-King Abdullah University of Science and Technology,Saudi Arabia,,,250.5,250.5,SA,Western Asia,Asia,0.003992015968063872,250,200-300,loc_286
-London School of Hygiene & Tropical Medicine,United Kingdom of Great Britain and Northern Ireland,,,250.5,250.5,GB,Northern Europe,Europe,0.003992015968063872,250,200-300,loc_287
-Medical University of South Carolina,United States of America,,,250.5,250.5,US,Northern America,Americas,0.003992015968063872,250,200-300,loc_288
+King Abdullah University of Science and Technology,Saudi Arabia,,,250.5,250.5,SA,Middle East,Asia,0.003992015968063872,250,200-300,loc_286
+London School of Hygiene & Tropical Medicine,UK,,,250.5,250.5,GB,Northern Europe,Europe,0.003992015968063872,250,200-300,loc_287
+Medical University of South Carolina,USA,,,250.5,250.5,US,North America,Americas,0.003992015968063872,250,200-300,loc_288
 Paul Sabatier University (Toulouse 3),France,,,250.5,250.5,FR,Western Europe,Europe,0.003992015968063872,250,200-300,loc_289
-Soochow University,China,,,250.5,250.5,CN,Eastern Asia,Asia,0.003992015968063872,250,200-300,loc_290
-South China University of Technology,China,,,250.5,250.5,CN,Eastern Asia,Asia,0.003992015968063872,250,200-300,loc_291
-Southeast University,China,,,250.5,250.5,CN,Eastern Asia,Asia,0.003992015968063872,250,200-300,loc_292
-The University of Texas Health Science Center at San Antonio,United States of America,,,250.5,250.5,US,Northern America,Americas,0.003992015968063872,250,200-300,loc_293
-"University at Buffalo, The State University of New York",United States of America,,,250.5,250.5,US,Northern America,Americas,0.003992015968063872,250,200-300,loc_294
+Soochow University,China,,,250.5,250.5,CN,East Asia,Asia,0.003992015968063872,250,200-300,loc_290
+South China University of Technology,China,,,250.5,250.5,CN,East Asia,Asia,0.003992015968063872,250,200-300,loc_291
+Southeast University,China,,,250.5,250.5,CN,East Asia,Asia,0.003992015968063872,250,200-300,loc_292
+The University of Texas Health Science Center at San Antonio,USA,,,250.5,250.5,US,North America,Americas,0.003992015968063872,250,200-300,loc_293
+"University at Buffalo, The State University of New York",USA,,,250.5,250.5,US,North America,Americas,0.003992015968063872,250,200-300,loc_294
 University of Belgrade,Serbia,,,250.5,250.5,RS,Southern Europe,Europe,0.003992015968063872,250,200-300,loc_295
 University of Granada,Spain,,,250.5,250.5,ES,Southern Europe,Europe,0.003992015968063872,250,200-300,loc_296
-University of Illinois at Chicago,United States of America,,,250.5,250.5,US,Northern America,Americas,0.003992015968063872,250,200-300,loc_297
+University of Illinois at Chicago,USA,,,250.5,250.5,US,North America,Americas,0.003992015968063872,250,200-300,loc_297
 University of Lorraine,France,,,250.5,250.5,FR,Western Europe,Europe,0.003992015968063872,250,200-300,loc_298
-Virginia Commonwealth University,United States of America,,,250.5,250.5,US,Northern America,Americas,0.003992015968063872,250,200-300,loc_299
+Virginia Commonwealth University,USA,,,250.5,250.5,US,North America,Americas,0.003992015968063872,250,200-300,loc_299
 University of Otago,New Zealand,151,,350.5,250.75,NZ,Australia and New Zealand,Oceania,0.003988035892323031,251,200-300,loc_300
-University of Technology Malaysia,Malaysia,253,,,253,MY,South-Eastern Asia,Asia,0.003952569169960474,253,200-300,loc_301
-Beijing Normal University,China,256,,250.5,253.25,CN,Eastern Asia,Asia,0.003948667324777887,253,200-300,loc_302
+University of Technology Malaysia,Malaysia,253,,,253,MY,South East Asia,Asia,0.003952569169960474,253,200-300,loc_301
+Beijing Normal University,China,256,,250.5,253.25,CN,East Asia,Asia,0.003948667324777887,253,200-300,loc_302
 National University of Colombia,Colombia,254,,,254,CO,South America,Americas,0.003937007874015748,254,200-300,loc_303
 Goethe University Frankfurt,Germany,254,,,254,DE,Western Europe,Europe,0.003937007874015748,254,200-300,loc_304
 Ecole Polytechnique,France,59,,450.5,254.75,FR,Western Europe,Europe,0.003925417075564278,255,200-300,loc_305
 University of the Andes,Colombia,256,,,256,CO,South America,Americas,0.00390625,256,200-300,loc_306
 University of Mannheim,Germany,388,125,,256.5,DE,Western Europe,Europe,0.003898635477582846,256,200-300,loc_307
-North Carolina State University,United States of America,263,,250.5,256.75,US,Northern America,Americas,0.0038948393378773127,257,200-300,loc_308
-University of Utah,United States of America,391,,125.5,258.25,US,Northern America,Americas,0.003872216844143272,258,200-300,loc_309
+North Carolina State University,USA,263,,250.5,256.75,US,North America,Americas,0.0038948393378773127,257,200-300,loc_308
+University of Utah,USA,391,,125.5,258.25,US,North America,Americas,0.003872216844143272,258,200-300,loc_309
 Aalto University,Finland,137,190,450.5,259.1666666666667,FI,Northern Europe,Europe,0.0038585209003215433,259,200-300,loc_310
 University College Dublin,Ireland,168,,350.5,259.25,IE,Northern Europe,Europe,0.003857280617164899,259,200-300,loc_311
-Northeastern University,United States of America,346,193,250.5,263.1666666666667,US,Northern America,Americas,0.0037998733375554147,263,200-300,loc_312
+Northeastern University,USA,346,193,250.5,263.1666666666667,US,North America,Americas,0.0037998733375554147,263,200-300,loc_312
 University of Technology Sydney,Australia,176,,350.5,263.25,AU,Australia and New Zealand,Oceania,0.003798670465337132,263,200-300,loc_313
-Indian Institute of Technology Madras,India,264,,,264,IN,Southern Asia,Asia,0.003787878787878788,264,200-300,loc_314
-National Taiwan University of Science and Technology,"Taiwan, Province of China",264,,,264,TW,Eastern Asia,Asia,0.003787878787878788,264,200-300,loc_315
-Wuhan University,China,282,,250.5,266.25,CN,Eastern Asia,Asia,0.003755868544600939,266,200-300,loc_316
+Indian Institute of Technology Madras,India,264,,,264,IN,South Asia,Asia,0.003787878787878788,264,200-300,loc_314
+National Taiwan University of Science and Technology,"Taiwan, Province of China",264,,,264,TW,East Asia,Asia,0.003787878787878788,264,200-300,loc_315
+Wuhan University,China,282,,250.5,266.25,CN,East Asia,Asia,0.003755868544600939,266,200-300,loc_316
 Autonomous University of Madrid,Spain,187,,350.5,268.75,ES,Southern Europe,Europe,0.0037209302325581397,269,200-300,loc_317
 Linköping University,Sweden,287,,250.5,268.75,SE,Northern Europe,Europe,0.0037209302325581397,269,200-300,loc_318
 Pantheon-Sorbonne University,France,269,,,269,FR,Western Europe,Europe,0.0037174721189591076,269,200-300,loc_319
 Ecole des Ponts ParisTech,France,270,,,270,FR,Western Europe,Europe,0.003703703703703704,270,200-300,loc_320
 University of Navarre,Spain,270,,,270,ES,Southern Europe,Europe,0.003703703703703704,270,200-300,loc_321
-Indian Institute of Science,India,190,,350.5,270.25,IN,Southern Asia,Asia,0.0037002775208140612,270,200-300,loc_322
+Indian Institute of Science,India,190,,350.5,270.25,IN,South Asia,Asia,0.0037002775208140612,270,200-300,loc_322
 Aix-Marseille University,France,415.5,,125.5,270.5,FR,Western Europe,Europe,0.0036968576709796672,270,200-300,loc_323
-University of East Anglia,United Kingdom of Great Britain and Northern Ireland,274,188,350.5,270.8333333333333,GB,Northern Europe,Europe,0.0036923076923076927,271,200-300,loc_324
-Keio University,Japan,192,,350.5,271.25,JP,Eastern Asia,Asia,0.003686635944700461,271,200-300,loc_325
+University of East Anglia,UK,274,188,350.5,270.8333333333333,GB,Northern Europe,Europe,0.0036923076923076927,271,200-300,loc_324
+Keio University,Japan,192,,350.5,271.25,JP,East Asia,Asia,0.003686635944700461,271,200-300,loc_325
 Deakin University,Australia,293,,250.5,271.75,AU,Australia and New Zealand,Oceania,0.0036798528058877645,272,200-300,loc_326
 Polytechnic University of Catalonia,Spain,275,,,275,ES,Southern Europe,Europe,0.0036363636363636364,275,200-300,loc_327
 University of Würzburg,Germany,485.5,165,175.5,275.3333333333333,DE,Western Europe,Europe,0.0036319612590799033,275,200-300,loc_328
 University of Chile,Chile,201,,350.5,275.75,CL,South America,Americas,0.003626473254759746,276,200-300,loc_329
 Tilburg University,Netherlands,357,195,,276,NL,Western Europe,Europe,0.0036231884057971015,276,200-300,loc_330
-Universitas Indonesia,Indonesia,277,,,277,ID,South-Eastern Asia,Asia,0.0036101083032490976,277,200-300,loc_331
-University of Strathclyde,United Kingdom of Great Britain and Northern Ireland,277,,,277,GB,Northern Europe,Europe,0.0036101083032490976,277,200-300,loc_332
-National Chiao Tung University,"Taiwan, Province of China",207,,350.5,278.75,TW,Eastern Asia,Asia,0.003587443946188341,279,200-300,loc_333
+Universitas Indonesia,Indonesia,277,,,277,ID,South East Asia,Asia,0.0036101083032490976,277,200-300,loc_331
+University of Strathclyde,UK,277,,,277,GB,Northern Europe,Europe,0.0036101083032490976,277,200-300,loc_332
+National Chiao Tung University,"Taiwan, Province of China",207,,350.5,278.75,TW,East Asia,Asia,0.003587443946188341,279,200-300,loc_333
 University of South Australia,Australia,279,,,279,AU,Australia and New Zealand,Oceania,0.0035842293906810036,279,200-300,loc_334
 Carlos III University of Madrid,Spain,281,,,281,ES,Southern Europe,Europe,0.0035587188612099642,281,200-300,loc_335
 University of Tasmania,Australia,313,,250.5,281.75,AU,Australia and New Zealand,Oceania,0.00354924578527063,282,200-300,loc_336
 Charles University in Prague,Czech Republic,314,,250.5,282.25,CZ,Eastern Europe,Europe,0.00354295837023915,282,200-300,loc_337
 University College Cork,Ireland,283,,,283,IE,Northern Europe,Europe,0.0035335689045936395,283,200-300,loc_338
 Victoria University of Wellington,New Zealand,219,,350.5,284.75,NZ,Australia and New Zealand,Oceania,0.003511852502194908,285,200-300,loc_339
-National Cheng Kung University,"Taiwan, Province of China",222,,350.5,286.25,TW,Eastern Asia,Asia,0.0034934497816593887,286,200-300,loc_340
+National Cheng Kung University,"Taiwan, Province of China",222,,350.5,286.25,TW,East Asia,Asia,0.0034934497816593887,286,200-300,loc_340
 "The University of Newcastle, Australia",Australia,224,,350.5,287.25,AU,Australia and New Zealand,Oceania,0.0034812880765883376,287,200-300,loc_341
 University of Milan,Italy,325,,250.5,287.75,IT,Southern Europe,Europe,0.0034752389226759338,288,200-300,loc_342
-The Katz School at Yeshiva University,United States of America,325,,250.5,287.75,US,Northern America,Americas,0.0034752389226759338,288,200-300,loc_343
-National Taiwan Normal University,"Taiwan, Province of China",289,,,289,TW,Eastern Asia,Asia,0.0034602076124567475,289,200-300,loc_344
+The Katz School at Yeshiva University,USA,325,,250.5,287.75,US,North America,Americas,0.0034752389226759338,288,200-300,loc_343
+National Taiwan Normal University,"Taiwan, Province of China",289,,,289,TW,East Asia,Asia,0.0034602076124567475,289,200-300,loc_344
 Bauman Moscow State Technical University,Russian Federation,291,,,291,RU,Eastern Europe,Europe,0.003436426116838488,291,200-300,loc_345
 Complutense University of Madrid,Spain,233,,350.5,291.75,ES,Southern Europe,Europe,0.003427592116538132,292,200-300,loc_346
 University of Waikato,New Zealand,292,,,292,NZ,Australia and New Zealand,Oceania,0.003424657534246575,292,200-300,loc_347
-Indian Institute of Technology Kanpur,India,293,,,293,IN,Southern Asia,Asia,0.0034129692832764505,293,200-300,loc_348
+Indian Institute of Technology Kanpur,India,293,,,293,IN,South Asia,Asia,0.0034129692832764505,293,200-300,loc_348
 Pontificia Universidad Católica de Chile,Chile,137,,450.5,293.75,CL,South America,Americas,0.003404255319148936,294,200-300,loc_349
 Saint Petersburg State University,Russian Federation,240,,350.5,295.25,RU,Eastern Europe,Europe,0.003386960203217612,295,200-300,loc_350
 University of Jena,Germany,341,,250.5,295.75,DE,Western Europe,Europe,0.0033812341504649195,296,200-300,loc_351
-University of Hawai'i at Mañoa,United States of America,341,,250.5,295.75,US,Northern America,Americas,0.0033812341504649195,296,200-300,loc_352
-"SOAS, University of London",United Kingdom of Great Britain and Northern Ireland,296,,,296,GB,Northern Europe,Europe,0.0033783783783783786,296,200-300,loc_353
+University of Hawai'i at Mañoa,USA,341,,250.5,295.75,US,North America,Americas,0.0033812341504649195,296,200-300,loc_352
+"SOAS, University of London",UK,296,,,296,GB,Northern Europe,Europe,0.0033783783783783786,296,200-300,loc_353
 NUI Galway,Ireland,243,,350.5,296.75,IE,Northern Europe,Europe,0.003369839932603201,297,200-300,loc_354
-Xi'an Jiaotong University,China,344,,250.5,297.25,CN,Eastern Asia,Asia,0.00336417157275021,297,200-300,loc_355
-Hong Kong Baptist University,Hong Kong,299,,,299,HK,Eastern Asia,Asia,0.0033444816053511705,299,200-300,loc_356
-University of Delaware,United States of America,425.5,,175.5,300.5,US,Northern America,Americas,0.0033277870216306157,300,300-400,loc_357
-University of Iowa,United States of America,425.5,,175.5,300.5,US,Northern America,Americas,0.0033277870216306157,300,300-400,loc_358
+Xi'an Jiaotong University,China,344,,250.5,297.25,CN,East Asia,Asia,0.00336417157275021,297,200-300,loc_355
+Hong Kong Baptist University,Hong Kong,299,,,299,HK,East Asia,Asia,0.0033444816053511705,299,200-300,loc_356
+University of Delaware,USA,425.5,,175.5,300.5,US,North America,Americas,0.0033277870216306157,300,300-400,loc_357
+University of Iowa,USA,425.5,,175.5,300.5,US,North America,Americas,0.0033277870216306157,300,300-400,loc_358
 University of Ulm,Germany,357,,250.5,303.75,DE,Western Europe,Europe,0.0032921810699588477,304,300-400,loc_359
 University of Stuttgart,Germany,259,,350.5,304.75,DE,Western Europe,Europe,0.003281378178835111,305,300-400,loc_360
 University of Kiel,Germany,435.5,,175.5,305.5,DE,Western Europe,Europe,0.0032733224222585926,306,300-400,loc_361
 Politecnico di Torino,Italy,307,,,307,IT,Southern Europe,Europe,0.003257328990228013,307,300-400,loc_362
-University of Surrey,United Kingdom of Great Britain and Northern Ireland,264,,350.5,307.25,GB,Northern Europe,Europe,0.0032546786004882017,307,300-400,loc_363
+University of Surrey,UK,264,,350.5,307.25,GB,Northern Europe,Europe,0.0032546786004882017,307,300-400,loc_363
 University of the Witwatersrand,South Africa,364,,250.5,307.25,ZA,Southern Africa,Africa,0.0032546786004882017,307,300-400,loc_364
-"Birkbeck, University of London",United Kingdom of Great Britain and Northern Ireland,308,,,308,GB,Northern Europe,Europe,0.003246753246753247,308,300-400,loc_365
-Indian Institute of Technology Kharagpur,India,308,,,308,IN,Southern Asia,Asia,0.003246753246753247,308,300-400,loc_366
-Oregon State University,United States of America,445.5,,175.5,310.5,US,Northern America,Americas,0.00322061191626409,310,300-400,loc_367
+"Birkbeck, University of London",UK,308,,,308,GB,Northern Europe,Europe,0.003246753246753247,308,300-400,loc_365
+Indian Institute of Technology Kharagpur,India,308,,,308,IN,South Asia,Asia,0.003246753246753247,308,300-400,loc_366
+Oregon State University,USA,445.5,,175.5,310.5,US,North America,Americas,0.00322061191626409,310,300-400,loc_367
 Paris Descartes University - Sorbonne Paris Cité,France,445.5,,175.5,310.5,FR,Western Europe,Europe,0.00322061191626409,310,300-400,loc_368
-King Fahd University of Petroleum and Minerals,Saudi Arabia,173,,450.5,311.75,SA,Western Asia,Asia,0.0032076984763432237,312,300-400,loc_369
-Dalhousie University,Canada,279,,350.5,314.75,CA,Northern America,Americas,0.003177124702144559,315,300-400,loc_370
+King Fahd University of Petroleum and Minerals,Saudi Arabia,173,,450.5,311.75,SA,Middle East,Asia,0.0032076984763432237,312,300-400,loc_369
+Dalhousie University,Canada,279,,350.5,314.75,CA,North America,Americas,0.003177124702144559,315,300-400,loc_370
 Aalborg University,Denmark,379,,250.5,314.75,DK,Northern Europe,Europe,0.003177124702144559,315,300-400,loc_371
 University of Montpellier,France,381,,250.5,315.75,FR,Western Europe,Europe,0.003167062549485352,316,300-400,loc_372
 Massey University,New Zealand,316,,,316,NZ,Australia and New Zealand,Oceania,0.0031645569620253164,316,300-400,loc_373
-Tongji University,China,316,,,316,CN,Eastern Asia,Asia,0.0031645569620253164,316,300-400,loc_374
+Tongji University,China,316,,,316,CN,East Asia,Asia,0.0031645569620253164,316,300-400,loc_374
 TU Wien,Austria,182,,450.5,316.25,AT,Western Europe,Europe,0.0031620553359683794,316,300-400,loc_375
 Universidade Estadual de Campinas,Brazil,182,,450.5,316.25,BR,South America,Americas,0.0031620553359683794,316,300-400,loc_376
-Stony Brook University,United States of America,382,,250.5,316.25,US,Northern America,Americas,0.0031620553359683794,316,300-400,loc_377
-"University at Buffalo, The State University of New York",United States of America,318,,,318,US,Northern America,Americas,0.0031446540880503146,318,300-400,loc_378
-University of Missouri–Kansas City,United States of America,386,,250.5,318.25,US,Northern America,Americas,0.003142183817753339,318,300-400,loc_379
+Stony Brook University,USA,382,,250.5,316.25,US,North America,Americas,0.0031620553359683794,316,300-400,loc_377
+"University at Buffalo, The State University of New York",USA,318,,,318,US,North America,Americas,0.0031446540880503146,318,300-400,loc_378
+University of Missouri–Kansas City,USA,386,,250.5,318.25,US,North America,Americas,0.003142183817753339,318,300-400,loc_379
 Lincoln University,New Zealand,319,,,319,NZ,Australia and New Zealand,Oceania,0.003134796238244514,319,300-400,loc_380
 Tomsk State University,Russian Federation,323,,,323,RU,Eastern Europe,Europe,0.0030959752321981426,323,300-400,loc_381
 Johannes Gutenberg University Mainz,Germany,398,,250.5,324.25,DE,Western Europe,Europe,0.0030840400925212026,324,300-400,loc_382
 University of Porto,Portugal,301,,350.5,325.75,PT,Southern Europe,Europe,0.0030698388334612432,326,300-400,loc_383
 Ruhr University Bochum,Germany,405.5,,250.5,328,DE,Western Europe,Europe,0.003048780487804878,328,300-400,loc_384
-National Yang-Ming University,"Taiwan, Province of China",329,,,329,TW,Eastern Asia,Asia,0.00303951367781155,329,300-400,loc_385
+National Yang-Ming University,"Taiwan, Province of China",329,,,329,TW,East Asia,Asia,0.00303951367781155,329,300-400,loc_385
 Ecole Normale Supérieure de Cachan,France,330,,,330,FR,Western Europe,Europe,0.0030303030303030303,330,300-400,loc_386
 Federal University of Rio de Janeiro,Brazil,311,,350.5,330.75,BR,South America,Americas,0.0030234315948601664,331,300-400,loc_387
-Institut Teknologi Bandung,Indonesia,331,,,331,ID,South-Eastern Asia,Asia,0.0030211480362537764,331,300-400,loc_388
+Institut Teknologi Bandung,Indonesia,331,,,331,ID,South East Asia,Asia,0.0030211480362537764,331,300-400,loc_388
 Southern University of Chile,Argentina,331,,,331,AR,South America,Americas,0.0030211480362537764,331,300-400,loc_389
 University of Canterbury,New Zealand,214,,450.5,332.25,NZ,Australia and New Zealand,Oceania,0.0030097817908201654,332,300-400,loc_390
 University of Tartu,Estonia,314,,350.5,332.25,EE,Northern Europe,Europe,0.0030097817908201654,332,300-400,loc_391
 Belarusian State University,Belarus,334,,,334,BY,Eastern Europe,Europe,0.0029940119760479044,334,300-400,loc_392
-Mahidol University,Thailand,334,,,334,TH,South-Eastern Asia,Asia,0.0029940119760479044,334,300-400,loc_393
+Mahidol University,Thailand,334,,,334,TH,South East Asia,Asia,0.0029940119760479044,334,300-400,loc_393
 University of Liège,Belgium,319,,350.5,334.75,BE,Western Europe,Europe,0.002987303958177745,335,300-400,loc_394
 L.N. Gumilyov Eurasian National University,Kazakhstan,336,,,336,KZ,Central Asia,Asia,0.002976190476190476,336,300-400,loc_395
-Hiroshima University,Japan,322,,350.5,336.25,JP,Eastern Asia,Asia,0.002973977695167286,336,300-400,loc_396
+Hiroshima University,Japan,322,,350.5,336.25,JP,East Asia,Asia,0.002973977695167286,336,300-400,loc_396
 University of Belgrano,Argentina,337,,,337,AR,South America,Americas,0.002967359050445104,337,300-400,loc_397
 Griffith University,Australia,325,,350.5,337.75,AU,Australia and New Zealand,Oceania,0.0029607698001480384,338,300-400,loc_398
-The University of Georgia,United States of America,425.5,,250.5,338,US,Northern America,Americas,0.0029585798816568047,338,300-400,loc_399
+The University of Georgia,USA,425.5,,250.5,338,US,North America,Americas,0.0029585798816568047,338,300-400,loc_399
 University of Pisa,Italy,425.5,,250.5,338,IT,Southern Europe,Europe,0.0029585798816568047,338,300-400,loc_400
-University of Texas at Dallas,United States of America,425.5,,250.5,338,US,Northern America,Americas,0.0029585798816568047,338,300-400,loc_401
-Boston College,United States of America,339,,,339,US,Northern America,Americas,0.0029498525073746312,339,300-400,loc_402
-Gwangju Institute of Science and Technology,Republic of Korea,339,,,339,KR,Eastern Asia,Asia,0.0029498525073746312,339,300-400,loc_403
-"City, University of London",United Kingdom of Great Britain and Northern Ireland,343,,,343,GB,Northern Europe,Europe,0.0029154518950437317,343,300-400,loc_404
-Florida State University,United States of America,435.5,,250.5,343,US,Northern America,Americas,0.0029154518950437317,343,300-400,loc_405
+University of Texas at Dallas,USA,425.5,,250.5,338,US,North America,Americas,0.0029585798816568047,338,300-400,loc_401
+Boston College,USA,339,,,339,US,North America,Americas,0.0029498525073746312,339,300-400,loc_402
+Gwangju Institute of Science and Technology,Republic of Korea,339,,,339,KR,East Asia,Asia,0.0029498525073746312,339,300-400,loc_403
+"City, University of London",UK,343,,,343,GB,Northern Europe,Europe,0.0029154518950437317,343,300-400,loc_404
+Florida State University,USA,435.5,,250.5,343,US,North America,Americas,0.0029154518950437317,343,300-400,loc_405
 Umeå University,Sweden,338,,350.5,344.25,SE,Northern Europe,Europe,0.002904865649963689,344,300-400,loc_406
-University of Essex,United Kingdom of Great Britain and Northern Ireland,347,,,347,GB,Northern Europe,Europe,0.002881844380403458,347,300-400,loc_407
-Nankai University,China,344,,350.5,347.25,CN,Eastern Asia,Asia,0.0028797696184305254,347,300-400,loc_408
-Chulalongkorn University,Thailand,245,,450.5,347.75,TH,South-Eastern Asia,Asia,0.002875629043853343,348,300-400,loc_409
-Simon Fraser University,Canada,245,,450.5,347.75,CA,Northern America,Americas,0.002875629043853343,348,300-400,loc_410
-University of Victoria,Canada,346,,350.5,348.25,CA,Northern America,Americas,0.002871500358937545,348,300-400,loc_411
+University of Essex,UK,347,,,347,GB,Northern Europe,Europe,0.002881844380403458,347,300-400,loc_407
+Nankai University,China,344,,350.5,347.25,CN,East Asia,Asia,0.0028797696184305254,347,300-400,loc_408
+Chulalongkorn University,Thailand,245,,450.5,347.75,TH,South East Asia,Asia,0.002875629043853343,348,300-400,loc_409
+Simon Fraser University,Canada,245,,450.5,347.75,CA,North America,Americas,0.002875629043853343,348,300-400,loc_410
+University of Victoria,Canada,346,,350.5,348.25,CA,North America,Americas,0.002871500358937545,348,300-400,loc_411
 RMIT University,Australia,247,,450.5,348.75,AU,Australia and New Zealand,Oceania,0.002867383512544803,349,300-400,loc_412
-Qatar University,Qatar,349,,,349,QA,Western Asia,Asia,0.0028653295128939827,349,300-400,loc_413
-Universiti Brunei Darussalam,Brunei Darussalam,349,,,349,BN,South-Eastern Asia,Asia,0.0028653295128939827,349,300-400,loc_414
+Qatar University,Qatar,349,,,349,QA,Middle East,Asia,0.0028653295128939827,349,300-400,loc_413
+Universiti Brunei Darussalam,Brunei Darussalam,349,,,349,BN,South East Asia,Asia,0.0028653295128939827,349,300-400,loc_414
 Novosibirsk State University,Russian Federation,250,,450.5,350.25,RU,Eastern Europe,Europe,0.0028551034975017845,350,300-400,loc_415
-University of Cincinnati,United States of America,,,350.5,350.5,US,Northern America,Americas,0.0028530670470756064,350,300-400,loc_416
+University of Cincinnati,USA,,,350.5,350.5,US,North America,Americas,0.0028530670470756064,350,300-400,loc_416
 University of Pavia,Italy,,,350.5,350.5,IT,Southern Europe,Europe,0.0028530670470756064,350,300-400,loc_417
-University of South Carolina,United States of America,,,350.5,350.5,US,Northern America,Americas,0.0028530670470756064,350,300-400,loc_418
-Temple University,United States of America,,,350.5,350.5,US,Northern America,Americas,0.0028530670470756064,350,300-400,loc_419
-University of Vermont,United States of America,,,350.5,350.5,US,Northern America,Americas,0.0028530670470756064,350,300-400,loc_420
-University of Manitoba,Canada,,,350.5,350.5,CA,Northern America,Americas,0.0028530670470756064,350,300-400,loc_421
+University of South Carolina,USA,,,350.5,350.5,US,North America,Americas,0.0028530670470756064,350,300-400,loc_418
+Temple University,USA,,,350.5,350.5,US,North America,Americas,0.0028530670470756064,350,300-400,loc_419
+University of Vermont,USA,,,350.5,350.5,US,North America,Americas,0.0028530670470756064,350,300-400,loc_420
+University of Manitoba,Canada,,,350.5,350.5,CA,North America,Americas,0.0028530670470756064,350,300-400,loc_421
 University of Milan-Bicocca,Italy,,,350.5,350.5,IT,Southern Europe,Europe,0.0028530670470756064,350,300-400,loc_422
-Saint Louis University,United States of America,,,350.5,350.5,US,Northern America,Americas,0.0028530670470756064,350,300-400,loc_423
-Tongji University,China,,,350.5,350.5,CN,Eastern Asia,Asia,0.0028530670470756064,350,300-400,loc_424
+Saint Louis University,USA,,,350.5,350.5,US,North America,Americas,0.0028530670470756064,350,300-400,loc_423
+Tongji University,China,,,350.5,350.5,CN,East Asia,Asia,0.0028530670470756064,350,300-400,loc_424
 Western Sydney University,Australia,,,350.5,350.5,AU,Australia and New Zealand,Oceania,0.0028530670470756064,350,300-400,loc_425
-Beihang University,China,,,350.5,350.5,CN,Eastern Asia,Asia,0.0028530670470756064,350,300-400,loc_426
-Boston College,United States of America,,,350.5,350.5,US,Northern America,Americas,0.0028530670470756064,350,300-400,loc_427
-Brigham Young University,United States of America,,,350.5,350.5,US,Northern America,Americas,0.0028530670470756064,350,300-400,loc_428
-Capital Medical University,China,,,350.5,350.5,CN,Eastern Asia,Asia,0.0028530670470756064,350,300-400,loc_429
-Central South University,China,,,350.5,350.5,CN,Eastern Asia,Asia,0.0028530670470756064,350,300-400,loc_430
-Chang Gung University,China,,,350.5,350.5,CN,Eastern Asia,Asia,0.0028530670470756064,350,300-400,loc_431
-Chiba University,Japan,,,350.5,350.5,JP,Eastern Asia,Asia,0.0028530670470756064,350,300-400,loc_432
-China University of Geosciences (Wuhan),China,,,350.5,350.5,CN,Eastern Asia,Asia,0.0028530670470756064,350,300-400,loc_433
-Dalian University of Technology,China,,,350.5,350.5,CN,Eastern Asia,Asia,0.0028530670470756064,350,300-400,loc_434
-East China University of Science and Technology,China,,,350.5,350.5,CN,Eastern Asia,Asia,0.0028530670470756064,350,300-400,loc_435
+Beihang University,China,,,350.5,350.5,CN,East Asia,Asia,0.0028530670470756064,350,300-400,loc_426
+Boston College,USA,,,350.5,350.5,US,North America,Americas,0.0028530670470756064,350,300-400,loc_427
+Brigham Young University,USA,,,350.5,350.5,US,North America,Americas,0.0028530670470756064,350,300-400,loc_428
+Capital Medical University,China,,,350.5,350.5,CN,East Asia,Asia,0.0028530670470756064,350,300-400,loc_429
+Central South University,China,,,350.5,350.5,CN,East Asia,Asia,0.0028530670470756064,350,300-400,loc_430
+Chang Gung University,China,,,350.5,350.5,CN,East Asia,Asia,0.0028530670470756064,350,300-400,loc_431
+Chiba University,Japan,,,350.5,350.5,JP,East Asia,Asia,0.0028530670470756064,350,300-400,loc_432
+China University of Geosciences (Wuhan),China,,,350.5,350.5,CN,East Asia,Asia,0.0028530670470756064,350,300-400,loc_433
+Dalian University of Technology,China,,,350.5,350.5,CN,East Asia,Asia,0.0028530670470756064,350,300-400,loc_434
+East China University of Science and Technology,China,,,350.5,350.5,CN,East Asia,Asia,0.0028530670470756064,350,300-400,loc_435
 ESPCI ParisTech,France,,,350.5,350.5,FR,Western Europe,Europe,0.0028530670470756064,350,300-400,loc_436
 Hannover Medical School,Germany,,,350.5,350.5,DE,Western Europe,Europe,0.0028530670470756064,350,300-400,loc_437
-Hunan University,China,,,350.5,350.5,CN,Eastern Asia,Asia,0.0028530670470756064,350,300-400,loc_438
-Indiana University – Purdue University Indianapolis,United States of America,,,350.5,350.5,US,Northern America,Americas,0.0028530670470756064,350,300-400,loc_439
-Lanzhou University,China,,,350.5,350.5,CN,Eastern Asia,Asia,0.0028530670470756064,350,300-400,loc_440
-Louisiana State University,United States of America,,,350.5,350.5,US,Northern America,Americas,0.0028530670470756064,350,300-400,loc_441
+Hunan University,China,,,350.5,350.5,CN,East Asia,Asia,0.0028530670470756064,350,300-400,loc_438
+Indiana University – Purdue University Indianapolis,USA,,,350.5,350.5,US,North America,Americas,0.0028530670470756064,350,300-400,loc_439
+Lanzhou University,China,,,350.5,350.5,CN,East Asia,Asia,0.0028530670470756064,350,300-400,loc_440
+Louisiana State University,USA,,,350.5,350.5,US,North America,Americas,0.0028530670470756064,350,300-400,loc_441
 National and Kapodistrian University of Athens,Greece,,,350.5,350.5,GR,Southern Europe,Europe,0.0028530670470756064,350,300-400,loc_442
-Ocean University of China,China,,,350.5,350.5,CN,Eastern Asia,Asia,0.0028530670470756064,350,300-400,loc_443
-Okayama University,Japan,,,350.5,350.5,JP,Eastern Asia,Asia,0.0028530670470756064,350,300-400,loc_444
-Shandong University,China,,,350.5,350.5,CN,Eastern Asia,Asia,0.0028530670470756064,350,300-400,loc_445
-The University of Texas Health Science Center at Houston,United States of America,,,350.5,350.5,US,Northern America,Americas,0.0028530670470756064,350,300-400,loc_446
-University of Central Florida,United States of America,,,350.5,350.5,US,Northern America,Americas,0.0028530670470756064,350,300-400,loc_447
+Ocean University of China,China,,,350.5,350.5,CN,East Asia,Asia,0.0028530670470756064,350,300-400,loc_443
+Okayama University,Japan,,,350.5,350.5,JP,East Asia,Asia,0.0028530670470756064,350,300-400,loc_444
+Shandong University,China,,,350.5,350.5,CN,East Asia,Asia,0.0028530670470756064,350,300-400,loc_445
+The University of Texas Health Science Center at Houston,USA,,,350.5,350.5,US,North America,Americas,0.0028530670470756064,350,300-400,loc_446
+University of Central Florida,USA,,,350.5,350.5,US,North America,Americas,0.0028530670470756064,350,300-400,loc_447
 University of Duesseldorf,Germany,,,350.5,350.5,DE,Western Europe,Europe,0.0028530670470756064,350,300-400,loc_448
-University of Kentucky,United States of America,,,350.5,350.5,US,Northern America,Americas,0.0028530670470756064,350,300-400,loc_449
-University of North Texas,United States of America,,,350.5,350.5,US,Northern America,Americas,0.0028530670470756064,350,300-400,loc_450
+University of Kentucky,USA,,,350.5,350.5,US,North America,Americas,0.0028530670470756064,350,300-400,loc_449
+University of North Texas,USA,,,350.5,350.5,US,North America,Americas,0.0028530670470756064,350,300-400,loc_450
 University of Santiago de Compostela,Spain,,,350.5,350.5,ES,Southern Europe,Europe,0.0028530670470756064,350,300-400,loc_451
-University of Tehran,Iran (Islamic Republic of),,,350.5,350.5,IR,Southern Asia,Asia,0.0028530670470756064,350,300-400,loc_452
+University of Tehran,Iran (Islamic Republic of),,,350.5,350.5,IR,South Asia,Asia,0.0028530670470756064,350,300-400,loc_452
 Toulouse 1 University Capitole,France,,,350.5,350.5,FR,Western Europe,Europe,0.0028530670470756064,350,300-400,loc_453
-George Washington University,United States of America,352,,350.5,351.25,US,Northern America,Americas,0.0028469750889679717,351,300-400,loc_454
+George Washington University,USA,352,,350.5,351.25,US,North America,Americas,0.0028469750889679717,351,300-400,loc_454
 "Université Paris-Dauphine, PSL Research University",France,355,,350.5,352.75,FR,Western Europe,Europe,0.002834868887313962,353,300-400,loc_455
-University of Tennessee,United States of America,455.5,,250.5,353,US,Northern America,Americas,0.0028328611898017,353,300-400,loc_456
-Kyung Hee University,Republic of Korea,256,,450.5,353.25,KR,Eastern Asia,Asia,0.0028308563340410475,353,300-400,loc_457
+University of Tennessee,USA,455.5,,250.5,353,US,North America,Americas,0.0028328611898017,353,300-400,loc_456
+Kyung Hee University,Republic of Korea,256,,450.5,353.25,KR,East Asia,Asia,0.0028308563340410475,353,300-400,loc_457
 Moscow Institute of Physics and Technology,Russian Federation,355,,,355,RU,Eastern Europe,Europe,0.0028169014084507044,355,300-400,loc_458
 La Trobe University,Australia,360,,350.5,355.25,AU,Australia and New Zealand,Oceania,0.0028149190710767065,355,300-400,loc_459
 University of Jyväskylä,Finland,357,,,357,FI,Northern Europe,Europe,0.0028011204481792717,357,300-400,loc_460
-University of Science Malaysia,Malaysia,264,,450.5,357.25,MY,South-Eastern Asia,Asia,0.0027991602519244225,357,300-400,loc_461
+University of Science Malaysia,Malaysia,264,,450.5,357.25,MY,South East Asia,Asia,0.0027991602519244225,357,300-400,loc_461
 James Cook University,Australia,367,,350.5,358.75,AU,Australia and New Zealand,Oceania,0.0027874564459930314,359,300-400,loc_462
-Virginia Tech,United States of America,367,,350.5,358.75,US,Northern America,Americas,0.0027874564459930314,359,300-400,loc_463
-Oxford Brookes University,United Kingdom of Great Britain and Northern Ireland,361,,,361,GB,Northern Europe,Europe,0.002770083102493075,361,300-400,loc_464
+Virginia Tech,USA,367,,350.5,358.75,US,North America,Americas,0.0027874564459930314,359,300-400,loc_463
+Oxford Brookes University,UK,361,,,361,GB,Northern Europe,Europe,0.002770083102493075,361,300-400,loc_464
 Universidade Nova de Lisboa,Portugal,361,,,361,PT,Southern Europe,Europe,0.002770083102493075,361,300-400,loc_465
 Technische Universität Darmstadt,Germany,272,,450.5,361.25,DE,Western Europe,Europe,0.002768166089965398,361,300-400,loc_466
-Huazhong University of Science and Technology,China,475.5,,250.5,363,CN,Eastern Asia,Asia,0.0027548209366391185,363,300-400,loc_467
-Iowa State University,United States of America,475.5,,250.5,363,US,Northern America,Americas,0.0027548209366391185,363,300-400,loc_468
+Huazhong University of Science and Technology,China,475.5,,250.5,363,CN,East Asia,Asia,0.0027548209366391185,363,300-400,loc_467
+Iowa State University,USA,475.5,,250.5,363,US,North America,Americas,0.0027548209366391185,363,300-400,loc_468
 University of Turku,Finland,276,,450.5,363.25,FI,Northern Europe,Europe,0.0027529249827942187,363,300-400,loc_469
 Pontifical Catholic University of Argentina,Argentina,364,,,364,AR,South America,Americas,0.0027472527472527475,364,300-400,loc_470
-Rensselaer Polytechnic Institute,United States of America,364,,,364,US,Northern America,Americas,0.0027472527472527475,364,300-400,loc_471
-Laval University,Canada,378,,350.5,364.25,CA,Northern America,Americas,0.002745367192862045,364,300-400,loc_472
-Tokyo Medical and Dental University,Japan,367,,,367,JP,Eastern Asia,Asia,0.0027247956403269754,367,300-400,loc_473
-University of the Philippines,Philippines,367,,,367,PH,South-Eastern Asia,Asia,0.0027247956403269754,367,300-400,loc_474
+Rensselaer Polytechnic Institute,USA,364,,,364,US,North America,Americas,0.0027472527472527475,364,300-400,loc_471
+Laval University,Canada,378,,350.5,364.25,CA,North America,Americas,0.002745367192862045,364,300-400,loc_472
+Tokyo Medical and Dental University,Japan,367,,,367,JP,East Asia,Asia,0.0027247956403269754,367,300-400,loc_473
+University of the Philippines,Philippines,367,,,367,PH,South East Asia,Asia,0.0027247956403269754,367,300-400,loc_474
 University of Tromsø,Norway,367,,,367,NO,Northern Europe,Europe,0.0027247956403269754,367,300-400,loc_475
 University of Southern Denmark,Denmark,384,,350.5,367.25,DK,Northern Europe,Europe,0.002722940776038121,367,300-400,loc_476
-Colorado State University,United States of America,485.5,,250.5,368,US,Northern America,Americas,0.002717391304347826,368,300-400,loc_477
+Colorado State University,USA,485.5,,250.5,368,US,North America,Americas,0.002717391304347826,368,300-400,loc_477
 University of St.Gallen,Switzerland,372,,,372,CH,Western Europe,Europe,0.002688172043010753,372,300-400,loc_478
-University of Colorado Denver,United States of America,394,,350.5,372.25,US,Northern America,Americas,0.002686366689053056,372,300-400,loc_479
-Aston University,United Kingdom of Great Britain and Northern Ireland,373,,,373,GB,Northern Europe,Europe,0.002680965147453083,373,300-400,loc_480
+University of Colorado Denver,USA,394,,350.5,372.25,US,North America,Americas,0.002686366689053056,372,300-400,loc_479
+Aston University,UK,373,,,373,GB,Northern Europe,Europe,0.002680965147453083,373,300-400,loc_480
 Moscow State Institute of International Relations,Russian Federation,373,,,373,RU,Eastern Europe,Europe,0.002680965147453083,373,300-400,loc_481
 National Research Nuclear University,Russian Federation,373,,,373,RU,Eastern Europe,Europe,0.002680965147453083,373,300-400,loc_482
-University of Kent,United Kingdom of Great Britain and Northern Ireland,373,,,373,GB,Northern Europe,Europe,0.002680965147453083,373,300-400,loc_483
-Ewha Womans University,Republic of Korea,299,,450.5,374.75,KR,Eastern Asia,Asia,0.00266844563042028,375,300-400,loc_484
+University of Kent,UK,373,,,373,GB,Northern Europe,Europe,0.002680965147453083,373,300-400,loc_483
+Ewha Womans University,Republic of Korea,299,,450.5,374.75,KR,East Asia,Asia,0.00266844563042028,375,300-400,loc_484
 Tampere University of Technology,Finland,380,,,380,FI,Northern Europe,Europe,0.002631578947368421,380,300-400,loc_485
-Heriot-Watt University,United Kingdom of Great Britain and Northern Ireland,312,,450.5,381.25,GB,Northern Europe,Europe,0.002622950819672131,381,300-400,loc_486
+Heriot-Watt University,UK,312,,450.5,381.25,GB,Northern Europe,Europe,0.002622950819672131,381,300-400,loc_486
 National Research University – Higher School of Economics,Russian Federation,382,,,382,RU,Eastern Europe,Europe,0.002617801047120419,382,300-400,loc_487
-Brandeis University,United States of America,415.5,,350.5,383,US,Northern America,Americas,0.0026109660574412533,383,300-400,loc_488
+Brandeis University,USA,415.5,,350.5,383,US,North America,Americas,0.0026109660574412533,383,300-400,loc_488
 University of Warsaw,Poland,415.5,,350.5,383,PL,Eastern Europe,Europe,0.0026109660574412533,383,300-400,loc_489
 National Research Tomsk Polytechnic University,Russian Federation,386,,,386,RU,Eastern Europe,Europe,0.0025906735751295338,386,300-400,loc_490
-National Sun Yat-sen University,"Taiwan, Province of China",388,,,388,TW,Eastern Asia,Asia,0.002577319587628866,388,300-400,loc_491
+National Sun Yat-sen University,"Taiwan, Province of China",388,,,388,TW,East Asia,Asia,0.002577319587628866,388,300-400,loc_491
 Swinburne University of Technology,Australia,425.5,,350.5,388,AU,Australia and New Zealand,Oceania,0.002577319587628866,388,300-400,loc_492
-University of Connecticut,United States of America,425.5,,350.5,388,US,Northern America,Americas,0.002577319587628866,388,300-400,loc_493
-United Arab Emirates University,United Arab Emirates,390,,,390,AE,Western Asia,Asia,0.002564102564102564,390,300-400,loc_494
+University of Connecticut,USA,425.5,,350.5,388,US,North America,Americas,0.002577319587628866,388,300-400,loc_493
+United Arab Emirates University,United Arab Emirates,390,,,390,AE,Middle East,Asia,0.002564102564102564,390,300-400,loc_494
 Dublin City University,Ireland,391,,,391,IE,Northern Europe,Europe,0.0025575447570332483,391,300-400,loc_495
-National Central University,"Taiwan, Province of China",391,,,391,TW,Eastern Asia,Asia,0.0025575447570332483,391,300-400,loc_496
-Xiamen University,China,435.5,,350.5,393,CN,Eastern Asia,Asia,0.002544529262086514,393,300-400,loc_497
-The American University in Cairo,Egypt,395,,,395,EG,Northern Africa,Africa,0.002531645569620253,395,300-400,loc_498
-Illinois Institute of Technology,United States of America,395,,,395,US,Northern America,Americas,0.002531645569620253,395,300-400,loc_499
-HUFS - Hankuk (Korea) University of Foreign Studies,Republic of Korea,397,,,397,KR,Eastern Asia,Asia,0.0025188916876574307,397,300-400,loc_500
+National Central University,"Taiwan, Province of China",391,,,391,TW,East Asia,Asia,0.0025575447570332483,391,300-400,loc_496
+Xiamen University,China,435.5,,350.5,393,CN,East Asia,Asia,0.002544529262086514,393,300-400,loc_497
+The American University in Cairo,Egypt,395,,,395,EG,North Africa,Africa,0.002531645569620253,395,300-400,loc_498
+Illinois Institute of Technology,USA,395,,,395,US,North America,Americas,0.002531645569620253,395,300-400,loc_499
+HUFS - Hankuk (Korea) University of Foreign Studies,Republic of Korea,397,,,397,KR,East Asia,Asia,0.0025188916876574307,397,300-400,loc_500

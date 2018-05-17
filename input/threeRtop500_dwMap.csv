@@ -1,0 +1,500 @@
+lat,lon,name,qs_rank,ti_rank,sh_rank,rank,invRank,EN,DE,FR,IT,ES,PT,RU,ZH,JA,AR
+30.018923,31.499674,The American University in Cairo,395,-,-,400,0.002531645569620253,Egypt,Ägypten,Égypte,Egitto,Egipto,Egito,Египет,埃及,エジプト,مصر
+41.8348731,-87.6270059,Illinois Institute of Technology,395,-,-,400,0.002531645569620253,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+37.597319,127.057843,HUFS - Hankuk (Korea) University of Foreign Studies,397,-,-,400,0.0025188916876574307,Republic of Korea,Republik Korea,République de Corée,Corea del Sud,República de Corea,República da Coreia,Республика Корея,韩国,大韓民国,كوريا
+56.4652485,84.9496823,National Research Tomsk Polytechnic University,386,-,-,390,0.0025906735751295338,Russian Federation,Russische Föderation,Fédération de Russie,Russia,Rusia,Federação Russa,Российская Федерация,俄罗斯,ロシア,روسيا
+22.6264249,120.265843,National Sun Yat-sen University,388,-,-,390,0.002577319587628866,"Taiwan, Province of China","Taiwan, Province of China","Taïwan, Province de Chine",Taiwan,Provincia china de Taiwán,"Taiwan, Província da China",Тайвань (провинция Китайской Народной Республики),中国台湾省,台湾、中国の省,مقاطعة تايوان الصينية
+-37.8221504,145.0389546,Swinburne University of Technology,425.5,-,350.5,390,0.002577319587628866,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+41.8077414,-72.2539805,University of Connecticut,425.5,-,350.5,390,0.002577319587628866,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+24.200588,55.676034,United Arab Emirates University,390,-,-,390,0.002564102564102564,United Arab Emirates,Vereinigte Arabische Emirate,Émirats arabes unis,Emirati Arabi Uniti,Emiratos Árabes Unidos,Emirados Árabes Unidos,Объединенные Арабские Эмираты,阿拉伯联合酋长国,アラブ首長国連邦,الإمارات العربية المتحدة
+53.385062,-6.2567865,Dublin City University,391,-,-,390,0.0025575447570332483,Ireland,Irland,Irlande,Irlanda,Irlanda,Irlanda,Ирландия,爱尔兰,アイルランド,أيرلندا
+24.9694808,121.1925163,National Central University,391,-,-,390,0.0025575447570332483,"Taiwan, Province of China","Taiwan, Province of China","Taïwan, Province de Chine",Taiwan,Provincia china de Taiwán,"Taiwan, Província da China",Тайвань (провинция Китайской Народной Республики),中国台湾省,台湾、中国の省,مقاطعة تايوان الصينية
+24.4373484,118.097855,Xiamen University,435.5,-,350.5,390,0.002544529262086514,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+61.4497952,23.8586408,Tampere University of Technology,380,-,-,380,0.002631578947368421,Finland,Finnland,Finlande,Finlandia,Finlandia,Finlândia,Финляндия,芬兰,フィンランド,فنلندا
+55.9096602,-3.3203494,Heriot-Watt University,312,-,450.5,380,0.002622950819672131,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+56.3173389,44.0672315,National Research University – Higher School of Economics,382,-,-,380,0.002617801047120419,Russian Federation,Russische Föderation,Fédération de Russie,Russia,Rusia,Federação Russa,Российская Федерация,俄罗斯,ロシア,روسيا
+42.364989,-71.258663,Brandeis University,415.5,-,350.5,380,0.0026109660574412533,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+52.2403463,21.0186012,University of Warsaw,415.5,-,350.5,380,0.0026109660574412533,Poland,Polen,Pologne,Polonia,Polonia,Polônia,Польша,波兰,ポーランド,بولندا
+35.7012897,139.764451,Tokyo Medical and Dental University,367,-,-,370,0.0027247956403269754,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+14.5979292,121.0107556,University of the Philippines,367,-,-,370,0.0027247956403269754,Philippines,Philippinen,Philippines,Filippine,Filipinas,Filipinas,Филиппины,菲律宾,フィリピン,الفلبين
+69.679788,18.9710079,University of Tromsø,367,-,-,370,0.0027247956403269754,Norway,Norwegen,Norvège,Norvegia,Noruega,Noruega,Норвегия,挪威,ノルウェー,النرويج
+55.3689827,10.4282364,University of Southern Denmark,384,-,350.5,370,0.002722940776038121,Denmark,Dänemark,Danemark,Danimarca,Dinamarca,Dinamarca,Дания,丹麦,デンマーク,الدنمارك
+40.573436,-105.0865473,Colorado State University,485.5,-,250.5,370,0.002717391304347826,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+47.4321575,9.3755673,University of St.Gallen,372,-,-,370,0.002688172043010753,Switzerland,Schweiz,Suisse,Svizzera,Suiza,Suíça,Швейцария,瑞士,スイス,سويسرا
+39.7463895,-105.0023325,University of Colorado Denver,394,-,350.5,370,0.002686366689053056,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+52.4868584,-1.8882174,Aston University,373,-,-,370,0.002680965147453083,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+55.6728244,37.4846619,Moscow State Institute of International Relations,373,-,-,370,0.002680965147453083,Russian Federation,Russische Föderation,Fédération de Russie,Russia,Rusia,Federação Russa,Российская Федерация,俄罗斯,ロシア,روسيا
+55.649567,37.6638742,National Research Nuclear University,373,-,-,370,0.002680965147453083,Russian Federation,Russische Föderation,Fédération de Russie,Russia,Rusia,Federação Russa,Российская Федерация,俄罗斯,ロシア,روسيا
+51.2968974,1.0682493,University of Kent,373,-,-,370,0.002680965147453083,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+37.5618577,126.9468294,Ewha Womans University,299,-,450.5,370,0.00266844563042028,Republic of Korea,Republik Korea,République de Corée,Corea del Sud,República de Corea,República da Coreia,Республика Корея,韩国,大韓民国,كوريا
+55.9297243,37.5199434,Moscow Institute of Physics and Technology,355,-,-,360,0.0028169014084507044,Russian Federation,Russische Föderation,Fédération de Russie,Russia,Rusia,Federação Russa,Российская Федерация,俄罗斯,ロシア,روسيا
+-37.7206671,145.048414,La Trobe University,360,-,350.5,360,0.0028149190710767065,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+62.2365317,25.7316336,University of Jyväskylä,357,-,-,360,0.0028011204481792717,Finland,Finnland,Finlande,Finlandia,Finlandia,Finlândia,Финляндия,芬兰,フィンランド,فنلندا
+5.3559337,100.3025177,University of Science Malaysia,264,-,450.5,360,0.0027991602519244225,Malaysia,Malaysia,Malaisie,Malesia,Malasia,Malásia,Малайзия,马来西亚,マレーシア,ماليزيا
+-19.326378,146.7572865,James Cook University,367,-,350.5,360,0.0027874564459930314,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+37.2283843,-80.4234167,Virginia Tech,367,-,350.5,360,0.0027874564459930314,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+51.755011,-1.224225,Oxford Brookes University,361,-,-,360,0.002770083102493075,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+38.733682,-9.160333,Universidade Nova de Lisboa,361,-,-,360,0.002770083102493075,Portugal,Portugal,Portugal,Portogallo,Portugal,Portugal,Португалия,葡萄牙,ポルトガル,البرتغال
+49.874778,8.65614,Technische Universität Darmstadt,272,-,450.5,360,0.002768166089965398,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+30.510616,114.406972,Huazhong University of Science and Technology,475.5,-,250.5,360,0.0027548209366391185,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+42.0266187,-93.6464654,Iowa State University,475.5,-,250.5,360,0.0027548209366391185,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+60.4562974,22.2851138,University of Turku,276,-,450.5,360,0.0027529249827942187,Finland,Finnland,Finlande,Finlandia,Finlandia,Finlândia,Финляндия,芬兰,フィンランド,فنلندا
+-34.612809,-58.3661389,Pontifical Catholic University of Argentina,364,-,-,360,0.0027472527472527475,Argentina,Argentinien,Argentine,Argentina,Argentina,Argentina,Аргентина,阿根廷,アルゼンチン,الأرجنتين
+42.730172,-73.678803,Rensselaer Polytechnic Institute,364,-,-,360,0.0027472527472527475,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+46.7817463,-71.2747424,Laval University,378,-,350.5,360,0.002745367192862045,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+51.8777259,0.9472069,University of Essex,347,-,-,350,0.002881844380403458,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+39.1039443,117.1742232,Nankai University,344,-,350.5,350,0.0028797696184305254,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+13.7390072,100.5276142,Chulalongkorn University,245,-,450.5,350,0.002875629043853343,Thailand,Thailand,Thaïlande,Thailandia,Tailandia,Tailândia,Таиланд,泰国,タイ,تايلاند
+49.2780937,-122.9198833,Simon Fraser University,245,-,450.5,350,0.002875629043853343,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+48.4634067,-123.3116935,University of Victoria,346,-,350.5,350,0.002871500358937545,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+-37.8079933,144.9642263,RMIT University,247,-,450.5,350,0.002867383512544803,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+25.376743,51.4876252,Qatar University,349,-,-,350,0.0028653295128939827,Qatar,Katar,Qatar,Qatar,Catar,Catar,Катар,卡塔尔,カタール,قطر
+4.972665,114.89397,Universiti Brunei Darussalam,349,-,-,350,0.0028653295128939827,Brunei,Brunei,Brunei,Brunei,Brunéi,Brunei Darussalam,Бруней-Даруссалам,文莱,ブルネイ,بروناي
+54.8477462,83.0943884,Novosibirsk State University,250,-,450.5,350,0.0028551034975017845,Russian Federation,Russische Föderation,Fédération de Russie,Russia,Rusia,Federação Russa,Российская Федерация,俄罗斯,ロシア,روسيا
+39.1329219,-84.5149504,University of Cincinnati,-,-,350.5,350,0.0028530670470756064,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+45.1867156,9.1561041,University of Pavia,-,-,350.5,350,0.0028530670470756064,Italy,Italien,Italie,Italia,Italia,Itália,Италия,意大利,イタリア,إيطاليا
+33.996112,-81.0274276,University of South Carolina,-,-,350.5,350,0.0028530670470756064,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+39.9811935,-75.1553512,Temple University,-,-,350.5,350,0.0028530670470756064,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+44.4778528,-73.1964637,University of Vermont,-,-,350.5,350,0.0028530670470756064,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+49.8075008,-97.1366259,University of Manitoba,-,-,350.5,350,0.0028530670470756064,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+45.518383,9.213452,University of Milan-Bicocca,-,-,350.5,350,0.0028530670470756064,Italy,Italien,Italie,Italia,Italia,Itália,Италия,意大利,イタリア,إيطاليا
+38.6354598,-90.2338232,Saint Louis University,-,-,350.5,350,0.0028530670470756064,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+31.282196,121.212046,Tongji University,-,-,350.5,350,0.0028530670470756064,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+-34.069638,150.7933263,Western Sydney University,-,-,350.5,350,0.0028530670470756064,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+39.9828034,116.3411331,Beihang University,-,-,350.5,350,0.0028530670470756064,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+42.3355488,-71.1684945,Boston College,-,-,350.5,350,0.0028530670470756064,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+40.2518435,-111.6493156,Brigham Young University,-,-,350.5,350,0.0028530670470756064,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+39.865177,116.352916,Capital Medical University,-,-,350.5,350,0.0028530670470756064,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+28.16437,112.93251,Central South University,-,-,350.5,350,0.0028530670470756064,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+25.0309866,121.3901211,Chang Gung University,-,-,350.5,350,0.0028530670470756064,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+35.6277374,140.1033682,Chiba University,-,-,350.5,350,0.0028530670470756064,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+30.518151,114.401673,China University of Geosciences (Wuhan),-,-,350.5,350,0.0028530670470756064,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+38.880381,121.529021,Dalian University of Technology,-,-,350.5,350,0.0028530670470756064,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+31.140897,121.425248,East China University of Science and Technology,-,-,350.5,350,0.0028530670470756064,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+48.841427,2.347206,ESPCI ParisTech,-,-,350.5,350,0.0028530670470756064,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+52.384053,9.805953,Hannover Medical School,-,-,350.5,350,0.0028530670470756064,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+28.178915,112.94395,Hunan University,-,-,350.5,350,0.0028530670470756064,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+39.7738832,-86.1763393,Indiana University – Purdue University Indianapolis,-,-,350.5,350,0.0028530670470756064,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+36.0477699,103.8585624,Lanzhou University,-,-,350.5,350,0.0028530670470756064,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+30.4132579,-91.1800023,Louisiana State University,-,-,350.5,350,0.0028530670470756064,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+37.968196,23.7786871,National and Kapodistrian University of Athens,-,-,350.5,350,0.0028530670470756064,Greece,Griechenland,Grèce,Grecia,Grecia,Grécia,Греция,希腊,ギリシャ,اليونان
+36.061255,120.335301,Ocean University of China,-,-,350.5,350,0.0028530670470756064,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+34.6873868,133.9222225,Okayama University,-,-,350.5,350,0.0028530670470756064,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+36.64893,117.029014,Shandong University,-,-,350.5,350,0.0028530670470756064,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+29.7034179,-95.4030452,The University of Texas Health Science Center at Houston,-,-,350.5,350,0.0028530670470756064,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+28.6024274,-81.2000599,University of Central Florida,-,-,350.5,350,0.0028530670470756064,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+51.1888113,6.794503,University of Duesseldorf,-,-,350.5,350,0.0028530670470756064,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+38.0306511,-84.5039697,University of Kentucky,-,-,350.5,350,0.0028530670470756064,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+33.207488,-97.1525862,University of North Texas,-,-,350.5,350,0.0028530670470756064,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+42.8885225,-8.5449726,University of Santiago de Compostela,-,-,350.5,350,0.0028530670470756064,Spain,Spanien,Espagne,Spagna,España,Espanha,Испания,西班牙,スペイン,إسبانيا
+35.7022192,51.3957307,University of Tehran,-,-,350.5,350,0.0028530670470756064,Islamic Republic of Iran,Islamischen Republik Iran,République Islamique d'Iran,Iran,Irán,Irã,"Иран, Исламская Республика",伊朗,イラン,إيران
+43.6067724,1.4371122,Toulouse 1 University Capitole,-,-,350.5,350,0.0028530670470756064,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+38.8997145,-77.0485992,George Washington University,352,-,350.5,350,0.0028469750889679717,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+48.870029,2.273451,"Université Paris-Dauphine, PSL Research University",355,-,350.5,350,0.002834868887313962,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+35.9544013,-83.9294564,University of Tennessee,455.5,-,250.5,350,0.0028328611898017,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+37.5961951,127.052544,Kyung Hee University,256,-,450.5,350,0.0028308563340410475,Republic of Korea,Republik Korea,République de Corée,Corea del Sud,República de Corea,República da Coreia,Республика Корея,韩国,大韓民国,كوريا
+51.160307,71.4648566,L.N. Gumilyov Eurasian National University,336,-,-,340,0.002976190476190476,Kazakhstan,Kasachstan,Kazakhstan,Kazakistan,Kazajistán,Cazaquistão,Казахстан,哈萨克斯坦,カザフスタン,كازاخستان
+34.403123,132.714908,Hiroshima University,322,-,350.5,340,0.002973977695167286,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+-34.564198,-58.443664,University of Belgrano,337,-,-,340,0.002967359050445104,Argentina,Argentinien,Argentine,Argentina,Argentina,Argentina,Аргентина,阿根廷,アルゼンチン,الأرجنتين
+-27.5550897,153.0532585,Griffith University,325,-,350.5,340,0.0029607698001480384,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+33.9480053,-83.3773221,The University of Georgia,425.5,-,250.5,340,0.0029585798816568047,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+43.7167235,10.3988593,University of Pisa,425.5,-,250.5,340,0.0029585798816568047,Italy,Italien,Italie,Italia,Italia,Itália,Италия,意大利,イタリア,إيطاليا
+32.9857619,-96.7500993,University of Texas at Dallas,425.5,-,250.5,340,0.0029585798816568047,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+42.3351179,-71.1664609,Boston College,339,-,-,340,0.0029498525073746312,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+35.2272692,126.8407202,Gwangju Institute of Science and Technology,339,-,-,340,0.0029498525073746312,Republic of Korea,Republik Korea,République de Corée,Corea del Sud,República de Corea,República da Coreia,Республика Корея,韩国,大韓民国,كوريا
+51.5278249,-0.1025445,"City, University of London",343,-,-,340,0.0029154518950437317,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+30.4418778,-84.2984889,Florida State University,435.5,-,250.5,340,0.0029154518950437317,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+63.8205484,20.3036711,Umeå University,338,-,350.5,340,0.002904865649963689,Sweden,Schweden,Suède,Svezia,Suecia,Suécia,Швеция,瑞典,スウェーデン,السويد
+41.1465479,-8.6156998,University of Porto,301,-,350.5,330,0.0030698388334612432,Portugal,Portugal,Portugal,Portogallo,Portugal,Portugal,Португалия,葡萄牙,ポルトガル,البرتغال
+51.4456659,7.2616093,Ruhr University Bochum,405.5,-,250.5,330,0.003048780487804878,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+25.123002,121.513702,National Yang-Ming University,329,-,-,330,0.00303951367781155,"Taiwan, Province of China","Taiwan, Province of China","Taïwan, Province de Chine",Taiwan,Provincia china de Taiwán,"Taiwan, Província da China",Тайвань (провинция Китайской Народной Республики),中国台湾省,台湾、中国の省,مقاطعة تايوان الصينية
+48.7887191,2.3272147,Ecole Normale Supérieure de Cachan,330,-,-,330,0.0030303030303030303,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+-22.9541412,-43.1753638,Federal University of Rio de Janeiro,311,-,350.5,330,0.0030234315948601664,Brazil,Brasilien,Brésil,Brasile,Brasil,Brasil,Бразилия,巴西,ブラジル,البرازيل
+-6.89148,107.6106591,Institut Teknologi Bandung,331,-,-,330,0.0030211480362537764,Indonesia,Indonesien,Indonésie,Indonesia,Indonesia,Indonésia,Индонезия,印度尼西亚,インドネシア,أندونيسيا
+-39.8061639,-73.2516591,Southern University of Chile,331,-,-,330,0.0030211480362537764,Argentina,Argentinien,Argentine,Argentina,Argentina,Argentina,Аргентина,阿根廷,アルゼンチン,الأرجنتين
+-43.5235375,172.5839233,University of Canterbury,214,-,450.5,330,0.0030097817908201654,New Zealand,Neuseeland,Nouvelle-Zélande,Nuova Zelanda,Nueva Zelandia,Nova Zelândia,Новая Зеландия,新西兰,ニュージーランド,نيوزيلندا
+58.3810843,26.7198659,University of Tartu,314,-,350.5,330,0.0030097817908201654,Estonia,Estland,Estonie,Estonia,Estonia,Estônia,Эстония,爱沙尼亚,エストニア,استونيا
+53.8938988,27.5460609,Belarusian State University,334,-,-,330,0.0029940119760479044,Belarus,Weissrussland,Bélarus,Bielorussia,Belarús,Bielorrússia,Беларусь,白俄罗斯,ベラルーシ,روسيا البيضاء
+13.7945775,100.3234171,Mahidol University,334,-,-,330,0.0029940119760479044,Thailand,Thailand,Thaïlande,Thailandia,Tailandia,Tailândia,Таиланд,泰国,タイ,تايلاند
+50.5830803,5.559064,University of Liège,319,-,350.5,330,0.002987303958177745,Belgium,Belgien,Belgique,Belgio,Bélgica,Bélgica,Бельгия,比利时,ベルギー,بلجيكا
+43.6316206,3.8634485,University of Montpellier,381,-,250.5,320,0.003167062549485352,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+-36.7323894,174.7027411,Massey University,316,-,-,320,0.0031645569620253164,New Zealand,Neuseeland,Nouvelle-Zélande,Nuova Zelanda,Nueva Zelandia,Nova Zelândia,Новая Зеландия,新西兰,ニュージーランド,نيوزيلندا
+31.2853,121.5074,Tongji University,316,-,-,320,0.0031645569620253164,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+48.1986546,16.3684626,TU Wien,182,-,450.5,320,0.0031620553359683794,Austria,Österreich,Autriche,Austria,Austria,Áustria,Австрия,奥地利,オーストリア,النمسا
+-22.8184393,-47.0647206,Universidade Estadual de Campinas,182,-,450.5,320,0.0031620553359683794,Brazil,Brasilien,Brésil,Brasile,Brasil,Brasil,Бразилия,巴西,ブラジル,البرازيل
+40.9123761,-73.1233889,Stony Brook University,382,-,250.5,320,0.0031620553359683794,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+42.9533594,-78.8182506,"University at Buffalo, The State University of New York",318,-,-,320,0.0031446540880503146,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+39.0335539,-94.5760259,University of Missouri–Kansas City,386,-,250.5,320,0.003142183817753339,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+-43.6436854,172.4677741,Lincoln University,319,-,-,320,0.003134796238244514,New Zealand,Neuseeland,Nouvelle-Zélande,Nuova Zelanda,Nueva Zelandia,Nova Zelândia,Новая Зеландия,新西兰,ニュージーランド,نيوزيلندا
+56.4694917,84.9478675,Tomsk State University,323,-,-,320,0.0030959752321981426,Russian Federation,Russische Föderation,Fédération de Russie,Russia,Rusia,Federação Russa,Российская Федерация,俄罗斯,ロシア,روسيا
+49.9926403,8.2415552,Johannes Gutenberg University Mainz,398,-,250.5,320,0.0030840400925212026,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+54.3460549,10.1147022,University of Kiel,435.5,-,175.5,310,0.0032733224222585926,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+45.0624921,7.662203,Politecnico di Torino,307,-,-,310,0.003257328990228013,Italy,Italien,Italie,Italia,Italia,Itália,Италия,意大利,イタリア,إيطاليا
+51.2421839,-0.5905421,University of Surrey,264,-,350.5,310,0.0032546786004882017,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+-26.190508,28.0302973,University of the Witwatersrand,364,-,250.5,310,0.0032546786004882017,South Africa,Südafrika,Afrique du Sud,Sudafrica,Sudáfrica,África do Sul,Южная Африка,南非,南アフリカ,جنوب أفريقيا
+51.521975,-0.130462,"Birkbeck, University of London",308,-,-,310,0.003246753246753247,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+22.3149274,87.3105311,Indian Institute of Technology Kharagpur,308,-,-,310,0.003246753246753247,India,Indien,Inde,India,India,Índia,Индия,印度,インド,الهند
+44.5637806,-123.2794443,Oregon State University,445.5,-,175.5,310,0.00322061191626409,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+48.851251,2.340761,Paris Descartes University - Sorbonne Paris Cité,445.5,-,175.5,310,0.00322061191626409,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+26.3048047,50.1498042,King Fahd University of Petroleum and Minerals,173,-,450.5,310,0.0032076984763432237,Saudi Arabia,Saudi-Arabien,Arabie Saoudite,Arabia Saudita,Arabia Saudita,Arábia Saudita,Саудовская Аравия,沙特阿拉伯,サウジアラビア,السعودية
+44.6365812,-63.5916555,Dalhousie University,279,-,350.5,310,0.003177124702144559,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+57.0145665,9.9818527,Aalborg University,379,-,250.5,310,0.003177124702144559,Denmark,Dänemark,Danemark,Danimarca,Dinamarca,Dinamarca,Дания,丹麦,デンマーク,الدنمارك
+59.941894,30.2989199,Saint Petersburg State University,240,-,350.5,300,0.003386960203217612,Russian Federation,Russische Föderation,Fédération de Russie,Russia,Rusia,Federação Russa,Российская Федерация,俄罗斯,ロシア,روسيا
+50.9295513,11.5898195,University of Jena,341,-,250.5,300,0.0033812341504649195,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+21.296939,-157.8171118,University of Hawai'i at Mañoa,341,-,250.5,300,0.0033812341504649195,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+51.52235,-0.129259,"SOAS, University of London",296,-,-,300,0.0033783783783783786,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+53.2770243,-9.0614864,NUI Galway,243,-,350.5,300,0.003369839932603201,Ireland,Irland,Irlande,Irlanda,Irlanda,Irlanda,Ирландия,爱尔兰,アイルランド,أيرلندا
+34.250803,108.983693,Xi'an Jiaotong University,344,-,250.5,300,0.00336417157275021,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+22.3380838,114.1818597,Hong Kong Baptist University,299,-,-,300,0.0033444816053511705,Hong Kong,Hong Kong,Hong-Kong,Hong Kong,Hong Kong,Hong Kong,Гонконг,香港,香港,هونغ كونغ
+39.6779504,-75.7506114,University of Delaware,425.5,-,175.5,300,0.0033277870216306157,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+41.6626963,-91.5548998,University of Iowa,425.5,-,175.5,300,0.0033277870216306157,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+48.4222305,9.955582,University of Ulm,357,-,250.5,300,0.0032921810699588477,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+48.7816472,9.1724985,University of Stuttgart,259,-,350.5,300,0.003281378178835111,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+22.9988083,120.217172,National Cheng Kung University,222,-,350.5,290,0.0034934497816593887,"Taiwan, Province of China","Taiwan, Province of China","Taïwan, Province de Chine",Taiwan,Provincia china de Taiwán,"Taiwan, Província da China",Тайвань (провинция Китайской Народной Республики),中国台湾省,台湾、中国の省,مقاطعة تايوان الصينية
+-32.8927718,151.7041775,"The University of Newcastle, Australia",224,-,350.5,290,0.0034812880765883376,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+45.4601435,9.1945843,University of Milan,325,-,250.5,290,0.0034752389226759338,Italy,Italien,Italie,Italia,Italia,Itália,Италия,意大利,イタリア,إيطاليا
+40.8503116,-73.9288728,The Katz School at Yeshiva University,325,-,250.5,290,0.0034752389226759338,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+25.0260598,121.5275321,National Taiwan Normal University,289,-,-,290,0.0034602076124567475,"Taiwan, Province of China","Taiwan, Province of China","Taïwan, Province de Chine",Taiwan,Provincia china de Taiwán,"Taiwan, Província da China",Тайвань (провинция Китайской Народной Республики),中国台湾省,台湾、中国の省,مقاطعة تايوان الصينية
+55.7659244,37.6855946,Bauman Moscow State Technical University,291,-,-,290,0.003436426116838488,Russian Federation,Russische Föderation,Fédération de Russie,Russia,Rusia,Federação Russa,Российская Федерация,俄罗斯,ロシア,روسيا
+40.4478246,-3.7285872,Complutense University of Madrid,233,-,350.5,290,0.003427592116538132,Spain,Spanien,Espagne,Spagna,España,Espanha,Испания,西班牙,スペイン,إسبانيا
+-37.7868611,175.3184579,University of Waikato,292,-,-,290,0.003424657534246575,New Zealand,Neuseeland,Nouvelle-Zélande,Nuova Zelanda,Nueva Zelandia,Nova Zelândia,Новая Зеландия,新西兰,ニュージーランド,نيوزيلندا
+26.5123388,80.2329,Indian Institute of Technology Kanpur,293,-,-,290,0.0034129692832764505,India,Indien,Inde,India,India,Índia,Индия,印度,インド,الهند
+-33.4411279,-70.6407933,Pontificia Universidad Católica de Chile,137,-,450.5,290,0.003404255319148936,Chile,Chile,Chili,Cile,Chile,Chile,Чили,智利,チリ,تشيلي
+41.388004,2.1132804,Polytechnic University of Catalonia,275,-,-,280,0.0036363636363636364,Spain,Spanien,Espagne,Spagna,España,Espanha,Испания,西班牙,スペイン,إسبانيا
+49.7830083,9.9708462,University of Würzburg,485.5,165,175.5,280,0.0036319612590799033,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+-33.4445204,-70.6509277,University of Chile,201,-,350.5,280,0.003626473254759746,Chile,Chile,Chili,Cile,Chile,Chile,Чили,智利,チリ,تشيلي
+51.5631406,5.0419736,Tilburg University,357,195,-,280,0.0036231884057971015,Netherlands,Niederlande,Pays-Bas,Paesi Bassi,Países Bajos,Holanda,Нидерланды,荷兰,オランダ,هولندا
+-6.3627638,106.8270482,Universitas Indonesia,277,-,-,280,0.0036101083032490976,Indonesia,Indonesien,Indonésie,Indonesia,Indonesia,Indonésia,Индонезия,印度尼西亚,インドネシア,أندونيسيا
+55.8628285,-4.2428535,University of Strathclyde,277,-,-,280,0.0036101083032490976,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+24.789067,120.999263,National Chiao Tung University,207,-,350.5,280,0.003587443946188341,"Taiwan, Province of China","Taiwan, Province of China","Taïwan, Province de Chine",Taiwan,Provincia china de Taiwán,"Taiwan, Província da China",Тайвань (провинция Китайской Народной Республики),中国台湾省,台湾、中国の省,مقاطعة تايوان الصينية
+-34.9201652,138.6066669,University of South Australia,279,-,-,280,0.0035842293906810036,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+40.316966,-3.7270795,Carlos III University of Madrid,281,-,-,280,0.0035587188612099642,Spain,Spanien,Espagne,Spagna,España,Espanha,Испания,西班牙,スペイン,إسبانيا
+-42.9041217,147.3247697,University of Tasmania,313,-,250.5,280,0.00354924578527063,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+50.0871106,14.4234889,Charles University in Prague,314,-,250.5,280,0.00354295837023915,Czech Republic,Tschechische Republik,République tchèque,Repubblica Ceca,República Checa,República Tcheca,Чешская Республика,捷克共和国,チェコ,تشيكيا
+51.8921099,-8.4932737,University College Cork,283,-,-,280,0.0035335689045936395,Ireland,Irland,Irlande,Irlanda,Irlanda,Irlanda,Ирландия,爱尔兰,アイルランド,أيرلندا
+-41.2904017,174.7686615,Victoria University of Wellington,219,-,350.5,280,0.003511852502194908,New Zealand,Neuseeland,Nouvelle-Zélande,Nuova Zelanda,Nueva Zelandia,Nova Zelândia,Новая Зеландия,新西兰,ニュージーランド,نيوزيلندا
+30.5360485,114.3643219,Wuhan University,282,-,250.5,270,0.003755868544600939,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+40.5466983,-3.6943619,Autonomous University of Madrid,187,-,350.5,270,0.0037209302325581397,Spain,Spanien,Espagne,Spagna,España,Espanha,Испания,西班牙,スペイン,إسبانيا
+58.3978364,15.5760072,Linköping University,287,-,250.5,270,0.0037209302325581397,Sweden,Schweden,Suède,Svezia,Suecia,Suécia,Швеция,瑞典,スウェーデン,السويد
+48.8469373,2.344468,Pantheon-Sorbonne University,269,-,-,270,0.0037174721189591076,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+48.841069,2.587983,Ecole des Ponts ParisTech,270,-,-,270,0.003703703703703704,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+42.8014859,-1.6597295,University of Navarre,270,-,-,270,0.003703703703703704,Spain,Spanien,Espagne,Spagna,España,Espanha,Испания,西班牙,スペイン,إسبانيا
+13.0218597,77.5671423,Indian Institute of Science,190,-,350.5,270,0.0037002775208140612,India,Indien,Inde,India,India,Índia,Индия,印度,インド,الهند
+43.293621,5.358066,Aix-Marseille University,415.5,-,125.5,270,0.0036968576709796672,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+52.6219215,1.2391761,University of East Anglia,274,188,350.5,270,0.0036923076923076927,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+35.6489643,139.7429376,Keio University,192,-,350.5,270,0.003686635944700461,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+-38.1435006,144.3596982,Deakin University,293,-,250.5,270,0.0036798528058877645,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+4.6014855,-74.0664457,University of the Andes,256,-,-,260,0.00390625,Colombia,Kolumbien,Colombie,Colombia,Colombia,Colômbia,Колумбия,哥伦比亚,コロンビア,كولومبيا
+49.4837106,8.4622333,University of Mannheim,388,125,-,260,0.003898635477582846,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+35.7846633,-78.6820946,North Carolina State University,263,-,250.5,260,0.0038948393378773127,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+40.7649368,-111.8421021,University of Utah,391,-,125.5,260,0.003872216844143272,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+60.1866693,24.827682,Aalto University,137,190,450.5,260,0.0038585209003215433,Finland,Finnland,Finlande,Finlandia,Finlandia,Finlândia,Финляндия,芬兰,フィンランド,فنلندا
+53.3082648,-6.2236395,University College Dublin,168,-,350.5,260,0.003857280617164899,Ireland,Irland,Irlande,Irlanda,Irlanda,Irlanda,Ирландия,爱尔兰,アイルランド,أيرلندا
+42.3398067,-71.0891717,Northeastern University,346,193,250.5,260,0.0037998733375554147,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+-33.8832376,151.2004942,University of Technology Sydney,176,-,350.5,260,0.003798670465337132,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+13.0052137,80.2420012,Indian Institute of Technology Madras,264,-,-,260,0.003787878787878788,India,Indien,Inde,India,India,Índia,Индия,印度,インド,الهند
+25.0136906,121.5406792,National Taiwan University of Science and Technology,264,-,-,260,0.003787878787878788,"Taiwan, Province of China","Taiwan, Province of China","Taïwan, Province de Chine",Taiwan,Provincia china de Taiwán,"Taiwan, Província da China",Тайвань (провинция Китайской Народной Республики),中国台湾省,台湾、中国の省,مقاطعة تايوان الصينية
+23.0965384,113.298883,Sun Yat-sen University,319,-,175.5,250,0.004044489383215369,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+-27.477357,153.028415,Queensland University of Technology,247,-,250.5,250,0.004020100502512563,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+52.6211393,-1.1246325,University of Leicester,238,159,350.5,250,0.004013377926421405,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+36.1088237,140.103652,University of Tsukuba,250,-,250.5,250,0.003996003996003996,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+45.7470436,126.6334306,Harbin Institute of Technology,325,-,175.5,250,0.003996003996003996,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+48.2203449,16.3515709,Medical University of Vienna,-,-,250.5,250,0.003992015968063872,Austria,Österreich,Autriche,Austria,Austria,Áustria,Австрия,奥地利,オーストリア,النمسا
+44.0448302,-123.0726055,University of Oregon,-,-,250.5,250,0.003992015968063872,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+45.4989098,-122.6858606,Oregon Health & Science University,-,-,250.5,250,0.003992015968063872,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+28.0587031,-82.4138539,University of South Florida,-,-,250.5,250,0.003992015968063872,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+59.814947,17.6628688,Swedish University of Agricultural Sciences,-,-,250.5,250,0.003992015968063872,Sweden,Schweden,Suède,Svezia,Suecia,Suécia,Швеция,瑞典,スウェーデン,السويد
+38.8314875,-77.3119442,George Mason University,-,-,250.5,250,0.003992015968063872,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+29.7199489,-95.3422334,University of Houston,-,-,250.5,250,0.003992015968063872,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+39.9566127,-75.1899441,Drexel University,-,-,250.5,250,0.003992015968063872,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+45.7788727,4.8679611,Claude Bernard University Lyon 1,-,-,250.5,250,0.003992015968063872,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+38.9403808,-92.3277375,University of Missouri,-,-,250.5,250,0.003992015968063872,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+45.069428,7.6889006,University of Turin,-,-,250.5,250,0.003992015968063872,Italy,Italien,Italie,Italia,Italia,Itália,Италия,意大利,イタリア,إيطاليا
+22.309465,39.104697,King Abdullah University of Science and Technology,-,-,250.5,250,0.003992015968063872,Saudi Arabia,Saudi-Arabien,Arabie Saoudite,Arabia Saudita,Arabia Saudita,Arábia Saudita,Саудовская Аравия,沙特阿拉伯,サウジアラビア,السعودية
+51.5209007,-0.1302803,London School of Hygiene & Tropical Medicine,-,-,250.5,250,0.003992015968063872,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+32.7844632,-79.946747,Medical University of South Carolina,-,-,250.5,250,0.003992015968063872,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+43.5619687,1.4700537,Paul Sabatier University (Toulouse 3),-,-,250.5,250,0.003992015968063872,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+31.303257,120.651928,Soochow University,-,-,250.5,250,0.003992015968063872,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+23.151326,113.344683,South China University of Technology,-,-,250.5,250,0.003992015968063872,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+32.055981,118.79421,Southeast University,-,-,250.5,250,0.003992015968063872,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+29.5074654,-98.5753521,The University of Texas Health Science Center at San Antonio,-,-,250.5,250,0.003992015968063872,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+43.0008093,-78.7889697,"University at Buffalo, The State University of New York",-,-,250.5,250,0.003992015968063872,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+44.8184339,20.4575676,University of Belgrade,-,-,250.5,250,0.003992015968063872,Serbia,Serbien,Serbie,Serbia,Serbia,Sérvia,Сербия,塞尔维亚,セルビア,صربيا
+37.1846223,-3.6006329,University of Granada,-,-,250.5,250,0.003992015968063872,Spain,Spanien,Espagne,Spagna,España,Espanha,Испания,西班牙,スペイン,إسبانيا
+41.8693039,-87.6474502,University of Illinois at Chicago,-,-,250.5,250,0.003992015968063872,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+48.6962743,6.1764664,University of Lorraine,-,-,250.5,250,0.003992015968063872,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+37.5495048,-77.4509718,Virginia Commonwealth University,-,-,250.5,250,0.003992015968063872,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+-45.8646835,170.5144227,University of Otago,151,-,350.5,250,0.003988035892323031,New Zealand,Neuseeland,Nouvelle-Zélande,Nuova Zelanda,Nueva Zelandia,Nova Zelândia,Новая Зеландия,新西兰,ニュージーランド,نيوزيلندا
+1.55849,103.6381827,University of Technology Malaysia,253,-,-,250,0.003952569169960474,Malaysia,Malaysia,Malaisie,Malesia,Malasia,Malásia,Малайзия,马来西亚,マレーシア,ماليزيا
+39.9619537,116.3662615,Beijing Normal University,256,-,250.5,250,0.003948667324777887,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+4.6381938,-74.0840464,National University of Colombia,254,-,-,250,0.003937007874015748,Colombia,Kolumbien,Colombie,Colombia,Colombia,Colômbia,Колумбия,哥伦比亚,コロンビア,كولومبيا
+50.1270675,8.6677635,Goethe University Frankfurt,254,-,-,250,0.003937007874015748,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+48.7142971,2.2112917,Ecole Polytechnique,59,-,450.5,250,0.003925417075564278,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+33.9008359,35.480744,American University of Beirut,235,-,-,240,0.00425531914893617,Lebanon,Libanon,Liban,Libano,Líbano,Líbano,Ливан,黎巴嫩,レバノン,لبنان
+45.406766,11.8774462,University of Padua,296,-,175.5,240,0.0042417815482502655,Italy,Italien,Italie,Italia,Italia,Itália,Италия,意大利,イタリア,إيطاليا
+43.2252358,76.9219187,Al-Farabi University,236,-,-,240,0.00423728813559322,Kazakhstan,Kasachstan,Kazakhstan,Kazakistan,Kazajistán,Cazaquistão,Казахстан,哈萨克斯坦,カザフスタン,كازاخستان
+52.2393971,6.8508709,University of Twente,179,179,350.5,240,0.004234297812279464,Netherlands,Niederlande,Pays-Bas,Paesi Bassi,Países Bajos,Holanda,Нидерланды,荷兰,オランダ,هولندا
+-33.957652,18.4611991,University of Cape Town,191,171,350.5,240,0.004210526315789474,South Africa,Südafrika,Afrique du Sud,Sudafrica,Sudáfrica,África do Sul,Южная Африка,南非,南アフリカ,جنوب أفريقيا
+38.7526578,-9.158245,University of Lisbon,305,-,175.5,240,0.004162330905306972,Portugal,Portugal,Portugal,Portogallo,Portugal,Portugal,Португалия,葡萄牙,ポルトガル,البرتغال
+-34.4054039,150.87843,University of Wollongong,232,-,250.5,240,0.004145077720207254,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+50.9281625,6.9288192,University of Cologne,331,145,250.5,240,0.0041293874741913286,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+48.8484556,2.3432774,Paris-Sorbonne University,293,196,-,240,0.00408997955010225,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+54.5844087,-5.9340493,Queen's University Belfast,202,-,250.5,230,0.004419889502762431,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+51.425673,-0.5630625,"Royal Holloway, University of London",259,197,-,230,0.0043859649122807015,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+52.5125322,13.3269446,Technical University of Berlin,144,92,450.5,230,0.004369992716678805,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+41.3789689,2.1797941,Pompeu Fabra University,296,140,250.5,230,0.004369992716678805,Spain,Spanien,Espagne,Spagna,España,Espanha,Испания,西班牙,スペイン,إسبانيا
+2.991686,101.71629,Universiti Putra Malaysia,229,-,-,230,0.004366812227074236,Malaysia,Malaysia,Malaisie,Malesia,Malasia,Malásia,Малайзия,马来西亚,マレーシア,ماليزيا
+2.929997,101.7774225,National University of Malaysia,230,-,-,230,0.004347826086956522,Malaysia,Malaysia,Malaisie,Malesia,Malasia,Malásia,Малайзия,马来西亚,マレーシア,ماليزيا
+51.2228097,4.4102318,University of Antwerp,210,-,250.5,230,0.0043431053203040176,Belgium,Belgien,Belgique,Belgio,Bélgica,Bélgica,Бельгия,比利时,ベルギー,بلجيكا
+43.0095971,-81.2737336,University of Western Ontario,210,-,250.5,230,0.0043431053203040176,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+47.2633542,11.3838006,University of Innsbruck,286,-,175.5,230,0.004333694474539545,Austria,Österreich,Autriche,Austria,Austria,Áustria,Австрия,奥地利,オーストリア,النمسا
+41.5019255,2.1048538,Autonomous University of Barcelona,195,147,350.5,230,0.004332129963898917,Spain,Spanien,Espagne,Spagna,España,Espanha,Испания,西班牙,スペイン,إسبانيا
+33.9737055,-117.3280644,"University of California, Riverside",323,198,175.5,230,0.004307250538406317,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+45.4231064,-75.6831329,University of Ottawa,289,-,175.5,230,0.004305705059203444,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+52.769227,-1.224632,Loughborough University,234,-,-,230,0.004273504273504274,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+56.4582447,-2.9821428,University of Dundee,267,187,250.5,230,0.0042583392476933995,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+48.8293187,2.3817936,Paris Diderot University,305,-,125.5,220,0.004645760743321719,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+50.821658,4.394886,Vrije Universiteit Brussel,182,-,250.5,220,0.004624277456647399,Belgium,Belgien,Belgique,Belgio,Bélgica,Bélgica,Бельгия,比利时,ベルギー,بلجيكا
+-32.0061951,115.8944182,Curtin University,262,-,175.5,220,0.004571428571428572,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+57.6981719,11.971878,University of Gothenburg,283,198,175.5,220,0.004569687738004569,Sweden,Schweden,Suède,Svezia,Suecia,Suécia,Швеция,瑞典,スウェーデン,السويد
+51.9635705,7.6131826,University of Münster,308,173,175.5,220,0.004569687738004569,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+44.4962318,11.354157,University of Bologna,188,-,250.5,220,0.004561003420752566,Italy,Italien,Italie,Italia,Italia,Itália,Италия,意大利,イタリア,إيطاليا
+51.4414205,-0.9418157,University of Reading,188,-,250.5,220,0.004561003420752566,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+48.8540917,2.3283745,Sciences Po,220,-,-,220,0.004545454545454545,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+44.2252795,-76.4951412,Queen's University,224,-,-,220,0.004464285714285714,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+41.7055716,-86.2353388,University of Notre Dame,216,150,250.5,210,0.004866180048661801,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+45.1906157,5.7749356,Grenoble Alpes University,236,-,175.5,210,0.004860267314702308,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+41.8749598,-87.6581066,University of Illinois at Chicago,207,-,-,210,0.004830917874396135,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+60.3878586,5.3217549,University of Bergen,164,-,250.5,210,0.0048250904704463205,Norway,Norwegen,Norvège,Norvegia,Noruega,Noruega,Норвегия,挪威,ノルウェー,النرويج
+-33.7738237,151.1126498,Macquarie University,240,-,175.5,210,0.0048134777376654635,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+49.5978804,11.0045507,University of Erlangen-Nuremberg,287,162,175.5,210,0.004803843074459568,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+50.8670895,-0.087914,University of Sussex,228,147,250.5,210,0.004796163069544364,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+33.5021227,-86.8064447,University of Alabama at Birmingham,-,168,250.5,210,0.0047789725209080045,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+45.4786455,9.2297627,Politecnico di Milano,170,-,250.5,210,0.0047562425683709865,Italy,Italien,Italie,Italia,Italia,Itália,Италия,意大利,イタリア,إيطاليا
+54.0103942,-2.7877294,University of Lancaster,135,150,350.5,210,0.004720692368214005,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+42.3911569,-72.5267121,University of Massachusetts Amherst,249,-,175.5,210,0.004711425206124852,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+48.5790692,7.7664545,University of Strasbourg,303,-,125.5,210,0.004667444574095682,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+56.3416934,-2.7927522,University of St Andrews,92,143,350.5,200,0.005123825789923143,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+41.9037626,12.5144384,Sapienza University of Rome,215,-,175.5,200,0.005121638924455826,Italy,Italien,Italie,Italia,Italia,Itália,Италия,意大利,イタリア,إيطاليا
+54.9791871,-1.6146608,University of Newcastle,161,175,250.5,200,0.005115089514066497,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+42.4074843,-71.1190232,Tufts University,243,169,175.5,200,0.005106382978723404,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+51.0781599,-114.1358007,University of Calgary,217,-,175.5,200,0.005095541401273885,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+21.5016038,39.2575481,King Abdulaziz University,267,-,125.5,200,0.005095541401273885,Saudi Arabia,Saudi-Arabien,Arabie Saoudite,Arabia Saudita,Arabia Saudita,Arábia Saudita,Саудовская Аравия,沙特阿拉伯,サウジアラビア,السعودية
+45.7298448,4.8285332,École Normale Supérieure de Lyon,157,182,250.5,200,0.005089058524173028,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+57.16476,-2.1015257,University of Aberdeen,158,185,250.5,200,0.005054759898904802,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+51.4486098,5.4907148,Eindhoven University of Technology,104,141,350.5,200,0.005037783375314861,Netherlands,Niederlande,Pays-Bas,Paesi Bassi,Países Bajos,Holanda,Нидерланды,荷兰,オランダ,هولندا
+25.6515649,-100.28954,Monterrey Institute of Technology and Higher Education,199,-,-,200,0.005025125628140704,Mexico,Mexiko,Mexique,Messico,México,México,Мексика,墨西哥,メキシコ,المكسيك
+53.5665641,9.9846195,University of Hamburg,223,-,175.5,200,0.005018820577164366,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+38.9076089,-77.0722585,Georgetown University,227,123,250.5,200,0.004995836802664446,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+43.4722854,-80.5448576,University of Waterloo,152,-,250.5,200,0.004968944099378882,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+37.5572321,127.0453219,Hanyang University,155,-,250.5,200,0.004932182490752158,Republic of Korea,Republik Korea,République de Corée,Corea del Sud,República de Corea,República da Coreia,Республика Корея,韩国,大韓民国,كوريا
+35.7087334,139.7196485,Waseda University,203,-,-,200,0.0049261083743842365,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+41.386608,2.16402,University of Barcelona,156,-,250.5,200,0.004920049200492005,Spain,Spanien,Espagne,Spagna,España,Espanha,Испания,西班牙,スペイン,إسبانيا
+25.7191685,-80.2771253,University of Miami,252,186,175.5,200,0.004889975550122249,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+50.8132068,4.3822222,Université libre de Bruxelles,205,175,175.5,190,0.0054005400540054005,Belgium,Belgien,Belgique,Belgio,Bélgica,Bélgica,Бельгия,比利时,ベルギー,بلجيكا
+36.0138857,129.3231836,Pohang University of Science and Technology,71,137,350.5,190,0.005371530886302597,Republic of Korea,Republik Korea,République de Corée,Corea del Sud,República de Corea,República da Coreia,Республика Корея,韩国,大韓民国,كوريا
+19.3188895,-99.1843676,National Autonomous University of Mexico,122,-,250.5,190,0.005369127516778523,Mexico,Mexiko,Mexique,Messico,México,México,Мексика,墨西哥,メキシコ,المكسيك
+36.9914738,-122.0582972,"University of California, Santa Cruz",301,162,98,190,0.0053475935828877,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+43.719601,10.40033,Scuola Normale Superiore di Pisa,192,184,-,190,0.005319148936170213,Italy,Italien,Italie,Italia,Italia,Itália,Италия,意大利,イタリア,إيطاليا
+33.6266584,130.4250445,Kyushu University,128,-,250.5,190,0.005284015852047556,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+32.1133141,34.8043877,Tel Aviv University,205,-,175.5,190,0.005256241787122208,Israel,Israel,Israël,Israele,Israel,Israel,Израиль,以色列,イスラエル,إسرائيل
+42.6500568,-71.3240468,University of Massachusetts Lowell,-,191,-,190,0.005235602094240838,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+57.6888144,11.9781232,Chalmers University of Technology,133,-,250.5,190,0.005215123859191656,Sweden,Schweden,Suède,Svezia,Suecia,Suécia,Швеция,瑞典,スウェーデン,السويد
+63.419499,10.4020771,Norwegian University of Science and Technology,259,-,125.5,190,0.005201560468140442,Norway,Norwegen,Norvège,Norvegia,Noruega,Noruega,Норвегия,挪威,ノルウェー,النرويج
+51.0292734,13.7289964,TU Dresden,195,155,175.5,180,0.005708848715509039,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+44.8086048,-0.5935827,University of Bordeaux,-,-,175.5,180,0.005698005698005698,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+40.8201966,-96.7004763,University of Nebraska–Lincoln,-,-,175.5,180,0.005698005698005698,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+24.1562767,120.6801328,China Medical University (Taichung),-,-,175.5,180,0.005698005698005698,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+30.63785,104.070295,Sichuan University,-,-,175.5,180,0.005698005698005698,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+51.3385738,12.3784615,Leipzig University,-,-,175.5,180,0.005698005698005698,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+42.2772479,-71.7610714,University of Massachusetts Medical School - Worcester,-,-,175.5,180,0.005698005698005698,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+22.3028474,114.1784191,Hong Kong Polytechnic University,95,182,250.5,180,0.005687203791469194,Hong Kong,Hong Kong,Hong-Kong,Hong Kong,Hong Kong,Hong Kong,Гонконг,香港,香港,هونغ كونغ
+48.7088206,2.1639495,CentraleSupélec,177,-,-,180,0.005649717514124294,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+32.0568391,118.7789602,Nanjing University,114,169,250.5,180,0.005623242736644799,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+40.5008186,-74.4473991,Rutgers University - New Brunswick,283,172,79,180,0.0056179775280898875,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+37.565784,126.938572,Yonsei University,106,-,250.5,180,0.005610098176718092,Republic of Korea,Republik Korea,République de Corée,Corea del Sud,República de Corea,República da Coreia,Республика Корея,韩国,大韓民国,كوريا
+19.1334302,72.9132679,Indian Institute of Technology Bombay,179,-,-,180,0.00558659217877095,India,Indien,Inde,India,India,Índia,Индия,印度,インド,الهند
+49.504254,5.948386,University of Luxembourg,-,179,-,180,0.00558659217877095,Luxembourg,Luxemburg,Luxembourg,Lussemburgo,Luxemburgo,Luxemburgo,Люксембург,卢森堡,ルクセンブルク,لوكسمبورغ
+39.1745704,-86.5129458,Indiana University Bloomington,304,117,125.5,180,0.0054894784995425435,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+50.8471373,5.6867065,Maastricht University,200,103,250.5,180,0.005420054200542005,Netherlands,Niederlande,Pays-Bas,Paesi Bassi,Países Bajos,Holanda,Нидерланды,荷兰,オランダ,هولندا
+41.5043413,-81.6083838,Case Western Reserve University,213,158,125.5,170,0.006042296072507553,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+33.4242399,-111.9280527,Arizona State University,209,126,-,170,0.005970149253731343,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+43.7044406,-72.2886935,Dartmouth College,169,89,250.5,170,0.0058997050147492625,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+52.3337568,4.8657199,Vrije Universiteit,218,165,125.5,170,0.0058997050147492625,Netherlands,Niederlande,Pays-Bas,Paesi Bassi,Países Bajos,Holanda,Нидерланды,荷兰,オランダ,هولندا
+37.590799,127.0277773,Korea University,90,-,250.5,170,0.005873715124816446,Republic of Korea,Republik Korea,République de Corée,Corea del Sud,República de Corea,República da Coreia,Республика Корея,韩国,大韓民国,كوريا
+28.5449756,77.1926284,Indian Institute of Technology Delhi,172,-,-,170,0.005813953488372093,India,Indien,Inde,India,India,Índia,Индия,印度,インド,الهند
+24.716241,46.6191078,King Saud University,221,-,125.5,170,0.005772005772005772,Saudi Arabia,Saudi-Arabien,Arabie Saoudite,Arabia Saudita,Arabia Saudita,Arábia Saudita,Саудовская Аравия,沙特阿拉伯,サウジアラビア,السعودية
+43.7209661,10.4027859,Scuola Superiore Sant'Anna Pisa di Studi Universitari e di Perfezionamento,192,155,-,170,0.005763688760806916,Italy,Italien,Italie,Italia,Italia,Itália,Италия,意大利,イタリア,إيطاليا
+59.3498065,18.0706646,Royal Institute of Technology,98,173,250.5,170,0.005752636625119846,Sweden,Schweden,Suède,Svezia,Suecia,Suécia,Швеция,瑞典,スウェーデン,السويد
+53.9455334,-1.0561667,University of York,135,137,250.5,170,0.005741626794258373,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+-36.8523378,174.7691073,University of Auckland,82,192,250.5,170,0.005719733079122974,New Zealand,Neuseeland,Nouvelle-Zélande,Nuova Zelanda,Nueva Zelandia,Nova Zelândia,Новая Зеландия,新西兰,ニュージーランド,نيوزيلندا
+37.588227,126.993606,Sungkyunkwan University,108,111,250.5,160,0.006389776357827476,Republic of Korea,Republik Korea,République de Corée,Corea del Sud,República de Corea,República da Coreia,Республика Корея,韩国,大韓民国,كوريا
+50.7800778,6.0656869,RWTH Aachen University,141,79,250.5,160,0.006376195536663124,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+46.5210895,6.5801606,University of Lausanne,146,152,175.5,160,0.006335797254487856,Switzerland,Schweiz,Suisse,Svizzera,Suiza,Suíça,Швейцария,瑞士,スイス,سويسرا
+53.405936,-2.9655722,University of Liverpool,173,177,125.5,160,0.006309148264984227,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+32.7767783,35.0231271,Technion – Israel Institute of Technology,224,-,93,160,0.006309148264984227,Israel,Israel,Israël,Israele,Israel,Israel,Израиль,以色列,イスラエル,إسرائيل
+30.618531,-96.336499,Texas A&M University,195,159,125.5,160,0.006256517205422314,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+51.3781162,-2.3272635,University of Bath,160,-,-,160,0.00625,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+24.7947253,120.9932316,National Tsing Hua University,161,-,-,160,0.006211180124223602,"Taiwan, Province of China","Taiwan, Province of China","Taïwan, Province de Chine",Taiwan,Provincia china de Taiwán,"Taiwan, Província da China",Тайвань (провинция Китайской Народной Республики),中国台湾省,台湾、中国の省,مقاطعة تايوان الصينية
+-34.5998875,-58.3730695,University of Buenos Aires,75,-,250.5,160,0.006144393241167435,Argentina,Argentinien,Argentine,Argentina,Argentina,Argentina,Аргентина,阿根廷,アルゼンチン,الأرجنتين
+32.2318851,-110.9501094,University of Arizona,230,161,99,160,0.006122448979591836,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+49.0119199,8.4170303,Karlsruhe Institute of Technology,107,133,250.5,160,0.0061162079510703364,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+48.2131855,16.3600504,University of Vienna,154,165,175.5,160,0.006066734074823053,Austria,Österreich,Autriche,Austria,Austria,Áustria,Австрия,奥地利,オーストリア,النمسا
+55.7855742,12.521381,Technical University of Denmark,116,153,175.5,150,0.006749156355455569,Denmark,Dänemark,Danemark,Danimarca,Dinamarca,Dinamarca,Дания,丹麦,デンマーク,الدنمارك
+-23.5916604,-46.6490459,University of São Paulo,121,-,175.5,150,0.006745362563237774,Brazil,Brasilien,Brésil,Brasile,Brasil,Brasil,Бразилия,巴西,ブラジル,البرازيل
+43.0779575,141.340013,Hokkaido University,122,-,175.5,150,0.0067226890756302525,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+25.0173405,121.5397518,National Taiwan University,76,198,175.5,150,0.006674082313681868,"Taiwan, Province of China","Taiwan, Province of China","Taïwan, Province de Chine",Taiwan,Provincia china de Taiwán,"Taiwan, Província da China",Тайвань (провинция Китайской Народной Республики),中国台湾省,台湾、中国の省,مقاطعة تايوان الصينية
+51.8193148,5.8568877,Radboud University Nijmegen,204,122,125.5,150,0.006644518272425249,Netherlands,Niederlande,Pays-Bas,Paesi Bassi,Países Bajos,Holanda,Нидерланды,荷兰,オランダ,هولندا
+38.0335529,-78.5079772,University of Virginia,173,113,175.5,150,0.006500541711809317,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+50.7371369,-3.5351475,University of Exeter,158,130,175.5,150,0.006472491909385114,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+48.6976847,2.1764839,University of Paris-Sud,242,181,41,150,0.006465517241379311,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+43.1305531,-77.6260033,University of Rochester,186,153,125.5,150,0.006458557588805166,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+50.7267715,7.0865227,University of Bonn,239,100,125.5,150,0.006458557588805166,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+31.7945578,35.2414009,Hebrew University of Jerusalem,145,-,125.5,140,0.0073937153419593345,Israel,Israel,Israël,Israele,Israel,Israel,Израиль,以色列,イスラエル,إسرائيل
+50.6696875,4.6155909,Université catholique de Louvain,153,129,125.5,140,0.007361963190184048,Belgium,Belgien,Belgique,Belgio,Bélgica,Bélgica,Бельгия,比利时,ベルギー,بلجيكا
+29.6436325,-82.3549302,University of Florida,178,143,88,140,0.007334963325183373,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+45.5056156,-73.6137592,Université de Montréal,130,108,175.5,140,0.007255139056831922,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+22.3371397,114.172793,City University of Hong Kong,49,119,250.5,140,0.007168458781362007,Hong Kong,Hong Kong,Hong-Kong,Hong Kong,Hong Kong,Hong Kong,Гонконг,香港,香港,هونغ كونغ
+51.5240671,-0.0403745,"Queen Mary, University of London",127,121,175.5,140,0.0070838252656434475,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+54.7649859,-1.5782029,University of Durham,78,97,250.5,140,0.007050528789659224,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+48.5294782,9.043774,University of Tübingen,164,94,175.5,140,0.006920415224913495,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+31.201001,121.432841,Shanghai Jiao Tong University,62,188,125.5,130,0.007989347536617843,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+33.6075228,-112.1598496,Arizona State University,-,-,125.5,130,0.00796812749003984,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+29.710529,-95.396241,Baylor College of Medicine,-,-,125.5,130,0.00796812749003984,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+40.7898695,-73.9533616,Icahn School of Medicine at Mount Sinai,-,-,125.5,130,0.00796812749003984,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+29.7071962,-95.3966904,The University of Texas M. D. Anderson Cancer Center,-,-,125.5,130,0.00796812749003984,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+52.342151,14.5542827,Viadrina European University,-,-,125.5,130,0.00796812749003984,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+50.9362861,-1.3980274,University of Southampton,-,-,125.5,130,0.00796812749003984,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+31.9045055,34.8083407,Weizmann Institute of Science,-,-,125.5,130,0.00796812749003984,Israel,Israel,Israël,Israele,Israel,Israel,Израиль,以色列,イスラエル,إسرائيل
+52.5264618,13.3766245,Charité - Universitätsmedizin Berlin,-,126,-,130,0.007936507936507936,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+47.9935441,7.8459496,University of Freiburg,171,82,125.5,130,0.007926023778071334,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+53.3437935,-6.2545716,Trinity College Dublin,88,117,175.5,130,0.007884362680683312,Ireland,Irland,Irlande,Irlanda,Irlanda,Irlanda,Ирландия,爱尔兰,アイルランド,أيرلندا
+55.7039349,37.5286696,Moscow State University,95,194,93,130,0.007853403141361256,Russian Federation,Russische Föderation,Fédération de Russie,Russia,Rusia,Federação Russa,Российская Федерация,俄罗斯,ロシア,روسيا
+36.3693921,127.3640249,KAIST,41,95,250.5,130,0.0077619663648124185,Republic of Korea,Republik Korea,République de Corée,Corea del Sud,República de Corea,República da Coreia,Республика Корея,韩国,大韓民国,كوريا
+51.5408116,9.9374005,University of Göttingen,181,113,95,130,0.007712082262210798,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+30.263944,120.123279,Zhejiang University,87,177,125.5,130,0.007702182284980744,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+46.9504896,7.438119,University of Bern,167,105,125.5,130,0.007547169811320755,Switzerland,Schweiz,Suisse,Svizzera,Suiza,Suíça,Швейцария,瑞士,スイス,سويسرا
+51.4866271,-3.1788641,Cardiff University,137,162,99,130,0.007537688442211056,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+59.363154,18.060776,Stockholm University,195,134,74,130,0.007444168734491314,Sweden,Schweden,Suède,Svezia,Suecia,Suécia,Швеция,瑞典,スウェーデン,السويد
+35.6051229,139.6835302,Tokyo Institute of Technology,56,-,175.5,120,0.008639308855291577,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+59.9399586,10.7217496,University of Oslo,142,146,62,120,0.008571428571428572,Norway,Norwegen,Norvège,Norvegia,Noruega,Noruega,Норвегия,挪威,ノルウェー,النرويج
+52.4508168,-1.9305135,University of Birmingham,84,141,125.5,120,0.008559201141226819,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+31.821994,117.28059,University of Science and Technology of China,97,132,125.5,120,0.008462623413258109,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+52.938636,-1.1951582,University of Nottingham,84,147,125.5,120,0.008415147265077139,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+42.701848,-84.4821719,Michigan State University,149,83,125.5,120,0.008391608391608392,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+53.8066815,-1.5550328,University of Leeds,101,139,125.5,120,0.008207934336525308,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+-34.920603,138.6062277,University of Adelaide,109,134,125.5,120,0.00814111261872456,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+36.1447034,-86.8026551,Vanderbilt University,212,105,52,120,0.008130081300813009,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+33.7925195,-84.3239989,Emory University,147,98,125.5,120,0.008097165991902834,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+52.452526400000004,13.2896787,Free University of Berlin,125,88,-,110,0.009389671361502348,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+22.3363998,114.2654655,The Hong Kong University of Science and Technology,30,44,250.5,110,0.009244992295839752,Hong Kong,Hong Kong,Hong-Kong,Hong Kong,Hong Kong,Hong Kong,Гонконг,香港,香港,هونغ كونغ
+40.007581,-105.2659417,University of Colorado Boulder,182,100,43,110,0.009230769230769232,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+33.6404952,-117.8442962,"University of California, Irvine",164,99,64,110,0.009174311926605505,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+53.5232189,-113.5263186,University of Alberta,90,119,125.5,110,0.008968609865470852,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+47.5602535,7.5826,University of Basel,149,95,95,110,0.008849557522123894,Switzerland,Schweiz,Suisse,Svizzera,Suiza,Suíça,Швейцария,瑞士,スイス,سويسرا
+50.935742,-1.3966381,University of Southampton,102,126,-,110,0.008771929824561403,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+3.1201114,101.6543903,University of Malaya,114,-,-,110,0.008771929824561403,Malaysia,Malaysia,Malaisie,Malesia,Malasia,Malásia,Малайзия,马来西亚,マレーシア,ماليزيا
+35.153491,136.967573,Nagoya University,116,-,84,100,0.01,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+51.0465619,3.7279181,Ghent University,125,107,69,100,0.009966777408637875,Belgium,Belgien,Belgique,Belgio,Bélgica,Bélgica,Бельгия,比利时,ベルギー,بلجيكا
+38.253834,140.874074,Tohoku University,76,-,125.5,100,0.009925558312655087,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+40.4443533,-79.960835,University of Pittsburgh,142,100,68,100,0.00967741935483871,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+53.3809409,-1.4879469,University of Sheffield,82,104,125.5,100,0.009630818619582666,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+51.9845558,5.6657696,Wageningen University & Research,124,64,125.5,100,0.009569377990430622,Netherlands,Niederlande,Pays-Bas,Paesi Bassi,Países Bajos,Holanda,Нидерланды,荷兰,オランダ,هولندا
+55.7119483,13.203493,Lund University,78,93,125.5,99,0.010118043844856662,Sweden,Schweden,Suède,Svezia,Suecia,Suécia,Швеция,瑞典,スウェーデン,السويد
+51.9962559,4.3758659,Delft University of Technology,54,63,175.5,98,0.010256410256410256,Netherlands,Niederlande,Pays-Bas,Paesi Bassi,Países Bajos,Holanda,Нидерланды,荷兰,オランダ,هولندا
+56.1681384,10.2030118,Aarhus University,119,109,65,98,0.010238907849829351,Denmark,Dänemark,Danemark,Danimarca,Dinamarca,Dinamarca,Дания,丹麦,デンマーク,الدنمارك
+48.8471036,2.357499,University of Paris VI: Pierre-and-Marie-Curie University,131,123,40,98,0.01020408163265306,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+-31.981179,115.8199096,The University of Western Australia,93,111,91,98,0.01016949152542373,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+51.91752,4.525585,Erasmus University Rotterdam,147,72,73,97,0.010273972602739727,Netherlands,Niederlande,Pays-Bas,Paesi Bassi,Países Bajos,Holanda,Нидерланды,荷兰,オランダ,هولندا
+46.199444,6.1451157,University of Geneva,98,130,60,96,0.010416666666666666,Switzerland,Schweiz,Suisse,Svizzera,Suiza,Suíça,Швейцария,瑞士,スイス,سويسرا
+43.260879,-79.9192254,McMaster University,140,78,66,95,0.01056338028169014,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+31.2974197,121.5036178,Fudan University,40,116,125.5,94,0.010657193605683837,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+34.8220139,135.5244676,Osaka University,63,-,125.5,94,0.010610079575596816,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+52.517883,13.3936551,Humboldt University of Berlin,120,62,-,91,0.01098901098901099,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+52.3792525,-1.5614704,University of Warwick,57,91,125.5,91,0.010968921389396709,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+55.8721211,-4.2882005,University of Glasgow,65,80,125.5,90,0.011090573012939002,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+47.3743221,8.5509812,University of Zurich,73,136,58,89,0.011235955056179775,Switzerland,Schweiz,Suisse,Svizzera,Suiza,Suíça,Швейцария,瑞士,スイス,سويسرا
+52.1571485,4.485209,Leiden University,109,67,88,88,0.011363636363636364,Netherlands,Niederlande,Pays-Bas,Paesi Bassi,Países Bajos,Holanda,Нидерланды,荷兰,オランダ,هولندا
+59.8509005,17.6300093,Uppsala University,112,86,63,87,0.011494252873563218,Sweden,Schweden,Suède,Svezia,Suecia,Suécia,Швеция,瑞典,スウェーデン,السويد
+38.5382322,-121.7617125,"University of California, Davis",118,54,85,86,0.011673151750972763,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+40.7982133,-77.8599084,Pennsylvania State University,93,77,85,85,0.011764705882352941,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+53.2192634,6.5629872,University of Groningen,113,83,59,85,0.011764705882352941,Netherlands,Niederlande,Pays-Bas,Paesi Bassi,Países Bajos,Holanda,Нидерланды,荷兰,オランダ,هولندا
+-33.917347,151.2312675,The University of New South Wales,45,85,125.5,85,0.011741682974559686,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+38.9869183,-76.9425543,"University of Maryland, College Park",129,69,53,84,0.01195219123505976,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+34.0223519,-118.285117,University of Southern California,132,66,54,84,0.011904761904761904,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+44.97399,-93.2277285,University of Minnesota,163,56,34,84,0.011857707509881424,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+60.1726348,24.9510419,University of Helsinki,102,90,56,83,0.012096774193548387,Finland,Finnland,Finlande,Finlandia,Finlandia,Finlândia,Финляндия,芬兰,フィンランド,فنلندا
+29.7173941,-95.4018312,Rice University,89,86,74,83,0.012048192771084338,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+40.4237054,-86.9211946,Purdue University,105,60,77,81,0.012396694214876032,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+52.3558182,4.9557263,University of Amsterdam,58,59,125.5,81,0.012371134020618558,Netherlands,Niederlande,Pays-Bas,Paesi Bassi,Países Bajos,Holanda,Нидерланды,荷兰,オランダ,هولندا
+40.0141905,-83.0309143,Ohio State University,86,70,80,79,0.01271186440677966,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+51.5144077,-0.1173766,London School of Economics,35,25,175.5,78,0.012738853503184714,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+37.459882,126.9519053,Seoul National University,36,74,125.5,78,0.012738853503184714,Republic of Korea,Republik Korea,République de Corée,Corea del Sud,República de Corea,República da Coreia,Республика Корея,韩国,大韓民国,كوريا
+42.3504997,-71.1053991,Boston University,81,70,80,77,0.012987012987012988,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+34.4139629,-119.848947,"University of California, Santa Barbara",134,53,45,77,0.012931034482758622,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+41.8267718,-71.4025482,Brown University,53,50,125.5,76,0.01312910284463895,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+22.4162632,114.2109318,The Chinese University of Hong Kong,46,58,125.5,76,0.013071895424836602,Hong Kong,Hong Kong,Hong-Kong,Hong Kong,Hong Kong,Hong Kong,Гонконг,香港,香港,هونغ كونغ
+52.0901527,5.1226018,Utrecht University,109,68,47,75,0.013392857142857142,Netherlands,Niederlande,Pays-Bas,Paesi Bassi,Países Bajos,Holanda,Нидерланды,荷兰,オランダ,هولندا
+-37.9105238,145.1362182,Monash University,60,80,78,73,0.013761467889908256,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+48.8546601,2.3378212,Paris Sciences et Lettres,-,72,-,72,0.013888888888888888,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+55.6802303,12.5724096,University of Copenhagen,73,109,30,71,0.014150943396226414,Denmark,Dänemark,Danemark,Danimarca,Dinamarca,Dinamarca,Дания,丹麦,デンマーク,الدنمارك
+44.0224073,-92.4668474,Mayo Medical School,-,-,71,71,0.014084507042253521,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+50.8779545,4.7002953,KU Leuven,71,47,90,69,0.014423076923076924,Belgium,Belgien,Belgique,Belgio,Bélgica,Bélgica,Бельгия,比利时,ベルギー,بلجيكا
+-33.888584,151.1873473,University of Sydney,50,61,83,65,0.015463917525773195,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+33.7756178,-84.396285,Georgia Institute of Technology,70,33,85,63,0.01595744680851064,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+1.3483099,103.6831347,Nanyang Technological University,11,52,125.5,63,0.015915119363395226,Singapore,Singapur,Singapour,Singapore,Singapur,Cingapura,Сингапур,新加坡,シンガポール,سنغافورة
+51.4584172,-2.6029792,University of Bristol,44,76,61,60,0.016574585635359115,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+38.6487895,-90.3107962,Washington University in St. Louis,100,50,20,57,0.01764705882352941,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+-27.4954306,153.0120301,University of Queensland,47,65,55,56,0.017964071856287425,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+30.2849185,-97.7340567,University of Texas at Austin,67,49,51,56,0.017964071856287425,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+48.8422058,2.3451689,"Ecole normale supérieure, Paris",43,-,69,56,0.017857142857142856,France,Frankreich,France,Francia,Francia,França,Франция,法国,フランス,فرنسا
+35.9049122,-79.0469134,University of North Carolina at Chapel Hill,80,56,33,56,0.01775147928994083,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+-35.2776999,149.118527,Australian National University,20,48,97,55,0.01818181818181818,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+48.14966,11.5678602,Technical University of Munich,64,41,50,52,0.01935483870967742,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+49.4191402,8.6702492,Heidelberg University,68,45,42,52,0.01935483870967742,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+48.150806,11.58043,Ludwig Maximilian University of Munich,66,34,57,52,0.01910828025477707,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+40.4428081,-79.9430128,Carnegie Mellon University,47,24,80,50,0.01986754966887417,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+40.1019523,-88.2271615,University of Illinois at Urbana–Champaign,69,37,37,48,0.02097902097902098,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+32.8156603,-96.8439894,The University of Texas Southwestern Medical Center at Dallas,-,-,48,48,0.020833333333333332,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+35.0262444,135.7808218,Kyoto University,36,74,35,48,0.020689655172413793,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+45.5047847,-73.5771511,McGill University,32,42,67,47,0.02127659574468085,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+39.986913,116.3058739,Peking University,38,27,71,45,0.022058823529411763,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+1.2966426,103.7763939,National University of Singapore,15,22,91,43,0.0234375,Singapore,Singapur,Singapour,Singapore,Singapur,Cingapura,Сингапур,新加坡,シンガポール,سنغافورة
+46.5190557,6.5667576,École polytechnique fédérale de Lausanne,12,38,76,42,0.023809523809523808,Switzerland,Schweiz,Suisse,Svizzera,Suiza,Suíça,Швейцария,瑞士,スイス,سويسرا
+53.4668498,-2.2338837,University of Manchester,34,54,38,42,0.023809523809523808,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+43.076592,-89.4124875,University of Wisconsin–Madison,55,43,28,42,0.023809523809523808,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+59.3481484,18.0236579,Karolinska Institutet,-,38,44,41,0.024390243902439025,Sweden,Schweden,Suède,Svezia,Suecia,Suécia,Швеция,瑞典,スウェーデン,السويد
+49.2606052,-123.2459938,University of British Columbia,51,34,31,39,0.025862068965517244,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+-37.7963689,144.9611738,University of Melbourne,41,32,39,37,0.026785714285714284,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+40.7625706,-73.9556889,The Rockefeller University,-,-,36,36,0.027777777777777776,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+40.7295134,-73.9964609,New York University,52,27,29,36,0.027777777777777776,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+51.5114864,-0.115997,King's College London,23,36,46,35,0.02857142857142857,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+39.9996674,116.3264439,Tsinghua University,25,30,48,34,0.029126213592233007,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+35.7126775,139.761989,University of Tokyo,28,46,24,33,0.030612244897959186,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+22.2829989,114.1370848,The University of Hong Kong,26,40,-,33,0.030303030303030304,Hong Kong,Hong Kong,Hong-Kong,Hong Kong,Hong Kong,Hong Kong,Гонконг,香港,香港,هونغ كونغ
+47.6553351,-122.3035199,University of Washington,61,25,13,33,0.030303030303030304,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+32.8800604,-117.2340135,"University of California, San Diego",38,31,15,28,0.03571428571428571,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+55.9445158,-3.1892413,University of Edinburgh,23,27,32,27,0.03658536585365854,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+43.6628917,-79.3956564,University of Toronto,31,22,23,25,0.03947368421052632,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+42.0564594,-87.675267,Northwestern University,28,20,22,23,0.04285714285714286,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+42.2780436,-83.7382241,University of Michigan,21,21,24,22,0.045454545454545456,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+37.7859895,-122.4482377,"University of California, San Francisco",-,-,21,21,0.047619047619047616,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+36.0014258,-78.9382286,Duke University,21,17,26,21,0.046875,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+34.068921,-118.4451811,"University of California, Los Angeles",33,15,12,20,0.05,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+37.8718992,-122.2585399,"University of California, Berkeley",27,18,5,17,0.06,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+42.4534492,-76.4735027,Cornell University,14,19,14,16,0.06382978723404256,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+39.3299013,-76.6205177,Johns Hopkins University,17,13,18,16,0.0625,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+39.9522188,-75.1932137,University of Pennsylvania,19,10,17,15,0.06521739130434782,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+51.4987997,-0.1748772,Imperial College London,8,8,27,14,0.06976744186046512,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+51.5245592,-0.1340401,UCL,7,16,16,13,0.07692307692307693,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+47.376313,8.5476699,ETH Zurich,10,10,19,13,0.07692307692307693,Switzerland,Schweiz,Suisse,Svizzera,Suiza,Suíça,Швейцария,瑞士,スイス,سويسرا
+41.3163244,-72.9223431,Yale University,16,12,11,13,0.07692307692307693,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+40.8075355,-73.9625727,Columbia University,18,14,8,13,0.075,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+41.7886079,-87.5987133,University of Chicago,9,9,10,9.3,0.10714285714285714,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+40.3439888,-74.6514481,Princeton University,13,7,6,8.7,0.11538461538461539,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+34.1376576,-118.125269,California Institute of Technology,4,3,9,5.3,0.1875,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+51.7548164,-1.2543668,University of Oxford,6,1,7,4.7,0.21428571428571427,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+42.360091,-71.09416,Massachusetts Institute of Technology,1,5,4,3.3,0.3,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+42.3770029,-71.1166601,Harvard University,3,6,1,3.3,0.3,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+52.2042666,0.1149085,University of Cambridge,5,2,3,3.3,0.3,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+37.4274745,-122.169719,Stanford University,2,3,2,2.3,0.42857142857142855,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة

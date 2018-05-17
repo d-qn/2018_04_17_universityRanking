@@ -1,0 +1,50 @@
+name,rank,Fees,qs_rank,ti_rank,sh_rank,region,invRank,EN,DE,FR,IT,ES,PT,RU,ZH,JA,AR
+Stanford University,2.3,49617,2,3,2,Northern America,0.42857142857142855,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+Massachusetts Institute of Technology,3.3,49892,1,5,4,Northern America,0.3,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+Harvard University,3.3,48859,3,6,1,Northern America,0.3,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+University of Cambridge,3.3,38500,5,2,3,Northern Europe,0.3,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+University of Oxford,4.7,29e3,6,1,7,Northern Europe,0.21428571428571427,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+California Institute of Technology,5.3,49908,4,3,9,Northern America,0.1875,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+Princeton University,8.7,47140,13,7,6,Northern America,0.11538461538461539,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+University of Chicago,9.3,54825,9,9,10,Northern America,0.10714285714285714,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+UCL,13,31800,7,16,16,Northern Europe,0.08695652173913043,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+ETH Zurich,13,1187,10,10,19,Western Europe,0.07692307692307693,Switzerland,Schweiz,Suisse,Svizzera,Suiza,Suíça,Швейцария,瑞士,スイス,سويسرا
+Yale University,13,51400,16,12,11,Northern America,0.07692307692307693,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+Columbia University,13,55478,18,14,8,Northern America,0.075,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+Imperial College London,14,41367,8,8,27,Northern Europe,0.06976744186046512,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+University of Pennsylvania,15,53534,19,10,17,Northern America,0.06521739130434782,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+Cornell University,16,52853,14,19,14,Northern America,0.06382978723404256,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+Johns Hopkins University,16,52670,17,13,18,Northern America,0.0625,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+"University of California, Berkeley",17,41942,27,18,5,Northern America,0.06,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+"University of California, Los Angeles",20,41763,33,15,12,Northern America,0.05,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+"University of California, San Francisco",21,50725,-,-,21,Northern America,0.047619047619047616,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+Duke University,21,53500,21,17,26,Northern America,0.046875,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+University of Michigan,22,47476,21,21,24,Northern America,0.045454545454545456,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+Northwestern University,23,52678,28,20,22,Northern America,0.04285714285714286,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+University of Toronto,25,45690,31,22,23,Northern America,0.03947368421052632,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+University of Edinburgh,27,32615,23,27,32,Northern Europe,0.03658536585365854,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+"University of California, San Diego",28,42042,38,31,15,Northern America,0.03571428571428571,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+University of Tokyo,33,10886,28,46,24,Eastern Asia,0.030612244897959186,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+The University of Hong Kong,33,20513,26,40,-,Eastern Asia,0.030303030303030304,Hong Kong,Hong Kong,Hong-Kong,Hong Kong,Hong Kong,Hong Kong,Гонконг,香港,香港,هونغ كونغ
+University of Washington,33,35538,61,25,13,Northern America,0.030303030303030304,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+Tsinghua University,34,4732,25,30,48,Eastern Asia,0.029126213592233007,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+King's College London,35,38560,23,36,46,Northern Europe,0.02857142857142857,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+The Rockefeller University,36,0,-,-,36,Northern America,0.027777777777777776,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+New York University,36,50464,52,27,29,Northern America,0.027777777777777776,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+University of Melbourne,37,29456,41,32,39,Australia and New Zealand,0.026785714285714284,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا
+University of British Columbia,39,19467,51,34,31,Northern America,0.025862068965517244,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+Karolinska Institutet,41,22957,-,38,44,Northern Europe,0.024390243902439025,Sweden,Schweden,Suède,Svezia,Suecia,Suécia,Швеция,瑞典,スウェーデン,السويد
+Ã‰cole polytechnique fÃ©dÃ©rale de Lausanne,42,1350,12,38,76,Western Europe,0.023809523809523808,Switzerland,Schweiz,Suisse,Svizzera,Suiza,Suíça,Швейцария,瑞士,スイス,سويسرا
+University of Manchester,42,30293,34,54,38,Northern Europe,0.023809523809523808,United Kingdom,Vereinigtes Königreich,Royaume-Uni,Regno Unito,Reino Unido,Reino Unido,Британия,英国,英国,المملكة المتحدة
+University of Wisconsinâ€“Madison,42,34783,55,43,28,Northern America,0.023809523809523808,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+National University of Singapore,43,28321,15,22,91,South-Eastern Asia,0.0234375,Singapore,Singapur,Singapour,Singapore,Singapur,Cingapura,Сингапур,新加坡,シンガポール,سنغافورة
+Peking University,45,3665,38,27,71,Eastern Asia,0.022058823529411763,China,China,Chine,Cina,China,China,Китай,中国,中国,الصين
+McGill University,47,39625,32,42,67,Northern America,0.02127659574468085,Canada,Kanada,Canada,Canada,Canadá,Canadá,Канада,加拿大,カナダ,كندا
+University of Illinois at Urbanaâ€“Champaign,48,31988,69,37,37,Northern America,0.02097902097902098,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+The University of Texas Southwestern Medical Center at Dallas,48,33409,-,-,48,Northern America,0.020833333333333332,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+Kyoto University,48,4901,36,74,35,Eastern Asia,0.020689655172413793,Japan,Japan,Japon,Giappone,Japón,Japão,Япония,日本,日本,اليابان
+Carnegie Mellon University,50,53910,47,24,80,Northern America,0.01986754966887417,United States,Vereinigte Staaten,États-Unis,Stati Uniti d'America,Estados Unidos,Estados Unidos,Соединенные Штаты Америки,美国,米国,الولايات المتحدة
+Technical University of Munich,52,157,64,41,50,Western Europe,0.01935483870967742,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+Heidelberg University,52,183,68,45,42,Western Europe,0.01935483870967742,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+Ludwig Maximilian University of Munich,52,125,66,34,57,Western Europe,0.01910828025477707,Germany,Deutschland,Allemagne,Germania,Alemania,Alemanha,Германия,德国,ドイツ,ألمانيا
+Australian National University,55,28033,20,48,97,Australia and New Zealand,0.01818181818181818,Australia,Australien,Australie,Australia,Australia,Austrália,Австралия,澳大利亚,オーストラリア,أستراليا

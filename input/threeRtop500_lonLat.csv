@@ -1,95 +1,95 @@
 lon,lat,keylocation,country,region,name
--122.169719,37.4274745,loc_1,United States of America,Northern America,Stanford University
--71.09416,42.360091,loc_2,United States of America,Northern America,Massachusetts Institute of Technology
--71.1166601,42.3770029,loc_3,United States of America,Northern America,Harvard University
-0.1149085,52.2042666,loc_4,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Cambridge
--1.2543668,51.7548164,loc_5,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Oxford
--118.125269,34.1376576,loc_6,United States of America,Northern America,California Institute of Technology
--74.6514481,40.3439888,loc_7,United States of America,Northern America,Princeton University
--87.5987133,41.7886079,loc_8,United States of America,Northern America,University of Chicago
--0.1340401,51.5245592,loc_9,United Kingdom of Great Britain and Northern Ireland,Northern Europe,UCL
+-122.169719,37.4274745,loc_1,USA,North America,Stanford University
+-71.09416,42.360091,loc_2,USA,North America,Massachusetts Institute of Technology
+-71.1166601,42.3770029,loc_3,USA,North America,Harvard University
+0.1149085,52.2042666,loc_4,UK,Northern Europe,University of Cambridge
+-1.2543668,51.7548164,loc_5,UK,Northern Europe,University of Oxford
+-118.125269,34.1376576,loc_6,USA,North America,California Institute of Technology
+-74.6514481,40.3439888,loc_7,USA,North America,Princeton University
+-87.5987133,41.7886079,loc_8,USA,North America,University of Chicago
+-0.1340401,51.5245592,loc_9,UK,Northern Europe,UCL
 8.5476699,47.376313,loc_10,Switzerland,Western Europe,ETH Zurich
--72.9223431,41.3163244,loc_11,United States of America,Northern America,Yale University
--73.9625727,40.8075355,loc_12,United States of America,Northern America,Columbia University
--0.1748772,51.4987997,loc_13,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Imperial College London
--75.1932137,39.9522188,loc_14,United States of America,Northern America,University of Pennsylvania
--76.4735027,42.4534492,loc_15,United States of America,Northern America,Cornell University
--76.6205177,39.3299013,loc_16,United States of America,Northern America,Johns Hopkins University
--122.2585399,37.8718992,loc_17,United States of America,Northern America,"University of California, Berkeley"
--118.4451811,34.068921,loc_18,United States of America,Northern America,"University of California, Los Angeles"
--122.4482377,37.7859895,loc_19,United States of America,Northern America,"University of California, San Francisco"
--78.9382286,36.0014258,loc_20,United States of America,Northern America,Duke University
--83.7382241,42.2780436,loc_21,United States of America,Northern America,University of Michigan
--87.675267,42.0564594,loc_22,United States of America,Northern America,Northwestern University
--79.3956564,43.6628917,loc_23,Canada,Northern America,University of Toronto
--3.1892413,55.9445158,loc_24,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Edinburgh
--117.2340135,32.8800604,loc_25,United States of America,Northern America,"University of California, San Diego"
-139.761989,35.7126775,loc_26,Japan,Eastern Asia,University of Tokyo
-114.1370848,22.2829989,loc_27,Hong Kong,Eastern Asia,The University of Hong Kong
--122.3035199,47.6553351,loc_28,United States of America,Northern America,University of Washington
-116.3264439,39.9996674,loc_29,China,Eastern Asia,Tsinghua University
--0.115997,51.5114864,loc_30,United Kingdom of Great Britain and Northern Ireland,Northern Europe,King's College London
--73.9556889,40.7625706,loc_31,United States of America,Northern America,The Rockefeller University
--73.9964609,40.7295134,loc_32,United States of America,Northern America,New York University
+-72.9223431,41.3163244,loc_11,USA,North America,Yale University
+-73.9625727,40.8075355,loc_12,USA,North America,Columbia University
+-0.1748772,51.4987997,loc_13,UK,Northern Europe,Imperial College London
+-75.1932137,39.9522188,loc_14,USA,North America,University of Pennsylvania
+-76.4735027,42.4534492,loc_15,USA,North America,Cornell University
+-76.6205177,39.3299013,loc_16,USA,North America,Johns Hopkins University
+-122.2585399,37.8718992,loc_17,USA,North America,"University of California, Berkeley"
+-118.4451811,34.068921,loc_18,USA,North America,"University of California, Los Angeles"
+-122.4482377,37.7859895,loc_19,USA,North America,"University of California, San Francisco"
+-78.9382286,36.0014258,loc_20,USA,North America,Duke University
+-83.7382241,42.2780436,loc_21,USA,North America,University of Michigan
+-87.675267,42.0564594,loc_22,USA,North America,Northwestern University
+-79.3956564,43.6628917,loc_23,Canada,North America,University of Toronto
+-3.1892413,55.9445158,loc_24,UK,Northern Europe,University of Edinburgh
+-117.2340135,32.8800604,loc_25,USA,North America,"University of California, San Diego"
+139.761989,35.7126775,loc_26,Japan,East Asia,University of Tokyo
+114.1370848,22.2829989,loc_27,Hong Kong,East Asia,The University of Hong Kong
+-122.3035199,47.6553351,loc_28,USA,North America,University of Washington
+116.3264439,39.9996674,loc_29,China,East Asia,Tsinghua University
+-0.115997,51.5114864,loc_30,UK,Northern Europe,King's College London
+-73.9556889,40.7625706,loc_31,USA,North America,The Rockefeller University
+-73.9964609,40.7295134,loc_32,USA,North America,New York University
 144.9611738,-37.7963689,loc_33,Australia,Australia and New Zealand,University of Melbourne
--123.2459938,49.2606052,loc_34,Canada,Northern America,University of British Columbia
+-123.2459938,49.2606052,loc_34,Canada,North America,University of British Columbia
 18.0236579,59.3481484,loc_35,Sweden,Northern Europe,Karolinska Institutet
 6.5667576,46.5190557,loc_36,Switzerland,Western Europe,École polytechnique fédérale de Lausanne
--2.2338837,53.4668498,loc_37,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Manchester
--89.4124875,43.076592,loc_38,United States of America,Northern America,University of Wisconsin–Madison
-103.7763939,1.2966426,loc_39,Singapore,South-Eastern Asia,National University of Singapore
-116.3058739,39.986913,loc_40,China,Eastern Asia,Peking University
--73.5771511,45.5047847,loc_41,Canada,Northern America,McGill University
--88.2271615,40.1019523,loc_42,United States of America,Northern America,University of Illinois at Urbana–Champaign
--96.8439894,32.8156603,loc_43,United States of America,Northern America,The University of Texas Southwestern Medical Center at Dallas
-135.7808218,35.0262444,loc_44,Japan,Eastern Asia,Kyoto University
--79.9430128,40.4428081,loc_45,United States of America,Northern America,Carnegie Mellon University
+-2.2338837,53.4668498,loc_37,UK,Northern Europe,University of Manchester
+-89.4124875,43.076592,loc_38,USA,North America,University of Wisconsin–Madison
+103.7763939,1.2966426,loc_39,Singapore,South East Asia,National University of Singapore
+116.3058739,39.986913,loc_40,China,East Asia,Peking University
+-73.5771511,45.5047847,loc_41,Canada,North America,McGill University
+-88.2271615,40.1019523,loc_42,USA,North America,University of Illinois at Urbana–Champaign
+-96.8439894,32.8156603,loc_43,USA,North America,The University of Texas Southwestern Medical Center at Dallas
+135.7808218,35.0262444,loc_44,Japan,East Asia,Kyoto University
+-79.9430128,40.4428081,loc_45,USA,North America,Carnegie Mellon University
 11.5678602,48.14966,loc_46,Germany,Western Europe,Technical University of Munich
 8.6702492,49.4191402,loc_47,Germany,Western Europe,Heidelberg University
 11.58043,48.150806,loc_48,Germany,Western Europe,Ludwig Maximilian University of Munich
 149.118527,-35.2776999,loc_49,Australia,Australia and New Zealand,Australian National University
 153.0120301,-27.4954306,loc_50,Australia,Australia and New Zealand,University of Queensland
--97.7340567,30.2849185,loc_51,United States of America,Northern America,University of Texas at Austin
+-97.7340567,30.2849185,loc_51,USA,North America,University of Texas at Austin
 2.3451689,48.8422058,loc_52,France,Western Europe,"Ecole normale supérieure, Paris"
--79.0469134,35.9049122,loc_53,United States of America,Northern America,University of North Carolina at Chapel Hill
--90.3107962,38.6487895,loc_54,United States of America,Northern America,Washington University in St. Louis
--2.6029792,51.4584172,loc_55,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Bristol
--84.396285,33.7756178,loc_56,United States of America,Northern America,Georgia Institute of Technology
-103.6831347,1.3483099,loc_57,Singapore,South-Eastern Asia,Nanyang Technological University
+-79.0469134,35.9049122,loc_53,USA,North America,University of North Carolina at Chapel Hill
+-90.3107962,38.6487895,loc_54,USA,North America,Washington University in St. Louis
+-2.6029792,51.4584172,loc_55,UK,Northern Europe,University of Bristol
+-84.396285,33.7756178,loc_56,USA,North America,Georgia Institute of Technology
+103.6831347,1.3483099,loc_57,Singapore,South East Asia,Nanyang Technological University
 151.1873473,-33.888584,loc_58,Australia,Australia and New Zealand,University of Sydney
 4.7002953,50.8779545,loc_59,Belgium,Western Europe,KU Leuven
 12.5724096,55.6802303,loc_60,Denmark,Northern Europe,University of Copenhagen
--92.4668474,44.0224073,loc_61,United States of America,Northern America,Mayo Medical School
+-92.4668474,44.0224073,loc_61,USA,North America,Mayo Medical School
 2.3378212,48.8546601,loc_62,France,Western Europe,Paris Sciences et Lettres
 145.1362182,-37.9105238,loc_63,Australia,Australia and New Zealand,Monash University
 5.1226018,52.0901527,loc_64,Netherlands,Western Europe,Utrecht University
--71.4025482,41.8267718,loc_65,United States of America,Northern America,Brown University
-114.2109318,22.4162632,loc_66,Hong Kong,Eastern Asia,The Chinese University of Hong Kong
--71.1053991,42.3504997,loc_67,United States of America,Northern America,Boston University
--119.848947,34.4139629,loc_68,United States of America,Northern America,"University of California, Santa Barbara"
--0.1173766,51.5144077,loc_69,United Kingdom of Great Britain and Northern Ireland,Northern Europe,London School of Economics
-126.9519053,37.459882,loc_70,Republic of Korea,Eastern Asia,Seoul National University
--83.0309143,40.0141905,loc_71,United States of America,Northern America,Ohio State University
--86.9211946,40.4237054,loc_72,United States of America,Northern America,Purdue University
+-71.4025482,41.8267718,loc_65,USA,North America,Brown University
+114.2109318,22.4162632,loc_66,Hong Kong,East Asia,The Chinese University of Hong Kong
+-71.1053991,42.3504997,loc_67,USA,North America,Boston University
+-119.848947,34.4139629,loc_68,USA,North America,"University of California, Santa Barbara"
+-0.1173766,51.5144077,loc_69,UK,Northern Europe,London School of Economics
+126.9519053,37.459882,loc_70,Republic of Korea,East Asia,Seoul National University
+-83.0309143,40.0141905,loc_71,USA,North America,Ohio State University
+-86.9211946,40.4237054,loc_72,USA,North America,Purdue University
 4.9557263,52.3558182,loc_73,Netherlands,Western Europe,University of Amsterdam
 24.9510419,60.1726348,loc_74,Finland,Northern Europe,University of Helsinki
--95.4018312,29.7173941,loc_75,United States of America,Northern America,Rice University
--76.9425543,38.9869183,loc_76,United States of America,Northern America,"University of Maryland, College Park"
--118.285117,34.0223519,loc_77,United States of America,Northern America,University of Southern California
--93.2277285,44.97399,loc_78,United States of America,Northern America,University of Minnesota
--77.8599084,40.7982133,loc_79,United States of America,Northern America,Pennsylvania State University
+-95.4018312,29.7173941,loc_75,USA,North America,Rice University
+-76.9425543,38.9869183,loc_76,USA,North America,"University of Maryland, College Park"
+-118.285117,34.0223519,loc_77,USA,North America,University of Southern California
+-93.2277285,44.97399,loc_78,USA,North America,University of Minnesota
+-77.8599084,40.7982133,loc_79,USA,North America,Pennsylvania State University
 6.5629872,53.2192634,loc_80,Netherlands,Western Europe,University of Groningen
 151.2312675,-33.917347,loc_81,Australia,Australia and New Zealand,The University of New South Wales
--121.7617125,38.5382322,loc_82,United States of America,Northern America,"University of California, Davis"
+-121.7617125,38.5382322,loc_82,USA,North America,"University of California, Davis"
 17.6300093,59.8509005,loc_83,Sweden,Northern Europe,Uppsala University
 4.485209,52.1571485,loc_84,Netherlands,Western Europe,Leiden University
 8.5509812,47.3743221,loc_85,Switzerland,Western Europe,University of Zurich
--4.2882005,55.8721211,loc_86,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Glasgow
+-4.2882005,55.8721211,loc_86,UK,Northern Europe,University of Glasgow
 13.3936551,52.517883,loc_87,Germany,Western Europe,Humboldt University of Berlin
--1.5614704,52.3792525,loc_88,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Warwick
-121.5036178,31.2974197,loc_89,China,Eastern Asia,Fudan University
-135.5244676,34.8220139,loc_90,Japan,Eastern Asia,Osaka University
--79.9192254,43.260879,loc_91,Canada,Northern America,McMaster University
+-1.5614704,52.3792525,loc_88,UK,Northern Europe,University of Warwick
+121.5036178,31.2974197,loc_89,China,East Asia,Fudan University
+135.5244676,34.8220139,loc_90,Japan,East Asia,Osaka University
+-79.9192254,43.260879,loc_91,Canada,North America,McMaster University
 6.1451157,46.199444,loc_92,Switzerland,Western Europe,University of Geneva
 4.525585,51.91752,loc_93,Netherlands,Western Europe,Erasmus University Rotterdam
 4.3758659,51.9962559,loc_94,Netherlands,Western Europe,Delft University of Technology
@@ -97,143 +97,143 @@ lon,lat,keylocation,country,region,name
 2.357499,48.8471036,loc_96,France,Western Europe,University of Paris VI: Pierre-and-Marie-Curie University
 115.8199096,-31.981179,loc_97,Australia,Australia and New Zealand,The University of Western Australia
 13.203493,55.7119483,loc_98,Sweden,Northern Europe,Lund University
-136.967573,35.153491,loc_99,Japan,Eastern Asia,Nagoya University
+136.967573,35.153491,loc_99,Japan,East Asia,Nagoya University
 3.7279181,51.0465619,loc_100,Belgium,Western Europe,Ghent University
-140.874074,38.253834,loc_101,Japan,Eastern Asia,Tohoku University
--79.960835,40.4443533,loc_102,United States of America,Northern America,University of Pittsburgh
--1.4879469,53.3809409,loc_103,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Sheffield
+140.874074,38.253834,loc_101,Japan,East Asia,Tohoku University
+-79.960835,40.4443533,loc_102,USA,North America,University of Pittsburgh
+-1.4879469,53.3809409,loc_103,UK,Northern Europe,University of Sheffield
 5.6657696,51.9845558,loc_104,Netherlands,Western Europe,Wageningen University & Research
 13.2896787,52.452526400000004,loc_105,Germany,Western Europe,Free University of Berlin
-114.2654655,22.3363998,loc_106,Hong Kong,Eastern Asia,The Hong Kong University of Science and Technology
--105.2659417,40.007581,loc_107,United States of America,Northern America,University of Colorado Boulder
--117.8442962,33.6404952,loc_108,United States of America,Northern America,"University of California, Irvine"
--113.5263186,53.5232189,loc_109,Canada,Northern America,University of Alberta
+114.2654655,22.3363998,loc_106,Hong Kong,East Asia,The Hong Kong University of Science and Technology
+-105.2659417,40.007581,loc_107,USA,North America,University of Colorado Boulder
+-117.8442962,33.6404952,loc_108,USA,North America,"University of California, Irvine"
+-113.5263186,53.5232189,loc_109,Canada,North America,University of Alberta
 7.5826,47.5602535,loc_110,Switzerland,Western Europe,University of Basel
--1.3966381,50.935742,loc_111,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Southampton
-101.6543903,3.1201114,loc_112,Malaysia,South-Eastern Asia,University of Malaya
-139.6835302,35.6051229,loc_113,Japan,Eastern Asia,Tokyo Institute of Technology
+-1.3966381,50.935742,loc_111,UK,Northern Europe,University of Southampton
+101.6543903,3.1201114,loc_112,Malaysia,South East Asia,University of Malaya
+139.6835302,35.6051229,loc_113,Japan,East Asia,Tokyo Institute of Technology
 10.7217496,59.9399586,loc_114,Norway,Northern Europe,University of Oslo
--1.9305135,52.4508168,loc_115,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Birmingham
-117.28059,31.821994,loc_116,China,Eastern Asia,University of Science and Technology of China
--1.1951582,52.938636,loc_117,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Nottingham
--84.4821719,42.701848,loc_118,United States of America,Northern America,Michigan State University
--1.5550328,53.8066815,loc_119,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Leeds
+-1.9305135,52.4508168,loc_115,UK,Northern Europe,University of Birmingham
+117.28059,31.821994,loc_116,China,East Asia,University of Science and Technology of China
+-1.1951582,52.938636,loc_117,UK,Northern Europe,University of Nottingham
+-84.4821719,42.701848,loc_118,USA,North America,Michigan State University
+-1.5550328,53.8066815,loc_119,UK,Northern Europe,University of Leeds
 138.6062277,-34.920603,loc_120,Australia,Australia and New Zealand,University of Adelaide
--86.8026551,36.1447034,loc_121,United States of America,Northern America,Vanderbilt University
--84.3239989,33.7925195,loc_122,United States of America,Northern America,Emory University
-121.432841,31.201001,loc_123,China,Eastern Asia,Shanghai Jiao Tong University
--112.1598496,33.6075228,loc_124,United States of America,Northern America,Arizona State University
--95.396241,29.710529,loc_125,United States of America,Northern America,Baylor College of Medicine
--73.9533616,40.7898695,loc_126,United States of America,Northern America,Icahn School of Medicine at Mount Sinai
--95.3966904,29.7071962,loc_127,United States of America,Northern America,The University of Texas M. D. Anderson Cancer Center
+-86.8026551,36.1447034,loc_121,USA,North America,Vanderbilt University
+-84.3239989,33.7925195,loc_122,USA,North America,Emory University
+121.432841,31.201001,loc_123,China,East Asia,Shanghai Jiao Tong University
+-112.1598496,33.6075228,loc_124,USA,North America,Arizona State University
+-95.396241,29.710529,loc_125,USA,North America,Baylor College of Medicine
+-73.9533616,40.7898695,loc_126,USA,North America,Icahn School of Medicine at Mount Sinai
+-95.3966904,29.7071962,loc_127,USA,North America,The University of Texas M. D. Anderson Cancer Center
 14.5542827,52.342151,loc_128,Germany,Western Europe,Viadrina European University
--1.3980274,50.9362861,loc_129,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Southampton
-34.8083407,31.9045055,loc_130,Israel,Western Asia,Weizmann Institute of Science
+-1.3980274,50.9362861,loc_129,UK,Northern Europe,University of Southampton
+34.8083407,31.9045055,loc_130,Israel,Middle East,Weizmann Institute of Science
 13.3766245,52.5264618,loc_131,Germany,Western Europe,Charité - Universitätsmedizin Berlin
 7.8459496,47.9935441,loc_132,Germany,Western Europe,University of Freiburg
 -6.2545716,53.3437935,loc_133,Ireland,Northern Europe,Trinity College Dublin
 37.5286696,55.7039349,loc_134,Russian Federation,Eastern Europe,Moscow State University
-127.3640249,36.3693921,loc_135,Republic of Korea,Eastern Asia,KAIST
+127.3640249,36.3693921,loc_135,Republic of Korea,East Asia,KAIST
 9.9374005,51.5408116,loc_136,Germany,Western Europe,University of Göttingen
-120.123279,30.263944,loc_137,China,Eastern Asia,Zhejiang University
+120.123279,30.263944,loc_137,China,East Asia,Zhejiang University
 7.438119,46.9504896,loc_138,Switzerland,Western Europe,University of Bern
--3.1788641,51.4866271,loc_139,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Cardiff University
+-3.1788641,51.4866271,loc_139,UK,Northern Europe,Cardiff University
 18.060776,59.363154,loc_140,Sweden,Northern Europe,Stockholm University
-35.2414009,31.7945578,loc_141,Israel,Western Asia,Hebrew University of Jerusalem
+35.2414009,31.7945578,loc_141,Israel,Middle East,Hebrew University of Jerusalem
 4.6155909,50.6696875,loc_142,Belgium,Western Europe,Université catholique de Louvain
--82.3549302,29.6436325,loc_143,United States of America,Northern America,University of Florida
--73.6137592,45.5056156,loc_144,Canada,Northern America,Université de Montréal
-114.172793,22.3371397,loc_145,Hong Kong,Eastern Asia,City University of Hong Kong
--0.0403745,51.5240671,loc_146,United Kingdom of Great Britain and Northern Ireland,Northern Europe,"Queen Mary, University of London"
--1.5782029,54.7649859,loc_147,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Durham
+-82.3549302,29.6436325,loc_143,USA,North America,University of Florida
+-73.6137592,45.5056156,loc_144,Canada,North America,Université de Montréal
+114.172793,22.3371397,loc_145,Hong Kong,East Asia,City University of Hong Kong
+-0.0403745,51.5240671,loc_146,UK,Northern Europe,"Queen Mary, University of London"
+-1.5782029,54.7649859,loc_147,UK,Northern Europe,University of Durham
 9.043774,48.5294782,loc_148,Germany,Western Europe,University of Tübingen
 12.521381,55.7855742,loc_149,Denmark,Northern Europe,Technical University of Denmark
 -46.6490459,-23.5916604,loc_150,Brazil,South America,University of São Paulo
-141.340013,43.0779575,loc_151,Japan,Eastern Asia,Hokkaido University
-121.5397518,25.0173405,loc_152,"Taiwan, Province of China",Eastern Asia,National Taiwan University
+141.340013,43.0779575,loc_151,Japan,East Asia,Hokkaido University
+121.5397518,25.0173405,loc_152,"Taiwan, Province of China",East Asia,National Taiwan University
 5.8568877,51.8193148,loc_153,Netherlands,Western Europe,Radboud University Nijmegen
--78.5079772,38.0335529,loc_154,United States of America,Northern America,University of Virginia
--3.5351475,50.7371369,loc_155,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Exeter
+-78.5079772,38.0335529,loc_154,USA,North America,University of Virginia
+-3.5351475,50.7371369,loc_155,UK,Northern Europe,University of Exeter
 2.1764839,48.6976847,loc_156,France,Western Europe,University of Paris-Sud
--77.6260033,43.1305531,loc_157,United States of America,Northern America,University of Rochester
+-77.6260033,43.1305531,loc_157,USA,North America,University of Rochester
 7.0865227,50.7267715,loc_158,Germany,Western Europe,University of Bonn
-126.993606,37.588227,loc_159,Republic of Korea,Eastern Asia,Sungkyunkwan University
+126.993606,37.588227,loc_159,Republic of Korea,East Asia,Sungkyunkwan University
 6.0656869,50.7800778,loc_160,Germany,Western Europe,RWTH Aachen University
 6.5801606,46.5210895,loc_161,Switzerland,Western Europe,University of Lausanne
--2.9655722,53.405936,loc_162,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Liverpool
-35.0231271,32.7767783,loc_163,Israel,Western Asia,Technion – Israel Institute of Technology
--96.336499,30.618531,loc_164,United States of America,Northern America,Texas A&M University
--2.3272635,51.3781162,loc_165,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Bath
-120.9932316,24.7947253,loc_166,"Taiwan, Province of China",Eastern Asia,National Tsing Hua University
+-2.9655722,53.405936,loc_162,UK,Northern Europe,University of Liverpool
+35.0231271,32.7767783,loc_163,Israel,Middle East,Technion – Israel Institute of Technology
+-96.336499,30.618531,loc_164,USA,North America,Texas A&M University
+-2.3272635,51.3781162,loc_165,UK,Northern Europe,University of Bath
+120.9932316,24.7947253,loc_166,"Taiwan, Province of China",East Asia,National Tsing Hua University
 -58.3730695,-34.5998875,loc_167,Argentina,South America,University of Buenos Aires
--110.9501094,32.2318851,loc_168,United States of America,Northern America,University of Arizona
+-110.9501094,32.2318851,loc_168,USA,North America,University of Arizona
 8.4170303,49.0119199,loc_169,Germany,Western Europe,Karlsruhe Institute of Technology
 16.3600504,48.2131855,loc_170,Austria,Western Europe,University of Vienna
--81.6083838,41.5043413,loc_171,United States of America,Northern America,Case Western Reserve University
--111.9280527,33.4242399,loc_172,United States of America,Northern America,Arizona State University
--72.2886935,43.7044406,loc_173,United States of America,Northern America,Dartmouth College
+-81.6083838,41.5043413,loc_171,USA,North America,Case Western Reserve University
+-111.9280527,33.4242399,loc_172,USA,North America,Arizona State University
+-72.2886935,43.7044406,loc_173,USA,North America,Dartmouth College
 4.8657199,52.3337568,loc_174,Netherlands,Western Europe,Vrije Universiteit
-127.0277773,37.590799,loc_175,Republic of Korea,Eastern Asia,Korea University
-77.1926284,28.5449756,loc_176,India,Southern Asia,Indian Institute of Technology Delhi
-46.6191078,24.716241,loc_177,Saudi Arabia,Western Asia,King Saud University
+127.0277773,37.590799,loc_175,Republic of Korea,East Asia,Korea University
+77.1926284,28.5449756,loc_176,India,South Asia,Indian Institute of Technology Delhi
+46.6191078,24.716241,loc_177,Saudi Arabia,Middle East,King Saud University
 10.4027859,43.7209661,loc_178,Italy,Southern Europe,Scuola Superiore Sant'Anna Pisa di Studi Universitari e di Perfezionamento
 18.0706646,59.3498065,loc_179,Sweden,Northern Europe,Royal Institute of Technology
--1.0561667,53.9455334,loc_180,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of York
+-1.0561667,53.9455334,loc_180,UK,Northern Europe,University of York
 174.7691073,-36.8523378,loc_181,New Zealand,Australia and New Zealand,University of Auckland
 13.7289964,51.0292734,loc_182,Germany,Western Europe,TU Dresden
 -0.5935827,44.8086048,loc_183,France,Western Europe,University of Bordeaux
--96.7004763,40.8201966,loc_184,United States of America,Northern America,University of Nebraska–Lincoln
-120.6801328,24.1562767,loc_185,China,Eastern Asia,China Medical University (Taichung)
-104.070295,30.63785,loc_186,China,Eastern Asia,Sichuan University
+-96.7004763,40.8201966,loc_184,USA,North America,University of Nebraska–Lincoln
+120.6801328,24.1562767,loc_185,China,East Asia,China Medical University (Taichung)
+104.070295,30.63785,loc_186,China,East Asia,Sichuan University
 12.3784615,51.3385738,loc_187,Germany,Western Europe,Leipzig University
--71.7610714,42.2772479,loc_188,United States of America,Northern America,University of Massachusetts Medical School - Worcester
-114.1784191,22.3028474,loc_189,Hong Kong,Eastern Asia,Hong Kong Polytechnic University
+-71.7610714,42.2772479,loc_188,USA,North America,University of Massachusetts Medical School - Worcester
+114.1784191,22.3028474,loc_189,Hong Kong,East Asia,Hong Kong Polytechnic University
 2.1639495,48.7088206,loc_190,France,Western Europe,CentraleSupélec
-118.7789602,32.0568391,loc_191,China,Eastern Asia,Nanjing University
--74.4473991,40.5008186,loc_192,United States of America,Northern America,Rutgers University - New Brunswick
-126.938572,37.565784,loc_193,Republic of Korea,Eastern Asia,Yonsei University
-72.9132679,19.1334302,loc_194,India,Southern Asia,Indian Institute of Technology Bombay
+118.7789602,32.0568391,loc_191,China,East Asia,Nanjing University
+-74.4473991,40.5008186,loc_192,USA,North America,Rutgers University - New Brunswick
+126.938572,37.565784,loc_193,Republic of Korea,East Asia,Yonsei University
+72.9132679,19.1334302,loc_194,India,South Asia,Indian Institute of Technology Bombay
 5.948386,49.504254,loc_195,Luxembourg,Western Europe,University of Luxembourg
--86.5129458,39.1745704,loc_196,United States of America,Northern America,Indiana University Bloomington
+-86.5129458,39.1745704,loc_196,USA,North America,Indiana University Bloomington
 5.6867065,50.8471373,loc_197,Netherlands,Western Europe,Maastricht University
 4.3822222,50.8132068,loc_198,Belgium,Western Europe,Université libre de Bruxelles
-129.3231836,36.0138857,loc_199,Republic of Korea,Eastern Asia,Pohang University of Science and Technology
+129.3231836,36.0138857,loc_199,Republic of Korea,East Asia,Pohang University of Science and Technology
 -99.1843676,19.3188895,loc_200,Mexico,Central America,National Autonomous University of Mexico
--122.0582972,36.9914738,loc_201,United States of America,Northern America,"University of California, Santa Cruz"
+-122.0582972,36.9914738,loc_201,USA,North America,"University of California, Santa Cruz"
 10.40033,43.719601,loc_202,Italy,Southern Europe,Scuola Normale Superiore di Pisa
-130.4250445,33.6266584,loc_203,Japan,Eastern Asia,Kyushu University
-34.8043877,32.1133141,loc_204,Israel,Western Asia,Tel Aviv University
--71.3240468,42.6500568,loc_205,United States of America,Northern America,University of Massachusetts Lowell
+130.4250445,33.6266584,loc_203,Japan,East Asia,Kyushu University
+34.8043877,32.1133141,loc_204,Israel,Middle East,Tel Aviv University
+-71.3240468,42.6500568,loc_205,USA,North America,University of Massachusetts Lowell
 11.9781232,57.6888144,loc_206,Sweden,Northern Europe,Chalmers University of Technology
 10.4020771,63.419499,loc_207,Norway,Northern Europe,Norwegian University of Science and Technology
--2.7927522,56.3416934,loc_208,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of St Andrews
+-2.7927522,56.3416934,loc_208,UK,Northern Europe,University of St Andrews
 12.5144384,41.9037626,loc_209,Italy,Southern Europe,Sapienza University of Rome
--1.6146608,54.9791871,loc_210,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Newcastle
--71.1190232,42.4074843,loc_211,United States of America,Northern America,Tufts University
--114.1358007,51.0781599,loc_212,Canada,Northern America,University of Calgary
-39.2575481,21.5016038,loc_213,Saudi Arabia,Western Asia,King Abdulaziz University
+-1.6146608,54.9791871,loc_210,UK,Northern Europe,University of Newcastle
+-71.1190232,42.4074843,loc_211,USA,North America,Tufts University
+-114.1358007,51.0781599,loc_212,Canada,North America,University of Calgary
+39.2575481,21.5016038,loc_213,Saudi Arabia,Middle East,King Abdulaziz University
 4.8285332,45.7298448,loc_214,France,Western Europe,École Normale Supérieure de Lyon
--2.1015257,57.16476,loc_215,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Aberdeen
+-2.1015257,57.16476,loc_215,UK,Northern Europe,University of Aberdeen
 5.4907148,51.4486098,loc_216,Netherlands,Western Europe,Eindhoven University of Technology
 -100.28954,25.6515649,loc_217,Mexico,Central America,Monterrey Institute of Technology and Higher Education
 9.9846195,53.5665641,loc_218,Germany,Western Europe,University of Hamburg
--77.0722585,38.9076089,loc_219,United States of America,Northern America,Georgetown University
--80.5448576,43.4722854,loc_220,Canada,Northern America,University of Waterloo
-127.0453219,37.5572321,loc_221,Republic of Korea,Eastern Asia,Hanyang University
-139.7196485,35.7087334,loc_222,Japan,Eastern Asia,Waseda University
+-77.0722585,38.9076089,loc_219,USA,North America,Georgetown University
+-80.5448576,43.4722854,loc_220,Canada,North America,University of Waterloo
+127.0453219,37.5572321,loc_221,Republic of Korea,East Asia,Hanyang University
+139.7196485,35.7087334,loc_222,Japan,East Asia,Waseda University
 2.16402,41.386608,loc_223,Spain,Southern Europe,University of Barcelona
--80.2771253,25.7191685,loc_224,United States of America,Northern America,University of Miami
--86.2353388,41.7055716,loc_225,United States of America,Northern America,University of Notre Dame
+-80.2771253,25.7191685,loc_224,USA,North America,University of Miami
+-86.2353388,41.7055716,loc_225,USA,North America,University of Notre Dame
 5.7749356,45.1906157,loc_226,France,Western Europe,Grenoble Alpes University
--87.6581066,41.8749598,loc_227,United States of America,Northern America,University of Illinois at Chicago
+-87.6581066,41.8749598,loc_227,USA,North America,University of Illinois at Chicago
 5.3217549,60.3878586,loc_228,Norway,Northern Europe,University of Bergen
 151.1126498,-33.7738237,loc_229,Australia,Australia and New Zealand,Macquarie University
 11.0045507,49.5978804,loc_230,Germany,Western Europe,University of Erlangen-Nuremberg
--0.087914,50.8670895,loc_231,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Sussex
--86.8064447,33.5021227,loc_232,United States of America,Northern America,University of Alabama at Birmingham
+-0.087914,50.8670895,loc_231,UK,Northern Europe,University of Sussex
+-86.8064447,33.5021227,loc_232,USA,North America,University of Alabama at Birmingham
 9.2297627,45.4786455,loc_233,Italy,Southern Europe,Politecnico di Milano
--2.7877294,54.0103942,loc_234,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Lancaster
--72.5267121,42.3911569,loc_235,United States of America,Northern America,University of Massachusetts Amherst
+-2.7877294,54.0103942,loc_234,UK,Northern Europe,University of Lancaster
+-72.5267121,42.3911569,loc_235,USA,North America,University of Massachusetts Amherst
 7.7664545,48.5790692,loc_236,France,Western Europe,University of Strasbourg
 2.3817936,48.8293187,loc_237,France,Western Europe,Paris Diderot University
 4.394886,50.821658,loc_238,Belgium,Western Europe,Vrije Universiteit Brussel
@@ -241,25 +241,25 @@ lon,lat,keylocation,country,region,name
 11.971878,57.6981719,loc_240,Sweden,Northern Europe,University of Gothenburg
 7.6131826,51.9635705,loc_241,Germany,Western Europe,University of Münster
 11.354157,44.4962318,loc_242,Italy,Southern Europe,University of Bologna
--0.9418157,51.4414205,loc_243,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Reading
+-0.9418157,51.4414205,loc_243,UK,Northern Europe,University of Reading
 2.3283745,48.8540917,loc_244,France,Western Europe,Sciences Po
--76.4951412,44.2252795,loc_245,Canada,Northern America,Queen's University
-NA,NA,loc_246,Pakistan,Southern Asia,National University of Sciences And Technology (NUST) Islamabad
--5.9340493,54.5844087,loc_247,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Queen's University Belfast
--0.5630625,51.425673,loc_248,United Kingdom of Great Britain and Northern Ireland,Northern Europe,"Royal Holloway, University of London"
+-76.4951412,44.2252795,loc_245,Canada,North America,Queen's University
+NA,NA,loc_246,Pakistan,South Asia,National University of Sciences And Technology (NUST) Islamabad
+-5.9340493,54.5844087,loc_247,UK,Northern Europe,Queen's University Belfast
+-0.5630625,51.425673,loc_248,UK,Northern Europe,"Royal Holloway, University of London"
 13.3269446,52.5125322,loc_249,Germany,Western Europe,Technical University of Berlin
 2.1797941,41.3789689,loc_250,Spain,Southern Europe,Pompeu Fabra University
-101.71629,2.991686,loc_251,Malaysia,South-Eastern Asia,Universiti Putra Malaysia
-101.7774225,2.929997,loc_252,Malaysia,South-Eastern Asia,National University of Malaysia
+101.71629,2.991686,loc_251,Malaysia,South East Asia,Universiti Putra Malaysia
+101.7774225,2.929997,loc_252,Malaysia,South East Asia,National University of Malaysia
 4.4102318,51.2228097,loc_253,Belgium,Western Europe,University of Antwerp
--81.2737336,43.0095971,loc_254,Canada,Northern America,University of Western Ontario
+-81.2737336,43.0095971,loc_254,Canada,North America,University of Western Ontario
 11.3838006,47.2633542,loc_255,Austria,Western Europe,University of Innsbruck
 2.1048538,41.5019255,loc_256,Spain,Southern Europe,Autonomous University of Barcelona
--117.3280644,33.9737055,loc_257,United States of America,Northern America,"University of California, Riverside"
--75.6831329,45.4231064,loc_258,Canada,Northern America,University of Ottawa
--1.224632,52.769227,loc_259,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Loughborough University
--2.9821428,56.4582447,loc_260,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Dundee
-35.480744,33.9008359,loc_261,Lebanon,Western Asia,American University of Beirut
+-117.3280644,33.9737055,loc_257,USA,North America,"University of California, Riverside"
+-75.6831329,45.4231064,loc_258,Canada,North America,University of Ottawa
+-1.224632,52.769227,loc_259,UK,Northern Europe,Loughborough University
+-2.9821428,56.4582447,loc_260,UK,Northern Europe,University of Dundee
+35.480744,33.9008359,loc_261,Lebanon,Middle East,American University of Beirut
 11.8774462,45.406766,loc_262,Italy,Southern Europe,University of Padua
 76.9219187,43.2252358,loc_263,Kazakhstan,Central Asia,Al-Farabi University
 6.8508709,52.2393971,loc_264,Netherlands,Western Europe,University of Twente
@@ -268,234 +268,234 @@ NA,NA,loc_246,Pakistan,Southern Asia,National University of Sciences And Technol
 150.87843,-34.4054039,loc_267,Australia,Australia and New Zealand,University of Wollongong
 6.9288192,50.9281625,loc_268,Germany,Western Europe,University of Cologne
 2.3432774,48.8484556,loc_269,France,Western Europe,Paris-Sorbonne University
-113.298883,23.0965384,loc_270,China,Eastern Asia,Sun Yat-sen University
+113.298883,23.0965384,loc_270,China,East Asia,Sun Yat-sen University
 153.028415,-27.477357,loc_271,Australia,Australia and New Zealand,Queensland University of Technology
--1.1246325,52.6211393,loc_272,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Leicester
-140.103652,36.1088237,loc_273,Japan,Eastern Asia,University of Tsukuba
-126.6334306,45.7470436,loc_274,China,Eastern Asia,Harbin Institute of Technology
+-1.1246325,52.6211393,loc_272,UK,Northern Europe,University of Leicester
+140.103652,36.1088237,loc_273,Japan,East Asia,University of Tsukuba
+126.6334306,45.7470436,loc_274,China,East Asia,Harbin Institute of Technology
 16.3515709,48.2203449,loc_275,Austria,Western Europe,Medical University of Vienna
--123.0726055,44.0448302,loc_276,United States of America,Northern America,University of Oregon
--122.6858606,45.4989098,loc_277,United States of America,Northern America,Oregon Health & Science University
--82.4138539,28.0587031,loc_278,United States of America,Northern America,University of South Florida
+-123.0726055,44.0448302,loc_276,USA,North America,University of Oregon
+-122.6858606,45.4989098,loc_277,USA,North America,Oregon Health & Science University
+-82.4138539,28.0587031,loc_278,USA,North America,University of South Florida
 17.6628688,59.814947,loc_279,Sweden,Northern Europe,Swedish University of Agricultural Sciences
--77.3119442,38.8314875,loc_280,United States of America,Northern America,George Mason University
--95.3422334,29.7199489,loc_281,United States of America,Northern America,University of Houston
--75.1899441,39.9566127,loc_282,United States of America,Northern America,Drexel University
+-77.3119442,38.8314875,loc_280,USA,North America,George Mason University
+-95.3422334,29.7199489,loc_281,USA,North America,University of Houston
+-75.1899441,39.9566127,loc_282,USA,North America,Drexel University
 4.8679611,45.7788727,loc_283,France,Western Europe,Claude Bernard University Lyon 1
--92.3277375,38.9403808,loc_284,United States of America,Northern America,University of Missouri
+-92.3277375,38.9403808,loc_284,USA,North America,University of Missouri
 7.6889006,45.069428,loc_285,Italy,Southern Europe,University of Turin
-39.104697,22.309465,loc_286,Saudi Arabia,Western Asia,King Abdullah University of Science and Technology
--0.1302803,51.5209007,loc_287,United Kingdom of Great Britain and Northern Ireland,Northern Europe,London School of Hygiene & Tropical Medicine
--79.946747,32.7844632,loc_288,United States of America,Northern America,Medical University of South Carolina
+39.104697,22.309465,loc_286,Saudi Arabia,Middle East,King Abdullah University of Science and Technology
+-0.1302803,51.5209007,loc_287,UK,Northern Europe,London School of Hygiene & Tropical Medicine
+-79.946747,32.7844632,loc_288,USA,North America,Medical University of South Carolina
 1.4700537,43.5619687,loc_289,France,Western Europe,Paul Sabatier University (Toulouse 3)
-120.651928,31.303257,loc_290,China,Eastern Asia,Soochow University
-113.344683,23.151326,loc_291,China,Eastern Asia,South China University of Technology
-118.79421,32.055981,loc_292,China,Eastern Asia,Southeast University
--98.5753521,29.5074654,loc_293,United States of America,Northern America,The University of Texas Health Science Center at San Antonio
--78.7889697,43.0008093,loc_294,United States of America,Northern America,"University at Buffalo, The State University of New York"
+120.651928,31.303257,loc_290,China,East Asia,Soochow University
+113.344683,23.151326,loc_291,China,East Asia,South China University of Technology
+118.79421,32.055981,loc_292,China,East Asia,Southeast University
+-98.5753521,29.5074654,loc_293,USA,North America,The University of Texas Health Science Center at San Antonio
+-78.7889697,43.0008093,loc_294,USA,North America,"University at Buffalo, The State University of New York"
 20.4575676,44.8184339,loc_295,Serbia,Southern Europe,University of Belgrade
 -3.6006329,37.1846223,loc_296,Spain,Southern Europe,University of Granada
--87.6474502,41.8693039,loc_297,United States of America,Northern America,University of Illinois at Chicago
+-87.6474502,41.8693039,loc_297,USA,North America,University of Illinois at Chicago
 6.1764664,48.6962743,loc_298,France,Western Europe,University of Lorraine
--77.4509718,37.5495048,loc_299,United States of America,Northern America,Virginia Commonwealth University
+-77.4509718,37.5495048,loc_299,USA,North America,Virginia Commonwealth University
 170.5144227,-45.8646835,loc_300,New Zealand,Australia and New Zealand,University of Otago
-103.6381827,1.55849,loc_301,Malaysia,South-Eastern Asia,University of Technology Malaysia
-116.3662615,39.9619537,loc_302,China,Eastern Asia,Beijing Normal University
+103.6381827,1.55849,loc_301,Malaysia,South East Asia,University of Technology Malaysia
+116.3662615,39.9619537,loc_302,China,East Asia,Beijing Normal University
 -74.0840464,4.6381938,loc_303,Colombia,South America,National University of Colombia
 8.6677635,50.1270675,loc_304,Germany,Western Europe,Goethe University Frankfurt
 2.2112917,48.7142971,loc_305,France,Western Europe,Ecole Polytechnique
 -74.0664457,4.6014855,loc_306,Colombia,South America,University of the Andes
 8.4622333,49.4837106,loc_307,Germany,Western Europe,University of Mannheim
--78.6820946,35.7846633,loc_308,United States of America,Northern America,North Carolina State University
--111.8421021,40.7649368,loc_309,United States of America,Northern America,University of Utah
+-78.6820946,35.7846633,loc_308,USA,North America,North Carolina State University
+-111.8421021,40.7649368,loc_309,USA,North America,University of Utah
 24.827682,60.1866693,loc_310,Finland,Northern Europe,Aalto University
 -6.2236395,53.3082648,loc_311,Ireland,Northern Europe,University College Dublin
--71.0891717,42.3398067,loc_312,United States of America,Northern America,Northeastern University
+-71.0891717,42.3398067,loc_312,USA,North America,Northeastern University
 151.2004942,-33.8832376,loc_313,Australia,Australia and New Zealand,University of Technology Sydney
-80.2420012,13.0052137,loc_314,India,Southern Asia,Indian Institute of Technology Madras
-121.5406792,25.0136906,loc_315,"Taiwan, Province of China",Eastern Asia,National Taiwan University of Science and Technology
-114.3643219,30.5360485,loc_316,China,Eastern Asia,Wuhan University
+80.2420012,13.0052137,loc_314,India,South Asia,Indian Institute of Technology Madras
+121.5406792,25.0136906,loc_315,"Taiwan, Province of China",East Asia,National Taiwan University of Science and Technology
+114.3643219,30.5360485,loc_316,China,East Asia,Wuhan University
 -3.6943619,40.5466983,loc_317,Spain,Southern Europe,Autonomous University of Madrid
 15.5760072,58.3978364,loc_318,Sweden,Northern Europe,Linköping University
 2.344468,48.8469373,loc_319,France,Western Europe,Pantheon-Sorbonne University
 2.587983,48.841069,loc_320,France,Western Europe,Ecole des Ponts ParisTech
 -1.6597295,42.8014859,loc_321,Spain,Southern Europe,University of Navarre
-77.5671423,13.0218597,loc_322,India,Southern Asia,Indian Institute of Science
+77.5671423,13.0218597,loc_322,India,South Asia,Indian Institute of Science
 5.358066,43.293621,loc_323,France,Western Europe,Aix-Marseille University
-1.2391761,52.6219215,loc_324,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of East Anglia
-139.7429376,35.6489643,loc_325,Japan,Eastern Asia,Keio University
+1.2391761,52.6219215,loc_324,UK,Northern Europe,University of East Anglia
+139.7429376,35.6489643,loc_325,Japan,East Asia,Keio University
 144.3596982,-38.1435006,loc_326,Australia,Australia and New Zealand,Deakin University
 2.1132804,41.388004,loc_327,Spain,Southern Europe,Polytechnic University of Catalonia
 9.9708462,49.7830083,loc_328,Germany,Western Europe,University of Würzburg
 -70.6509277,-33.4445204,loc_329,Chile,South America,University of Chile
 5.0419736,51.5631406,loc_330,Netherlands,Western Europe,Tilburg University
-106.8270482,-6.3627638,loc_331,Indonesia,South-Eastern Asia,Universitas Indonesia
--4.2428535,55.8628285,loc_332,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Strathclyde
-120.999263,24.789067,loc_333,"Taiwan, Province of China",Eastern Asia,National Chiao Tung University
+106.8270482,-6.3627638,loc_331,Indonesia,South East Asia,Universitas Indonesia
+-4.2428535,55.8628285,loc_332,UK,Northern Europe,University of Strathclyde
+120.999263,24.789067,loc_333,"Taiwan, Province of China",East Asia,National Chiao Tung University
 138.6066669,-34.9201652,loc_334,Australia,Australia and New Zealand,University of South Australia
 -3.7270795,40.316966,loc_335,Spain,Southern Europe,Carlos III University of Madrid
 147.3247697,-42.9041217,loc_336,Australia,Australia and New Zealand,University of Tasmania
 14.4234889,50.0871106,loc_337,Czech Republic,Eastern Europe,Charles University in Prague
 -8.4932737,51.8921099,loc_338,Ireland,Northern Europe,University College Cork
 174.7686615,-41.2904017,loc_339,New Zealand,Australia and New Zealand,Victoria University of Wellington
-120.217172,22.9988083,loc_340,"Taiwan, Province of China",Eastern Asia,National Cheng Kung University
+120.217172,22.9988083,loc_340,"Taiwan, Province of China",East Asia,National Cheng Kung University
 151.7041775,-32.8927718,loc_341,Australia,Australia and New Zealand,"The University of Newcastle, Australia"
 9.1945843,45.4601435,loc_342,Italy,Southern Europe,University of Milan
--73.9288728,40.8503116,loc_343,United States of America,Northern America,The Katz School at Yeshiva University
-121.5275321,25.0260598,loc_344,"Taiwan, Province of China",Eastern Asia,National Taiwan Normal University
+-73.9288728,40.8503116,loc_343,USA,North America,The Katz School at Yeshiva University
+121.5275321,25.0260598,loc_344,"Taiwan, Province of China",East Asia,National Taiwan Normal University
 37.6855946,55.7659244,loc_345,Russian Federation,Eastern Europe,Bauman Moscow State Technical University
 -3.7285872,40.4478246,loc_346,Spain,Southern Europe,Complutense University of Madrid
 175.3184579,-37.7868611,loc_347,New Zealand,Australia and New Zealand,University of Waikato
-80.2329,26.5123388,loc_348,India,Southern Asia,Indian Institute of Technology Kanpur
+80.2329,26.5123388,loc_348,India,South Asia,Indian Institute of Technology Kanpur
 -70.6407933,-33.4411279,loc_349,Chile,South America,Pontificia Universidad Católica de Chile
 30.2989199,59.941894,loc_350,Russian Federation,Eastern Europe,Saint Petersburg State University
 11.5898195,50.9295513,loc_351,Germany,Western Europe,University of Jena
--157.8171118,21.296939,loc_352,United States of America,Northern America,University of Hawai'i at Mañoa
--0.129259,51.52235,loc_353,United Kingdom of Great Britain and Northern Ireland,Northern Europe,"SOAS, University of London"
+-157.8171118,21.296939,loc_352,USA,North America,University of Hawai'i at Mañoa
+-0.129259,51.52235,loc_353,UK,Northern Europe,"SOAS, University of London"
 -9.0614864,53.2770243,loc_354,Ireland,Northern Europe,NUI Galway
-108.983693,34.250803,loc_355,China,Eastern Asia,Xi'an Jiaotong University
-114.1818597,22.3380838,loc_356,Hong Kong,Eastern Asia,Hong Kong Baptist University
--75.7506114,39.6779504,loc_357,United States of America,Northern America,University of Delaware
--91.5548998,41.6626963,loc_358,United States of America,Northern America,University of Iowa
+108.983693,34.250803,loc_355,China,East Asia,Xi'an Jiaotong University
+114.1818597,22.3380838,loc_356,Hong Kong,East Asia,Hong Kong Baptist University
+-75.7506114,39.6779504,loc_357,USA,North America,University of Delaware
+-91.5548998,41.6626963,loc_358,USA,North America,University of Iowa
 9.955582,48.4222305,loc_359,Germany,Western Europe,University of Ulm
 9.1724985,48.7816472,loc_360,Germany,Western Europe,University of Stuttgart
 10.1147022,54.3460549,loc_361,Germany,Western Europe,University of Kiel
 7.662203,45.0624921,loc_362,Italy,Southern Europe,Politecnico di Torino
--0.5905421,51.2421839,loc_363,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Surrey
+-0.5905421,51.2421839,loc_363,UK,Northern Europe,University of Surrey
 28.0302973,-26.190508,loc_364,South Africa,Southern Africa,University of the Witwatersrand
--0.130462,51.521975,loc_365,United Kingdom of Great Britain and Northern Ireland,Northern Europe,"Birkbeck, University of London"
-87.3105311,22.3149274,loc_366,India,Southern Asia,Indian Institute of Technology Kharagpur
--123.2794443,44.5637806,loc_367,United States of America,Northern America,Oregon State University
+-0.130462,51.521975,loc_365,UK,Northern Europe,"Birkbeck, University of London"
+87.3105311,22.3149274,loc_366,India,South Asia,Indian Institute of Technology Kharagpur
+-123.2794443,44.5637806,loc_367,USA,North America,Oregon State University
 2.340761,48.851251,loc_368,France,Western Europe,Paris Descartes University - Sorbonne Paris Cité
-50.1498042,26.3048047,loc_369,Saudi Arabia,Western Asia,King Fahd University of Petroleum and Minerals
--63.5916555,44.6365812,loc_370,Canada,Northern America,Dalhousie University
+50.1498042,26.3048047,loc_369,Saudi Arabia,Middle East,King Fahd University of Petroleum and Minerals
+-63.5916555,44.6365812,loc_370,Canada,North America,Dalhousie University
 9.9818527,57.0145665,loc_371,Denmark,Northern Europe,Aalborg University
 3.8634485,43.6316206,loc_372,France,Western Europe,University of Montpellier
 174.7027411,-36.7323894,loc_373,New Zealand,Australia and New Zealand,Massey University
-121.5074,31.2853,loc_374,China,Eastern Asia,Tongji University
+121.5074,31.2853,loc_374,China,East Asia,Tongji University
 16.3684626,48.1986546,loc_375,Austria,Western Europe,TU Wien
 -47.0647206,-22.8184393,loc_376,Brazil,South America,Universidade Estadual de Campinas
--73.1233889,40.9123761,loc_377,United States of America,Northern America,Stony Brook University
--78.8182506,42.9533594,loc_378,United States of America,Northern America,"University at Buffalo, The State University of New York"
--94.5760259,39.0335539,loc_379,United States of America,Northern America,University of Missouri–Kansas City
+-73.1233889,40.9123761,loc_377,USA,North America,Stony Brook University
+-78.8182506,42.9533594,loc_378,USA,North America,"University at Buffalo, The State University of New York"
+-94.5760259,39.0335539,loc_379,USA,North America,University of Missouri–Kansas City
 172.4677741,-43.6436854,loc_380,New Zealand,Australia and New Zealand,Lincoln University
 84.9478675,56.4694917,loc_381,Russian Federation,Eastern Europe,Tomsk State University
 8.2415552,49.9926403,loc_382,Germany,Western Europe,Johannes Gutenberg University Mainz
 -8.6156998,41.1465479,loc_383,Portugal,Southern Europe,University of Porto
 7.2616093,51.4456659,loc_384,Germany,Western Europe,Ruhr University Bochum
-121.513702,25.123002,loc_385,"Taiwan, Province of China",Eastern Asia,National Yang-Ming University
+121.513702,25.123002,loc_385,"Taiwan, Province of China",East Asia,National Yang-Ming University
 2.3272147,48.7887191,loc_386,France,Western Europe,Ecole Normale Supérieure de Cachan
 -43.1753638,-22.9541412,loc_387,Brazil,South America,Federal University of Rio de Janeiro
-107.6106591,-6.89148,loc_388,Indonesia,South-Eastern Asia,Institut Teknologi Bandung
+107.6106591,-6.89148,loc_388,Indonesia,South East Asia,Institut Teknologi Bandung
 -73.2516591,-39.8061639,loc_389,Argentina,South America,Southern University of Chile
 172.5839233,-43.5235375,loc_390,New Zealand,Australia and New Zealand,University of Canterbury
 26.7198659,58.3810843,loc_391,Estonia,Northern Europe,University of Tartu
 27.5460609,53.8938988,loc_392,Belarus,Eastern Europe,Belarusian State University
-100.3234171,13.7945775,loc_393,Thailand,South-Eastern Asia,Mahidol University
+100.3234171,13.7945775,loc_393,Thailand,South East Asia,Mahidol University
 5.559064,50.5830803,loc_394,Belgium,Western Europe,University of Liège
 71.4648566,51.160307,loc_395,Kazakhstan,Central Asia,L.N. Gumilyov Eurasian National University
-132.714908,34.403123,loc_396,Japan,Eastern Asia,Hiroshima University
+132.714908,34.403123,loc_396,Japan,East Asia,Hiroshima University
 -58.443664,-34.564198,loc_397,Argentina,South America,University of Belgrano
 153.0532585,-27.5550897,loc_398,Australia,Australia and New Zealand,Griffith University
--83.3773221,33.9480053,loc_399,United States of America,Northern America,The University of Georgia
+-83.3773221,33.9480053,loc_399,USA,North America,The University of Georgia
 10.3988593,43.7167235,loc_400,Italy,Southern Europe,University of Pisa
--96.7500993,32.9857619,loc_401,United States of America,Northern America,University of Texas at Dallas
--71.1664609,42.3351179,loc_402,United States of America,Northern America,Boston College
-126.8407202,35.2272692,loc_403,Republic of Korea,Eastern Asia,Gwangju Institute of Science and Technology
--0.1025445,51.5278249,loc_404,United Kingdom of Great Britain and Northern Ireland,Northern Europe,"City, University of London"
--84.2984889,30.4418778,loc_405,United States of America,Northern America,Florida State University
+-96.7500993,32.9857619,loc_401,USA,North America,University of Texas at Dallas
+-71.1664609,42.3351179,loc_402,USA,North America,Boston College
+126.8407202,35.2272692,loc_403,Republic of Korea,East Asia,Gwangju Institute of Science and Technology
+-0.1025445,51.5278249,loc_404,UK,Northern Europe,"City, University of London"
+-84.2984889,30.4418778,loc_405,USA,North America,Florida State University
 20.3036711,63.8205484,loc_406,Sweden,Northern Europe,Umeå University
-0.9472069,51.8777259,loc_407,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Essex
-117.1742232,39.1039443,loc_408,China,Eastern Asia,Nankai University
-100.5276142,13.7390072,loc_409,Thailand,South-Eastern Asia,Chulalongkorn University
--122.9198833,49.2780937,loc_410,Canada,Northern America,Simon Fraser University
--123.3116935,48.4634067,loc_411,Canada,Northern America,University of Victoria
+0.9472069,51.8777259,loc_407,UK,Northern Europe,University of Essex
+117.1742232,39.1039443,loc_408,China,East Asia,Nankai University
+100.5276142,13.7390072,loc_409,Thailand,South East Asia,Chulalongkorn University
+-122.9198833,49.2780937,loc_410,Canada,North America,Simon Fraser University
+-123.3116935,48.4634067,loc_411,Canada,North America,University of Victoria
 144.9642263,-37.8079933,loc_412,Australia,Australia and New Zealand,RMIT University
-51.4876252,25.376743,loc_413,Qatar,Western Asia,Qatar University
-114.89397,4.972665,loc_414,Brunei Darussalam,South-Eastern Asia,Universiti Brunei Darussalam
+51.4876252,25.376743,loc_413,Qatar,Middle East,Qatar University
+114.89397,4.972665,loc_414,Brunei Darussalam,South East Asia,Universiti Brunei Darussalam
 83.0943884,54.8477462,loc_415,Russian Federation,Eastern Europe,Novosibirsk State University
--84.5149504,39.1329219,loc_416,United States of America,Northern America,University of Cincinnati
+-84.5149504,39.1329219,loc_416,USA,North America,University of Cincinnati
 9.1561041,45.1867156,loc_417,Italy,Southern Europe,University of Pavia
--81.0274276,33.996112,loc_418,United States of America,Northern America,University of South Carolina
--75.1553512,39.9811935,loc_419,United States of America,Northern America,Temple University
--73.1964637,44.4778528,loc_420,United States of America,Northern America,University of Vermont
--97.1366259,49.8075008,loc_421,Canada,Northern America,University of Manitoba
+-81.0274276,33.996112,loc_418,USA,North America,University of South Carolina
+-75.1553512,39.9811935,loc_419,USA,North America,Temple University
+-73.1964637,44.4778528,loc_420,USA,North America,University of Vermont
+-97.1366259,49.8075008,loc_421,Canada,North America,University of Manitoba
 9.213452,45.518383,loc_422,Italy,Southern Europe,University of Milan-Bicocca
--90.2338232,38.6354598,loc_423,United States of America,Northern America,Saint Louis University
-121.212046,31.282196,loc_424,China,Eastern Asia,Tongji University
+-90.2338232,38.6354598,loc_423,USA,North America,Saint Louis University
+121.212046,31.282196,loc_424,China,East Asia,Tongji University
 150.7933263,-34.069638,loc_425,Australia,Australia and New Zealand,Western Sydney University
-116.3411331,39.9828034,loc_426,China,Eastern Asia,Beihang University
--71.1684945,42.3355488,loc_427,United States of America,Northern America,Boston College
--111.6493156,40.2518435,loc_428,United States of America,Northern America,Brigham Young University
-116.352916,39.865177,loc_429,China,Eastern Asia,Capital Medical University
-112.93251,28.16437,loc_430,China,Eastern Asia,Central South University
-121.3901211,25.0309866,loc_431,China,Eastern Asia,Chang Gung University
-140.1033682,35.6277374,loc_432,Japan,Eastern Asia,Chiba University
-114.401673,30.518151,loc_433,China,Eastern Asia,China University of Geosciences (Wuhan)
-121.529021,38.880381,loc_434,China,Eastern Asia,Dalian University of Technology
-121.425248,31.140897,loc_435,China,Eastern Asia,East China University of Science and Technology
+116.3411331,39.9828034,loc_426,China,East Asia,Beihang University
+-71.1684945,42.3355488,loc_427,USA,North America,Boston College
+-111.6493156,40.2518435,loc_428,USA,North America,Brigham Young University
+116.352916,39.865177,loc_429,China,East Asia,Capital Medical University
+112.93251,28.16437,loc_430,China,East Asia,Central South University
+121.3901211,25.0309866,loc_431,China,East Asia,Chang Gung University
+140.1033682,35.6277374,loc_432,Japan,East Asia,Chiba University
+114.401673,30.518151,loc_433,China,East Asia,China University of Geosciences (Wuhan)
+121.529021,38.880381,loc_434,China,East Asia,Dalian University of Technology
+121.425248,31.140897,loc_435,China,East Asia,East China University of Science and Technology
 2.347206,48.841427,loc_436,France,Western Europe,ESPCI ParisTech
 9.805953,52.384053,loc_437,Germany,Western Europe,Hannover Medical School
-112.94395,28.178915,loc_438,China,Eastern Asia,Hunan University
--86.1763393,39.7738832,loc_439,United States of America,Northern America,Indiana University – Purdue University Indianapolis
-103.8585624,36.0477699,loc_440,China,Eastern Asia,Lanzhou University
--91.1800023,30.4132579,loc_441,United States of America,Northern America,Louisiana State University
+112.94395,28.178915,loc_438,China,East Asia,Hunan University
+-86.1763393,39.7738832,loc_439,USA,North America,Indiana University – Purdue University Indianapolis
+103.8585624,36.0477699,loc_440,China,East Asia,Lanzhou University
+-91.1800023,30.4132579,loc_441,USA,North America,Louisiana State University
 23.7786871,37.968196,loc_442,Greece,Southern Europe,National and Kapodistrian University of Athens
-120.335301,36.061255,loc_443,China,Eastern Asia,Ocean University of China
-133.9222225,34.6873868,loc_444,Japan,Eastern Asia,Okayama University
-117.029014,36.64893,loc_445,China,Eastern Asia,Shandong University
--95.4030452,29.7034179,loc_446,United States of America,Northern America,The University of Texas Health Science Center at Houston
--81.2000599,28.6024274,loc_447,United States of America,Northern America,University of Central Florida
+120.335301,36.061255,loc_443,China,East Asia,Ocean University of China
+133.9222225,34.6873868,loc_444,Japan,East Asia,Okayama University
+117.029014,36.64893,loc_445,China,East Asia,Shandong University
+-95.4030452,29.7034179,loc_446,USA,North America,The University of Texas Health Science Center at Houston
+-81.2000599,28.6024274,loc_447,USA,North America,University of Central Florida
 6.794503,51.1888113,loc_448,Germany,Western Europe,University of Duesseldorf
--84.5039697,38.0306511,loc_449,United States of America,Northern America,University of Kentucky
--97.1525862,33.207488,loc_450,United States of America,Northern America,University of North Texas
+-84.5039697,38.0306511,loc_449,USA,North America,University of Kentucky
+-97.1525862,33.207488,loc_450,USA,North America,University of North Texas
 -8.5449726,42.8885225,loc_451,Spain,Southern Europe,University of Santiago de Compostela
-51.3957307,35.7022192,loc_452,Iran (Islamic Republic of),Southern Asia,University of Tehran
+51.3957307,35.7022192,loc_452,Iran (Islamic Republic of),South Asia,University of Tehran
 1.4371122,43.6067724,loc_453,France,Western Europe,Toulouse 1 University Capitole
--77.0485992,38.8997145,loc_454,United States of America,Northern America,George Washington University
+-77.0485992,38.8997145,loc_454,USA,North America,George Washington University
 2.273451,48.870029,loc_455,France,Western Europe,"Université Paris-Dauphine, PSL Research University"
--83.9294564,35.9544013,loc_456,United States of America,Northern America,University of Tennessee
-127.052544,37.5961951,loc_457,Republic of Korea,Eastern Asia,Kyung Hee University
+-83.9294564,35.9544013,loc_456,USA,North America,University of Tennessee
+127.052544,37.5961951,loc_457,Republic of Korea,East Asia,Kyung Hee University
 37.5199434,55.9297243,loc_458,Russian Federation,Eastern Europe,Moscow Institute of Physics and Technology
 145.048414,-37.7206671,loc_459,Australia,Australia and New Zealand,La Trobe University
 25.7316336,62.2365317,loc_460,Finland,Northern Europe,University of Jyväskylä
-100.3025177,5.3559337,loc_461,Malaysia,South-Eastern Asia,University of Science Malaysia
+100.3025177,5.3559337,loc_461,Malaysia,South East Asia,University of Science Malaysia
 146.7572865,-19.326378,loc_462,Australia,Australia and New Zealand,James Cook University
--80.4234167,37.2283843,loc_463,United States of America,Northern America,Virginia Tech
--1.224225,51.755011,loc_464,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Oxford Brookes University
+-80.4234167,37.2283843,loc_463,USA,North America,Virginia Tech
+-1.224225,51.755011,loc_464,UK,Northern Europe,Oxford Brookes University
 -9.160333,38.733682,loc_465,Portugal,Southern Europe,Universidade Nova de Lisboa
 8.65614,49.874778,loc_466,Germany,Western Europe,Technische Universität Darmstadt
-114.406972,30.510616,loc_467,China,Eastern Asia,Huazhong University of Science and Technology
--93.6464654,42.0266187,loc_468,United States of America,Northern America,Iowa State University
+114.406972,30.510616,loc_467,China,East Asia,Huazhong University of Science and Technology
+-93.6464654,42.0266187,loc_468,USA,North America,Iowa State University
 22.2851138,60.4562974,loc_469,Finland,Northern Europe,University of Turku
 -58.3661389,-34.612809,loc_470,Argentina,South America,Pontifical Catholic University of Argentina
--73.678803,42.730172,loc_471,United States of America,Northern America,Rensselaer Polytechnic Institute
--71.2747424,46.7817463,loc_472,Canada,Northern America,Laval University
-139.764451,35.7012897,loc_473,Japan,Eastern Asia,Tokyo Medical and Dental University
-121.0107556,14.5979292,loc_474,Philippines,South-Eastern Asia,University of the Philippines
+-73.678803,42.730172,loc_471,USA,North America,Rensselaer Polytechnic Institute
+-71.2747424,46.7817463,loc_472,Canada,North America,Laval University
+139.764451,35.7012897,loc_473,Japan,East Asia,Tokyo Medical and Dental University
+121.0107556,14.5979292,loc_474,Philippines,South East Asia,University of the Philippines
 18.9710079,69.679788,loc_475,Norway,Northern Europe,University of Tromsø
 10.4282364,55.3689827,loc_476,Denmark,Northern Europe,University of Southern Denmark
--105.0865473,40.573436,loc_477,United States of America,Northern America,Colorado State University
+-105.0865473,40.573436,loc_477,USA,North America,Colorado State University
 9.3755673,47.4321575,loc_478,Switzerland,Western Europe,University of St.Gallen
--105.0023325,39.7463895,loc_479,United States of America,Northern America,University of Colorado Denver
--1.8882174,52.4868584,loc_480,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Aston University
+-105.0023325,39.7463895,loc_479,USA,North America,University of Colorado Denver
+-1.8882174,52.4868584,loc_480,UK,Northern Europe,Aston University
 37.4846619,55.6728244,loc_481,Russian Federation,Eastern Europe,Moscow State Institute of International Relations
 37.6638742,55.649567,loc_482,Russian Federation,Eastern Europe,National Research Nuclear University
-1.0682493,51.2968974,loc_483,United Kingdom of Great Britain and Northern Ireland,Northern Europe,University of Kent
-126.9468294,37.5618577,loc_484,Republic of Korea,Eastern Asia,Ewha Womans University
+1.0682493,51.2968974,loc_483,UK,Northern Europe,University of Kent
+126.9468294,37.5618577,loc_484,Republic of Korea,East Asia,Ewha Womans University
 23.8586408,61.4497952,loc_485,Finland,Northern Europe,Tampere University of Technology
--3.3203494,55.9096602,loc_486,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Heriot-Watt University
+-3.3203494,55.9096602,loc_486,UK,Northern Europe,Heriot-Watt University
 44.0672315,56.3173389,loc_487,Russian Federation,Eastern Europe,National Research University – Higher School of Economics
--71.258663,42.364989,loc_488,United States of America,Northern America,Brandeis University
+-71.258663,42.364989,loc_488,USA,North America,Brandeis University
 21.0186012,52.2403463,loc_489,Poland,Eastern Europe,University of Warsaw
 84.9496823,56.4652485,loc_490,Russian Federation,Eastern Europe,National Research Tomsk Polytechnic University
-120.265843,22.6264249,loc_491,"Taiwan, Province of China",Eastern Asia,National Sun Yat-sen University
+120.265843,22.6264249,loc_491,"Taiwan, Province of China",East Asia,National Sun Yat-sen University
 145.0389546,-37.8221504,loc_492,Australia,Australia and New Zealand,Swinburne University of Technology
--72.2539805,41.8077414,loc_493,United States of America,Northern America,University of Connecticut
-55.676034,24.200588,loc_494,United Arab Emirates,Western Asia,United Arab Emirates University
+-72.2539805,41.8077414,loc_493,USA,North America,University of Connecticut
+55.676034,24.200588,loc_494,United Arab Emirates,Middle East,United Arab Emirates University
 -6.2567865,53.385062,loc_495,Ireland,Northern Europe,Dublin City University
-121.1925163,24.9694808,loc_496,"Taiwan, Province of China",Eastern Asia,National Central University
-118.097855,24.4373484,loc_497,China,Eastern Asia,Xiamen University
-31.499674,30.018923,loc_498,Egypt,Northern Africa,The American University in Cairo
--87.6270059,41.8348731,loc_499,United States of America,Northern America,Illinois Institute of Technology
-127.057843,37.597319,loc_500,Republic of Korea,Eastern Asia,HUFS - Hankuk (Korea) University of Foreign Studies
+121.1925163,24.9694808,loc_496,"Taiwan, Province of China",East Asia,National Central University
+118.097855,24.4373484,loc_497,China,East Asia,Xiamen University
+31.499674,30.018923,loc_498,Egypt,North Africa,The American University in Cairo
+-87.6270059,41.8348731,loc_499,USA,North America,Illinois Institute of Technology
+127.057843,37.597319,loc_500,Republic of Korea,East Asia,HUFS - Hankuk (Korea) University of Foreign Studies

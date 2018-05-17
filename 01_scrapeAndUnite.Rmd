@@ -53,6 +53,7 @@ library(swiTheme)
 ### Getting data in packages
 library(rvest)
 library(skimr)
+library(readxl)
 ```
 
 
@@ -372,8 +373,13 @@ threeRtop %>% filter(nonNA3R > 0) %>% head(20)
 
 ```
 
-```{r explore merged data}
-threeRtop <- read_csv("data/threeRanking_merged_post.csv") %>% 
+
+```{r export data}
+threeRtop <- read_csv("data/threeRanking_merged_post.csv")
+# # UCL fix
+threeRtop[which(threeRtop$name == 'UCL'),'ti_rank'] <- 16
+
+threeRtop %<>% 
    mutate(
     sum3R = ifelse(is.na(qs_rank), 0, qs_rank)  + ifelse(is.na(ti_rank), 0, ti_rank)  + ifelse(is.na(sh_rank), 0, sh_rank),
     nonNA3R = is.na(qs_rank) + is.na(ti_rank) + is.na(sh_rank),
@@ -393,14 +399,57 @@ threeRtop %<>%
     rankGroup = cut(rank, breaks = c(0, 50, 100, 200, 300, 400, 500), 
                     labels = c(' 0-50', ' 50-100', '100-200', '200-300', '300-400', '400-500'))
   ) %>% 
-  select(-sum3R, -nonNA3R, -qs_key, -ti_key, -sh_key)
-  
+  select(-sum3R, -nonNA3R, -qs_key, -ti_key, -sh_key) %>% 
+  # rename region
+  mutate(
+    region = case_when(
+      region == 'Eastern Asia' ~ 'East Asia',
+      region == 'Northern Africa' ~ 'North Africa',
+      region == 'Northern America' ~ 'North America',
+      region == 'South-Eastern Asia' ~ 'South East Asia' ,
+      region == 'Southern Asia' ~ 'South Asia' ,
+      region == 'Western Asia' ~ 'Middle East',
+      T ~ region
+    ),
+    country = case_when(
+      country == 'United States of America' ~ 'USA',
+      country == 'United Kingdom of Great Britain and Northern Ireland' ~ 'UK',
+      T ~ country
+    )
+  )
 
-threeRtop %>% 
-  head(500) %>% 
+threeRtop_500 <- threeRtop %>% 
+  head(500) 
+
+# flourish export
+threeRtop_500 %>% 
   mutate(keylocation = str_c("loc_", 1:n())) %>% 
-  select(-lon, -lat) %>% 
+  select(-lon, -lat)  %>% 
   write_csv("input/threeRtop500.csv", na ='')
+# flourish geo lon lat data file
+threeRtop_500 %>% 
+  mutate(keylocation = str_c("loc_", 1:n())) %>% 
+  select(lon, lat, keylocation, country, region, name) %>% 
+  write_csv("input/threeRtop500_lonLat.csv")
+
+# DW export table
+threeRtop_500 %>% 
+  write_csv("input/threeRtop500_dw.csv", na = '-')
+
+# DW export map
+threeRtop_500 %>% 
+  select(lat, lon, everything(), -continent, -region, -intRank, -rankGroup) %>% 
+  filter(!is.na(lon)) ->
+threeRtop_500_map  
+
+bind_cols(
+  threeRtop_500_map,
+  countryTranslation(threeRtop_500_map$iso2, output = c("EN", "DE", "FR", "IT", "ES", "PT","RU", "ZH", "JA","AR"))
+) %>% 
+  select(-country, -iso2, -code) %>% 
+  mutate(rank = formatC(rank, digits = 2) %>% as.numeric()) %>% 
+  arrange(desc(rank)) %>% 
+  write_csv("input/threeRtop500_dwMap.csv", na = '-')
 
 # make it long
 threeRtop %>% 
@@ -417,12 +466,22 @@ threeRtop %>%
   )) %>% 
   write_csv("input/threeRtop50_long.csv", na ='')
 
+## from the excel file with the fees get the country names for DW
+rankFees <- read_xlsx("input/University fees.xlsx") %>% 
+  select(-country, -Column1, -Column2, -continent, -intRank, -rankGroup) %>% 
+  mutate(rank = formatC(rank, digits = 2) %>% as.numeric())
 
-threeRtop %>% 
-  head(500) %>% 
-  mutate(keylocation = str_c("loc_", 1:n())) %>% 
-  select(lon, lat, keylocation, country, region, name) %>% 
-  write_csv("input/threeRtop500_lonLat.csv")
+bind_cols(
+  rankFees,
+  countryTranslation(rankFees$iso2, output = c("EN", "DE", "FR", "IT", "ES", "PT","RU", "ZH", "JA","AR"))
+) %>% 
+  select(-code, -iso2) %>% 
+  mutate(rank = formatC(rank, digits = 2) %>% as.numeric()) %>% 
+  select(name, rank, Fees, qs_rank, ti_rank, sh_rank, everything()) %>% 
+  write_csv("input/threeRtop50_fees_dw.csv", na = '-')
+
+
+
 ```
 
 
